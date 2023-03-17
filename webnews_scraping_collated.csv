@@ -1,0 +1,921 @@
+rank,datetime,story,url,index,pos,neg,neu,comp,source
+1,18:12.5,Tributes to three killed in crash after night out,https://www.bbc.co.uk/news/uk-wales-64867187,0,0.113,0.097,0.79,0.9825,BBC
+2,18:12.5,Football fan dies after post-match brawl at pub,https://www.bbc.co.uk/news/uk-england-lancashire-64861231,1,0.123,0.157,0.72,-0.9387,BBC
+3,18:12.5,Wagner boss suggests 'betrayal' in Bakhmut battle,https://www.bbc.co.uk/news/world-europe-64859780,2,0.085,0.128,0.787,-0.9905,BBC
+4,18:12.5,"Bronson would not cope with release, panel told",https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-64861518,3,0.071,0.125,0.804,-0.9941,BBC
+5,18:12.5,Snow and ice warnings extended to more parts of UK,https://www.bbc.co.uk/news/uk-64848688,4,0.035,0.063,0.902,-0.8784,BBC
+6,18:12.5,Iran suspected poisonings unforgivable - Khamenei,https://www.bbc.co.uk/news/world-middle-east-64862714,5,0.039,0.224,0.737,-0.9988,BBC
+7,18:12.5,Twitter links and posting images down,https://www.bbc.co.uk/news/technology-64863450,6,0,0.18,0.82,-0.9442,BBC
+8,18:12.5,China's new human gene-editing rules worry experts,https://www.bbc.co.uk/news/science-environment-64857311,7,0.05,0.063,0.886,-0.9286,BBC
+9,18:12.5,GB News host's Covid jab claims broke Ofcom rules,https://www.bbc.co.uk/news/entertainment-arts-64862979,8,0.082,0.061,0.856,0.8533,BBC
+10,18:12.5,Outrage as hundreds of new trainers found in skip,https://www.bbc.co.uk/news/uk-england-cumbria-64855222,9,0.025,0.07,0.905,-0.9452,BBC
+1,18:18.4,"Pictured: Three victims of horror Cardiff crash including 21-year-old beautician, son of ex-QPR footballer and star of Sky reality show - as two fight for their lives
+",https://www.dailymail.co.uk/news/article-11825387/Pictured-Scene-three-young-revellers-died-two-left-fighting-lives.html,0,0.085,0.131,0.784,-0.9985,Daily Mail
+2,18:18.4,"Three bodies are found in hunt for three women and two men who went missing after night out - while two are taken to hospital with serious injuries: Police say car they were traveling in was involved in accident 
+",https://www.dailymail.co.uk/news/article-11823191/Three-women-aged-20-two-men-missing-second-day-night-bar-Newport.html,1,0.037,0.086,0.877,-0.9916,Daily Mail
+3,18:18.4,"Three people are found dead in hunt for five missing for 48 hours in South Wales after 'car crash': Two are rushed to hospital with serious injuries after police launched hunt for three women and two men who disappeared following night out 
+",https://www.dailymail.co.uk/news/article-11824991/Three-people-dead-hunt-five-missing-people-South-Wales-car-crash.html,2,0.043,0.094,0.863,-0.9957,Daily Mail
+4,18:18.4,"Duke and Duchess of Sussex have an 'acute dilemma' over Charles' coronation: Despite still wanting an apology and being evicted from Frogmore Cottage, Harry and Meghan 'won't dare stay away' because it will make them appear irrelevant' expert warns 
+",https://www.dailymail.co.uk/news/article-11822917/Charles-spotted-time-emerged-Harry-Meghan-invited-Coronation.html,3,0.063,0.08,0.857,-0.986,Daily Mail
+5,18:18.4,"EXCLUSIVE 'I cheated death': Neil 'Razor' Ruddock sheds seven stone after being inspired to have gastric sleeve surgery by James Argent when his weight ballooned to 27 stone
+",https://www.dailymail.co.uk/tvshowbiz/article-11825593/Neil-Ruddock-sheds-seven-stone-inspired-gastric-sleeve-surgery-James-Argent.html,4,0.092,0.066,0.841,0.953,Daily Mail
+6,18:18.4,"Sam Fox is left devastated as her younger sister Vanessa dies aged just 50 after being rushed to hospital following a heart attack
+",https://www.dailymail.co.uk/tvshowbiz/article-11823365/Sam-Foxs-left-devastated-younger-sister-Vanessa-dies-aged-just-50.html,5,0.134,0.129,0.737,0.9482,Daily Mail
+7,18:18.4,"Charles' olive branch to Harry: King tells his son that he and Meghan 'can use Frogmore Cottage during the Coronation - if they accept his invitation to attend'
+",https://www.dailymail.co.uk/news/article-11823801/Prince-told-Meghan-use-Frogmore-Cottage-accept-invitation-Kings-Coronation.html,6,0.062,0.084,0.855,-0.9656,Daily Mail
+8,18:18.4,"'It was safe and I don't like change': Christine McGuinness stayed in her marriage with ex Paddy as her autism and previous abusive partners left her craving security
+",https://www.dailymail.co.uk/tvshowbiz/article-11823655/Christine-McGuinness-reveals-stayed-unhappy-marriage.html,7,0.137,0.084,0.779,0.9965,Daily Mail
+9,18:18.4,"'He is the rudest man I've ever had to interview - I didn't smack him though': Richard Madeley slams Chris Rock's behaviour as Susanna Reid calls him a 'thoroughly unpleasant piece of work' 
+",https://www.dailymail.co.uk/tvshowbiz/article-11826133/Richard-Madeley-slams-Chris-Rocks-behaviour.html,8,0.157,0.093,0.75,0.9962,Daily Mail
+10,18:18.4,"'Britain's most violent prisoner' Charles Bronson tells parole board he 'greased up with Lurpak' before jail fight, won £1,500 on a bet and tells panel, 'There's nothing better than wrapping a governor up like a Christmas turkey' 
+",https://www.dailymail.co.uk/news/article-11825065/Notorious-prisoner-Charles-Bronson-make-latest-bid-freedom-parole-hearing-today.html,9,0.071,0.159,0.771,-0.9999,Daily Mail
+1,18:26.2,Cabinet Office minister casts doubt on whether Sue Gray followed proper process over job with Starmer – UK politics live,https://www.theguardian.com/politics/live/2023/mar/06/rishi-sunak-asylum-plan-small-boats-crossings-boris-stanley-johnson-live,0,0.093,0.055,0.852,0.9952,Guardian
+2,18:26.2,Cardiff car crash: police criticised after wreck went unseen for up to 46 hours,https://www.theguardian.com/uk-news/2023/mar/06/wales-car-crash-a48-three-people-found-dead-st-mellons-cardiff,1,0.103,0.109,0.788,-0.356,Guardian
+3,18:26.2,"Sheffield city council behaved dishonestly in street trees row, inquiry finds ",https://www.theguardian.com/uk-news/2023/mar/06/sheffield-city-council-behaved-dishonestly-in-street-trees-row-inquiry-finds,2,0.096,0.152,0.752,-0.9961,Guardian
+4,18:26.2,I thought my opinion of Boris Johnson couldn’t be lower. Then he nominated his father for a knighthood,https://www.theguardian.com/commentisfree/2023/mar/06/boris-johnson-father-knighthood-opinion-couldnt-be-lower,3,0.116,0.113,0.771,0.2563,Guardian
+5,18:26.2,"Revealed: 1,000 super-emitting methane leaks risk triggering climate tipping points",https://www.theguardian.com/environment/2023/mar/06/revealed-1000-super-emitting-methane-leaks-risk-triggering-climate-tipping-points,4,0.07,0.092,0.838,-0.9971,Guardian
+6,18:26.2,Jeremy Hunt’s 2023 budget: five things to look out for,https://www.theguardian.com/uk-news/2023/mar/06/jeremy-hunt-2023-budget-energy-bills,5,0.136,0.093,0.771,0.9924,Guardian
+7,18:26.2,"No pain, plenty of gain: why taking it easy can be the key to getting fitter – and happier",https://www.theguardian.com/lifeandstyle/2023/mar/06/no-pain-plenty-of-gain-why-taking-it-easy-can-be-the-key-to-getting-fitter-and-happier,6,0.13,0.089,0.78,0.9979,Guardian
+8,18:26.2,GB News broke Ofcom rules with presenter’s Covid vaccine claims,https://www.theguardian.com/media/2023/mar/06/gb-news-broke-ofcom-rules-presenter-covid-vaccine-claims-mark-steyn,7,0.04,0.047,0.912,-0.2023,Guardian
+9,18:26.2,UK weather: snow could cut off some rural areas as yellow warnings issued,https://www.theguardian.com/uk-news/2023/mar/06/uk-weather-snow-could-cut-off-rural-areas-yellow-warnings-met-office,8,0.042,0.129,0.83,-0.9848,Guardian
+10,18:26.2,Prisoner Charles Bronson tells parole hearing ‘I just want to go out and do my art’,https://www.theguardian.com/uk-news/2023/mar/06/prisoner-charles-bronson-tells-parole-hearing-i-just-want-to-go-out-and-do-my-art,9,0.043,0.199,0.758,-0.9993,Guardian
+1,41:40.3,Controversial vitiligo skin cream may come to UK,https://www.bbc.co.uk/news/health-64809406,0,0.124,0.064,0.812,0.9979,BBC
+2,41:40.3,Crash pilot did not recall hearing radio - report,https://www.bbc.co.uk/news/world-australia-64870697,1,0.02,0.121,0.859,-0.9916,BBC
+3,41:40.3,Law to stop small boats and Johnson 'to make dad a Sir',https://www.bbc.co.uk/news/blogs-the-papers-64870510,2,0.034,0.063,0.903,-0.9604,BBC
+4,41:40.3,Texts show Hancock backed funding threat to Tory MP,https://www.bbc.co.uk/news/uk-politics-64870505,3,0.052,0.091,0.857,-0.9693,BBC
+5,41:40.3,Worker asks Elon Musk on Twitter: Have I been fired?,https://www.bbc.co.uk/news/technology-64871183,4,0.046,0.057,0.898,-0.8554,BBC
+6,41:40.3,Refugees plan pushes limits of law - government,https://www.bbc.co.uk/news/uk-politics-64871193,5,0.073,0.065,0.862,-0.2705,BBC
+7,41:40.3,Tributes to three killed in crash after night out,https://www.bbc.co.uk/news/uk-wales-64867187,6,0.105,0.099,0.796,0.9558,BBC
+8,41:40.3,Stolen gator returned to Texas zoo after 20 years,https://www.bbc.co.uk/news/world-us-canada-64871497,7,0.01,0.053,0.937,-0.829,BBC
+9,41:40.3,France braces for pension reform strikes,https://www.bbc.co.uk/news/world-europe-64870836,8,0.028,0.095,0.877,-0.9654,BBC
+10,41:40.3,Dozens of bushfires as heat grips Australia's east,https://www.bbc.co.uk/news/world-australia-64870696,9,0.029,0.113,0.858,-0.9702,BBC
+1,42:04.1,"Pictured: Three victims of horror Cardiff crash including 21-year-old beautician, son of ex-QPR footballer and star of Sky reality show - as two fight for their lives
+",https://www.dailymail.co.uk/news/article-11825387/Pictured-Scene-three-young-revellers-died-two-left-fighting-lives.html,0,0.085,0.131,0.784,-0.9985,Daily Mail
+2,42:04.1,"Three people are found dead in hunt for five missing for 48 hours in South Wales after 'car crash': Two are rushed to hospital with serious injuries after police launched hunt for three women and two men who disappeared following night out 
+",https://www.dailymail.co.uk/news/article-11824991/Three-people-dead-hunt-five-missing-people-South-Wales-car-crash.html,1,0.043,0.094,0.863,-0.9957,Daily Mail
+3,42:04.1,"'He is the rudest man I've ever had to interview - I didn't smack him though': Richard Madeley slams Chris Rock's behaviour as Susanna Reid calls him a 'thoroughly unpleasant piece of work' 
+",https://www.dailymail.co.uk/tvshowbiz/article-11826133/Richard-Madeley-slams-Chris-Rocks-behaviour.html,2,0.157,0.093,0.75,0.9962,Daily Mail
+4,42:04.1,"EXCLUSIVE 'I cheated death': Neil 'Razor' Ruddock sheds seven stone after being inspired to have gastric sleeve surgery by James Argent when his weight ballooned to 27 stone
+",https://www.dailymail.co.uk/tvshowbiz/article-11825593/Neil-Ruddock-sheds-seven-stone-inspired-gastric-sleeve-surgery-James-Argent.html,3,0.092,0.066,0.841,0.953,Daily Mail
+5,42:04.1,"Snow sweeps into northern England from Scotland as maps reveal more areas set to be blanketed - and it could be even chillier tonight with temperatures expected to plummet to -15C in some areas amid fears cold snap could last a fortnight
+",https://www.dailymail.co.uk/news/article-11827103/Ice-tonight-Britain-braces-brutal-15C-snap-coldest-night-year-far.html,4,0.072,0.079,0.848,0.601,Daily Mail
+6,42:04.1,"EXCLUSIVE: 'Police took two days to find my daughter as she lay trapped beside her dead friends': Officers face probe over why it took 48 hours to find five revellers in car crash - after telling mother her daughter was 'probably out partying'
+",https://www.dailymail.co.uk/news/article-11826329/Police-took-days-daughter-lay-dead-friends-says-mother-Wales-crash-victim.html,5,0.087,0.132,0.781,-0.9988,Daily Mail
+7,42:04.1,"PICTURED: Jonnie Irwin looks in high spirits as he makes comeback to A Place In The Sun - amid his battle with terminal lung cancer
+",https://www.dailymail.co.uk/tvshowbiz/article-11825393/Jonnie-Irwin-makes-comeback-Place-Sun-amid-battle-terminal-lung-cancer.html,6,0.135,0.041,0.824,0.997,Daily Mail
+8,42:04.1,"'Britain's most violent prisoner' Charles Bronson tells parole board he 'greased up with Lurpak' before jail fight, won £1,500 on a bet and tells panel, 'There's nothing better than wrapping a governor up like a Christmas turkey' 
+",https://www.dailymail.co.uk/news/article-11825065/Notorious-prisoner-Charles-Bronson-make-latest-bid-freedom-parole-hearing-today.html,7,0.071,0.159,0.771,-0.9999,Daily Mail
+9,42:04.1,"End of the hated 8am scramble for a GP appointment: Patients must now get a slot or be referred elsewhere the FIRST time they call 
+",https://www.dailymail.co.uk/health/article-11827209/Patients-GP-slot-referred-time-call.html,8,0.136,0.054,0.81,0.997,Daily Mail
+10,42:04.1,"Man is arrested at scene of horror South Wales car crash that left three dead 'after being told to get away from the area'
+",https://www.dailymail.co.uk/news/article-11826353/South-Wales-car-crash-Film-TV-extra-arrested-scene-horror-smash-killed-three.html,9,0.032,0.129,0.838,-0.993,Daily Mail
+1,42:30.7,UK shoppers slash spending as price rises and energy bills bite,https://www.theguardian.com/business/2023/mar/07/uk-shoppers-cut-spending-price-rises-energy-bills-brc-budget,0,0.072,0.06,0.868,0.8539,Guardian
+2,42:30.7,China foreign minister warns of potential for conflict with US and hails Russia ties,https://www.theguardian.com/world/2023/mar/07/china-foreign-minister-warns-of-potential-for-conflict-with-us-and-hails-russia-ties,1,0.087,0.114,0.798,-0.978,Guardian
+3,42:30.7,‘Sushi terrorism’ sees Japan’s conveyor belt restaurants grind to a halt,https://www.theguardian.com/world/2023/mar/07/sushi-terrorism-sees-japans-conveyor-belt-restaurants-grind-to-a-halt,2,0.079,0.05,0.871,0.9444,Guardian
+4,42:30.7,Cardiff car crash: police criticised after wreck went unseen for up to 46 hours,https://www.theguardian.com/uk-news/2023/mar/06/wales-car-crash-a48-three-people-found-dead-st-mellons-cardiff,3,0.091,0.109,0.799,-0.9131,Guardian
+5,42:30.7,‘Giant’ rats spark fears of cliff erosion in Tenby,https://www.theguardian.com/uk-news/2023/mar/06/giant-rats-spark-fears-of-cliff-erosion-in-tenby,4,0.095,0.071,0.834,0.9437,Guardian
+6,42:30.7,Tory MPs trying to score points over Sue Gray hiring only net own goals,https://www.theguardian.com/politics/2023/mar/06/tory-mps-trying-to-score-points-over-sue-gray-hiring-only-net-own-goals,5,0.107,0.104,0.789,0.7498,Guardian
+7,42:30.7,Tory MPs launch bid to stop Labour’s ‘unprecedented’ hiring of Sue Gray,https://www.theguardian.com/politics/2023/mar/06/tory-mps-launch-bid-to-stop-labours-unprecedented-hiring-of-sue-gray,6,0.075,0.067,0.858,0.559,Guardian
+8,42:30.7,The Last of Us recap episode eight – TV just got a whole lot more abhorrent,https://www.theguardian.com/tv-and-radio/2023/mar/06/the-last-of-us-recap-episode-eight-tv-just-got-a-whole-lot-more-abhorrent,7,0.076,0.123,0.801,-0.9972,Guardian
+9,42:30.7,George Michael: Outed review – this will make you love him even more than you did as a screaming teen,https://www.theguardian.com/tv-and-radio/2023/mar/06/george-michael-outed-review-this-will-make-you-love-him-even-more-than-you-did-as-a-screaming-teen,8,0.085,0.101,0.814,-0.9398,Guardian
+10,42:30.7,Jeremy Hunt’s 2023 budget: five things to look out for,https://www.theguardian.com/uk-news/2023/mar/06/jeremy-hunt-2023-budget-energy-bills,9,0.136,0.093,0.771,0.9924,Guardian
+1,19:27.4,Ukraine names smoking soldier shot by Russians,https://www.bbc.co.uk/news/world-europe-64872623,0,0.068,0.198,0.734,-0.9985,BBC
+2,19:27.4,Judi Dench backs call to overturn blue badge ban,https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-64872475,1,0.155,0.092,0.753,0.9735,BBC
+3,19:27.4,"Former MP cannot pay proceeds of crime, court told",https://www.bbc.co.uk/news/uk-scotland-64876280,2,0.019,0.081,0.9,-0.9348,BBC
+4,19:27.4,Foxtons says renters have to move out of London,https://www.bbc.co.uk/news/business-64873369,3,0.085,0.048,0.867,0.9809,BBC
+5,19:27.4,Mum angry over delay in finding crash victims,https://www.bbc.co.uk/news/uk-wales-64872517,4,0.034,0.117,0.849,-0.9981,BBC
+6,19:27.4,Greggs to open 150 shops and extend opening hours,https://www.bbc.co.uk/news/business-64874761,5,0.086,0.033,0.881,0.976,BBC
+7,19:27.4,Kidnapped Americans were in Mexico for tummy tuck,https://www.bbc.co.uk/news/world-us-canada-64875131,6,0.034,0.064,0.903,-0.8705,BBC
+8,19:27.4,"Olivia killer was in ruthless pursuit, jury told",https://www.bbc.co.uk/news/uk-england-merseyside-64873789,7,0.019,0.075,0.906,-0.9794,BBC
+9,19:27.4,Fans rush to buy tickets for Eurovision 2023,https://www.bbc.co.uk/news/entertainment-arts-64784428,8,0.064,0.022,0.913,0.9899,BBC
+10,19:27.4,Snow causes travel problems and school closures,https://www.bbc.co.uk/news/uk-scotland-64867408,9,0.015,0.099,0.886,-0.9623,BBC
+1,19:35.8,"Pictured: Three victims of horror Cardiff crash including 21-year-old beautician, son of ex-QPR footballer and star of Sky reality show - as two fight for their lives
+",https://www.dailymail.co.uk/news/article-11825387/Pictured-Scene-three-young-revellers-died-two-left-fighting-lives.html,0,0.085,0.131,0.784,-0.9985,Daily Mail
+2,19:35.8,"'He is the rudest man I've ever had to interview - I didn't smack him though': Richard Madeley slams Chris Rock's behaviour as Susanna Reid calls him a 'thoroughly unpleasant piece of work' 
+",https://www.dailymail.co.uk/tvshowbiz/article-11826133/Richard-Madeley-slams-Chris-Rocks-behaviour.html,1,0.145,0.082,0.773,0.9956,Daily Mail
+3,19:35.8,"Snow sweeps into northern England from Scotland as maps reveal more areas set to be blanketed - and it could be even chillier tonight with temperatures expected to plummet to -15C in some areas amid fears cold snap could last a fortnight
+",https://www.dailymail.co.uk/news/article-11827103/Ice-tonight-Britain-braces-brutal-15C-snap-coldest-night-year-far.html,2,0.072,0.079,0.848,0.601,Daily Mail
+4,19:35.8,"EXCLUSIVE 'I cheated death': Neil 'Razor' Ruddock sheds seven stone after being inspired to have gastric sleeve surgery by James Argent when his weight ballooned to 27 stone
+",https://www.dailymail.co.uk/tvshowbiz/article-11825593/Neil-Ruddock-sheds-seven-stone-inspired-gastric-sleeve-surgery-James-Argent.html,3,0.092,0.066,0.841,0.953,Daily Mail
+5,19:35.8,"EXCLUSIVE Revealed: Internet 'pranksters' who invaded Asda store during Covid and attacked woman while wearing Spider-Man, Ali G and Red Riding Hood fancy dress costumes are martial arts amateurs who answered social media ad 'to cause chaos for likes' 
+",https://www.dailymail.co.uk/news/article-11827289/Internet-prankster-kicked-Asda-worker-dressed-Spider-Man-black-belt-martial-arts-champion.html,4,0.08,0.175,0.745,-0.9991,Daily Mail
+6,19:35.8,"'Our search party found the girls before the police... that speaks volumes': Questions grow over why it took cops almost 48 hours to find five young revellers involved in Cardiff car crash which left three dead
+",https://www.dailymail.co.uk/news/article-11828185/Questions-grow-took-officers-48-hours-five-young-revellers-involved-crash.html,5,0.089,0.115,0.796,-0.9965,Daily Mail
+7,19:35.8,"End of the hated 8am scramble for a GP appointment: Patients must now get a slot or be referred elsewhere the FIRST time they call 
+",https://www.dailymail.co.uk/health/article-11827209/Patients-GP-slot-referred-time-call.html,6,0.111,0.049,0.84,0.9908,Daily Mail
+8,19:35.8,"EXCLUSIVE: 'Police took two days to find my daughter as she lay trapped beside her dead friends': Officers face probe over why it took 48 hours to find five revellers in car crash - after telling mother her daughter was 'probably out partying'
+",https://www.dailymail.co.uk/news/article-11826329/Police-took-days-daughter-lay-dead-friends-says-mother-Wales-crash-victim.html,7,0.087,0.132,0.781,-0.9988,Daily Mail
+9,19:35.8,"Man is arrested at scene of horror South Wales car crash that left three dead 'after being told to get away from the area'
+",https://www.dailymail.co.uk/news/article-11826353/South-Wales-car-crash-Film-TV-extra-arrested-scene-horror-smash-killed-three.html,8,0.032,0.129,0.838,-0.993,Daily Mail
+10,19:35.8,"'I know you're safe up there with our beautiful sister': Sister of 21-year-old killed in crash shares heartbreaking tribute - eight years after their older sibling died in drug-drive smash
+",https://www.dailymail.co.uk/news/article-11827185/I-know-youre-safe-beautiful-sister-Sister-21-year-old-killed-crash-says.html,9,0.131,0.154,0.716,-0.9881,Daily Mail
+1,19:57.4,"Woman, 91, loses account and pension after Barclays declares her dead",https://www.theguardian.com/money/2023/mar/07/barclays-dead-pension-bank-account-phone-energy,0,0.062,0.074,0.863,-0.4019,Guardian
+2,19:57.4,"Illegal UK arrivals will be swiftly removed under new law, Braverman says, as Labour argues bill makes situation worse – live",https://www.theguardian.com/politics/live/2023/mar/07/small-boat-crossings-immigration-rishi-sunak-suella-braverman-mps-details-uk-politics-latest,1,0.054,0.157,0.788,-0.9982,Guardian
+3,19:57.4,Where are my foul excretions? What happened when I boiled my wooden spoons,https://www.theguardian.com/society/2023/mar/07/where-are-my-foul-excretions-what-happened-when-i-boiled-my-wooden-spoons,2,0.033,0.053,0.914,-0.8798,Guardian
+4,19:57.4,Snow blankets parts of UK as Britons brace for coldest night of 2023,https://www.theguardian.com/uk-news/2023/mar/07/uk-weather-coldest-night-snow-ice-warnings-forecast,3,0.021,0.075,0.904,-0.9839,Guardian
+5,19:57.4,UK house prices rise as mortgage rate cuts lift confidence,https://www.theguardian.com/money/2023/mar/07/uk-house-prices-rise-mortgage-rate-cuts-halifax,4,0.077,0.035,0.888,0.9778,Guardian
+6,19:57.4,‘Sushi terrorism’ sees Japan’s conveyor belt restaurants grind to a halt,https://www.theguardian.com/world/2023/mar/07/sushi-terrorism-sees-japans-conveyor-belt-restaurants-grind-to-a-halt,5,0.061,0.038,0.901,0.8651,Guardian
+7,19:57.4,Russia-Ukraine war live: Belarus claims to have detained sabotage group who targeted Russian planes near Minsk,https://www.theguardian.com/world/live/2023/mar/07/russia-ukraine-war-live-news-russian-invasion-zelenskiy-vows-to-defend-bakhmut-latest-update,6,0.043,0.1,0.857,-0.9985,Guardian
+8,19:57.4,"Laura Bates: ‘For teenage girls, escaping harassment, revenge porn and deepfake porn is impossible’",https://www.theguardian.com/society/2023/mar/07/laura-bates-for-teenage-girls-escaping-harassment-revenge-porn-and-deepfake-porn-is-impossible,7,0.077,0.121,0.802,-0.9992,Guardian
+9,19:57.4,David Squires on … Liverpool 7-0 Manchester United,https://www.theguardian.com/football/ng-interactive/2023/mar/07/david-squires-on-liverpool-7-0-manchester-united,8,0,0,0,0,Guardian
+10,19:57.4,Uefa to refund Liverpool fans for tickets after Champions League final chaos,https://www.theguardian.com/football/2023/mar/07/uefa-to-refund-liverpool-fans-for-tickets-after-champions-league-final-chaos,9,0.088,0.081,0.831,-0.2323,Guardian
+1,20:51.8,Ukraine names smoking soldier shot by Russians,https://www.bbc.co.uk/news/world-europe-64872623,0,0.068,0.198,0.734,-0.9985,BBC
+2,20:51.8,Judi Dench backs call to overturn blue badge ban,https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-64872475,1,0.155,0.092,0.753,0.9735,BBC
+3,20:51.8,"Former MP cannot pay proceeds of crime, court told",https://www.bbc.co.uk/news/uk-scotland-64876280,2,0.019,0.081,0.9,-0.9348,BBC
+4,20:51.8,Foxtons says renters have to move out of London,https://www.bbc.co.uk/news/business-64873369,3,0.085,0.048,0.867,0.9809,BBC
+5,20:51.8,Mum angry over delay in finding crash victims,https://www.bbc.co.uk/news/uk-wales-64872517,4,0.034,0.117,0.849,-0.9981,BBC
+6,20:51.8,Greggs to open 150 shops and extend opening hours,https://www.bbc.co.uk/news/business-64874761,5,0.086,0.033,0.881,0.976,BBC
+7,20:51.8,Kidnapped Americans were in Mexico for tummy tuck,https://www.bbc.co.uk/news/world-us-canada-64875131,6,0.034,0.064,0.903,-0.8705,BBC
+8,20:51.8,"Olivia killer was in ruthless pursuit, jury told",https://www.bbc.co.uk/news/uk-england-merseyside-64873789,7,0.019,0.075,0.906,-0.9794,BBC
+9,20:51.8,Fans rush to buy tickets for Eurovision 2023,https://www.bbc.co.uk/news/entertainment-arts-64784428,8,0.064,0.022,0.913,0.9899,BBC
+10,20:51.8,Snow causes travel problems and school closures,https://www.bbc.co.uk/news/uk-scotland-64867408,9,0.015,0.099,0.886,-0.9623,BBC
+1,21:05.4,"Pictured: Three victims of horror Cardiff crash including 21-year-old beautician, son of ex-QPR footballer and star of Sky reality show - as two fight for their lives
+",https://www.dailymail.co.uk/news/article-11825387/Pictured-Scene-three-young-revellers-died-two-left-fighting-lives.html,0,0.085,0.131,0.784,-0.9985,Daily Mail
+2,21:05.4,"'He is the rudest man I've ever had to interview - I didn't smack him though': Richard Madeley slams Chris Rock's behaviour as Susanna Reid calls him a 'thoroughly unpleasant piece of work' 
+",https://www.dailymail.co.uk/tvshowbiz/article-11826133/Richard-Madeley-slams-Chris-Rocks-behaviour.html,1,0.145,0.082,0.773,0.9956,Daily Mail
+3,21:05.4,"Snow sweeps into northern England from Scotland as maps reveal more areas set to be blanketed - and it could be even chillier tonight with temperatures expected to plummet to -15C in some areas amid fears cold snap could last a fortnight
+",https://www.dailymail.co.uk/news/article-11827103/Ice-tonight-Britain-braces-brutal-15C-snap-coldest-night-year-far.html,2,0.072,0.079,0.848,0.601,Daily Mail
+4,21:05.4,"EXCLUSIVE 'I cheated death': Neil 'Razor' Ruddock sheds seven stone after being inspired to have gastric sleeve surgery by James Argent when his weight ballooned to 27 stone
+",https://www.dailymail.co.uk/tvshowbiz/article-11825593/Neil-Ruddock-sheds-seven-stone-inspired-gastric-sleeve-surgery-James-Argent.html,3,0.092,0.066,0.841,0.953,Daily Mail
+5,21:05.4,"EXCLUSIVE Revealed: Internet 'pranksters' who invaded Asda store during Covid and attacked woman while wearing Spider-Man, Ali G and Red Riding Hood fancy dress costumes are martial arts amateurs who answered social media ad 'to cause chaos for likes' 
+",https://www.dailymail.co.uk/news/article-11827289/Internet-prankster-kicked-Asda-worker-dressed-Spider-Man-black-belt-martial-arts-champion.html,4,0.08,0.175,0.745,-0.9991,Daily Mail
+6,21:05.4,"'Our search party found the girls before the police... that speaks volumes': Questions grow over why it took cops almost 48 hours to find five young revellers involved in Cardiff car crash which left three dead
+",https://www.dailymail.co.uk/news/article-11828185/Questions-grow-took-officers-48-hours-five-young-revellers-involved-crash.html,5,0.089,0.115,0.796,-0.9965,Daily Mail
+7,21:05.4,"End of the hated 8am scramble for a GP appointment: Patients must now get a slot or be referred elsewhere the FIRST time they call 
+",https://www.dailymail.co.uk/health/article-11827209/Patients-GP-slot-referred-time-call.html,6,0.111,0.049,0.84,0.9908,Daily Mail
+8,21:05.4,"EXCLUSIVE: 'Police took two days to find my daughter as she lay trapped beside her dead friends': Officers face probe over why it took 48 hours to find five revellers in car crash - after telling mother her daughter was 'probably out partying'
+",https://www.dailymail.co.uk/news/article-11826329/Police-took-days-daughter-lay-dead-friends-says-mother-Wales-crash-victim.html,7,0.087,0.132,0.781,-0.9988,Daily Mail
+9,21:05.4,"Man is arrested at scene of horror South Wales car crash that left three dead 'after being told to get away from the area'
+",https://www.dailymail.co.uk/news/article-11826353/South-Wales-car-crash-Film-TV-extra-arrested-scene-horror-smash-killed-three.html,8,0.032,0.129,0.838,-0.993,Daily Mail
+10,21:05.4,"'I know you're safe up there with our beautiful sister': Sister of 21-year-old killed in crash shares heartbreaking tribute - eight years after their older sibling died in drug-drive smash
+",https://www.dailymail.co.uk/news/article-11827185/I-know-youre-safe-beautiful-sister-Sister-21-year-old-killed-crash-says.html,9,0.131,0.154,0.716,-0.9881,Daily Mail
+1,21:27.7,"Woman, 91, loses account and pension after Barclays declares her dead",https://www.theguardian.com/money/2023/mar/07/barclays-dead-pension-bank-account-phone-energy,0,0.062,0.074,0.863,-0.4019,Guardian
+2,21:27.7,"Illegal UK arrivals will be swiftly removed under new law, Braverman says, as Labour argues bill makes situation worse – live",https://www.theguardian.com/politics/live/2023/mar/07/small-boat-crossings-immigration-rishi-sunak-suella-braverman-mps-details-uk-politics-latest,1,0.048,0.148,0.804,-0.9984,Guardian
+3,21:27.7,Where are my foul excretions? What happened when I boiled my wooden spoons,https://www.theguardian.com/society/2023/mar/07/where-are-my-foul-excretions-what-happened-when-i-boiled-my-wooden-spoons,2,0.033,0.053,0.914,-0.8798,Guardian
+4,21:27.7,Snow blankets parts of UK as Britons brace for coldest night of 2023,https://www.theguardian.com/uk-news/2023/mar/07/uk-weather-coldest-night-snow-ice-warnings-forecast,3,0.021,0.075,0.904,-0.9839,Guardian
+5,21:27.7,UK house prices rise as mortgage rate cuts lift confidence,https://www.theguardian.com/money/2023/mar/07/uk-house-prices-rise-mortgage-rate-cuts-halifax,4,0.077,0.035,0.888,0.9778,Guardian
+6,21:27.7,‘Sushi terrorism’ sees Japan’s conveyor belt restaurants grind to a halt,https://www.theguardian.com/world/2023/mar/07/sushi-terrorism-sees-japans-conveyor-belt-restaurants-grind-to-a-halt,5,0.061,0.038,0.901,0.8651,Guardian
+7,21:27.7,Russia-Ukraine war live: Belarus claims to have detained sabotage group who targeted Russian planes near Minsk,https://www.theguardian.com/world/live/2023/mar/07/russia-ukraine-war-live-news-russian-invasion-zelenskiy-vows-to-defend-bakhmut-latest-update,6,0.043,0.1,0.857,-0.9985,Guardian
+8,21:27.7,"Laura Bates: ‘For teenage girls, escaping harassment, revenge porn and deepfake porn is impossible’",https://www.theguardian.com/society/2023/mar/07/laura-bates-for-teenage-girls-escaping-harassment-revenge-porn-and-deepfake-porn-is-impossible,7,0.077,0.121,0.802,-0.9992,Guardian
+9,21:27.7,David Squires on … Liverpool 7-0 Manchester United,https://www.theguardian.com/football/ng-interactive/2023/mar/07/david-squires-on-liverpool-7-0-manchester-united,8,0,0,0,0,Guardian
+10,21:27.7,Uefa to refund Liverpool fans for tickets after Champions League final chaos,https://www.theguardian.com/football/2023/mar/07/uefa-to-refund-liverpool-fans-for-tickets-after-champions-league-final-chaos,9,0.088,0.081,0.831,-0.2323,Guardian
+1,46:38.1,Covid booster jab to be offered this spring,https://www.bbc.co.uk/news/health-64876657,0,0.08,0.095,0.825,-0.7713,BBC
+2,46:38.1,Olivia cried 'I'm scared' before being shot - court,https://www.bbc.co.uk/news/uk-england-merseyside-64873789,1,0.033,0.102,0.865,-0.9982,BBC
+3,46:38.1,Ukraine hunts killers of unarmed smoking soldier,https://www.bbc.co.uk/news/world-europe-64872623,2,0.067,0.195,0.738,-0.9985,BBC
+4,46:38.1,Snow blankets parts of the UK as cold snap starts,https://www.bbc.co.uk/news/uk-64875441,3,0.032,0.085,0.884,-0.9627,BBC
+5,46:38.1,"Two dead, two alive after US kidnapping in Mexico",https://www.bbc.co.uk/news/world-latin-america-64878721,4,0.054,0.055,0.892,0.1331,BBC
+6,46:38.1,EU body opposes plans for nearby 'erotic centre',https://www.bbc.co.uk/news/world-europe-64880267,5,0.068,0.103,0.828,-0.9029,BBC
+7,46:38.1,"Boy, 11, dies in flat fire in east London",https://www.bbc.co.uk/news/uk-england-london-64878858,6,0.029,0.145,0.826,-0.9788,BBC
+8,46:38.1,Mum angry over delay in finding crash victims,https://www.bbc.co.uk/news/uk-wales-64872517,7,0.032,0.117,0.851,-0.9986,BBC
+9,46:38.1,Judi Dench backs call to overturn blue badge ban,https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-64872475,8,0.153,0.085,0.762,0.9782,BBC
+10,46:38.1,Eurovision 2023 tickets sell out after huge demand,https://www.bbc.co.uk/news/entertainment-arts-64784428,9,0.101,0.039,0.86,0.9968,BBC
+1,46:46.3,"Pictured: Three victims of horror Cardiff crash including 21-year-old beautician, son of ex-QPR footballer and star of Sky documentary - as two fight for their lives
+",https://www.dailymail.co.uk/news/article-11825387/Pictured-Scene-three-young-revellers-died-two-left-fighting-lives.html,0,0.085,0.131,0.784,-0.9985,Daily Mail
+2,46:46.3,"Snow sweeps into northern England from Scotland as maps reveal more areas set to be blanketed - and it could be even chillier tonight with temperatures expected to plummet to -15C in some areas amid fears cold snap could last a fortnight
+",https://www.dailymail.co.uk/news/article-11827103/Ice-tonight-Britain-braces-brutal-15C-snap-coldest-night-year-far.html,1,0.072,0.079,0.848,0.601,Daily Mail
+3,46:46.3,"EXCLUSIVE Revealed: Internet 'pranksters' who invaded Asda store during Covid and attacked woman while wearing Spider-Man, Ali G and Red Riding Hood fancy dress costumes are martial arts amateurs who answered social media ad 'to cause chaos for likes' 
+",https://www.dailymail.co.uk/news/article-11827289/Internet-prankster-kicked-Asda-worker-dressed-Spider-Man-black-belt-martial-arts-champion.html,2,0.08,0.175,0.745,-0.9991,Daily Mail
+4,46:46.3,"'Our search party found the girls before the police... that speaks volumes': Questions grow over why it took cops almost 48 hours to find five young revellers involved in Cardiff car crash which left three dead
+",https://www.dailymail.co.uk/news/article-11828185/Questions-grow-took-officers-48-hours-five-young-revellers-involved-crash.html,3,0.089,0.115,0.796,-0.9965,Daily Mail
+5,46:46.3,"End of the hated 8am scramble for a GP appointment: Patients must now get a slot or be referred elsewhere the FIRST time they call 
+",https://www.dailymail.co.uk/health/article-11827209/Patients-GP-slot-referred-time-call.html,4,0.111,0.049,0.84,0.9908,Daily Mail
+6,46:46.3,"'He is the rudest man I've ever had to interview - I didn't smack him though': Richard Madeley slams Chris Rock's behaviour as Susanna Reid calls him a 'thoroughly unpleasant piece of work' 
+",https://www.dailymail.co.uk/tvshowbiz/article-11826133/Richard-Madeley-slams-Chris-Rocks-behaviour.html,5,0.145,0.082,0.773,0.9956,Daily Mail
+7,46:46.3,"UK snow forecast - will it fall in your area? Met Office extends yellow warning for South West as maps reveal areas set to be blanketed by wintry showers from today as Arctic blast hits UK with warnings of blizzards, -15C temperatures and travel chaos 
+",https://www.dailymail.co.uk/news/article-11829255/Britain-wakes-snow-today-country-blasted-heavy-overnight-showers.html,6,0.062,0.102,0.837,-0.9962,Daily Mail
+8,46:46.3,"EXCLUSIVE: 'Police took two days to find my daughter as she lay trapped beside her dead friends': Officers face probe over why it took 48 hours to find five revellers in car crash - after telling mother her daughter was 'probably out partying'
+",https://www.dailymail.co.uk/news/article-11826329/Police-took-days-daughter-lay-dead-friends-says-mother-Wales-crash-victim.html,7,0.087,0.132,0.781,-0.9988,Daily Mail
+9,46:46.3,"'You can call me Suzy': Eddie Izzard introduces new feminine name she has wanted to use since the age of 10 - but says people can choose which one they want to address her by
+",https://www.dailymail.co.uk/tvshowbiz/article-11829979/Eddie-Izzard-introduces-new-feminine-name.html,8,0.121,0.018,0.861,0.9901,Daily Mail
+10,46:46.3,"James Nesbitt, 58, 'is helping to raise his girlfriend Katy Gleadhill's new baby after the actress, 40, conceived while they were on a break'
+",https://www.dailymail.co.uk/tvshowbiz/article-11828273/James-Nesbitt-58-helping-raise-girlfriend-Katy-Gleadhills-new-baby.html,9,0.059,0.04,0.901,0.9326,Daily Mail
+1,47:02.1,Human rights campaigners call Suella Braverman’s plan to stop illegal arrivals in UK a ‘shocking new low’ – politics live,https://www.theguardian.com/politics/live/2023/mar/07/small-boat-crossings-immigration-rishi-sunak-suella-braverman-mps-details-uk-politics-latest,0,0.095,0.097,0.808,-0.8434,Guardian
+2,47:02.1,How is brand Harry and Meghan faring in the US? News just in: not good,https://www.theguardian.com/commentisfree/2023/mar/07/how-is-brand-harry-and-meghan-faring-in-the-us-news-just-in-not-good,1,0.133,0.084,0.783,0.9904,Guardian
+3,47:02.1,"Olivia Pratt-Korbel said ‘Mum, I’m scared’ before killer shot her, court told",https://www.theguardian.com/uk-news/2023/mar/07/olivia-pratt-korbel-scared-killer-shot-her-court,2,0.045,0.101,0.855,-0.9974,Guardian
+4,47:02.1,Snow blankets parts of UK as Britons brace for coldest night of 2023,https://www.theguardian.com/uk-news/2023/mar/07/uk-weather-coldest-night-snow-ice-warnings-forecast,3,0.021,0.075,0.904,-0.9839,Guardian
+5,47:02.1,Where are my foul excretions? What happened when I boiled my wooden spoons,https://www.theguardian.com/society/2023/mar/07/where-are-my-foul-excretions-what-happened-when-i-boiled-my-wooden-spoons,4,0.033,0.053,0.914,-0.8798,Guardian
+6,47:02.1,David Squires on … Liverpool 7-0 Manchester United,https://www.theguardian.com/football/ng-interactive/2023/mar/07/david-squires-on-liverpool-7-0-manchester-united,5,0,0,0,0,Guardian
+7,47:02.1,I’m a virgin and too scared to have sex. How can I get over my fear?,https://www.theguardian.com/lifeandstyle/2023/mar/07/virgin-too-scared-have-sex-how-can-i-get-over-fear,6,0.149,0.088,0.764,0.9821,Guardian
+8,47:02.1,Zelenskiy vows to ‘find the murderers’ of PoW allegedly shot dead by Russians,https://www.theguardian.com/world/2023/mar/07/ukraine-names-pow-allegedly-filmed-shot-dead-russian-soldiers,7,0.063,0.184,0.753,-0.9991,Guardian
+9,47:02.1,"Woman, 91, loses account and pension after Barclays declares her dead",https://www.theguardian.com/money/2023/mar/07/barclays-dead-pension-bank-account-phone-energy,8,0.062,0.074,0.863,-0.4019,Guardian
+10,47:02.1,Braverman claims 100m people could qualify for asylum without law change,https://www.theguardian.com/uk-news/2023/mar/07/suella-braverman-asylum-migration-bill-law-change-small-boats,9,0.093,0.06,0.847,0.9095,Guardian
+1,26:12.8,BBC to speak to Gary Lineker about asylum tweet,https://www.bbc.co.uk/news/uk-64883655,0,0.053,0.055,0.892,-0.2934,BBC
+2,26:12.8,Snow blankets parts of UK as temperatures fall,https://www.bbc.co.uk/news/uk-64875441,1,0.043,0.086,0.871,-0.9656,BBC
+3,26:12.8,Republicans slam Fox News over Capitol riot video,https://www.bbc.co.uk/news/world-us-canada-64883668,2,0.08,0.195,0.725,-0.9991,BBC
+4,26:12.8,Sunak 'lays down law' and Lineker's 'Nazi jibe',https://www.bbc.co.uk/news/blogs-the-papers-64883637,3,0.073,0.1,0.826,-0.9551,BBC
+5,26:12.8,Musk apologises to Twitter worker over online row,https://www.bbc.co.uk/news/technology-64884287,4,0.061,0.055,0.884,0.4968,BBC
+6,26:12.8,Bindi Irwin reveals endometriosis struggle,https://www.bbc.co.uk/news/world-australia-64884116,5,0.067,0.103,0.83,-0.7608,BBC
+7,26:12.8,Dog attacks increase by a third in five years,https://www.bbc.co.uk/news/uk-64798162,6,0.046,0.123,0.83,-0.9982,BBC
+8,26:12.8,Weight loss drug semaglutide approved for NHS use,https://www.bbc.co.uk/news/health-64874243,7,0.111,0.07,0.819,0.9932,BBC
+9,26:12.8,"UK asylum plan very concerning, says UN official",https://www.bbc.co.uk/news/uk-politics-64884435,8,0.085,0.073,0.842,0.5203,BBC
+10,26:12.8,Invasive plants outnumber British flora - report,https://www.bbc.co.uk/news/science-environment-64842402,9,0.075,0.015,0.91,0.9868,BBC
+1,26:18.9,"'I had a stress headache!': Horror fans are left 'throwing up and suffering panic attacks' after watching Fall 
+",https://www.dailymail.co.uk/tvshowbiz/article-11830927/Horror-fans-left-throwing-suffering-panic-attacks-watching-Fall.html,0,0.083,0.173,0.744,-0.9938,Daily Mail
+2,26:18.9,"Man found his best friend dead in Cardiff car crash when he spotted tyre tracks off busy main road after just 15 minutes of searching - and slams police who missed wreckage with five victims inside for 48 hours 
+",https://www.dailymail.co.uk/news/article-11831023/Man-best-friend-dead-Cardiff-car-crash-slams-police-missed-wreckage.html,1,0.081,0.101,0.818,-0.9912,Daily Mail
+3,26:18.9,"James Nesbitt, 58, 'is helping to raise his girlfriend Katy Gleadhill's new baby after the actress, 40, conceived while they were on a break'
+",https://www.dailymail.co.uk/tvshowbiz/article-11828273/James-Nesbitt-58-helping-raise-girlfriend-Katy-Gleadhills-new-baby.html,2,0.059,0.04,0.901,0.9326,Daily Mail
+4,26:18.9,"UK snow forecast - will it fall in your area? Met Office extends yellow warning for South West as maps reveal areas set to be blanketed by wintry showers from today as Arctic blast hits UK with warnings of blizzards, -15C temperatures and travel chaos 
+",https://www.dailymail.co.uk/news/article-11829255/Britain-wakes-snow-today-country-blasted-heavy-overnight-showers.html,3,0.062,0.102,0.837,-0.9962,Daily Mail
+5,26:18.9,"EXCLUSIVE Revealed: Internet 'pranksters' who invaded Asda store during Covid and attacked woman while wearing Spider-Man, Ali G and Red Riding Hood fancy dress costumes are martial arts amateurs who answered social media ad 'to cause chaos for likes' 
+",https://www.dailymail.co.uk/news/article-11827289/Internet-prankster-kicked-Asda-worker-dressed-Spider-Man-black-belt-martial-arts-champion.html,4,0.08,0.175,0.745,-0.9991,Daily Mail
+6,26:18.9,"The REAL reason Una Healy ended her unconventional three-way romance with David Haye and girlfriend Sian Osborne - after couple jetted to Costa Rica without her
+",https://www.dailymail.co.uk/tvshowbiz/article-11830495/The-REAL-reason-Una-Healy-ended-unconventional-three-way-romance.html,5,0.102,0.032,0.866,0.9931,Daily Mail
+7,26:18.9,"'You can call me Suzy': Eddie Izzard introduces new feminine name she has wanted to use since the age of 10 - but says people can choose which one they want to address her by
+",https://www.dailymail.co.uk/tvshowbiz/article-11829979/Eddie-Izzard-introduces-new-feminine-name.html,6,0.088,0.051,0.861,0.9507,Daily Mail
+8,26:18.9,"Sephora confirms the opening date of its new London store as the retailer returns to the UK following an 18-year hiatus
+",https://www.dailymail.co.uk/femail/article-11830545/Sephora-confirms-opening-date-new-London-store-returns-UK-18-year-hiatus.html,7,0.141,0.006,0.853,0.9958,Daily Mail
+9,26:18.9,"'Our search party found the girls before the police... that speaks volumes': Questions grow over why it took cops almost 48 hours to find five young revellers involved in Cardiff car crash which left three dead
+",https://www.dailymail.co.uk/news/article-11828185/Questions-grow-took-officers-48-hours-five-young-revellers-involved-crash.html,8,0.089,0.115,0.796,-0.9965,Daily Mail
+10,26:18.9,"Mother, 82, who signed over her three-bed flat in £1.4m converted house to her daughter, 52, for 'inheritance tax reasons' nearly 20 years ago is fighting bitter court battle against being kicked out after 'shouting at her granddaughter' 
+",https://www.dailymail.co.uk/news/article-11829675/Mother-82-locked-bitter-court-fight-daughter-52-wants-kick-pensioner-out.html,9,0.029,0.096,0.876,-0.9891,Daily Mail
+1,26:33.4,Elon Musk backpedals after mocking disabled Twitter worker in tweet ‘storm’,https://www.theguardian.com/technology/2023/mar/07/elon-musk-twitter-employee-feud-haraldur-thorleifsson,0,0.051,0.039,0.91,0.7771,Guardian
+2,26:33.4,"UK Arctic blast to bring more sleet, snow, hail and disruption",https://www.theguardian.com/uk-news/2023/mar/08/uk-arctic-blast-to-bring-more-sleet-snow-hail-and-disruption,1,0.038,0.067,0.895,-0.9559,Guardian
+3,26:33.4,SNP leadership candidates trade personal blows in televised debate,https://www.theguardian.com/politics/2023/mar/07/snp-leadership-candidates-trade-personal-blows-in-televised-debate,2,0.105,0.083,0.812,0.9563,Guardian
+4,26:33.4,TV tonight: Kathy Burke’s wonderfully uplifting documentary about getting older,https://www.theguardian.com/tv-and-radio/2023/mar/08/tv-tonight-kathy-burkes-wonderfully-uplifting-documentary-about-getting-older,3,0.082,0.091,0.827,-0.4374,Guardian
+5,26:33.4,‘A revenge plan’: refugees and Dover residents react to illegal migration bill,https://www.theguardian.com/uk-news/2023/mar/07/a-revenge-plan-refugees-and-dover-residents-react-to-migration-bill,4,0.078,0.048,0.874,0.9766,Guardian
+6,26:33.4,Rishi Sunak ‘extinguishing the right to seek refugee protection in UK’,https://www.theguardian.com/uk-news/2023/mar/07/suella-braverman-asylum-migration-bill-law-change-small-boats,5,0.083,0.102,0.815,-0.9852,Guardian
+7,26:33.4,"Russia-Ukraine war live: Kremlin calls Nord Stream reports a distraction; EU will never accept Russian threats, says Von Der Leyen",https://www.theguardian.com/world/live/2023/mar/08/russia-ukraine-war-live-kremlin-calls-nord-stream-reports-a-distraction-eu-will-never-accept-russian-threats-says-von-der-leyen,6,0.063,0.12,0.816,-0.9995,Guardian
+8,26:33.4,How is brand Harry and Meghan faring in the US? News just in: not good,https://www.theguardian.com/commentisfree/2023/mar/07/how-is-brand-harry-and-meghan-faring-in-the-us-news-just-in-not-good,7,0.133,0.084,0.783,0.9904,Guardian
+9,26:33.4,"Martin Lewis backs ‘social tariff’ that could cut energy bills by up to £1,500",https://www.theguardian.com/money/2023/mar/08/energy-bills-social-tariff-martin-lewis,8,0.109,0.072,0.819,0.9318,Guardian
+10,26:33.4,The Tories are doing the same thing yet again and nobody expects results,https://www.theguardian.com/politics/2023/mar/07/the-tories-are-doing-the-same-thing-yet-again-and-nobody-expects-results,9,0.055,0.104,0.841,-0.9949,Guardian
+1,46:49.4,BBC to speak to Gary Lineker about asylum tweet,https://www.bbc.co.uk/news/uk-64883655,0,0.057,0.059,0.885,-0.0998,BBC
+2,46:49.4,Mum believes daughter missing in Caribbean is dead,https://www.bbc.co.uk/news/uk-england-hampshire-64872250,1,0.074,0.05,0.877,0.9665,BBC
+3,46:49.4,Musk apologises to Twitter worker over online row,https://www.bbc.co.uk/news/technology-64884287,2,0.061,0.055,0.884,0.4968,BBC
+4,46:49.4,Republicans slam Fox News over Capitol riot video,https://www.bbc.co.uk/news/world-us-canada-64883668,3,0.08,0.195,0.725,-0.9991,BBC
+5,46:49.4,Sunak 'lays down law' and Lineker's 'Nazi jibe',https://www.bbc.co.uk/news/blogs-the-papers-64883637,4,0.073,0.1,0.826,-0.9551,BBC
+6,46:49.4,Dog attacks increase by a third in five years,https://www.bbc.co.uk/news/uk-64798162,5,0.041,0.124,0.835,-0.9985,BBC
+7,46:49.4,Bindi Irwin reveals endometriosis struggle,https://www.bbc.co.uk/news/world-australia-64884116,6,0.069,0.127,0.804,-0.9679,BBC
+8,46:49.4,Weight loss drug semaglutide approved for NHS use,https://www.bbc.co.uk/news/health-64874243,7,0.111,0.07,0.819,0.9932,BBC
+9,46:49.4,Thousands protest at Georgian 'foreign agent' bill,https://www.bbc.co.uk/news/world-europe-64882475,8,0.084,0.082,0.834,0.778,BBC
+10,46:49.4,Heathrow told to cut passenger charges again,https://www.bbc.co.uk/news/business-64885252,9,0.078,0.114,0.808,-0.925,BBC
+1,46:57.0,"'I had a stress headache!': Horror fans are left 'throwing up and suffering panic attacks' after watching Fall 
+",https://www.dailymail.co.uk/tvshowbiz/article-11830927/Horror-fans-left-throwing-suffering-panic-attacks-watching-Fall.html,0,0.083,0.173,0.744,-0.9938,Daily Mail
+2,46:57.0,"Man found his best friend dead in Cardiff car crash when he spotted tyre tracks off busy main road after just 15 minutes of searching - and slams police who missed wreckage with five victims inside for 48 hours 
+",https://www.dailymail.co.uk/news/article-11831023/Man-best-friend-dead-Cardiff-car-crash-slams-police-missed-wreckage.html,1,0.081,0.101,0.818,-0.9912,Daily Mail
+3,46:57.0,"Sephora confirms the opening date of its new London store as the retailer returns to the UK following an 18-year hiatus
+",https://www.dailymail.co.uk/femail/article-11830545/Sephora-confirms-opening-date-new-London-store-returns-UK-18-year-hiatus.html,2,0.141,0.006,0.853,0.9958,Daily Mail
+4,46:57.0,"James Nesbitt, 58, 'is helping to raise his girlfriend Katy Gleadhill's new baby after the actress, 40, conceived while they were on a break'
+",https://www.dailymail.co.uk/tvshowbiz/article-11828273/James-Nesbitt-58-helping-raise-girlfriend-Katy-Gleadhills-new-baby.html,3,0.059,0.04,0.901,0.9326,Daily Mail
+5,46:57.0,"The REAL reason Una Healy ended her unconventional three-way romance with David Haye and girlfriend Sian Osborne - after couple jetted to Costa Rica without her
+",https://www.dailymail.co.uk/tvshowbiz/article-11830495/The-REAL-reason-Una-Healy-ended-unconventional-three-way-romance.html,4,0.102,0.032,0.866,0.9931,Daily Mail
+6,46:57.0,"'You can call me Suzy': Eddie Izzard introduces new feminine name she has wanted to use since the age of 10 - but says people can choose which one they want to address her by
+",https://www.dailymail.co.uk/tvshowbiz/article-11829979/Eddie-Izzard-introduces-new-feminine-name.html,5,0.088,0.051,0.861,0.9507,Daily Mail
+7,46:57.0,"UK snow forecast - will it fall in your area? Met Office extends yellow warning for South West as maps reveal areas set to be blanketed by wintry showers from today as Arctic blast hits UK with warnings of blizzards, -15C temperatures and travel chaos 
+",https://www.dailymail.co.uk/news/article-11829255/Britain-wakes-snow-today-country-blasted-heavy-overnight-showers.html,6,0.062,0.102,0.837,-0.9962,Daily Mail
+8,46:57.0,"'She was cold, scared stiff, not able to reach her mobile phone': Bank worker, 20, who survived Cardiff car crash that left three young people dead 'was hanging in wreckage with bodies all around for TWO DAYS and is unrecognisable', her mother says
+",https://www.dailymail.co.uk/news/article-11832347/Bank-worker-20-survived-Cardiff-car-crash-suspended-wreckage-TWO-DAYS-mother-says.html,7,0.071,0.113,0.817,-0.9987,Daily Mail
+9,46:57.0,"Mother, 82, who signed over her three-bed flat in £1.4m converted house to her daughter, 52, for 'inheritance tax reasons' nearly 20 years ago is fighting bitter court battle against being kicked out after 'shouting at her granddaughter' 
+",https://www.dailymail.co.uk/news/article-11829675/Mother-82-locked-bitter-court-fight-daughter-52-wants-kick-pensioner-out.html,8,0.029,0.096,0.876,-0.9891,Daily Mail
+10,46:57.0,"Calls grow for BBC to sack Gary Lineker for comparing Suella Braverman's migrant crackdown to Nazi Germany: Tory fury at £1.35million-a-year star as MPs say outburst is 'a step too far' 
+",https://www.dailymail.co.uk/news/article-11832541/Gary-Lineker-faces-BBC-rebuke-comparing-Suella-Bravermans-migrant-crackdown-Nazi-Germany.html,9,0.046,0.101,0.853,-0.9907,Daily Mail
+1,47:11.3,Elon Musk backpedals after mocking disabled Twitter worker in tweet ‘storm’,https://www.theguardian.com/technology/2023/mar/07/elon-musk-twitter-employee-feud-haraldur-thorleifsson,0,0.051,0.039,0.91,0.7771,Guardian
+2,47:11.3,"Martin Lewis backs ‘social tariff’ that could cut energy bills by up to £1,500",https://www.theguardian.com/money/2023/mar/08/energy-bills-social-tariff-martin-lewis,1,0.109,0.072,0.819,0.9318,Guardian
+3,47:11.3,"UK Arctic blast to bring more sleet, snow, hail and disruption",https://www.theguardian.com/uk-news/2023/mar/08/uk-arctic-blast-to-bring-more-sleet-snow-hail-and-disruption,2,0.038,0.067,0.895,-0.9559,Guardian
+4,47:11.3,"Russia-Ukraine war live: Kremlin calls Nord Stream reports a distraction; EU will never accept Russian threats, says Von Der Leyen",https://www.theguardian.com/world/live/2023/mar/08/russia-ukraine-war-live-kremlin-calls-nord-stream-reports-a-distraction-eu-will-never-accept-russian-threats-says-von-der-leyen,3,0.056,0.107,0.836,-0.9996,Guardian
+5,47:11.3,BBC to talk to Gary Lineker over tweets on UK asylum plan and Nazi Germany,https://www.theguardian.com/football/2023/mar/08/gary-lineker-bbc-uk-asylum-policy-nazi-germany-match-of-the-day-presenter,4,0.038,0.058,0.903,-0.9196,Guardian
+6,47:11.3,What fresh misogynist hell is this? Why a new ‘maid’ cafe is causing a ruckus,https://www.theguardian.com/commentisfree/2023/mar/08/what-fresh-misogynist-hell-new-maid-cafe-causing-ruckus,5,0.121,0.131,0.748,-0.8604,Guardian
+7,47:11.3,TV tonight: Kathy Burke’s wonderfully uplifting documentary about getting older,https://www.theguardian.com/tv-and-radio/2023/mar/08/tv-tonight-kathy-burkes-wonderfully-uplifting-documentary-about-getting-older,6,0.082,0.091,0.827,-0.4374,Guardian
+8,47:11.3,SNP leadership candidates trade personal blows in televised debate,https://www.theguardian.com/politics/2023/mar/07/snp-leadership-candidates-trade-personal-blows-in-televised-debate,7,0.105,0.083,0.812,0.9563,Guardian
+9,47:11.3,Researchers optimistic about potential new treatment for endometriosis,https://www.theguardian.com/society/2023/mar/08/endometriosis-new-treatment-non-hormonal-drug-dichloroacetate,8,0.083,0.076,0.841,0.6317,Guardian
+10,47:11.3,The Tories are doing the same thing yet again and nobody expects results,https://www.theguardian.com/politics/2023/mar/07/the-tories-are-doing-the-same-thing-yet-again-and-nobody-expects-results,9,0.055,0.104,0.841,-0.9949,Guardian
+1,50:04.2,Harry and Meghan's daughter christened in US,https://www.bbc.co.uk/news/uk-64890702,0,0.017,0,0.983,0.3071,BBC
+2,50:04.2,BBC says Lineker being 'spoken to' about tweet,https://www.bbc.co.uk/news/uk-64883655,1,0.067,0.057,0.876,0.8032,BBC
+3,50:04.2,Mother bled to death after treatment delays,https://www.bbc.co.uk/news/uk-england-gloucestershire-64874345,2,0.102,0.105,0.793,-0.8636,BBC
+4,50:04.2,"Bronson has PTSD symptoms, parole panel told",https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-64888459,3,0.084,0.128,0.788,-0.9852,BBC
+5,50:04.2,Swim England 'truly sorry' over abuse allegations,https://www.bbc.co.uk/news/uk-england-64826839,4,0.13,0.106,0.763,0.9809,BBC
+6,50:04.2,Thousands protest at Georgian 'foreign agent' bill,https://www.bbc.co.uk/news/world-europe-64882475,5,0.081,0.095,0.824,-0.7762,BBC
+7,50:04.2,A mum's 'remarkable turnaround' to win her baby back,https://www.bbc.co.uk/news/uk-64874989,6,0.12,0.077,0.803,0.9977,BBC
+8,50:04.2,Musk apologises to Twitter worker over online row,https://www.bbc.co.uk/news/technology-64884287,7,0.061,0.055,0.884,0.4968,BBC
+9,50:04.2,New reward of £150k for detective shooting evidence,https://www.bbc.co.uk/news/uk-northern-ireland-64888560,8,0.081,0.097,0.822,-0.9129,BBC
+10,50:04.2,Dog attacks increase by a third in five years,https://www.bbc.co.uk/news/uk-64798162,9,0.04,0.124,0.836,-0.9986,BBC
+1,50:10.9,"'I had a stress headache!': Horror fans are left 'throwing up and suffering panic attacks' after watching Fall 
+",https://www.dailymail.co.uk/tvshowbiz/article-11830927/Horror-fans-left-throwing-suffering-panic-attacks-watching-Fall.html,0,0.083,0.173,0.744,-0.9938,Daily Mail
+2,50:10.9,"Sephora confirms the opening date of its new London store as the retailer returns to the UK following an 18-year hiatus
+",https://www.dailymail.co.uk/femail/article-11830545/Sephora-confirms-opening-date-new-London-store-returns-UK-18-year-hiatus.html,1,0.141,0.006,0.853,0.9958,Daily Mail
+3,50:10.9,"Man found his best friend dead in Cardiff car crash when he spotted tyre tracks off busy main road after just 15 minutes of searching - and slams police who missed wreckage with five victims inside for 48 hours 
+",https://www.dailymail.co.uk/news/article-11831023/Man-best-friend-dead-Cardiff-car-crash-slams-police-missed-wreckage.html,2,0.081,0.101,0.818,-0.9912,Daily Mail
+4,50:10.9,"'She was cold, scared stiff, not able to reach her mobile phone': Bank worker, 20, who survived Cardiff car crash that left three young people dead 'was hanging in wreckage with bodies all around for TWO DAYS and is unrecognisable', her mother says
+",https://www.dailymail.co.uk/news/article-11832347/Bank-worker-20-survived-Cardiff-car-crash-suspended-wreckage-TWO-DAYS-mother-says.html,3,0.073,0.111,0.817,-0.9982,Daily Mail
+5,50:10.9,"The REAL reason Una Healy ended her unconventional three-way romance with David Haye and girlfriend Sian Osborne - after couple jetted to Costa Rica without her
+",https://www.dailymail.co.uk/tvshowbiz/article-11830495/The-REAL-reason-Una-Healy-ended-unconventional-three-way-romance.html,4,0.102,0.032,0.866,0.9931,Daily Mail
+6,50:10.9,"Calls grow for BBC to sack Gary Lineker for comparing Suella Braverman's migrant crackdown to Nazi Germany: Tory fury at £1.35million-a-year star as MPs say outburst is 'a step too far' 
+",https://www.dailymail.co.uk/news/article-11832541/Gary-Lineker-faces-BBC-rebuke-comparing-Suella-Bravermans-migrant-crackdown-Nazi-Germany.html,5,0.046,0.101,0.853,-0.9907,Daily Mail
+7,50:10.9,"How heat pumps leave some homes so cold people are ripping them out - and even happy owners urge caution: Is the plan to replace our boilers wise?
+",https://www.dailymail.co.uk/money/bills/article-11830589/How-heat-pumps-leave-homes-cold-owners-having-ripped-out.html,6,0.09,0.041,0.869,0.998,Daily Mail
+8,50:10.9,"Southern Britain is blanketed by snow with commuters warned to brace for a rush-hour from hell after what could be the coldest night of the year 
+",https://www.dailymail.co.uk/news/article-11830843/Snow-hits-London-15C-Artic-blast-sweeps-UK-Met-Office-extends-weather-warnings-ice-snow.html,7,0.042,0.067,0.892,-0.9773,Daily Mail
+9,50:10.9,"I spent £4,000 converting a skip into a compact home in London after the rental market went 'crazy' - now my living costs are just £50 per month
+",https://www.dailymail.co.uk/femail/article-11832221/I-spent-4-000-converting-skip-compact-home-London.html,8,0.063,0.076,0.861,-0.7584,Daily Mail
+10,50:10.9,"James Nesbitt, 58, 'is helping to raise his girlfriend Katy Gleadhill's new baby after the actress, 40, conceived while they were on a break'
+",https://www.dailymail.co.uk/tvshowbiz/article-11828273/James-Nesbitt-58-helping-raise-girlfriend-Katy-Gleadhills-new-baby.html,9,0.059,0.04,0.901,0.9326,Daily Mail
+1,50:25.3,Starmer says asylum system ‘utterly broken’ by Tories as Sunak defends small boats plan – UK politics live,https://www.theguardian.com/politics/live/2023/mar/08/suella-braverman-small-boats-illegal-immigration-bill-rishi-sunak-keir-starmer-pmqs-uk-politics-live,0,0.066,0.074,0.861,-0.9367,Guardian
+2,50:25.3,‘I became fair game’: Charlotte Church on Chris Moyles offering to take her virginity at 16,https://www.theguardian.com/tv-and-radio/2023/mar/08/charlotte-church-chris-moyles-kathy-burke,1,0.051,0.026,0.923,0.7952,Guardian
+3,50:25.3,Gary Lineker thanks supporters after criticism for condemning ‘cruel’ small boats policy,https://www.theguardian.com/football/2023/mar/08/gary-lineker-bbc-uk-asylum-policy-nazi-germany-match-of-the-day-presenter,2,0.081,0.09,0.829,-0.9252,Guardian
+4,50:25.3,Kyle Walker could face police action after ‘exposing himself in a bar’,https://www.theguardian.com/football/2023/mar/08/kyle-walker-could-face-police-action-after-exposing-himself-in-a-bar,3,0.095,0.037,0.867,0.8271,Guardian
+5,50:25.3,Braverman denies small boats plan breaks law and struggles with Mo Farah question,https://www.theguardian.com/politics/2023/mar/08/braverman-small-boats-plan-law-mo-farah,4,0.063,0.058,0.879,0.8235,Guardian
+6,50:25.3,"Stop giving daggers to retiring soldiers, says coroner after Somerset murders",https://www.theguardian.com/uk-news/2023/mar/08/stop-giving-daggers-to-ex-soldiers-says-coroner-after-somerset-murders,5,0.023,0.092,0.885,-0.972,Guardian
+7,50:25.3,What fresh misogynist hell is this? Why a new ‘maid’ cafe is causing a ruckus,https://www.theguardian.com/commentisfree/2023/mar/08/what-fresh-misogynist-hell-new-maid-cafe-causing-ruckus,6,0.121,0.131,0.748,-0.8604,Guardian
+8,50:25.3,"Airbnb was wild, disruptive and cheap: we loved it. But it wasn’t a love strong enough to last",https://www.theguardian.com/commentisfree/2023/mar/08/airbnb-wild-disruptive-cheap-lettings-agency,7,0.12,0.049,0.831,0.9958,Guardian
+9,50:25.3,Elon Musk backpedals after mocking disabled Twitter worker in tweet ‘storm’,https://www.theguardian.com/technology/2023/mar/07/elon-musk-twitter-employee-feud-haraldur-thorleifsson,8,0.051,0.039,0.91,0.7771,Guardian
+10,50:25.3,"Tell me about it, stud: the rapturous return of the butch lesbian scene",https://www.theguardian.com/society/2023/mar/08/tell-me-about-it-stud-the-rapturous-return-of-the-butch-lesbian-scene,9,0.088,0.043,0.869,0.9976,Guardian
+1,51:56.0,Harry and Meghan use princess title for Lilibet,https://www.bbc.co.uk/news/uk-64890702,0,0.029,0.006,0.965,0.743,BBC
+2,51:56.0,"I'll keep speaking out, says under-fire Lineker",https://www.bbc.co.uk/news/uk-64891734,1,0.066,0.093,0.841,-0.9575,BBC
+3,51:56.0,Civil servants demand Braverman apology for email,https://www.bbc.co.uk/news/uk-politics-64890882,2,0.072,0.119,0.809,-0.9623,BBC
+4,51:56.0,'I nearly died' - the Olympian wrongly sectioned for 26 days,https://www.bbc.co.uk/sport/rugby-union/64876477,3,0,0,0,0,BBC
+5,51:56.0,Mother bled to death after treatment delays,https://www.bbc.co.uk/news/uk-england-gloucestershire-64874345,4,0.102,0.105,0.793,-0.8636,BBC
+6,51:56.0,Swim England 'truly sorry' over abuse allegations,https://www.bbc.co.uk/news/uk-england-64826839,5,0.13,0.106,0.763,0.9809,BBC
+7,51:56.0,"Bronson has PTSD symptoms, parole panel told",https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-64888459,6,0.075,0.125,0.8,-0.9864,BBC
+8,51:56.0,Ukraine athletes' defiant tribute to killed soldier,https://www.bbc.co.uk/news/world-europe-64887614,7,0.069,0.199,0.732,-0.998,BBC
+9,51:56.0,Stopping small boats is priority for people - PM,https://www.bbc.co.uk/news/uk-politics-64884435,8,0.067,0.076,0.857,-0.8367,BBC
+10,51:56.0,A mum's 'remarkable turnaround' to win her baby back,https://www.bbc.co.uk/news/uk-64874989,9,0.12,0.077,0.803,0.9977,BBC
+1,52:04.0,"'I had a stress headache!': Horror fans are left 'throwing up and suffering panic attacks' after watching Fall 
+",https://www.dailymail.co.uk/tvshowbiz/article-11830927/Horror-fans-left-throwing-suffering-panic-attacks-watching-Fall.html,0,0.083,0.173,0.744,-0.9938,Daily Mail
+2,52:04.0,"Sephora confirms the opening date of its new London store as the retailer returns to the UK following an 18-year hiatus
+",https://www.dailymail.co.uk/femail/article-11830545/Sephora-confirms-opening-date-new-London-store-returns-UK-18-year-hiatus.html,1,0.141,0.006,0.853,0.9958,Daily Mail
+3,52:04.0,"Man found his best friend dead in Cardiff car crash when he spotted tyre tracks off busy main road after just 15 minutes of searching - and slams police who missed wreckage with five victims inside for 48 hours 
+",https://www.dailymail.co.uk/news/article-11831023/Man-best-friend-dead-Cardiff-car-crash-slams-police-missed-wreckage.html,2,0.081,0.101,0.818,-0.9912,Daily Mail
+4,52:04.0,"'She was cold, scared stiff, not able to reach her mobile phone': Bank worker, 20, who survived Cardiff car crash that left three young people dead 'was hanging in wreckage with bodies all around for TWO DAYS and is unrecognisable', her mother says
+",https://www.dailymail.co.uk/news/article-11832347/Bank-worker-20-survived-Cardiff-car-crash-suspended-wreckage-TWO-DAYS-mother-says.html,3,0.073,0.111,0.817,-0.9982,Daily Mail
+5,52:04.0,"Prince Harry and Meghan reveal they have christened daughter 'Princess Lilibet Diana' in intimate Californian ceremony - as couple's friend Omid Scobie claims 'King Charles and William were invited - but didn't come'
+",https://www.dailymail.co.uk/news/article-11835047/Meghan-Prince-Harrys-daughter-Princess-Lilibet-Diana-christened.html,4,0.043,0.069,0.888,-0.9945,Daily Mail
+6,52:04.0,"Calls grow for BBC to sack Gary Lineker for comparing Suella Braverman's migrant crackdown to Nazi Germany: Tory fury at £1.35million-a-year star as MPs say outburst is 'a step too far' 
+",https://www.dailymail.co.uk/news/article-11832541/Gary-Lineker-faces-BBC-rebuke-comparing-Suella-Bravermans-migrant-crackdown-Nazi-Germany.html,5,0.057,0.117,0.826,-0.9935,Daily Mail
+7,52:04.0,"How heat pumps leave some homes so cold people are ripping them out - and even happy owners urge caution: Is the plan to replace our boilers wise?
+",https://www.dailymail.co.uk/money/bills/article-11830589/How-heat-pumps-leave-homes-cold-owners-having-ripped-out.html,6,0.09,0.041,0.869,0.998,Daily Mail
+8,52:04.0,"The REAL reason Una Healy ended her unconventional three-way romance with David Haye and girlfriend Sian Osborne - after couple jetted to Costa Rica without her
+",https://www.dailymail.co.uk/tvshowbiz/article-11830495/The-REAL-reason-Una-Healy-ended-unconventional-three-way-romance.html,7,0.124,0.041,0.834,0.9961,Daily Mail
+9,52:04.0,"I spent £4,000 converting a skip into a compact home in London after the rental market went 'crazy' - now my living costs are just £50 per month
+",https://www.dailymail.co.uk/femail/article-11832221/I-spent-4-000-converting-skip-compact-home-London.html,8,0.063,0.076,0.861,-0.7584,Daily Mail
+10,52:04.0,"Southern Britain is blanketed by snow with commuters warned to brace for a rush-hour from hell after what could be the coldest night of the year 
+",https://www.dailymail.co.uk/news/article-11830843/Snow-hits-London-15C-Artic-blast-sweeps-UK-Met-Office-extends-weather-warnings-ice-snow.html,9,0.044,0.066,0.889,-0.9635,Daily Mail
+1,52:17.4,‘I became fair game’: Charlotte Church on Chris Moyles offering to take her virginity at 16,https://www.theguardian.com/tv-and-radio/2023/mar/08/charlotte-church-chris-moyles-kathy-burke,0,0.051,0.026,0.923,0.7952,Guardian
+2,52:17.4,No 10 says Suella Braverman did not approve email in her name attacking civil servants over small boats – UK politics live,https://www.theguardian.com/politics/live/2023/mar/08/suella-braverman-small-boats-illegal-immigration-bill-rishi-sunak-keir-starmer-pmqs-uk-politics-live,1,0.101,0.121,0.779,-0.998,Guardian
+3,52:17.4,Gary Lineker thanks supporters after criticism for condemning ‘cruel’ small boats policy,https://www.theguardian.com/football/2023/mar/08/gary-lineker-bbc-uk-asylum-policy-nazi-germany-match-of-the-day-presenter,2,0.081,0.09,0.829,-0.9252,Guardian
+4,52:17.4,Kyle Walker facing police action after ‘exposing himself in a bar’,https://www.theguardian.com/football/2023/mar/08/kyle-walker-could-face-police-action-after-exposing-himself-in-a-bar,3,0.058,0.048,0.894,0.2846,Guardian
+5,52:17.4,Braverman denies small boats plan breaks law and struggles with Mo Farah question,https://www.theguardian.com/politics/2023/mar/08/braverman-small-boats-plan-law-mo-farah,4,0.072,0.07,0.858,0.6003,Guardian
+6,52:17.4,Two-thirds of UK women say childcare duties affected career progression,https://www.theguardian.com/society/2023/mar/08/two-thirds-of-women-say-childcare-duties-affected-career-progression,5,0.109,0.04,0.851,0.9943,Guardian
+7,52:17.4,"Airbnb was wild, disruptive and cheap: we loved it. But it wasn’t a love strong enough to last",https://www.theguardian.com/commentisfree/2023/mar/08/airbnb-wild-disruptive-cheap-lettings-agency,6,0.12,0.049,0.831,0.9958,Guardian
+8,52:17.4,"Stop giving daggers to retiring soldiers, says coroner after Somerset murders",https://www.theguardian.com/uk-news/2023/mar/08/stop-giving-daggers-to-ex-soldiers-says-coroner-after-somerset-murders,7,0.023,0.092,0.885,-0.972,Guardian
+9,52:17.4,What fresh misogynist hell is this? Why a new ‘maid’ cafe is causing a ruckus,https://www.theguardian.com/commentisfree/2023/mar/08/what-fresh-misogynist-hell-new-maid-cafe-causing-ruckus,8,0.121,0.131,0.748,-0.8604,Guardian
+10,52:17.4,"Tell me about it, stud: the rapturous return of the butch lesbian scene",https://www.theguardian.com/society/2023/mar/08/tell-me-about-it-stud-the-rapturous-return-of-the-butch-lesbian-scene,9,0.088,0.043,0.869,0.9976,Guardian
+1,58:17.2,Ukraine hit by hypersonic missiles in new barrage,https://www.bbc.co.uk/news/world-europe-64903202,0,0.071,0.151,0.779,-0.9948,BBC
+2,58:17.2,Ex-husband guilty of murdering 'brilliant' scientist,https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-64879514,1,0.07,0.124,0.807,-0.9966,BBC
+3,58:17.2,Food fraud probe into beef falsely labelled British,https://www.bbc.co.uk/news/business-64904334,2,0.047,0.141,0.812,-0.9933,BBC
+4,58:17.2,Latvia sends cars from drunk drivers to Ukraine,https://www.bbc.co.uk/news/world-europe-64903201,3,0.065,0.063,0.872,-0.5267,BBC
+5,58:17.2,WhatsApp: Rather be blocked than weaken security,https://www.bbc.co.uk/news/technology-64863448,4,0.108,0.122,0.77,-0.9704,BBC
+6,58:17.2,Lineker says he does not fear BBC suspension,https://www.bbc.co.uk/news/uk-64899472,5,0.062,0.048,0.891,0.9078,BBC
+7,58:17.2,Why Russia’s energy war strategy isn’t working,https://www.bbc.co.uk/news/world-europe-64900098,6,0.062,0.112,0.826,-0.9698,BBC
+8,58:17.2,HS2 construction delayed by two years to cut costs,https://www.bbc.co.uk/news/business-64901985,7,0.079,0.053,0.869,0.9638,BBC
+9,58:17.2,Harry and Meghan's children get official titles,https://www.bbc.co.uk/news/uk-64901227,8,0.041,0.006,0.953,0.81,BBC
+10,58:17.2,"Olivia's mum 'knew she had gone', trial hears",https://www.bbc.co.uk/news/uk-england-merseyside-64901584,9,0.068,0.081,0.851,-0.9626,BBC
+1,58:35.7,"Owner of Frankie and Benny's, Wagamama and Chiquitos announces it will close up to 35 more restaurants amid cost-of-living crisis 
+",https://www.dailymail.co.uk/news/article-11835615/Owner-Frankie-Bennys-Chiquitos-announces-close-35-restaurants.html,0,0.112,0.058,0.83,0.989,Daily Mail
+2,58:35.7,"Reclusive actor Gene Hackman, 93, enjoys a fast food lunch in his car as he is seen for the first time in years... nearly two decades from his last film role
+",https://www.dailymail.co.uk/tvshowbiz/article-11836189/Gene-Hackman-93-healthy-reclusive-star-seen-time-years-two-decades-film.html,1,0.137,0.033,0.83,0.9965,Daily Mail
+3,58:35.7,"Archie and Lilibet are officially prince and princess: Buckingham Palace updates website to reflect their royal titles - as Harry and Meghan release new statement saying it is their 'birthright' 
+",https://www.dailymail.co.uk/news/article-11838899/Harry-Meghan-say-Archie-Lilibets-prince-princess-titles-birthright.html,2,0.039,0.057,0.904,-0.991,Daily Mail
+4,58:35.7,"Police launch probe into 'altercation' at caravan park hours before horror Cardiff car crash that left three dead and two others seriously injured - as detectives hunt for sixth passenger
+",https://www.dailymail.co.uk/news/article-11836241/Police-launch-probe-altercation-caravan-park-hours-Cardiff-crash-left-three-dead.html,3,0.06,0.085,0.855,-0.9692,Daily Mail
+5,58:35.7,"Did royals snub Lilibet's christening? Harry and Meghan's friend Omid Scobie claims King Charles, Queen Consort and William and Kate 'declined' invitation to California ceremony last Friday as Palace remains silent
+",https://www.dailymail.co.uk/news/article-11836043/Omid-Scobie-claims-Charles-Camilla-William-Kate-declined-Lilibet-christening-invitation.html,4,0.05,0.065,0.885,-0.9903,Daily Mail
+6,58:35.7,"Inside disgraced Stephen Bear's real world with humble three-bed home, 'shop assistant' job and eight failed companies - after faking millionaire lifestyle with rented Rolls-Royce
+",https://www.dailymail.co.uk/tvshowbiz/article-11835465/Inside-disgraced-Stephen-Bears-real-world-faking-millionaire-lifestyle.html,5,0.069,0.131,0.8,-0.9949,Daily Mail
+7,58:35.7,"How often should you really be masturbating? Experts give weekly target for men AND women (and the results may shock you)
+",https://www.dailymail.co.uk/health/article-11818761/How-really-masturbating-Doctors-verdict.html,6,0.127,0.106,0.767,0.9739,Daily Mail
+8,58:35.7,"Bruce Willis' wife Emma Heming shuts down claim his ex Demi Moore has 'moved in' with them to help care for actor following dementia diagnosis
+",https://www.dailymail.co.uk/tvshowbiz/article-11836143/Demi-Moore-moved-ex-husband-Bruce-Wills-care-following-dementia-diagnosis.html,7,0.101,0.084,0.814,0.9639,Daily Mail
+9,58:35.7,"Terrifying moment Iraqi immigrant, 28, stabbed university student, 18, in bid to be deported because he was disillusioned with life in a taxpayer-funded hotel after arriving on a small boat and racking up a string of convictions 
+",https://www.dailymail.co.uk/news/article-11839177/Moment-Iraqi-immigrant-stabbed-university-student-broad-daylight-attack-bid-deported.html,8,0.039,0.189,0.773,-0.9983,Daily Mail
+10,58:35.7,"EXCLUSIVE: Tiger Woods' ex Erica Herman claims he sexually abused her as she sues for $30m and claims he 'tricked' her into leaving his Hobe Sound home to 'go on vacation' and then locked her out
+",https://www.dailymail.co.uk/news/article-11836681/Tiger-Woods-ex-Erica-Herman-claims-locked-Hobe-Sound-home-trickery.html,9,0.098,0.106,0.795,-0.6976,Daily Mail
+1,59:16.2,Braverman says she was offended by Lineker’s Nazi comparison because her husband is Jewish – UK politics live,https://www.theguardian.com/politics/live/2023/mar/09/labour-keir-starmer-childcare-free-hours-rishi-sunak-election-pledges-conservatives-uk-politics-latest,0,0.095,0.063,0.842,0.9989,Guardian
+2,59:16.2,Family trip abroad ends in ‘bad dream’ as Home Office strands father in Turkey,https://www.theguardian.com/politics/2023/mar/09/siyabonga-twala-father-stranded-in-turkey-home-office-limbo,1,0.088,0.096,0.816,-0.9255,Guardian
+3,59:16.2,Growing numbers of Chinese citizens set their sights on the US – via the deadly Darién Gap,https://www.theguardian.com/world/2023/mar/09/growing-numbers-of-chinese-citizens-set-their-sights-on-the-us-via-the-deadly-darien-gap,2,0.063,0.102,0.835,-0.9971,Guardian
+4,59:16.2,Sharon Stone says she lost custody of her son because of scene in Basic Instinct,https://www.theguardian.com/film/2023/mar/09/sharon-stone-says-lost-custody-son-basic-instinct,3,0.045,0.1,0.855,-0.9811,Guardian
+5,59:16.2,‘I became fair game’: Charlotte Church on Chris Moyles offering to take her virginity at 16,https://www.theguardian.com/tv-and-radio/2023/mar/08/charlotte-church-chris-moyles-kathy-burke,4,0.051,0.026,0.923,0.7952,Guardian
+6,59:16.2,HS2 to be delayed by two more years due to soaring costs,https://www.theguardian.com/uk-news/2023/mar/09/parts-hs2-delayed-two-years-cut-soaring-costs-rail-project,5,0.08,0.064,0.856,0.907,Guardian
+7,59:16.2,Mae Muller: I Wrote a Song review – UK Eurovision entry is far from douze points,https://www.theguardian.com/music/2023/mar/09/mae-muller-i-wrote-a-song-review-uk-eurovision-entry-alexis-petridis,6,0.099,0.052,0.849,0.9774,Guardian
+8,59:16.2,Boris Johnson criticised for making millions while rarely appearing in Commons,https://www.theguardian.com/politics/2023/mar/09/boris-johnson-criticised-making-millions-rarely-appearing-in-commons,7,0.075,0.065,0.86,0.8607,Guardian
+9,59:16.2,Mark Everett of Eels: ‘It’s weird being a father when you’re older than your father ever was’,https://www.theguardian.com/culture/2023/mar/09/mark-everett-of-eels-its-weird-being-a-father-when-youre-older-than-your-father-ever-was,8,0.128,0.122,0.75,0.791,Guardian
+10,59:16.2,Mother tells of Olivia Pratt-Korbel ‘gasping for breath’ after shooting,https://www.theguardian.com/uk-news/2023/mar/09/olivia-pratt-korbel-murder-trial-witness-describes-screaming,9,0.045,0.148,0.807,-0.9977,Guardian
+1,27:51.8,Deadly shooting at Hamburg Jehovah's Witness hall,https://www.bbc.co.uk/news/world-europe-64910415,0,0.018,0.153,0.829,-0.9978,BBC
+2,27:51.8,"Actor Robert Blake, once tried for murder, dies at 89",https://www.bbc.co.uk/news/world-us-canada-64911189,1,0.078,0.203,0.719,-0.9966,BBC
+3,27:51.8,Boots Advantage Card loyalty points value reduced,https://www.bbc.co.uk/news/business-64899536,2,0.193,0.008,0.799,0.9958,BBC
+4,27:51.8,Knighthood for Johnson's dad not wise - minister,https://www.bbc.co.uk/news/uk-politics-64911178,3,0.055,0.085,0.861,-0.9297,BBC
+5,27:51.8,'Huge Shambles 2' and nuclear plant luck 'will run out',https://www.bbc.co.uk/news/blogs-the-papers-64910564,4,0.059,0.11,0.831,-0.976,BBC
+6,27:51.8,Schools and football help UK economy rebound,https://www.bbc.co.uk/news/business-64904333,5,0.08,0.051,0.869,0.8917,BBC
+7,27:51.8,Mexico cartel turns in own men over US kidnappings,https://www.bbc.co.uk/news/world-us-canada-64910394,6,0.037,0.124,0.839,-0.9957,BBC
+8,27:51.8,School closures in Northern Ireland,https://www.bbc.co.uk/news/uk-northern-ireland-60498515,7,0.032,0,0.968,0.9896,BBC
+9,27:51.8,Silicon Valley Bank slump rocks financial stocks,https://www.bbc.co.uk/news/business-64911066,8,0.143,0.051,0.806,0.9894,BBC
+10,27:51.8,Food fraud probe into beef falsely labelled British,https://www.bbc.co.uk/news/business-64904334,9,0.043,0.128,0.829,-0.9933,BBC
+1,28:00.3,"Owner of Frankie and Benny's, Wagamama and Chiquitos announces it will close up to 35 more restaurants amid cost-of-living crisis 
+",https://www.dailymail.co.uk/news/article-11835615/Owner-Frankie-Bennys-Chiquitos-announces-close-35-restaurants.html,0,0.112,0.058,0.83,0.989,Daily Mail
+2,28:00.3,"Smiling Meghan enjoys brunch with friends in LA as Buckingham Palace confirms her children HAVE become a prince and princess and line of succession is updated - as it's revealed she and Harry are 'expected' to attend the Coronation of King Charles 
+",https://www.dailymail.co.uk/news/article-11840277/Smiling-Meghan-Markle-enjoys-brunch-friends-Hollywood.html,1,0.051,0.047,0.903,-0.9003,Daily Mail
+3,28:00.3,"Archie and Lilibet are officially prince and princess: Buckingham Palace updates website to reflect their royal titles - as Harry and Meghan release new statement saying it is their 'birthright' 
+",https://www.dailymail.co.uk/news/article-11838899/Harry-Meghan-say-Archie-Lilibets-prince-princess-titles-birthright.html,2,0.034,0.051,0.915,-0.9897,Daily Mail
+4,28:00.3,"Reclusive actor Gene Hackman, 93, enjoys a fast food lunch in his car as he is seen for the first time in years... nearly two decades from his last film role
+",https://www.dailymail.co.uk/tvshowbiz/article-11836189/Gene-Hackman-93-healthy-reclusive-star-seen-time-years-two-decades-film.html,3,0.137,0.033,0.83,0.9965,Daily Mail
+5,28:00.3,"Ronan Keating becomes a grandad at 46! Boyzone singer's Love Island star son Jack makes surprise announcement he has welcomed a baby girl
+",https://www.dailymail.co.uk/tvshowbiz/article-11841561/Ronan-Keating-sons-Jack-dad-Love-Island-star-welcomes-baby-girl.html,4,0.151,0.05,0.799,0.9988,Daily Mail
+6,28:00.3,"Diversity's Ashley Banjo hits back at fans after they slammed his birthday message to estranged wife following their shock split after 16-year romance 
+",https://www.dailymail.co.uk/tvshowbiz/article-11839565/Ashley-Banjo-hits-fans-slammed-birthday-message-ex-wife.html,5,0.193,0.014,0.793,0.9995,Daily Mail
+7,28:00.3,"Watch as Kate Middleton suffers a rare awkward moment as she reaches out to shake hands with Muslim community leader - who offers a polite traditional greeting instead 
+",https://www.dailymail.co.uk/femail/article-11840297/Rare-awkward-moment-Kate-reaches-shake-hands-Muslim-community-leader.html,6,0.122,0.102,0.776,0.9382,Daily Mail
+8,28:00.3,"Terrifying moment Iraqi immigrant, 28, stabbed university student, 18, in bid to be deported because he was disillusioned with life in a taxpayer-funded hotel after arriving on a small boat and racking up a string of convictions 
+",https://www.dailymail.co.uk/news/article-11839177/Moment-Iraqi-immigrant-stabbed-university-student-broad-daylight-attack-bid-deported.html,7,0.039,0.189,0.773,-0.9983,Daily Mail
+9,28:00.3,"EXCLUSIVE 'I will forever cherish that hug': Heartbroken ex-girlfriend shares moment she embraced Cardiff crash victim for final time - as sixth passenger who left vehicle before fatal smash is pictured
+",https://www.dailymail.co.uk/news/article-11840979/Heartbroken-ex-girlfriend-shares-moment-embraced-Cardiff-crash-victim-final-time.html,8,0.079,0.092,0.829,-0.9363,Daily Mail
+10,28:00.3,"Katie Price continues to show off the results of her 16th boob job and new tattoos as she dons a multi-coloured string bikini during Thailand getaway
+",https://www.dailymail.co.uk/tvshowbiz/article-11838889/Katie-Price-shows-results-16th-boob-job-bright-bikini-Thailand-trip.html,9,0.128,0.016,0.856,0.9963,Daily Mail
+1,28:15.9,I once admired Russell Brand. But his grim trajectory shows us where politics is heading,https://www.theguardian.com/commentisfree/2023/mar/10/russell-brand-politics-public-figures-responsibility,0,0.152,0.082,0.767,0.9983,Guardian
+2,28:15.9,Passenger praised for subduing man who tried to stab United flight attendant,https://www.theguardian.com/us-news/2023/mar/10/passenger-praised-subduing-man-stabbing-united-airlines-flight-attendant,1,0.038,0.102,0.86,-0.9915,Guardian
+3,28:15.9,Hamburg shooting: attack at Jehovah’s Witness hall leaves seven dead and dozens wounded in Germany,https://www.theguardian.com/world/2023/mar/09/six-killed-and-others-wounded-in-hamburg-shooting,2,0.021,0.164,0.815,-0.9983,Guardian
+4,28:15.9,Everything But the Girl on their unlikely return: ‘This life came into our music. We didn’t have control over it’,https://www.theguardian.com/music/2023/mar/10/everything-but-the-girl-on-their-unlikely-return-this-life-came-into-our-music-we-didnt-have-control-over-it,3,0.103,0.056,0.841,0.9988,Guardian
+5,28:15.9,"Russia-Ukraine war live: Wagner forces taking ‘tactical pause’ in Bakhmut, says US thinktank",https://www.theguardian.com/world/live/2023/mar/10/russia-ukraine-war-live-wagner-forces-taking-tactical-pause-in-bakhmut-says-us-thinktank,4,0.068,0.148,0.784,-0.9995,Guardian
+6,28:15.9,Trump told of possible criminal charges for paying off Stormy Daniels – report,https://www.theguardian.com/us-news/2023/mar/09/donald-trump-stormy-daniels-criminal-charges,5,0.063,0.119,0.818,-0.9924,Guardian
+7,28:15.9,Boris Johnson nominates Daily Mail chief Paul Dacre for peerage for second time,https://www.theguardian.com/media/2023/mar/09/boris-johnson-again-nominates-daily-mail-chief-paul-dacre-for-peerage,6,0.071,0.097,0.832,-0.9709,Guardian
+8,28:15.9,More than 500 deaths in England last year after long ambulance wait,https://www.theguardian.com/society/2023/mar/09/more-than-500-deaths-in-england-last-year-after-long-ambulance-wait,7,0.092,0.106,0.803,-0.9718,Guardian
+9,28:15.9,Undercover Ambulance: NHS in Chaos review – a lethal lottery seen through horrified eyes,https://www.theguardian.com/tv-and-radio/2023/mar/09/undercover-ambulance-nhs-in-chaos-review-a-lethal-lottery-seen-through-horrified-eyes,8,0.086,0.165,0.749,-0.9979,Guardian
+10,28:15.9,Band given a Banksy to change their name put it up for auction,https://www.theguardian.com/artanddesign/2023/mar/09/band-given-a-banksy-to-change-their-name-put-it-up-for-auction-brace-yourself,9,0.063,0.037,0.9,0.9026,Guardian
+1,31:25.7,Woman and two boys found dead at house,https://www.bbc.co.uk/news/uk-england-london-64916557,0,0,0.112,0.888,-0.9501,BBC
+2,31:25.7,Image issued after man set on fire outside mosque,https://www.bbc.co.uk/news/uk-england-london-64913582,1,0.04,0.065,0.895,-0.5984,BBC
+3,31:25.7,Prince Edward named as new Duke of Edinburgh,https://www.bbc.co.uk/news/uk-64913224,2,0.065,0.031,0.903,0.9581,BBC
+4,31:25.7,Deadly shooting at Hamburg Jehovah's Witness hall,https://www.bbc.co.uk/news/world-europe-64910415,3,0.045,0.153,0.802,-0.9983,BBC
+5,31:25.7,Mexico cartel turns in own men over US kidnappings,https://www.bbc.co.uk/news/world-us-canada-64910394,4,0.037,0.124,0.839,-0.9957,BBC
+6,31:25.7,Britain's 'wonkiest pub' to be sold,https://www.bbc.co.uk/news/uk-england-birmingham-64912966,5,0.077,0.023,0.9,0.8841,BBC
+7,31:25.7,Sensible to give France cash to stop boats - Sunak,https://www.bbc.co.uk/news/uk-politics-64909510,6,0.083,0.036,0.881,0.9887,BBC
+8,31:25.7,"Actor Robert Blake, once tried for murder, dies at 89",https://www.bbc.co.uk/news/world-us-canada-64911189,7,0.078,0.203,0.719,-0.9966,BBC
+9,31:25.7,Boots cuts Advantage Card points earned per pound,https://www.bbc.co.uk/news/business-64899536,8,0.189,0.026,0.785,0.9986,BBC
+10,31:25.7,Schools and football help UK economy rebound,https://www.bbc.co.uk/news/business-64904333,9,0.099,0.057,0.844,0.9765,BBC
+1,31:33.2,"Smiling Meghan enjoys brunch with friends in LA as Buckingham Palace confirms her children HAVE become a prince and princess and line of succession is updated - as it's revealed she and Harry are 'expected' to attend the Coronation of King Charles 
+",https://www.dailymail.co.uk/news/article-11840277/Smiling-Meghan-Markle-enjoys-brunch-friends-Hollywood.html,0,0.051,0.047,0.903,-0.9003,Daily Mail
+2,31:33.2,"Ronan Keating becomes a grandad at 46! Boyzone singer's Love Island star son Jack makes surprise announcement he has welcomed a baby girl
+",https://www.dailymail.co.uk/tvshowbiz/article-11841561/Ronan-Keating-sons-Jack-dad-Love-Island-star-welcomes-baby-girl.html,1,0.151,0.05,0.799,0.9988,Daily Mail
+3,31:33.2,"Watch as Kate Middleton suffers a rare awkward moment as she reaches out to shake hands with Muslim community leader - who offers a polite traditional greeting instead 
+",https://www.dailymail.co.uk/femail/article-11840297/Rare-awkward-moment-Kate-reaches-shake-hands-Muslim-community-leader.html,2,0.122,0.102,0.776,0.9382,Daily Mail
+4,31:33.2,"I'm a paramedic and this is the leading cause of choking fatalities worldwide (and it's not grapes)
+",https://www.dailymail.co.uk/femail/health/article-11841713/Paramedic-Nikki-Jurcutz-shares-balloons-leading-cause-choking-fatalities-worldwide.html,3,0.073,0.174,0.752,-0.9939,Daily Mail
+5,31:33.2,"EXCLUSIVE 'I will forever cherish that hug': Heartbroken ex-girlfriend shares moment she embraced Cardiff crash victim for final time - as sixth passenger who left vehicle before fatal smash is pictured
+",https://www.dailymail.co.uk/news/article-11840979/Heartbroken-ex-girlfriend-shares-moment-embraced-Cardiff-crash-victim-final-time.html,4,0.08,0.09,0.83,-0.9256,Daily Mail
+6,31:33.2,"Snowstorms bring chaos to M62 as blizzards batter Britain (and the mayhem won't stop until SUNDAY): Cars are abandoned in the road as 50mph gales and 15in of snowfall lash the country amid brutal -16C snap
+",https://www.dailymail.co.uk/news/article-11841229/Brace-blizzards-Met-Office-extends-weather-warning-Sunday.html,5,0.034,0.061,0.906,-0.9776,Daily Mail
+7,31:33.2,"Owner of Frankie and Benny's, Wagamama and Chiquitos announces it will close up to 35 more restaurants amid cost-of-living crisis 
+",https://www.dailymail.co.uk/news/article-11835615/Owner-Frankie-Bennys-Chiquitos-announces-close-35-restaurants.html,6,0.112,0.058,0.83,0.989,Daily Mail
+8,31:33.2,"Diversity's Ashley Banjo hits back at fans after they slammed his birthday message to estranged wife following their shock split after 16-year romance 
+",https://www.dailymail.co.uk/tvshowbiz/article-11839565/Ashley-Banjo-hits-fans-slammed-birthday-message-ex-wife.html,7,0.193,0.014,0.793,0.9995,Daily Mail
+9,31:33.2,"EXCLUSIVE: Boost for middle-class workers as Jeremy Hunt plans to raise the pension cap to stop professionals retiring early
+",https://www.dailymail.co.uk/news/article-11841951/Boost-middle-class-workers-Jeremy-Hunt-plans-raise-pension-cap.html,8,0.074,0.062,0.864,0.8997,Daily Mail
+10,31:33.2,"Reclusive actor Gene Hackman, 93, enjoys a fast food lunch in his car as he is seen for the first time in years... nearly two decades from his last film role
+",https://www.dailymail.co.uk/tvshowbiz/article-11836189/Gene-Hackman-93-healthy-reclusive-star-seen-time-years-two-decades-film.html,9,0.137,0.033,0.83,0.9965,Daily Mail
+1,31:49.0,I once admired Russell Brand. But his grim trajectory shows us where politics is heading,https://www.theguardian.com/commentisfree/2023/mar/10/russell-brand-politics-public-figures-responsibility,0,0.152,0.082,0.767,0.9983,Guardian
+2,31:49.0,King Charles gives Prince Edward ‘Duke of Edinburgh’ title,https://www.theguardian.com/uk-news/2023/mar/10/king-charles-gives-prince-edward-duke-of-edinburgh-title,1,0.047,0.012,0.941,0.926,Guardian
+3,31:49.0,Rishi Sunak defends UK payments for French coastline patrols – politics live,https://www.theguardian.com/politics/live/2023/mar/10/rishi-sunak-emmanuel-macron-channel-migrant-crossings-uk-politics-live,2,0.111,0.057,0.833,0.9998,Guardian
+4,31:49.0,‘Extraordinary’ sighting of orca with baby pilot whale astounds scientists,https://www.theguardian.com/environment/2023/mar/10/killer-whale-orca-adopts-abducts-pilot-whale-calf-aoe,3,0.056,0.065,0.879,-0.8334,Guardian
+5,31:49.0,You be the judge: should my wife decide what time we go to sleep?,https://www.theguardian.com/lifeandstyle/2023/mar/10/you-be-the-judge-should-my-wife-decide-what-time-we-go-to-sleep,4,0.102,0.059,0.839,0.994,Guardian
+6,31:49.0,UK weather: Storm Larisa batters UK with snow stalling M62 traffic,https://www.theguardian.com/uk-news/2023/mar/10/met-office-warning-storm-larisa-batters-uk-blizzards-trapping-drivers-m62,5,0.037,0.103,0.859,-0.9767,Guardian
+7,31:49.0,Pension help for middle-class workers as Hunt ‘plans to raise cap in budget’,https://www.theguardian.com/money/2023/mar/10/pension-jeremy-hunt-raise-cap-budget-lifetime-allowance,6,0.08,0.044,0.876,0.956,Guardian
+8,31:49.0,UK economy rebounds with 0.3% growth in January; bank shares tumble in market turmoil – business live,https://www.theguardian.com/business/live/2023/mar/10/uk-gdp-economy-january-growth-recession-bank-shares-silicon-valley-business-live,7,0.077,0.086,0.837,-0.9485,Guardian
+9,31:49.0,Passenger praised for subduing man who tried to stab United flight attendant,https://www.theguardian.com/us-news/2023/mar/10/passenger-praised-subduing-man-stabbing-united-airlines-flight-attendant,8,0.038,0.102,0.86,-0.9915,Guardian
+10,31:49.0,"Robert Blake, actor who was tried over wife’s killing, dies at 89",https://www.theguardian.com/us-news/2023/mar/10/robert-blake-baretta-actor-dies,9,0.055,0.102,0.843,-0.9887,Guardian
+1,50:26.5,Lineker pulled from presenting after impartiality row,https://www.bbc.co.uk/news/uk-64920557,0,0.098,0.081,0.821,0.7821,BBC
+2,50:26.5,"The chef, the model and Rishi's missing millions",https://www.bbc.co.uk/news/uk-64879444,1,0.078,0.113,0.809,-0.9977,BBC
+3,50:26.5,Mother and her two sons found dead at house,https://www.bbc.co.uk/news/uk-england-london-64916557,2,0.039,0.08,0.881,-0.9417,BBC
+4,50:26.5,Basic Instinct cost me my son - Sharon Stone,https://www.bbc.co.uk/news/world-us-canada-64892225,3,0.052,0.09,0.858,-0.9075,BBC
+5,50:26.5,Britain's 'wonkiest pub' to be sold,https://www.bbc.co.uk/news/uk-england-birmingham-64912966,4,0.077,0.023,0.9,0.8841,BBC
+6,50:26.5,More snow and ice to hit UK after travel chaos,https://www.bbc.co.uk/news/uk-64916816,5,0.055,0.09,0.855,-0.9522,BBC
+7,50:26.5,Crash victims were not found for 46 hours - police,https://www.bbc.co.uk/news/uk-wales-64918697,6,0.029,0.142,0.828,-0.9916,BBC
+8,50:26.5,UK to give £500m to help France stop small boats,https://www.bbc.co.uk/news/uk-politics-64916446,7,0.065,0.102,0.834,-0.9879,BBC
+9,50:26.5,Booths is shop embroiled in fake British beef case,https://www.bbc.co.uk/news/business-64913809,8,0.03,0.067,0.902,-0.8593,BBC
+10,50:26.5,Meta exploring plans for Twitter rival,https://www.bbc.co.uk/news/technology-64917397,9,0.07,0.062,0.868,-0.1739,BBC
+1,50:33.4,"Ronan Keating becomes a grandad at 46! Boyzone singer's Love Island star son Jack makes surprise announcement he has welcomed a baby girl
+",https://www.dailymail.co.uk/tvshowbiz/article-11841561/Ronan-Keating-sons-Jack-dad-Love-Island-star-welcomes-baby-girl.html,0,0.151,0.05,0.799,0.9988,Daily Mail
+2,50:33.4,"I'm a paramedic and this is the leading cause of choking fatalities worldwide (and it's not grapes)
+",https://www.dailymail.co.uk/femail/health/article-11841713/Paramedic-Nikki-Jurcutz-shares-balloons-leading-cause-choking-fatalities-worldwide.html,1,0.073,0.174,0.752,-0.9939,Daily Mail
+3,50:33.4,"EXCLUSIVE 'I will forever cherish that hug': Heartbroken ex-girlfriend shares moment she embraced Cardiff crash victim for final time - as sixth passenger who left vehicle before fatal smash is pictured
+",https://www.dailymail.co.uk/news/article-11840979/Heartbroken-ex-girlfriend-shares-moment-embraced-Cardiff-crash-victim-final-time.html,2,0.079,0.09,0.83,-0.9256,Daily Mail
+4,50:33.4,"Smiling Meghan enjoys brunch with friends in LA as Buckingham Palace confirms her children HAVE become a prince and princess and line of succession is updated - as it's revealed she and Harry are 'expected' to attend the Coronation of King Charles 
+",https://www.dailymail.co.uk/news/article-11840277/Smiling-Meghan-Markle-enjoys-brunch-friends-Hollywood.html,3,0.051,0.047,0.903,-0.9003,Daily Mail
+5,50:33.4,"Snowstorms bring chaos to M62 as blizzards batter Britain (and the mayhem won't stop until SUNDAY): Cars are abandoned in the road as 50mph gales and 15in of snowfall lash the country amid brutal -16C snap
+",https://www.dailymail.co.uk/news/article-11841229/Brace-blizzards-Met-Office-extends-weather-warning-Sunday.html,4,0.034,0.061,0.906,-0.9776,Daily Mail
+6,50:33.4,"EXCLUSIVE: Boost for middle-class workers as Jeremy Hunt plans to raise the pension cap to stop professionals retiring early
+",https://www.dailymail.co.uk/news/article-11841951/Boost-middle-class-workers-Jeremy-Hunt-plans-raise-pension-cap.html,5,0.074,0.062,0.864,0.8997,Daily Mail
+7,50:33.4,"New York woman, 50, dies from severe malnutrition after unborn fetus got lodged in her abdomen for nine YEARS
+",https://www.dailymail.co.uk/health/article-11840909/Woman-50-Africa-dies-severe-malnutrition-stone-baby-blocked-intestines.html,6,0.037,0.119,0.844,-0.9986,Daily Mail
+8,50:33.4,"Storm Larisa rolls in and sparks chaos: Rail lines close, flights are grounded, drivers are stuck on roads and a £200,000 Lamborghini Urus smashes into a bus stop as blizzards batter the country before temperatures plunge to -17C tonight
+",https://www.dailymail.co.uk/news/article-11843355/UK-weather-Storm-Larisa-batters-Britain-drivers-trapped-cars.html,7,0.067,0.102,0.831,-0.9962,Daily Mail
+9,50:33.4,"Iconic TV advert star looks unrecognisable following five stone weight loss - can you guess who it is?
+",https://www.dailymail.co.uk/tvshowbiz/article-11843877/Iconic-TV-advert-star-looks-unrecognisable-following-incredible-five-stone-weight-loss.html,8,0.103,0.127,0.77,-0.9377,Daily Mail
+10,50:33.4,"Prince Edward WILL become Duke of Edinburgh: Earl of Wessex is finally granted title he was promised on his wedding day by the Queen as King Charles bestows honour on his brother's 59th birthday
+",https://www.dailymail.co.uk/news/article-11843643/Prince-Edward-granted-Duke-Edinburgh-title-59th-birthday.html,9,0.057,0.048,0.895,0.3714,Daily Mail
+1,50:48.0,BBC will not broadcast Attenborough episode over fear of ‘rightwing backlash’,https://www.theguardian.com/media/2023/mar/10/david-attenborough-bbc-wild-isles-episode-rightwing-backlash-fears,0,0.106,0.07,0.824,0.9933,Guardian
+2,50:48.0,BBC suspends Gary Lineker from Match of the Day for impartiality breach,https://www.theguardian.com/football/2023/mar/10/gary-lineker-step-back-match-of-the-day-bbc,1,0.07,0.078,0.852,-0.8416,Guardian
+3,50:48.0,Ian Wright and Alan Shearer snub Match of the Day after Gary Lineker dropped – live,https://www.theguardian.com/football/live/2023/mar/10/premier-league-team-news-previews-press-conferences-and-european-reaction-live,2,0.13,0.07,0.8,0.9998,Guardian
+4,50:48.0,Police name woman and two sons aged 9 and 7 found dead in south London,https://www.theguardian.com/uk-news/2023/mar/10/woman-two-boys-found-dead-house-south-london-belvedere,3,0.071,0.082,0.847,-0.7,Guardian
+5,50:48.0,Budget 2023: Hunt plans to raise pension cap and improve childcare help,https://www.theguardian.com/money/2023/mar/10/pension-jeremy-hunt-raise-cap-budget-lifetime-allowance,4,0.093,0.047,0.86,0.9822,Guardian
+6,50:48.0,Hamburg police were tipped off about gunman but did not take his weapon,https://www.theguardian.com/world/2023/mar/10/hamburg-shooting-police-jehovahs-witness-germany,5,0.08,0.123,0.797,-0.996,Guardian
+7,50:48.0,I once admired Russell Brand. But his grim trajectory shows us where politics is heading,https://www.theguardian.com/commentisfree/2023/mar/10/russell-brand-politics-public-figures-responsibility,6,0.152,0.082,0.767,0.9983,Guardian
+8,50:48.0,Developers who destroyed historic Lancashire pub ordered to rebuild it,https://www.theguardian.com/uk-news/2023/mar/10/developers-who-destroyed-historic-lancashire-pub-punch-bowl-inn-hurst-green-ordered-to-rebuild-it,7,0.038,0.087,0.875,-0.962,Guardian
+9,50:48.0,"A fifth of teenagers watch porn frequently and some are addicted, UK study finds",https://www.theguardian.com/society/2023/mar/10/porn-study-survey-uk-teenagers-addicted,8,0.051,0.097,0.851,-0.995,Guardian
+10,50:48.0,Rishi Sunak announces new detention centre in northern France after meeting with Emmanuel Macron – as it happened,https://www.theguardian.com/politics/live/2023/mar/10/rishi-sunak-emmanuel-macron-channel-migrant-crossings-uk-politics-live,9,0.125,0.088,0.787,0.9976,Guardian
+1,12:24.8,Lineker pulled from presenting after impartiality row,https://www.bbc.co.uk/news/uk-64920557,0,0.092,0.076,0.832,0.7821,BBC
+2,12:24.8,Basic Instinct cost me my son - Sharon Stone,https://www.bbc.co.uk/news/world-us-canada-64892225,1,0.064,0.103,0.833,-0.9166,BBC
+3,12:24.8,"The chef, the model and Rishi's missing millions",https://www.bbc.co.uk/news/uk-64879444,2,0.078,0.113,0.809,-0.9977,BBC
+4,12:24.8,Mother and her two sons found dead at house,https://www.bbc.co.uk/news/uk-england-london-64916557,3,0.039,0.08,0.881,-0.9417,BBC
+5,12:24.8,Britain's 'wonkiest pub' to be sold,https://www.bbc.co.uk/news/uk-england-birmingham-64912966,4,0.077,0.023,0.9,0.8841,BBC
+6,12:24.8,More snow and ice to hit UK after travel chaos,https://www.bbc.co.uk/news/uk-64916816,5,0.055,0.09,0.855,-0.9522,BBC
+7,12:24.8,Crash victims were not found for 46 hours - police,https://www.bbc.co.uk/news/uk-wales-64918697,6,0.029,0.142,0.828,-0.9916,BBC
+8,12:24.8,UK to give £500m to help France stop small boats,https://www.bbc.co.uk/news/uk-politics-64916446,7,0.065,0.102,0.834,-0.9879,BBC
+9,12:24.8,Booths is shop embroiled in fake British beef case,https://www.bbc.co.uk/news/business-64913809,8,0.03,0.067,0.902,-0.8593,BBC
+10,12:24.8,Meta exploring plans for Twitter rival,https://www.bbc.co.uk/news/technology-64917397,9,0.07,0.062,0.868,-0.1739,BBC
+1,12:30.3,"Ronan Keating becomes a grandad at 46! Boyzone singer's Love Island star son Jack makes surprise announcement he has welcomed a baby girl
+",https://www.dailymail.co.uk/tvshowbiz/article-11841561/Ronan-Keating-sons-Jack-dad-Love-Island-star-welcomes-baby-girl.html,0,0.151,0.05,0.799,0.9988,Daily Mail
+2,12:30.3,"I'm a paramedic and this is the leading cause of choking fatalities worldwide (and it's not grapes)
+",https://www.dailymail.co.uk/femail/health/article-11841713/Paramedic-Nikki-Jurcutz-shares-balloons-leading-cause-choking-fatalities-worldwide.html,1,0.073,0.174,0.752,-0.9939,Daily Mail
+3,12:30.3,"EXCLUSIVE 'I will forever cherish that hug': Heartbroken ex-girlfriend shares moment she embraced Cardiff crash victim for final time - as sixth passenger who left vehicle before fatal smash is pictured
+",https://www.dailymail.co.uk/news/article-11840979/Heartbroken-ex-girlfriend-shares-moment-embraced-Cardiff-crash-victim-final-time.html,2,0.079,0.09,0.83,-0.9256,Daily Mail
+4,12:30.3,"Smiling Meghan enjoys brunch with friends in LA as Buckingham Palace confirms her children HAVE become a prince and princess and line of succession is updated - as it's revealed she and Harry are 'expected' to attend the Coronation of King Charles 
+",https://www.dailymail.co.uk/news/article-11840277/Smiling-Meghan-Markle-enjoys-brunch-friends-Hollywood.html,3,0.051,0.047,0.903,-0.9003,Daily Mail
+5,12:30.3,"Snowstorms bring chaos to M62 as blizzards batter Britain (and the mayhem won't stop until SUNDAY): Cars are abandoned in the road as 50mph gales and 15in of snowfall lash the country amid brutal -16C snap
+",https://www.dailymail.co.uk/news/article-11841229/Brace-blizzards-Met-Office-extends-weather-warning-Sunday.html,4,0.034,0.061,0.906,-0.9776,Daily Mail
+6,12:30.3,"EXCLUSIVE: Boost for middle-class workers as Jeremy Hunt plans to raise the pension cap to stop professionals retiring early
+",https://www.dailymail.co.uk/news/article-11841951/Boost-middle-class-workers-Jeremy-Hunt-plans-raise-pension-cap.html,5,0.097,0.083,0.82,0.9419,Daily Mail
+7,12:30.3,"New York woman, 50, dies from severe malnutrition after unborn fetus got lodged in her abdomen for nine YEARS
+",https://www.dailymail.co.uk/health/article-11840909/Woman-50-Africa-dies-severe-malnutrition-stone-baby-blocked-intestines.html,6,0.038,0.124,0.837,-0.9988,Daily Mail
+8,12:30.3,"Storm Larisa rolls in and sparks chaos: Rail lines close, flights are grounded, drivers are stuck on roads and a £200,000 Lamborghini Urus smashes into a bus stop as blizzards batter the country before temperatures plunge to -17C tonight
+",https://www.dailymail.co.uk/news/article-11843355/UK-weather-Storm-Larisa-batters-Britain-drivers-trapped-cars.html,7,0.067,0.102,0.831,-0.9962,Daily Mail
+9,12:30.3,"Iconic TV advert star looks unrecognisable following five stone weight loss - can you guess who it is?
+",https://www.dailymail.co.uk/tvshowbiz/article-11843877/Iconic-TV-advert-star-looks-unrecognisable-following-incredible-five-stone-weight-loss.html,8,0.103,0.127,0.77,-0.9377,Daily Mail
+10,12:30.3,"Prince Edward WILL become Duke of Edinburgh: Earl of Wessex is finally granted title he was promised on his wedding day by the Queen as King Charles bestows honour on his brother's 59th birthday
+",https://www.dailymail.co.uk/news/article-11843643/Prince-Edward-granted-Duke-Edinburgh-title-59th-birthday.html,9,0.057,0.048,0.895,0.3714,Daily Mail
+1,12:44.3,BBC will not broadcast Attenborough episode over fear of ‘rightwing backlash’,https://www.theguardian.com/media/2023/mar/10/david-attenborough-bbc-wild-isles-episode-rightwing-backlash-fears,0,0.106,0.07,0.824,0.9933,Guardian
+2,12:44.3,BBC suspends Gary Lineker from Match of the Day for impartiality breach,https://www.theguardian.com/football/2023/mar/10/gary-lineker-step-back-match-of-the-day-bbc,1,0.068,0.075,0.856,-0.855,Guardian
+3,12:44.3,Ian Wright and Alan Shearer snub Match of the Day after Gary Lineker dropped – live,https://www.theguardian.com/football/live/2023/mar/10/premier-league-team-news-previews-press-conferences-and-european-reaction-live,2,0.129,0.07,0.8,0.9998,Guardian
+4,12:44.3,Police name woman and two sons aged 9 and 7 found dead in south London,https://www.theguardian.com/uk-news/2023/mar/10/woman-two-boys-found-dead-house-south-london-belvedere,3,0.072,0.083,0.845,-0.7,Guardian
+5,12:44.3,Budget 2023: Hunt plans to raise pension cap and improve childcare help,https://www.theguardian.com/money/2023/mar/10/pension-jeremy-hunt-raise-cap-budget-lifetime-allowance,4,0.093,0.047,0.86,0.9822,Guardian
+6,12:44.3,"A fifth of teenagers watch porn frequently and some are addicted, UK study finds",https://www.theguardian.com/society/2023/mar/10/porn-study-survey-uk-teenagers-addicted,5,0.057,0.109,0.834,-0.9966,Guardian
+7,12:44.3,I once admired Russell Brand. But his grim trajectory shows us where politics is heading,https://www.theguardian.com/commentisfree/2023/mar/10/russell-brand-politics-public-figures-responsibility,6,0.152,0.082,0.767,0.9983,Guardian
+8,12:44.3,Hamburg police were tipped off about gunman but did not take his weapon,https://www.theguardian.com/world/2023/mar/10/hamburg-shooting-police-jehovahs-witness-germany,7,0.08,0.123,0.797,-0.996,Guardian
+9,12:44.3,Developers who destroyed historic Lancashire pub ordered to rebuild it,https://www.theguardian.com/uk-news/2023/mar/10/developers-who-destroyed-historic-lancashire-pub-punch-bowl-inn-hurst-green-ordered-to-rebuild-it,8,0.038,0.087,0.875,-0.962,Guardian
+10,12:44.3,Nasa tracking asteroid that could ruin Valentine’s Day in 2046,https://www.theguardian.com/science/2023/mar/10/nasa-asteroid-2023-dw-valentines-day,9,0.031,0.07,0.899,-0.8225,Guardian
+1,17:20.0,Match of the Day in crisis as staff boycott grows,https://www.bbc.co.uk/news/uk-64918162,0,0.058,0.05,0.892,-0.4909,BBC
+2,17:20.0,US bank taken over in biggest failure since 2008,https://www.bbc.co.uk/news/business-64915616,1,0.071,0.084,0.845,-0.9054,BBC
+3,17:20.0,Lineker decision comes at high price for BBC,https://www.bbc.co.uk/news/entertainment-arts-64922674,2,0.087,0.088,0.825,0.5882,BBC
+4,17:20.0,BBC faces 'revolt' over Lineker as stars walk out,https://www.bbc.co.uk/news/blogs-the-papers-64922412,3,0.076,0.074,0.85,-0.3516,BBC
+5,17:20.0,Fears of a hidden rise in Roma children in care,https://www.bbc.co.uk/news/uk-64919261,4,0.073,0.086,0.841,-0.8569,BBC
+6,17:20.0,Baby born at 22 weeks beats 10% survival odds,https://www.bbc.co.uk/news/uk-wales-64875309,5,0.094,0.046,0.86,0.9838,BBC
+7,17:20.0,Has Putin’s assault on Ukraine’s power grid failed?,https://www.bbc.co.uk/news/world-europe-64899045,6,0.095,0.129,0.776,-0.9943,BBC
+8,17:20.0,Ex-bomb suspect regained citizenship in MI5 U-turn,https://www.bbc.co.uk/news/uk-64890833,7,0.046,0.159,0.795,-0.9994,BBC
+9,17:20.0,Why the chancellor wants this Budget to be boring,https://www.bbc.co.uk/news/business-64892938,8,0.132,0.023,0.845,0.9985,BBC
+10,17:20.0,The six-year-old boy who's tired and homeless,https://www.bbc.co.uk/news/uk-64889778,9,0.085,0.067,0.848,0.9456,BBC
+1,17:25.3,"Commentators and PLAYERS join Match of the Day boycott: Show to air with NO host, pundits or interviews after mutiny when BBC forced Gary Lineker off-air due to Nazi tweet row and colleagues walked out in solidarity - in worst crisis in its 59-year history
+",https://www.dailymail.co.uk/news/article-11845289/BBC-takes-Gary-Lineker-AIR.html,0,0.086,0.066,0.849,0.9988,Daily Mail
+2,17:25.3,"Even now, I can't explain why I didn't leave my high-powered wife who beat me black and blue for 20 years: British man, 46, reveals how he wore make-up to hide his bruises inflicted by prison reform boss wife during regular beatings she doled-out
+",https://www.dailymail.co.uk/news/article-11846275/Man-reveals-wore-make-hide-bruises-abuse-norm-marriage.html,1,0.118,0.126,0.756,-0.9918,Daily Mail
+3,17:25.3,"Iconic TV advert star looks unrecognisable following five stone weight loss - can you guess who it is?
+",https://www.dailymail.co.uk/tvshowbiz/article-11843877/Iconic-TV-advert-star-looks-unrecognisable-following-incredible-five-stone-weight-loss.html,2,0.103,0.127,0.77,-0.9377,Daily Mail
+4,17:25.3,"Britain's High Streets will be hit by a dozen more closures tomorrow as Argos, Boots and B&Q shut branches - so is your local store at risk?
+",https://www.dailymail.co.uk/news/article-11844155/Britains-High-Streets-hit-closures-tomorrow-Argos-Boots-B-Q-shut-branches.html,3,0.05,0.016,0.934,0.9711,Daily Mail
+5,17:25.3,"Chelsea sacked manager Thomas Tuchel 'for mysterious off-the-field reasons', email from his ex-wife claims - as he seeks injunction to stop her publishing it 
+",https://www.dailymail.co.uk/sport/football/article-11843571/Thomas-Tuchel-Chelsea-sack-reasons-allegedly-revealed-email.html,4,0.11,0.031,0.858,0.9972,Daily Mail
+6,17:25.3,"An iconic TV channel is set to be AXED after 17 years on screens as it moves to streaming in a major-shakeup
+",https://www.dailymail.co.uk/tvshowbiz/article-11844251/Iconic-TV-channel-set-AXED-17-years.html,5,0.139,0.026,0.836,0.9957,Daily Mail
+7,17:25.3,"The Duchess of Edinburgh! Edward's new title moves wife Sophie up the royal ranks - so, was it a canny move by King Charles to promote the woman dubbed The Firm's secret weapon and who called the late Queen 'mama'?
+",https://www.dailymail.co.uk/femail/article-11843837/The-Duchess-Edinburgh-Prince-Edwards-wife-Sophie-earns-new-title.html,6,0.074,0.04,0.886,0.9915,Daily Mail
+8,17:25.3,"Stephen Bear 'is a broken man and on suicide watch in prison' after 'crying in his cell for days because he didn't expect to be jailed for revenge porn tape' 
+",https://www.dailymail.co.uk/news/article-11844149/Stephen-Bear-broken-man-suicide-watch-prison.html,7,0.069,0.176,0.755,-0.9983,Daily Mail
+9,17:25.3,"Antiques Road Trip star makes huge profit at auction after spending just £5 on two tiny gold pendants
+",https://www.dailymail.co.uk/tvshowbiz/article-11843575/Antiques-Road-Trip-star-makes-huge-profit-auction-spending-just-5-gold-pendants.html,8,0.176,0.005,0.819,0.9978,Daily Mail
+10,17:25.3,"Pictured: Two brothers, aged seven and nine, who were found dead in London home along with their mother, 47, as police say they are not looking for anyone else over the tragedy 
+",https://www.dailymail.co.uk/news/article-11844549/Pictured-Mother-47-dead-London-home-two-sons-aged-seven-nine.html,9,0.071,0.102,0.827,-0.9771,Daily Mail
+1,17:36.7,Match of the Day to air without presenter or pundits after Gary Lineker’s suspension,https://www.theguardian.com/football/2023/mar/10/gary-lineker-step-back-match-of-the-day-bbc,0,0.053,0.035,0.912,0.9437,Guardian
+2,17:36.7,BBC will not broadcast Attenborough episode over fear of ‘rightwing backlash’,https://www.theguardian.com/media/2023/mar/10/david-attenborough-bbc-wild-isles-episode-rightwing-backlash-fears,1,0.107,0.067,0.826,0.9954,Guardian
+3,17:36.7,Don’t forget to floss: the science behind dementia and the four things you should do to prevent it,https://www.theguardian.com/lifeandstyle/2023/mar/11/dont-forget-to-floss-the-science-behind-dementia-and-the-four-things-you-should-do-to-prevent-it,2,0.128,0.082,0.79,0.9991,Guardian
+4,17:36.7,BBC apologises for failure to scrutinise Nadine Dorries’ claims about Sue Gray,https://www.theguardian.com/politics/2023/mar/10/bbc-apologises-failure-scrutinise-nadine-dorries-claims-sue-gray,3,0.068,0.117,0.815,-0.9904,Guardian
+5,17:36.7,Kefalonia claims the title of best Greek island in Which? Travel survey,https://www.theguardian.com/travel/2023/mar/11/kefalonia-claims-the-title-of-best-greek-island-in-which-travel-survey,4,0.136,0.024,0.84,0.9988,Guardian
+6,17:36.7,"Matt Hancock’s leaked messages being ‘used to rewrite history’, say civil servants",https://www.theguardian.com/politics/2023/mar/11/matt-hancocks-leaked-messages-are-being-used-to-rewrite-history,5,0.092,0.084,0.824,0.9087,Guardian
+7,17:36.7,Blind date: ‘It was more of a fourth-date kind of menu’,https://www.theguardian.com/lifeandstyle/2023/mar/11/blind-date-divya-kishan,6,0.187,0.041,0.772,0.9988,Guardian
+8,17:36.7,Rishi Sunak offers soft rebuke to claims Boris Johnson abused honours list,https://www.theguardian.com/politics/2023/mar/10/rishi-sunak-rebukes-claims-boris-stanley-johnson-abused-honours-list-nighthood,7,0.107,0.054,0.839,0.9838,Guardian
+9,17:36.7,"UK state pensions: later deadline for NI top-ups that can mean £55,000 extra",https://www.theguardian.com/money/2023/mar/11/uk-state-pensions-deadline-ni-top-ups-national-insurance,8,0.087,0.027,0.886,0.9956,Guardian
+10,17:36.7,Arizona family discovers bobcat has taken over their dog’s bed,https://www.theguardian.com/us-news/2023/mar/10/squeakers-survives-bobcat-standoff-after-finding-the-animal-in-his-dog-bed,9,0.047,0.063,0.89,-0.8961,Guardian
+1,29:07.2,"I'll cut childcare costs to boost workforce, says Hunt",https://www.bbc.co.uk/news/uk-politics-64931202,0,0.189,0.04,0.771,0.9935,BBC
+2,29:07.2,UK to help tech firms after US bank collapse,https://www.bbc.co.uk/news/business-64930944,1,0.06,0.089,0.851,-0.8992,BBC
+3,29:07.2,"Lineker tweet a technical breach, ex-BBC head says",https://www.bbc.co.uk/news/uk-64930957,2,0.077,0.102,0.821,-0.97,BBC
+4,29:07.2,Former Eurovision winner completes 2023 line-up,https://www.bbc.co.uk/news/entertainment-arts-64905291,3,0.122,0.037,0.841,0.992,BBC
+5,29:07.2,Saudi's Aramco oil firm makes record $161bn profit,https://www.bbc.co.uk/news/world-middle-east-64931074,4,0.068,0.113,0.818,-0.9834,BBC
+6,29:07.2,Israel sees one of its biggest-ever protests,https://www.bbc.co.uk/news/world-middle-east-64929563,5,0.064,0.116,0.82,-0.9865,BBC
+7,29:07.2,Lineker 'chaos' pressures BBC chiefs and asylum plan,https://www.bbc.co.uk/news/blogs-the-papers-64929493,6,0.022,0.06,0.917,-0.9373,BBC
+8,29:07.2,Sunak in US to finalise Aukus defence pact,https://www.bbc.co.uk/news/uk-64929819,7,0.065,0.049,0.887,0.6804,BBC
+9,29:07.2,Stars gear up for Oscars ceremony in Los Angeles,https://www.bbc.co.uk/news/entertainment-arts-64857431,8,0.203,0.044,0.753,0.9997,BBC
+10,29:07.2,The island orca spotters who helped David Attenborough,https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-64906631,9,0.088,0.05,0.862,0.9518,BBC
+1,29:13.4,"BBC Director-General refuses to quit over Gary Lineker fiasco: Tim Davie says Match of the Day host is 'the best' and he wants him 'back on air' as he repeats apology to viewers for schedules being torn up and Match Of The Day slashed to just 20 minutes 
+",https://www.dailymail.co.uk/sport/football/article-11847561/Alex-Scotts-solidarity-Gary-Lineker-sees-pull-presenting-Football-Focus-today.html,0,0.096,0.088,0.816,0.969,Daily Mail
+2,29:13.4,"Gary Lineker wanted by BT Sport to present their Premier League coverage next season after the presenter's controversial MOTD axing... with only a major BBC climbdown likely to see him return 
+",https://www.dailymail.co.uk/sport/football/article-11848145/Gary-Lineker-chased-BT-Sport-present-Premier-League-coverage.html,1,0.069,0.074,0.857,-0.34,Daily Mail
+3,29:13.4,"Prince Andrew is 'bewildered' and 'in despair' that the King has not shared the £650million inheritance from the Queen with his siblings after being the sole beneficiary of his mother's fortune
+",https://www.dailymail.co.uk/news/article-11848891/Prince-Andrew-bewildered-despair-King-not-shared-650million-inheritance.html,2,0.094,0.088,0.818,0.3308,Daily Mail
+4,29:13.4,"What do YOU see? Keep looking at the night-time beach scene... you'll soon realise what is REALLY is
+",https://www.dailymail.co.uk/femail/uk-femail-weekend-features-project/article-11834697/What-looking-night-time-beach-scene-youll-soon-realise-REALLY-is.html,3,0.094,0.042,0.865,0.9076,Daily Mail
+5,29:13.4,"Knives out! As Richard Madeley calls Chris Rock the stroppiest star he's ever met, a run-down of the 'rudest' people in showbiz - as voted by fellow celebs!
+",https://www.dailymail.co.uk/tvshowbiz/article-11839573/As-Richard-Madeley-calls-Chris-Rock-stroppiest-star-hes-met-run-rudest-celebs.html,4,0.118,0.086,0.797,0.9982,Daily Mail
+6,29:13.4,"Interactive map reveals England's best primary schools, according to Ofsted - is there one near YOU?
+",https://www.dailymail.co.uk/news/uk-news-weekend-features-project/article-11838939/Interactive-map-reveals-Englands-best-primary-schools-according-Ofsted-one-near-YOU.html,5,0.123,0.046,0.831,0.9935,Daily Mail
+7,29:13.4,"Dad will NEVER back down says Gary Lineker's son: Pressure on Director-General grows as Match of the Day host digs in over Nazi tweet - amid fears 'strike in all but name' will spread to other sports and even news, leaving BBC 'on verge of Armageddon' 
+",https://www.dailymail.co.uk/sport/football/article-11848957/Gary-Lineker-knows-hes-wrong-wont-apologise-Match-Day-starts.html,6,0.096,0.088,0.816,0.9826,Daily Mail
+8,29:13.4,"'Archie and Lilibet WON'T be invited to coronation but Camilla's grandchildren WILL': Royals in fresh snub to Harry and Meghan who 'they hope will be seated in Iceland' for ceremony
+",https://www.dailymail.co.uk/news/article-11849381/Archie-Lilibet-not-invited-coronation-Camillas-grandkids-Harry-Meghan-snub.html,7,0.071,0.024,0.906,0.9883,Daily Mail
+9,29:13.4,"Sophie Wessex is 'relieved' her move up the royal ranks means she no longer has to curtsey to Meghan, friends say 
+",https://www.dailymail.co.uk/news/article-11848813/Sophie-Wessex-relieved-royal-ranks-means-no-longer-curtsey-Meghan.html,8,0.1,0.069,0.831,0.9232,Daily Mail
+10,29:13.4,"Some of Prince Harry's family members 'WERE at Princess Lilibet's christening' - despite senior royals not attending, report claims
+",https://www.dailymail.co.uk/femail/article-11847859/Some-Prince-Harrys-family-members-Princess-Lilibets-christening.html,9,0.117,0.025,0.858,0.9979,Daily Mail
+1,29:27.3,Gary Lineker suspension: Match of the Day 2 and Women’s Super League coverage to be ‘much reduced’ as BBC crisis deepens – live,https://www.theguardian.com/media/live/2023/mar/12/gary-lineker-suspension-bbc-match-of-the-day-latest-reaction-news-updates,0,0.091,0.079,0.83,0.9879,Guardian
+2,29:27.3,Revealed: experts who praised new ‘skinny jab’ received payments from drug maker,https://www.theguardian.com/business/2023/mar/12/revealed-experts-who-praised-new-skinny-jab-received-payments-from-drug-maker,1,0.115,0.025,0.86,0.9985,Guardian
+3,29:27.3,The wife of ‘Sir Stanley’ couldn’t tolerate his abuse and nor should the rest of us,https://www.theguardian.com/commentisfree/2023/mar/12/wife-of-sir-stanley-couldnt-tolerate-his-abuse-neither-should-rest-of-us,2,0.088,0.166,0.747,-0.9983,Guardian
+4,29:27.3,Gary Lineker was singled out from a long list of BBC stars who express political views,https://www.theguardian.com/football/2023/mar/11/gary-lineker-was-singled-out-from-a-long-list-of-bbc-stars-who-express-political-views,3,0.071,0.052,0.877,0.9437,Guardian
+5,29:27.3,I’ve never had a job or close friends. What is wrong with me?,https://www.theguardian.com/lifeandstyle/2023/mar/12/ask-philippa-perry-i-have-never-had-a-job-or-close-friends-what-is-wrong-with-me,4,0.126,0.122,0.752,0.4357,Guardian
+6,29:27.3,"Match of the Day review – without Lineker, this is just 20 minutes of shameful, joyless TV",https://www.theguardian.com/tv-and-radio/2023/mar/12/match-of-the-day-review-without-gary-lineker-this-is-just-20-minutes-of-shameful-joyless-tv,5,0.081,0.089,0.83,-0.6514,Guardian
+7,29:27.3,Rishi Sunak has electricity grid upgraded to heat his private pool,https://www.theguardian.com/politics/2023/mar/12/rishi-sunak-has-electricity-grid-upgraded-to-heat-his-private-pool,6,0.062,0.021,0.917,0.9533,Guardian
+8,29:27.3,Lineker row threatens to topple BBC chiefs and hit Tory asylum plans,https://www.theguardian.com/media/2023/mar/11/lineker-row-theatens-topple-bbc-chiefs-and-hit-tory-asylum-plans,7,0.088,0.092,0.82,-0.8753,Guardian
+9,29:27.3,Junior doctors paid lower hourly rate than workers to get at Pret,https://www.theguardian.com/society/2023/mar/12/junior-doctors-paid-lower-hourly-rate-than-workers-to-get-at-pret,8,0.081,0.09,0.829,0.5845,Guardian
+10,29:27.3,"Illegal migration bill is ‘cruelty without purpose’, says Archbishop of York",https://www.theguardian.com/uk-news/2023/mar/12/migration-bill-is-cruelty-without-purpose-says-archbishop-of-york,9,0.09,0.15,0.76,-0.9981,Guardian
+1,53:56.2,Dictator's corrupt daughter spent £200m on property,https://www.bbc.co.uk/news/world-64915348,0,0.07,0.083,0.847,-0.8987,BBC
+2,53:56.2,Heavy losses reported as battle for Bakhmut rages,https://www.bbc.co.uk/news/world-europe-64935449,1,0.044,0.178,0.778,-0.9975,BBC
+3,53:56.2,Caroline Flack's mum does not accept Met apology,https://www.bbc.co.uk/news/uk-64909550,2,0.062,0.119,0.819,-0.9901,BBC
+4,53:56.2,HSBC swoops in to rescue UK arm of Silicon Valley Bank,https://www.bbc.co.uk/news/business-64937251,3,0.073,0.111,0.816,-0.9877,BBC
+5,53:56.2,The best fashion looks at the Oscars,https://www.bbc.co.uk/news/entertainment-arts-64935067,4,0.199,0.016,0.785,0.9994,BBC
+6,53:56.2,Roman burial unearthed at hidden cemetery,https://www.bbc.co.uk/news/uk-england-leeds-64917979,5,0.038,0.027,0.935,0.2382,BBC
+7,53:56.2,7 best moments from this year's Oscars,https://www.bbc.co.uk/news/entertainment-arts-64935925,6,0.184,0.042,0.773,0.9981,BBC
+8,53:56.2,Lineker 'to return' to TV and bank collapse,https://www.bbc.co.uk/news/blogs-the-papers-64935127,7,0.105,0.112,0.783,-0.9438,BBC
+9,53:56.2,All of the winners at the 95th Academy Awards,https://www.bbc.co.uk/news/entertainment-arts-64935479,8,0.207,0.035,0.758,0.8739,BBC
+10,53:56.2,Everything Everywhere cleans up at the Oscars,https://www.bbc.co.uk/news/entertainment-arts-64935289,9,0.262,0.049,0.689,0.9999,BBC
+1,54:04.8,"What REALLY happened between Meghan and Fergie? After Sarah said she 'hadn't met' Harry's wife, inside their relationship across two weddings, a funeral and THAT pregnancy reveal 
+",https://www.dailymail.co.uk/femail/article-11835815/What-REALLY-happened-Meghan-Fergie.html,0,0.088,0.059,0.853,0.9954,Daily Mail
+2,54:04.8,"'The most awkward moment since the slap!' Hugh Grant shuts down Ashley Graham and rolls his eyes in painful Oscars 2023 red carpet chat - as fans slam actor for giving 'worst interview EVER'
+",https://www.dailymail.co.uk/tvshowbiz/article-11852139/Hugh-Grant-shuts-Ashley-Graham-Oscars-2023-awkward-red-carpet-interview.html,1,0.289,0.038,0.673,1,Daily Mail
+3,54:04.8,"And the award for the most risqué dress goes to! Lady Gaga and pregnant Rihanna bring sheer madness (and no underwear!) to Oscars 2023 alongside best dressed bombshells Salma Hayek and Ana de Armas
+",https://www.dailymail.co.uk/tvshowbiz/article-11851401/Oscars-red-carpet-2023-celebrities-best-looks.html,2,0.189,0.023,0.788,0.9999,Daily Mail
+4,54:04.8,"Russia suffers deadliest day in Ukraine war as 1,090 men lose lives: Putin's bloodlust takes horrendous toll on his own forces with bitter Battle for Bakhmut raging - as Kremlin's flesh-melting 'thermite rain' bombs terrify front-line towns 
+",https://www.dailymail.co.uk/news/article-11850309/Terrifying-moment-flesh-melting-thermite-rain-bombs-hit-eastern-Ukrainian-town.html,3,0.032,0.166,0.802,-0.9988,Daily Mail
+5,54:04.8,"Parents of murdered Caroline Crouch's killer husband lose court bid to win custody of the couple's daughter from her maternal family - and are granted 'just one hour of contact a week on Skype'
+",https://www.dailymail.co.uk/news/article-11850095/Parents-Caroline-Crouchs-murderer-husband-lose-court-bid-win-custody-couples-daughter.html,4,0.042,0.153,0.805,-0.9985,Daily Mail
+6,54:04.8,"They think it's all over... Gary Lineker 'on brink of Tweetgate victory' with 'fudged' deal involving social media guideline changes 'to be announced by BBC today' to get host back on Match of the Day and end days of spiralling mutinous chaos 
+",https://www.dailymail.co.uk/news/article-11850773/Gary-Lineker-poised-return-BBC-week-FA-Cup-talks-continue.html,5,0.115,0.085,0.8,0.999,Daily Mail
+7,54:04.8,"Everything Everywhere All At Once rules the Academy Awards with SEVEN wins! Michelle Yeoh, Ke Huy Quan, Jamie Lee Curtis scoop Oscars and earns Best Picture... while comeback king Brendan Fraser delights after scoring best actor for The Whale
+",https://www.dailymail.co.uk/tvshowbiz/article-11851585/Oscar-winners-2023-list-awards-best-picture-best-actor-actress.html,6,0.249,0.033,0.719,1,Daily Mail
+8,54:04.8,"Furious dad places an angry note in his daughter's lunchbox for teachers to see - after they told her off for unhealthy food
+",https://www.dailymail.co.uk/femail/parenting/article-11851471/Dad-puts-notes-daughters-lunchbox-teachers-wont-let-eat-snacks.html,7,0.062,0.049,0.889,0.8423,Daily Mail
+9,54:04.8,"'My daughter was taught about oral and anal sex in class - she is ELEVEN years old': Furious mother speaks out after school embroiled in Drag Queen gender row gave 'graphic' sex lessons
+",https://www.dailymail.co.uk/news/article-11848247/Furious-mother-speaks-school-embroiled-Drag-Queen-gender-row-gave-graphic-sex-lessons.html,8,0.062,0.092,0.845,-0.9922,Daily Mail
+10,54:04.8,"Prince Andrew is 'bewildered' and 'in despair' that the King has not shared the £650million inheritance from the Queen with his siblings after being the sole beneficiary of his mother's fortune
+",https://www.dailymail.co.uk/news/article-11848891/Prince-Andrew-bewildered-despair-King-not-shared-650million-inheritance.html,9,0.094,0.088,0.818,0.3308,Daily Mail
+1,54:17.5,Everything Everywhere All at Once triumphs at Oscars with major sweep,https://www.theguardian.com/film/2023/mar/12/everything-everywhere-all-at-once-oscars-2023-winner-awards-best-picture,0,0.217,0.055,0.728,0.9996,Guardian
+2,54:17.5,HSBC to buy Silicon Valley Bank UK for £1 in rescue deal,https://www.theguardian.com/business/2023/mar/13/hsbc-buy-silicon-valley-banks-uk-tech-startups,1,0.079,0.101,0.82,-0.9823,Guardian
+3,54:17.5,Oscars 2023: the full list of winners,https://www.theguardian.com/film/2023/mar/12/oscars-winners-2023-list-in-full-latest-awards-actor-best-picture,2,0.173,0.047,0.78,0.9969,Guardian
+4,54:17.5,Hugh Grant gets Oscars off to awkward start on red carpet – before comparing himself to a scrotum on stage,https://www.theguardian.com/film/2023/mar/12/hugh-grant-oscars-interview-red-carpet,3,0.154,0.047,0.799,0.9864,Guardian
+5,54:17.5,UK government poised to block Scottish bottle recycling scheme,https://www.theguardian.com/politics/2023/mar/13/uk-government-poised-to-block-scottish-bottle-recycling-scheme,4,0.068,0.063,0.869,0.4385,Guardian
+6,54:17.5,"Hugh Grant, Malala and a donkey: the best memes and moments from the 2023 Oscars",https://www.theguardian.com/film/2023/mar/13/hugh-grant-malala-and-a-donkey-the-best-memes-and-moments-from-the-2023-oscars,5,0.146,0.038,0.816,0.9992,Guardian
+7,54:17.5,"Russia-Ukraine war live: Russian defence ministry using Bakhmut to ‘deliberately expend’ Wagner forces, analysts say",https://www.theguardian.com/world/live/2023/mar/13/russia-ukraine-war-live-russian-defence-ministry-using-bakhmut-to-deliberately-expend-wagner-forces-analysts-say,6,0.063,0.126,0.811,-0.9995,Guardian
+8,54:17.5,Silicon Valley Bank: HSBC announces rescue deal for SVB UK – business live,https://www.theguardian.com/business/live/2023/mar/13/silicon-valley-bank-uk-tech-sector-rescue-help-jeremy-hunt-rishi-sunak-business-live,7,0.129,0.078,0.793,0.9995,Guardian
+9,54:17.5,Oscars 2023: the red carpet – in pictures,https://www.theguardian.com/film/gallery/2023/mar/12/oscars-red-carpet-photos-pictures-2023,8,0,0,0,0,Guardian
+10,54:17.5,The battle to boost our deep sleep – and help stop dementia,https://www.theguardian.com/lifeandstyle/2023/mar/13/the-battle-to-boost-our-deep-sleep-and-help-stop-dementia,9,0.088,0.032,0.88,0.996,Guardian
+1,49:34.9,Tiny data centre used to heat public swimming pool,https://www.bbc.co.uk/news/technology-64939558,0,0.083,0.013,0.905,0.9652,BBC
+2,49:34.9,Paedophile pop star Gary Glitter recalled to prison,https://www.bbc.co.uk/news/uk-64946392,1,0.047,0.154,0.798,-0.9963,BBC
+3,49:34.9,'Pressure on BBC bosses' and 'SVB tremors spread',https://www.bbc.co.uk/news/blogs-the-papers-64947050,2,0.09,0.045,0.866,0.9572,BBC
+4,49:34.9,Longest-serving female member of House of Lords dies,https://www.bbc.co.uk/news/uk-politics-64947909,3,0.129,0.112,0.759,0.8256,BBC
+5,49:34.9,Patient safety concerns over 'toxic culture' probe,https://www.bbc.co.uk/news/uk-england-birmingham-64943657,4,0.161,0.055,0.784,0.9991,BBC
+6,49:34.9,NYC truck-attacker spared death penalty,https://www.bbc.co.uk/news/world-us-canada-64945630,5,0.049,0.194,0.757,-0.9919,BBC
+7,49:34.9,Allies unveil new details of nuclear submarine deal,https://www.bbc.co.uk/news/world-australia-64945819,6,0.098,0.076,0.825,0.8781,BBC
+8,49:34.9,Most cases of police violence against women dropped,https://www.bbc.co.uk/news/uk-64915126,7,0.079,0.166,0.754,-0.9986,BBC
+9,49:34.9,"'I earn £30,000 a year and I'm still struggling'",https://www.bbc.co.uk/news/business-64824078,8,0.198,0.045,0.758,0.999,BBC
+10,49:34.9,Global bank stocks slump despite Biden reassurances,https://www.bbc.co.uk/news/world-us-canada-64935170,9,0.097,0.16,0.744,-0.9976,BBC
+1,49:40.4,"Furious dad places an angry note in his daughter's lunchbox for teachers to see - after they told her off for unhealthy food
+",https://www.dailymail.co.uk/femail/parenting/article-11851471/Dad-puts-notes-daughters-lunchbox-teachers-wont-let-eat-snacks.html,0,0.062,0.049,0.889,0.8423,Daily Mail
+2,49:40.4,"Britain's High Streets are hit by a dozen more closures TODAY as B&Q, Boots and Argos shut branches - is your local store at risk? 
+",https://www.dailymail.co.uk/news/article-11847431/Britains-High-Streets-hit-closures-today-Argos-Boots-B-Q-shut-branches.html,1,0.051,0.016,0.934,0.9711,Daily Mail
+3,49:40.4,"'The most awkward moment since the slap!' Hugh Grant shuts down Ashley Graham and rolls his eyes in painful Oscars 2023 red carpet chat - as fans slam actor for giving 'worst interview EVER'
+",https://www.dailymail.co.uk/tvshowbiz/article-11852139/Hugh-Grant-shuts-Ashley-Graham-Oscars-2023-awkward-red-carpet-interview.html,2,0.288,0.036,0.676,1,Daily Mail
+4,49:40.4,"Fury at BBC for humiliating climbdown as Gary Lineker wins Twitter row: Tim Davie apologises and invites the host back to Match of the Day - and presenter celebrates with yet another tweet about migrant crisis 
+",https://www.dailymail.co.uk/news/article-11853351/Gary-Lineker-RETURN-Match-Day-BBC-bosses-apologise.html,3,0.147,0.068,0.785,0.9995,Daily Mail
+5,49:40.4,"'Good riddance, we don't want you back': Probation hostel residents celebrate as paedophile Gary Glitter is sent back to jail for breaching his licence conditions - just 38 days after disgraced pop star was released from prison
+",https://www.dailymail.co.uk/news/article-11855143/Paedophile-Gary-Glitter-sent-prison-just-month-release-jail.html,4,0.06,0.098,0.843,-0.9748,Daily Mail
+6,49:40.4,"Kate and Camilla battle against blustery wind playing havoc with their headwear as they're joined by Geri Horner at Commonwealth Day Service - and King Charles pays tribute to his 'beloved mother' in speech
+",https://www.dailymail.co.uk/femail/article-11853749/Kate-Middleton-regal-joins-Prince-William-Commonwealth-Day-Service.html,5,0.132,0.038,0.83,0.9996,Daily Mail
+7,49:40.4,"'Sore loser is never a good look!' Angela Bassett's crestfallen reaction to losing Best Supporting Actress Oscar to Jamie Lee Curtis goes viral - as fans claims star was ROBBED of gong
+",https://www.dailymail.co.uk/tvshowbiz/article-11852477/Oscars-2023-Angela-Bassetts-reaction-losing-Supporting-Actress-gong-goes-viral.html,6,0.263,0.052,0.684,1,Daily Mail
+8,49:40.4,"The award for the raciest dress goes to... Emily Ratajkowski, Alessandra Ambrosio and Olivia Wilde bare all in a parade of risqué looks hit the Vanity Fair Oscars party
+",https://www.dailymail.co.uk/tvshowbiz/article-11853109/Emily-Ratajkowski-Alessandra-Ambrosio-Olivia-Wilde-risque-dresses-Vanity-Fair-Oscars-party.html,7,0.247,0.027,0.727,0.9999,Daily Mail
+9,49:40.4,"Dog owners beware: Motorists are warned driving with their pet could land them a £5,000 fine if they fall foul of little-known rule 
+",https://www.dailymail.co.uk/money/cars/article-11853103/Motorists-warned-driving-pet-land-5-000-fine-dont-follow-rule.html,8,0.1,0.077,0.822,0.9564,Daily Mail
+10,49:40.4,"Primary school teacher who thought her serial-cheat boyfriend was being unfaithful again lured him to bed for sex, blindfolded him and then stabbed him to death before burying his body in the garden, court hears
+",https://www.dailymail.co.uk/news/article-11853983/Primary-school-teacher-stabbed-boyfriend-death-buried-body-garden-court-hears.html,9,0.049,0.129,0.821,-0.9992,Daily Mail
+1,49:53.9,BBC leadership under renewed pressure after Gary Lineker U-turn,https://www.theguardian.com/media/2023/mar/13/bbc-leadership-gary-lineker-u-turn-match-of-the-day,0,0.096,0.093,0.811,-0.2621,Guardian
+2,49:53.9,"Paula review – a glorious celebration of the most witty, flirty woman to ever grace our TVs",https://www.theguardian.com/tv-and-radio/2023/mar/13/paula-review-a-glorious-celebration-of-paula-yates-the-most-witty-flirty-woman-to-ever-grace-our-tvs,1,0.119,0.087,0.795,0.9872,Guardian
+3,49:53.9,Fiona Bruce to step down as Refuge ambassador over Stanley Johnson comments,https://www.theguardian.com/media/2023/mar/13/fiona-bruce-to-step-down-as-refuge-ambassador-over-stanley-johnson-comments,2,0.073,0.15,0.777,-0.9966,Guardian
+4,49:53.9,‘You can blame him’: Trump shifts responsibility for January 6 on Pence,https://www.theguardian.com/us-news/2023/mar/13/trump-pence-january-6-violence,3,0.094,0.133,0.773,-0.9688,Guardian
+5,49:53.9,Outrageous slurs have been made about Suella: some of her MPs said she’s competent,https://www.theguardian.com/politics/2023/mar/13/outrageous-slurs-have-been-made-about-suella-some-of-her-own-mps-said-shes-competent,4,0.11,0.122,0.768,-0.9309,Guardian
+6,49:53.9,"HMP Aylesbury ‘thrown into chaos’ by MoJ policy change, says watchdog ",https://www.theguardian.com/society/2023/mar/14/hmp-aylesbury-thrown-into-chaos-by-moj-policy-change-says-watchdog,5,0.074,0.219,0.706,-0.9993,Guardian
+7,49:53.9,"Braverman policies are ‘heartless’, says ex-Home Office adviser Nimco Ali",https://www.theguardian.com/politics/2023/mar/13/suella-braverman-policies-are-cruel-and-heartless-says-ex-home-office-adviser,6,0.071,0.17,0.759,-0.9992,Guardian
+8,49:53.9,Russian soldier who hid from Ukrainian forces for six months arrested,https://www.theguardian.com/world/2023/mar/13/russian-soldier-who-hid-from-ukrainian-forces-for-six-months-arrested,7,0.033,0.047,0.92,-0.7783,Guardian
+9,49:53.9,Gary Glitter recalled to prison after breaching licence conditions,https://www.theguardian.com/uk-news/2023/mar/13/gary-glitter-recalled-to-prison-after-breaching-licence-conditions,8,0.031,0.101,0.868,-0.9756,Guardian
+10,49:53.9,"More than 1,500 UK police officers accused of violence against women in six months",https://www.theguardian.com/uk-news/2023/mar/14/more-than-1500-uk-police-officers-accused-of-violence-against-women-in-six-months,9,0.07,0.184,0.746,-0.9987,Guardian
+1,06:07.6,RAF and German jets intercept Russian aircraft,https://www.bbc.co.uk/news/world-europe-64960706,0,0.055,0.054,0.891,-0.3506,BBC
+2,06:07.6,Woman awarded £19k for Christmas party harassment,https://www.bbc.co.uk/news/uk-northern-ireland-64958857,1,0.115,0.136,0.75,-0.9453,BBC
+3,06:07.6,Brian May knighted by King at Buckingham Palace,https://www.bbc.co.uk/news/uk-64960536,2,0.109,0.019,0.872,0.8613,BBC
+4,06:07.6,"Australian boy, 13, spent six weeks in solitary",https://www.bbc.co.uk/news/world-australia-64960479,3,0.062,0.127,0.811,-0.9883,BBC
+5,06:07.6,'Back to work budget' and 'Russia downs US drone',https://www.bbc.co.uk/news/blogs-the-papers-64960042,4,0.082,0.084,0.833,0.0112,BBC
+6,06:07.6,"I was sexually abused, like so many autistic women",https://www.bbc.co.uk/news/uk-64953941,5,0.086,0.095,0.818,-0.8713,BBC
+7,06:07.6,"Ferguson bosses paid 'unacceptable' £87,000 bonus",https://www.bbc.co.uk/news/uk-scotland-scotland-business-64954744,6,0.098,0.054,0.847,0.9879,BBC
+8,06:07.6,Chinese doctor who exposed Sars crisis dies,https://www.bbc.co.uk/news/world-asia-china-64960693,7,0.059,0.169,0.772,-0.9964,BBC
+9,06:07.6,Russia pilots reckless in drone collision - US,https://www.bbc.co.uk/news/world-europe-64960384,8,0.027,0.139,0.834,-0.9955,BBC
+10,06:07.6,Free childcare to be expanded to one and two-year-olds,https://www.bbc.co.uk/news/uk-politics-64959611,9,0.115,0.047,0.838,0.9958,BBC
+1,06:14.2,"Liverpool teen sensation Ben Doak COLLAPSES after a sickening clash of heads in the UEFA Youth League... as medics rush to help winger, 17, who has played five times for Jurgen Klopp's first team 
+",https://www.dailymail.co.uk/sport/football/article-11858915/Liverpool-teen-sensation-Ben-Doak-COLLAPSES-UEFA-Youth-League-clash.html,0,0.033,0.065,0.902,-0.7169,Daily Mail
+2,06:14.2,"Day & Night Nurse and Covonia cold and flu remedies are being WITHDRAWN from UK market over health fears
+",https://www.dailymail.co.uk/health/article-11858021/Day-Night-Nurse-Covonia-cold-flu-remedies-WITHDRAWN-UK-market-health-fears.html,1,0.091,0.068,0.841,0.9925,Daily Mail
+3,06:14.2,"Britain's High Streets are hit by a dozen more closures TODAY as B&Q, Boots and Argos shut branches - is your local store at risk? 
+",https://www.dailymail.co.uk/news/article-11847431/Britains-High-Streets-hit-closures-today-Argos-Boots-B-Q-shut-branches.html,2,0.051,0.016,0.934,0.9711,Daily Mail
+4,06:14.2,"What happened to Paula Yates' kids and where are they now? Daughters' lives have been blighted by tragedy - from Tiger Lily's 'missing' inheritance to Peaches' death from a heroin overdose
+",https://www.dailymail.co.uk/femail/article-11854623/Who-Paula-Yates-children-now.html,3,0.068,0.106,0.826,-0.9953,Daily Mail
+5,06:14.2,"Child star who found fame as a six-year-old in BBC sitcom looks unrecognisable - but can YOU tell who she is?
+",https://www.dailymail.co.uk/femail/article-11858117/Do-recognise-former-BBC-sitcom-child-star.html,4,0.17,0.012,0.818,0.9975,Daily Mail
+6,06:14.2,"Terence Trent D'Arby reveals Sir Bob Geldof's words when he confronted him over his affair with Paula Yates - as he speaks about their year-long relationship for the first time
+",https://www.dailymail.co.uk/femail/article-11858605/Terence-Trent-Darby-reveals-Bob-Geldofs-reaction-affair-Paula-Yates.html,5,0.102,0.09,0.808,0.9869,Daily Mail
+7,06:14.2,"Eamonn Holmes is supported by his doting wife Ruth Langsford as he reveals he's focused on 'regaining his balance' while issuing a health update
+",https://www.dailymail.co.uk/tvshowbiz/article-11854041/Eamonn-Holmes-supported-doting-wife-Ruth-Langsford-issues-health-update.html,6,0.06,0.143,0.797,-0.9933,Daily Mail
+8,06:14.2,"Fantasist whose rape lies drove three men to attempt suicide is jailed for eight years: CCTV reveals moment serial liar bought hammer she used to beat her own face then claimed she was victim of Asian grooming gang 
+",https://www.dailymail.co.uk/news/article-11857499/Asian-grooming-gang-fantasist-jailed-eight-half-years.html,7,0.05,0.187,0.762,-1,Daily Mail
+9,06:14.2,"Help! I want to leave my house to my grandson and keep it in the family, but he can't afford the inheritance tax: HEATHER ROGERS replies
+",https://www.dailymail.co.uk/money/experts/article-11841097/Can-house-family-despite-inheritance-tax-bill.html,8,0.162,0.036,0.802,0.9995,Daily Mail
+10,06:14.2,"US SUMMONS Russian ambassador as Moscow DENIES its fighter jet collided with American Reaper drone in international airspace and sent $32M unmanned spy plane crashing into Black Sea after dumping fuel on it
+",https://www.dailymail.co.uk/news/article-11859443/Russian-fighter-jet-CRASHES-Reaper-drone-Black-Sea.html,9,0.044,0.13,0.827,-0.9988,Daily Mail
+1,06:29.4,Jeremy Hunt makes U-turn on planned cut to energy bills support,https://www.theguardian.com/uk-news/2023/mar/15/jeremy-hunt-makes-u-turn-on-planned-cut-to-energy-bills-support,0,0.153,0.07,0.778,0.9907,Guardian
+2,06:29.4,Retrieve her! Police speak to Rishi Sunak’s family over off-lead dog ,https://www.theguardian.com/politics/2023/mar/14/retrieve-her-police-speak-to-sunak-and-family-over-off-lead-dog,1,0.056,0.062,0.882,-0.4559,Guardian
+3,06:29.4,Miscalculation fears rise after Russian fighter jet collides with US drone over Black Sea,https://www.theguardian.com/us-news/2023/mar/14/russian-fighter-jet-collides-us-drone-black-sea-crash,2,0.035,0.09,0.875,-0.9921,Guardian
+4,06:29.4,Padma Lakshmi: ‘Nobody wants to talk about their vagina. But I was so angry’,https://www.theguardian.com/food/2023/mar/15/padma-lakshmi-nobody-wants-to-talk-about-their-vagina-but-i-was-so-angry,3,0.082,0.094,0.824,-0.988,Guardian
+5,06:29.4,Russian downing of US drone marks escalation of confrontation near war zone,https://www.theguardian.com/world/2023/mar/14/russia-downing-us-drone-ukraine-signalling-analysis,4,0.049,0.147,0.805,-0.9968,Guardian
+6,06:29.4,"BBC came under No 10 pressure to avoid using ‘lockdown’ in early pandemic, leak shows",https://www.theguardian.com/media/2023/mar/14/bbc-editors-asked-journalists-to-avoid-using-lockdown-at-start-of-pandemic,5,0.053,0.095,0.851,-0.9899,Guardian
+7,06:29.4,London hit by 24-hour combined strike by Tube drivers and station staff,https://www.theguardian.com/uk-news/2023/mar/15/london-hit-by-first-strike-across-whole-tube-network-in-eight-years,6,0.044,0.087,0.869,-0.8297,Guardian
+8,06:29.4,‘The story is really complicated’: inside the controversial world of Pornhub,https://www.theguardian.com/film/2023/mar/15/pornhub-netflix-documentary,7,0.066,0.091,0.843,-0.9938,Guardian
+9,06:29.4,"Trump says the Queen, Diana and Oprah Winfrey ‘kissed my ass’ in letters",https://www.theguardian.com/books/2023/mar/14/queen-diana-oprah-kissed-my-ass-trump-book-letters,8,0.116,0.09,0.794,0.9155,Guardian
+10,06:29.4,From pensions to pools: what to expect from Hunt’s spring budget,https://www.theguardian.com/uk-news/2023/mar/15/what-to-expect-from-jeremy-hunt-spring-budget-pensions-pools-welfare-energy,9,0.096,0.042,0.862,0.9893,Guardian
+1,34:23.7,What the Budget means for you and your money,https://www.bbc.co.uk/news/business-64963523,0,0.084,0.04,0.875,0.9958,BBC
+2,34:23.7,Budget 2023: Key points at-a-glance,https://www.bbc.co.uk/news/business-64789405,1,0.087,0.014,0.899,0.8428,BBC
+3,34:23.7,Clarkson's farm branded 'a menace and a success',https://www.bbc.co.uk/news/uk-england-oxfordshire-64964155,2,0.081,0.049,0.87,0.9566,BBC
+4,34:23.7,Will free childcare plan really work?,https://www.bbc.co.uk/news/business-64962566,3,0.096,0.05,0.854,0.9896,BBC
+5,34:23.7,Ukraine invites DeSantis after he calls war 'dispute',https://www.bbc.co.uk/news/world-europe-64880145,4,0.122,0.078,0.801,0.9726,BBC
+6,34:23.7,RAF and German jets intercept Russian aircraft,https://www.bbc.co.uk/news/world-europe-64960706,5,0.055,0.054,0.891,-0.3506,BBC
+7,34:23.7,Credit Suisse shares plunge as bank fears continue,https://www.bbc.co.uk/news/business-64964881,6,0.075,0.134,0.791,-0.989,BBC
+8,34:23.7,"Christine McGuinness: I was sexually abused, like so many autistic women",https://www.bbc.co.uk/news/uk-64953941,7,0.086,0.095,0.818,-0.8713,BBC
+9,34:23.7,It just got harder to see every place in the world,https://www.bbc.co.uk/news/world-64730548,8,0.065,0.022,0.913,0.9779,BBC
+10,34:23.7,Free childcare to be expanded to one and two-year-olds,https://www.bbc.co.uk/news/uk-politics-64959611,9,0.114,0.045,0.841,0.9966,BBC
+1,34:31.3,"Liverpool teen sensation Ben Doak COLLAPSES after a sickening clash of heads in the UEFA Youth League... as medics rush to help winger, 17, who has played five times for Jurgen Klopp's first team 
+",https://www.dailymail.co.uk/sport/football/article-11858915/Liverpool-teen-sensation-Ben-Doak-COLLAPSES-UEFA-Youth-League-clash.html,0,0.03,0.071,0.899,-0.8494,Daily Mail
+2,34:31.3,"Revealed: The 83 beaches Britons are warned to avoid due to SEWAGE being dumped into waters nearby - including a TripAdvisor favourite 
+",https://www.dailymail.co.uk/news/article-11859587/70-beaches-Britons-warned-avoid-SEWAGE-dumped-waters-nearby.html,1,0.077,0.068,0.854,0.4086,Daily Mail
+3,34:31.3,"Child star who found fame as a six-year-old in BBC sitcom looks unrecognisable - but can YOU tell who she is?
+",https://www.dailymail.co.uk/femail/article-11858117/Do-recognise-former-BBC-sitcom-child-star.html,2,0.17,0.012,0.818,0.9975,Daily Mail
+4,34:31.3,"Terence Trent D'Arby reveals Sir Bob Geldof's words when he confronted him over his affair with Paula Yates - as he speaks about their year-long relationship for the first time
+",https://www.dailymail.co.uk/femail/article-11858605/Terence-Trent-Darby-reveals-Bob-Geldofs-reaction-affair-Paula-Yates.html,3,0.102,0.09,0.808,0.9869,Daily Mail
+5,34:31.3,"Hunt unveils his 'back-to-work' Budget TODAY: Chancellor will introduce free pre-school childcare, lift cap on pensions and freeze fuel duty in bid to boost economic growth - but faces Tory revolt over tax rises on business, foreign holidays and booze 
+",https://www.dailymail.co.uk/news/article-11860575/Back-work-budget-introduces-FREE-childcare-effort-tackle-chronic-labour-shortages.html,4,0.124,0.07,0.806,0.9997,Daily Mail
+6,34:31.3,"Antiques Roadshow guest is stunned to learn a painting owned by his family for 65 years is a signed David Hockney original - and you won't believe how much it's worth! 
+",https://www.dailymail.co.uk/tvshowbiz/article-11862151/Antiques-Roadshow-guest-left-dumbfounded-painting-revealed-Hockney-worth-30-000.html,5,0.128,0.019,0.853,0.9945,Daily Mail
+7,34:31.3,"Britain's High Streets are hit by a dozen more closures TODAY as B&Q, Boots and Argos shut branches - is your local store at risk? 
+",https://www.dailymail.co.uk/news/article-11847431/Britains-High-Streets-hit-closures-today-Argos-Boots-B-Q-shut-branches.html,6,0.051,0.016,0.934,0.9711,Daily Mail
+8,34:31.3,"'He's been feeling incredibly unwell': George Ezra forced to cancel sold-out O2 Arena gig at the last minute after scary health diagnosis
+",https://www.dailymail.co.uk/tvshowbiz/article-11859589/George-Ezra-cancels-O2-Arena-gig-minute-scary-health-diagnosis.html,7,0.138,0.091,0.771,0.9935,Daily Mail
+9,34:31.3,"Targeted by cruel trolls, she tried to turn the tables by becoming one secretly herself: Mummy blogger Clemmie Hooper and the ultimate cautionary tale about how social media can twist your mind and wreck your life 
+",https://www.dailymail.co.uk/femail/article-11860517/Targeted-cruel-trolls-tried-turn-tables-one-herself.html,8,0.089,0.076,0.834,0.9825,Daily Mail
+10,34:31.3,"US SUMMONS Russian ambassador as Moscow DENIES its fighter jet collided with American Reaper drone in international airspace and sent $32M unmanned spy plane crashing into Black Sea after dumping fuel on it
+",https://www.dailymail.co.uk/news/article-11859443/Russian-fighter-jet-CRASHES-Reaper-drone-Black-Sea.html,9,0.044,0.13,0.827,-0.9988,Daily Mail
+1,34:47.5,"Budget 2023 live: Jeremy Hunt announces reforms to childcare, pensions and disability benefits ",https://www.theguardian.com/politics/live/2023/mar/15/budget-2023-jeremy-hunt-chancellor-uk-politics-latest-news-updates,0,0.061,0.041,0.898,0.9743,Guardian
+2,34:47.5,Budget 2023: key points at a glance,https://www.theguardian.com/uk-news/2023/mar/15/budget-2023-key-points,1,0.126,0.047,0.827,0.9996,Guardian
+3,34:47.5,What Jeremy Hunt’s U-turn on energy bills support means for you,https://www.theguardian.com/money/2023/mar/15/what-jeremy-hunts-u-turn-on-energy-bills-support-means-for-you,2,0.125,0.04,0.835,0.9962,Guardian
+4,34:47.5,Gary Lineker: false claim I called northern voters ‘racist’ is dangerous,https://www.theguardian.com/football/2023/mar/15/gary-lineker-false-claim-i-called-northern-voters-racist-is-dangerous,3,0.08,0.055,0.865,0.8157,Guardian
+5,34:47.5,Dawn French ad cleared by watchdog after title of show draws complaints,https://www.theguardian.com/tv-and-radio/2023/mar/15/dawn-french-ad-cleared-by-watchdog-after-complaints-about-title-of-new-show,4,0.046,0.085,0.869,-0.9071,Guardian
+6,34:47.5,Credit Suisse shares plunge 30% to record low as top shareholder rules out investing more – business live,https://www.theguardian.com/business/live/2023/mar/15/government-extends-energy-bill-suppport-three-months-budget-for-growth-silicon-valley-bank-markets-business-live,5,0.112,0.117,0.771,-0.9893,Guardian
+7,34:47.5,Jeremy Hunt makes U-turn on planned cut to energy bills support,https://www.theguardian.com/uk-news/2023/mar/15/jeremy-hunt-makes-u-turn-on-planned-cut-to-energy-bills-support,6,0.149,0.091,0.759,0.9949,Guardian
+8,34:47.5,Padma Lakshmi: ‘Nobody wants to talk about their vagina. But I was so angry’,https://www.theguardian.com/food/2023/mar/15/padma-lakshmi-nobody-wants-to-talk-about-their-vagina-but-i-was-so-angry,7,0.082,0.094,0.824,-0.988,Guardian
+9,34:47.5,Budget 2023: Hunt to announce £4bn boost for childcare in England,https://www.theguardian.com/uk-news/2023/mar/14/budget-2023-hunt-to-announce-4bn-boost-for-childcare-in-england,8,0.14,0.06,0.799,0.9978,Guardian
+10,34:47.5,Russia-Ukraine war live: Kremlin says US-Russia relations ‘lamentable’ with no high level contact since drone crash,https://www.theguardian.com/world/live/2023/mar/15/russia-ukraine-war-live-moscow-should-respect-international-airspace-says-uk-defence-minister-after-drone-crash,9,0.126,0.065,0.809,0.999,Guardian
+1,40:36.9,World’s first octopus farm plans alarm scientists,https://www.bbc.co.uk/news/science-environment-64814781,0,0.063,0.119,0.818,-0.997,BBC
+2,40:36.9,Virgin Orbit to pause all operations from Thursday,https://www.bbc.co.uk/news/science-environment-64973383,1,0.045,0.06,0.895,-0.7043,BBC
+3,40:36.9,Credit Suisse emergency loan sparks banking fears,https://www.bbc.co.uk/news/business-64973321,2,0.124,0.128,0.748,-0.8953,BBC
+4,40:36.9,"Russian casualties mount in Bakhmut, but tactics evolve",https://www.bbc.co.uk/news/world-europe-64955537,3,0.047,0.175,0.778,-0.9997,BBC
+5,40:36.9,Hunt 'defies gloom' and 'Giveaway for the 1%',https://www.bbc.co.uk/news/blogs-the-papers-64972318,4,0.087,0.075,0.838,0.6419,BBC
+6,40:36.9,Evacuated Afghan team included 'false' footballers,https://www.bbc.co.uk/news/world-64967941,5,0.057,0.049,0.894,0.2283,BBC
+7,40:36.9,Drought risk to England regions after dry February,https://www.bbc.co.uk/news/science-environment-64966953,6,0.053,0.102,0.845,-0.9843,BBC
+8,40:36.9,Budget 2023: Pension perks likely the next political flashpoint,https://www.bbc.co.uk/news/uk-politics-64972934,7,0.058,0.075,0.867,-0.8856,BBC
+9,40:36.9,What the Budget means for you and your money,https://www.bbc.co.uk/news/business-64963523,8,0.082,0.042,0.876,0.9958,BBC
+10,40:36.9,Man charged with attempted murder after stabbing,https://www.bbc.co.uk/news/uk-england-gloucestershire-64970866,9,0.035,0.168,0.796,-0.9623,BBC
+1,40:45.6,"Antiques Roadshow guest is stunned to learn a painting owned by his family for 65 years is a signed David Hockney original - and you won't believe how much it's worth! 
+",https://www.dailymail.co.uk/tvshowbiz/article-11862151/Antiques-Roadshow-guest-left-dumbfounded-painting-revealed-Hockney-worth-30-000.html,0,0.128,0.019,0.853,0.9945,Daily Mail
+2,40:45.6,"Has Jeremy Hunt's first Budget left YOU better or worse off? Use our interactive tool to discover if you're among the winners or losers - as first-time buyers, entrepreneurs and pensioners weigh up its effects on them 
+",https://www.dailymail.co.uk/news/article-11862691/Budget-case-studies-Britons-say-Jeremy-Hunts-announcements.html,1,0.14,0.062,0.799,0.9999,Daily Mail
+3,40:45.6,"Jeremy Hunt says he wants a MILLION more women in jobs as he unveils free childcare boost and plan for breakfast clubs at ALL schools in 'back to work' Budget - with tax penalties ABOLISHED on big pension pots to stop doctors quitting NHS
+",https://www.dailymail.co.uk/news/article-11862841/Childcare-pension-tax-breaks-Hunts-work-Budget.html,2,0.136,0.063,0.801,0.9999,Daily Mail
+4,40:45.6,"'I was hurting, It was my lowest moment': Emotional Ferne McCann breaks down in tears as she addresses leaked voice notes and pregnant star admits she has been in therapy since 
+",https://www.dailymail.co.uk/tvshowbiz/article-11862787/Ferne-McCann-breaks-tears-addresses-leaked-voice-notes.html,3,0.088,0.162,0.751,-0.9983,Daily Mail
+5,40:45.6,"How does the Budget affect YOU? Use MailOnline's interactive tool to find out the impact on income tax, energy bills, pension, childcare costs and MORE
+",https://www.dailymail.co.uk/news/article-11863077/How-does-Budget-affect-Use-MailOnlines-interactive-tool.html,4,0.144,0.058,0.798,0.9966,Daily Mail
+6,40:45.6,"Revealed: The 83 beaches Britons are warned to avoid due to SEWAGE being dumped into waters nearby - including a TripAdvisor favourite 
+",https://www.dailymail.co.uk/news/article-11859587/70-beaches-Britons-warned-avoid-SEWAGE-dumped-waters-nearby.html,5,0.077,0.068,0.854,0.4086,Daily Mail
+7,40:45.6,"Prolific shoplifter made £500,000 by tricking stores across Britain into refunding her for stolen items during 'full-time fraud career' 
+",https://www.dailymail.co.uk/news/article-11862565/Prolific-shoplifter-half-million-pounds-tricking-stores-refunding-stolen-items.html,6,0.036,0.111,0.853,-0.9945,Daily Mail
+8,40:45.6,"Homeowner 'called female tourist, 71, a scumbag as she lay dying after he dragged her down stairs and threw her out' when she mistook his home for seaside hotel - as neighbour begged him to 'have a bit of compassion' 
+",https://www.dailymail.co.uk/news/article-11863087/Homeowner-calls-woman-71-scumbag-lay-dying-dragged-stairs.html,7,0.03,0.115,0.855,-0.998,Daily Mail
+9,40:45.6,"Physical therapist shares the one thing you should do every day if you want to age 'gracefully'
+",https://www.dailymail.co.uk/femail/real-life/article-11861629/Physical-therapist-age-gracefully-stay-healthy.html,8,0.101,0.044,0.854,0.9922,Daily Mail
+10,40:45.6,"Liverpool teen sensation Ben Doak COLLAPSES after a sickening clash of heads in the UEFA Youth League... as medics rush to help winger, 17, who has played five times for Jurgen Klopp's first team 
+",https://www.dailymail.co.uk/sport/football/article-11858915/Liverpool-teen-sensation-Ben-Doak-COLLAPSES-UEFA-Youth-League-clash.html,9,0.03,0.071,0.899,-0.8494,Daily Mail
+1,41:02.8,Passengers face new disruption as first of four UK-wide rail strikes begins,https://www.theguardian.com/uk-news/2023/mar/16/passengers-face-new-disruption-as-first-of-four-uk-wide-rail-strikes-begins,0,0.04,0.112,0.848,-0.9799,Guardian
+2,41:02.8,Budget 2023: what it means for people on a range of incomes,https://www.theguardian.com/uk-news/2023/mar/15/budget-2023-what-it-means-for-people-on-a-range-of-incomes,1,0.111,0.025,0.863,0.9952,Guardian
+3,41:02.8,Brianna Ghey funeral: hundreds pay tribute to murdered teenager ,https://www.theguardian.com/uk-news/2023/mar/15/brianna-ghey-funeral-hundreds-pay-tribute-to-murdered-teenager,2,0.184,0.069,0.747,0.9978,Guardian
+4,41:02.8,Colleagues pray for Jezza to cut his losses when his four Es fail to kick in,https://www.theguardian.com/uk-news/2023/mar/15/budget-jeremy-hunt-colleagues-pray-jezza-cut-his-losses-when-his-four-es-fail-to-kick-in,3,0.11,0.068,0.822,0.9957,Guardian
+5,41:02.8,"Italian princess, conspiracy theorists and Steven Seagal: meet Russia’s friends overseas",https://www.theguardian.com/world/2023/mar/16/italian-princess-conspiracy-theorists-and-steven-seagal-meet-russias-friends-overseas,4,0.069,0.047,0.883,0.9429,Guardian
+6,41:02.8,Hunt’s ‘budget for growth’ gives top 1% a pension bonus but ignores public services,https://www.theguardian.com/uk-news/2023/mar/15/hunts-budget-for-growth-gives-top-1-a-pension-bonus-ignores-public-services,5,0.099,0.08,0.82,0.9861,Guardian
+7,41:02.8,"‘Hostile, authoritarian’ UK downgraded in civic freedoms index",https://www.theguardian.com/uk-news/2023/mar/16/hostile-authoritarian-uk-downgraded-in-civic-freedoms-index,6,0.112,0.101,0.787,0.8632,Guardian
+8,41:02.8,Budget calculator 2023: how will your income change?,https://www.theguardian.com/uk-news/2023/mar/15/budget-calculator-2023-income-personal-finances,7,0.151,0.039,0.81,0.9349,Guardian
+9,41:02.8,Nasa reveals new spacesuit for Artemis moon landing,https://www.theguardian.com/science/2023/mar/16/nasa-reveals-new-spacesuit-for-artemis-moon-landing,8,0.077,0.023,0.9,0.9779,Guardian
+10,41:02.8,Credit Suisse takes $54bn loan from Swiss central bank after share price plunge,https://www.theguardian.com/business/2023/mar/16/credit-suisse-takes-50bn-loan-from-swiss-central-bank-after-share-price-plunge,9,0.119,0.089,0.792,0.9533,Guardian
+1,22:12.0,Passport office workers to strike for five weeks,https://www.bbc.co.uk/news/uk-64981979,0,0.073,0.115,0.812,-0.9382,BBC
+2,22:12.0,NHS pay deal and 'Banks try to reassure investors',https://www.bbc.co.uk/news/blogs-the-papers-64984815,1,0.058,0.12,0.822,-0.9884,BBC
+3,22:12.0,Coercive control killers face tougher sentences,https://www.bbc.co.uk/news/uk-64983762,2,0.062,0.238,0.7,-0.9996,BBC
+4,22:12.0,UK attractions suffering long Covid - industry body,https://www.bbc.co.uk/news/uk-64976013,3,0.186,0.05,0.764,0.9957,BBC
+5,22:12.0,Australian shreds record for longest surf session,https://www.bbc.co.uk/news/world-australia-64984949,4,0.062,0.062,0.876,-0.1868,BBC
+6,22:12.0,Ukraine won't forget who backed us - foreign minister,https://www.bbc.co.uk/news/world-europe-64976079,5,0.099,0.104,0.797,-0.4109,BBC
+7,22:12.0,Call for independent inquiry into tree felling,https://www.bbc.co.uk/news/uk-england-devon-64974072,6,0.144,0.043,0.813,0.9971,BBC
+8,22:12.0,Blindness and eyeballs removed after eyedrop recall,https://www.bbc.co.uk/news/world-us-canada-64985191,7,0.037,0.12,0.843,-0.9869,BBC
+9,22:12.0,Royal Mail referred to regulator over letter delays,https://www.bbc.co.uk/news/business-64972913,8,0.048,0.049,0.903,-0.699,BBC
+10,22:12.0,Driving licence delays caused 'lost jobs and money',https://www.bbc.co.uk/news/business-64977864,9,0.038,0.106,0.856,-0.9762,BBC
+1,22:17.7,"Oprah Winfrey weighs in on whether Prince Harry and Meghan Markle should attend King Charles' coronation - and shares the advice she'd give the couple
+",https://www.dailymail.co.uk/femail/article-11868649/Oprah-Winfrey-shares-Coronation-advice-Prince-Harry-Meghan.html,0,0.061,0.025,0.914,0.9711,Daily Mail
+2,22:17.7,"Caring headteacher, 53, took her own life after hearing Ofsted were going to downgrade her primary school from Outstanding to Inadequate - calling it 'the worst day of my life', her devastated family say
+",https://www.dailymail.co.uk/news/article-11869433/Headteacher-took-life-waiting-publication-negative-Ofsted-report-family-say.html,1,0.104,0.081,0.815,0.9858,Daily Mail
+3,22:17.7,"How long will YOU live? As study reveals UK's stagnating life expectancy, online calculator works out your average life span - and interactive maps show how boys born in Glasgow live 11 years less than those in central London 
+",https://www.dailymail.co.uk/health/article-11867089/Will-live-youre-100-Online-calculator-works-average-life-expectancy.html,2,0.057,0.091,0.852,-0.9863,Daily Mail
+4,22:17.7,"Proof no child is beyond County Lines gangs: Ben, 16, had a wholesome upbringing and was adored by his middle-class parents. But, as his shattered mother reveals, that wasn't enough to stop her finding him dead in a squalid hostel
+",https://www.dailymail.co.uk/news/article-11869869/Mother-Ben-dead-says-tragic-story-Proof-no-child-county-lines-gangs.html,3,0.083,0.12,0.797,-0.9987,Daily Mail
+5,22:17.7,"Birmingham City fan, 32, who ran onto the pitch and punched Jack Grealish is 'found dead' four years after being jailed for the attack
+",https://www.dailymail.co.uk/news/article-11868375/Birmingham-City-fan-32-punched-Jack-Grealish-dead.html,4,0.134,0.191,0.675,-0.9881,Daily Mail
+6,22:17.7,"EXCLUSIVE: 'How could a parking row go THIS far...?' Pensioner tells of her horror and embarrassment after her neighbour and his wife had sex on a bollard she'd installed outside her home to stop him leaving his camper van there
+",https://www.dailymail.co.uk/news/article-11866923/Pensioners-horror-neighbour-wife-sex-bollard-parking-row.html,5,0.039,0.092,0.869,-0.9951,Daily Mail
+7,22:17.7,"Instagram posts by Mrs Hinch are BANNED by watchdog after household cleaning influencer failed to make clear to her 4.6M followers she was advertising her own products
+",https://www.dailymail.co.uk/news/article-11861073/Mrs-Hinch-Instagram-posts-BANNED-failure-disclose-advertising-products.html,6,0.096,0.025,0.88,0.9927,Daily Mail
+8,22:17.7,"Katie Price shows off HUGE new thong tattoo on her lower back as she strips down to a skimpy floral bikini while enjoying a dip in the pool in Thailand
+",https://www.dailymail.co.uk/tvshowbiz/article-11867867/Katie-Price-shows-HUGE-new-thong-tattoo-lower-strips-floral-bikini.html,7,0.129,0.031,0.839,0.9979,Daily Mail
+9,22:17.7,"'Is this show live?': 'Potty-mouthed' Jennifer Aniston causes chaos as she SWEARS on This Morning - leaving Holly & Phil to quickly apologise
+",https://www.dailymail.co.uk/tvshowbiz/article-11867811/Jennifer-Aniston-SWEARS-live-Morning-forcing-hosts-Holly-Phil-quickly-apologise.html,8,0.169,0.069,0.762,0.9978,Daily Mail
+10,22:17.7,"Sam and Billie Faiers break silence as Ferne McCann 'mourns' friendship after sending 'hurtful' voice notes because she was 'envious'
+",https://www.dailymail.co.uk/tvshowbiz/ferne-mccann/article-11869023/Sam-Billie-Faiers-break-silence-Ferne-McCann-mourns-friendship.html,9,0.119,0.157,0.724,-0.995,Daily Mail
+1,22:30.1,Boris Johnson reselected as Tory candidate in Uxbridge,https://www.theguardian.com/politics/2023/mar/16/boris-johnson-reselected-as-tory-candidate-in-uxbridge,0,0.066,0.036,0.898,0.6908,Guardian
+2,22:30.1, Should I confront my toxic friend about her bad behaviour? It’ll cause discomfort within the group,https://www.theguardian.com/lifeandstyle/2023/mar/17/should-i-confront-my-toxic-friend-about-her-bad-behaviour-itll-cause-discomfort-within-the-group,1,0.12,0.125,0.754,-0.6112,Guardian
+3,22:30.1,UK mounted police chase down man holding mobile phone while driving,https://www.theguardian.com/uk-news/2023/mar/16/mounted-police-chase-down-man-holding-mobile-phone-while-driving,2,0.037,0.07,0.894,-0.918,Guardian
+4,22:30.1,Russia-Ukraine war live: Kremlin confirms Xi Jinping state visit next week,https://www.theguardian.com/world/live/2023/mar/17/russia-ukraine-war-live-polands-decision-to-send-warplanes-puts-pressure-on-kyivs-allies,3,0.102,0.065,0.833,0.9957,Guardian
+5,22:30.1,Royal Mail CEO accused of ‘incompetence or cluelessness’ by MPs,https://www.theguardian.com/business/2023/mar/17/royal-mail-ceo-simon-thompson-accused-of-incompetence-cluelessness-by-mps-ofcom-letter-deliveries,4,0.053,0.123,0.825,-0.9937,Guardian
+6,22:30.1,Alexander Skarsgård: ‘There’s a politeness to Swedes. It’s a facade. Deep down we’re animals’,https://www.theguardian.com/film/2023/mar/17/alexander-skarsgard-theres-a-politeness-to-swedes-its-a-facade-deep-down-were-animals,5,0.108,0.103,0.788,-0.5299,Guardian
+7,22:30.1,Met police on ‘last chance’ as Casey report to condemn failure to change,https://www.theguardian.com/uk-news/2023/mar/16/met-police-on-last-chance-as-casey-report-to-condemn-failure-to-change,6,0.063,0.194,0.743,-0.9995,Guardian
+8,22:30.1,UK passengers owed millions by airlines in unpaid refunds and expenses ,https://www.theguardian.com/business/2023/mar/17/uk-passengers-owed-millions-by-airlines-in-unpaid-refunds-and-expenses,7,0.065,0.043,0.892,0.909,Guardian
+9,22:30.1,Time and again the Tories’ ship of fools takes us for … fools,https://www.theguardian.com/politics/2023/mar/16/time-and-again-the-tories-ship-of-fools-takes-us-for-fools,8,0.098,0.086,0.816,0.9463,Guardian
+10,22:30.1,Hong Kong: two arrested for possessing ‘seditious’ children’s book,https://www.theguardian.com/world/2023/mar/17/hong-kong-two-arrested-for-possessing-seditious-childrens-book,9,0.042,0.197,0.761,-0.9985,Guardian
+1,2023-03-17 15:31:33.428603,Russia threatens to destroy jets pledged to Ukraine,https://www.bbc.co.uk/news/world-europe-64988504,0,0.099,0.109,0.793,-0.5884,BBC
+2,2023-03-17 15:31:33.428603,PC who hit Dalian Atkinson guilty of gross misconduct,https://www.bbc.co.uk/news/uk-england-shropshire-64989418,1,0.027,0.138,0.835,-0.9981,BBC
+3,2023-03-17 15:31:33.429603,Ann Summers boss Jacqueline Gold dies aged 62,https://www.bbc.co.uk/news/business-64986528,2,0.072,0.063,0.866,0.6779,BBC
+4,2023-03-17 15:31:33.429603,Aldi raises pay as supermarkets battle for staff,https://www.bbc.co.uk/news/business-64987428,3,0.096,0.072,0.833,0.872,BBC
+5,2023-03-17 15:31:33.429603,Speedboat skipper sentenced over fatal crash,https://www.bbc.co.uk/news/uk-england-hampshire-64987949,4,0.059,0.13,0.812,-0.9901,BBC
+6,2023-03-17 15:31:33.429603,Give babies peanut butter to cut allergy - study,https://www.bbc.co.uk/news/health-64987074,5,0.077,0.095,0.828,-0.8225,BBC
+7,2023-03-17 15:31:33.429603,Credit Suisse shares hit as investor fears reignite,https://www.bbc.co.uk/news/business-64986520,6,0.122,0.094,0.784,0.9773,BBC
+8,2023-03-17 15:31:33.429603,The prison experience Holmes is desperate to avoid,https://www.bbc.co.uk/news/world-us-canada-64970156,7,0.046,0.085,0.869,-0.9951,BBC
+9,2023-03-17 15:31:33.429603,Warnings of passport delays as union calls strike,https://www.bbc.co.uk/news/uk-64981979,8,0.056,0.101,0.843,-0.9658,BBC
+10,2023-03-17 15:31:33.429603,Barrister disappointed by response to abuse report,https://www.bbc.co.uk/news/uk-64986345,9,0.07,0.22,0.711,-0.9995,BBC
+1,2023-03-17 15:31:40.144730,"The heart-breaking home video that proves no child is beyond County Lines gangs: Ben, 16, had a wholesome upbringing and was adored by his parents. But, as his shattered mother reveals, that wasn't enough to stop her finding him dead in a squalid hostel 
+",https://www.dailymail.co.uk/news/article-11869869/Mother-Ben-dead-says-tragic-story-Proof-no-child-county-lines-gangs.html,0,0.083,0.12,0.797,-0.9987,Daily Mail
+2,2023-03-17 15:31:40.144730,"Caring headteacher, 53, took her own life after hearing Ofsted were going to downgrade her primary school from Outstanding to Inadequate - calling it 'the worst day of my life', her devastated family say
+",https://www.dailymail.co.uk/news/article-11869433/Headteacher-took-life-waiting-publication-negative-Ofsted-report-family-say.html,1,0.104,0.081,0.815,0.9858,Daily Mail
+3,2023-03-17 15:31:40.144730,"Oprah Winfrey weighs in on whether Prince Harry and Meghan Markle should attend King Charles' coronation - and shares the advice she'd give the couple
+",https://www.dailymail.co.uk/femail/article-11868649/Oprah-Winfrey-shares-Coronation-advice-Prince-Harry-Meghan.html,2,0.061,0.025,0.914,0.9711,Daily Mail
+4,2023-03-17 15:31:40.144730,"Why does Chris Brown think this is OK? Singer holds Love Island star by the throat in lap dance at his Manchester gig... after saying he's 'tired' of people bringing up his assault of Rihanna
+",https://www.dailymail.co.uk/tvshowbiz/article-11870303/Love-Island-star-left-hot-collar-gets-steamy-serenade-Chris-Brown-stage.html,3,0.096,0.128,0.776,-0.9966,Daily Mail
+5,2023-03-17 15:31:40.144730,"Birmingham City fan, 32, who ran onto the pitch and punched Jack Grealish is 'found dead' four years after being jailed for the attack
+",https://www.dailymail.co.uk/news/article-11868375/Birmingham-City-fan-32-punched-Jack-Grealish-dead.html,4,0.134,0.191,0.675,-0.9881,Daily Mail
+6,2023-03-17 15:31:40.144730,"How long will YOU live? As study reveals UK's stagnating life expectancy, online calculator works out your average life span - and interactive maps show how boys born in Glasgow live 11 years less than those in central London 
+",https://www.dailymail.co.uk/health/article-11867089/Will-live-youre-100-Online-calculator-works-average-life-expectancy.html,5,0.057,0.091,0.852,-0.9863,Daily Mail
+7,2023-03-17 15:31:40.144730,"Sam and Billie Faiers break silence as Ferne McCann 'mourns' friendship after sending 'hurtful' voice notes because she was 'envious'
+",https://www.dailymail.co.uk/tvshowbiz/ferne-mccann/article-11869023/Sam-Billie-Faiers-break-silence-Ferne-McCann-mourns-friendship.html,6,0.119,0.157,0.724,-0.995,Daily Mail
+8,2023-03-17 15:31:40.144730,"Pixie Geldof enjoys day with her toddler daughter in rainy London... after Channel 4 documentary on her late mother Paula Yates aired
+",https://www.dailymail.co.uk/tvshowbiz/article-11868247/Pixie-Geldof-enjoys-day-toddler-daughter-rainy-London.html,7,0.112,0.113,0.775,-0.7865,Daily Mail
+9,2023-03-17 15:31:40.144730,"'She was a trailblazer and the most incredible woman': Jacqueline Gold's sister and Ann Summers successor pays tribute to 'absolute warrior' who died aged 62 after breast cancer battle - just weeks after death of her West Ham owner father David Gold 
+",https://www.dailymail.co.uk/news/article-11871919/Ann-Summers-boss-Jacqueline-Gold-dies-aged-62.html,8,0.106,0.103,0.792,0.9156,Daily Mail
+10,2023-03-17 15:31:40.144730,"EXCLUSIVE - Back from the brink! Incredible moment ex-soldier DRAGS his home 10ft back from cliff edge with a JCB before it crashed onto beach below
+",https://www.dailymail.co.uk/news/article-11868307/Ex-Grenadier-Guard-saves-home-teetering-cliff-edge.html,9,0.116,0.063,0.821,0.9978,Daily Mail
+1,2023-03-17 15:31:57.287951,Ann Summers supremo Jacqueline Gold dies aged 62,https://www.theguardian.com/business/2023/mar/17/ann-summers-founder-jacqueline-gold-dies-aged-62,0,0.092,0.118,0.79,-0.9839,Guardian
+2,2023-03-17 15:31:57.287951,No 10 refuses to give details of how £4bn pay deal for health workers will be funded – live,https://www.theguardian.com/politics/live/2023/mar/17/dominic-raab-junior-doctors-strikes-offer-steve-barclay-rishi-sunak-live,1,0.118,0.07,0.811,0.9995,Guardian
+3,2023-03-17 15:31:57.287951,‘A gas-guzzling villain’s lair’: welcome to LA’s grotesque new high-rise,https://www.theguardian.com/artanddesign/2023/mar/17/a-gas-guzzling-villains-lair-welcome-to-las-grotesque-new-high-rise,2,0.073,0.035,0.891,0.9956,Guardian
+4,2023-03-17 15:31:57.288954,SVB parent files for bankruptcy; Credit Suisse shares slide again amid banking crisis – as it happened,https://www.theguardian.com/business/live/2023/mar/17/markets-us-banks-first-republic-rescue-business-live,3,0.081,0.102,0.817,-0.9951,Guardian
+5,2023-03-17 15:31:57.288954,"On this day 20 years ago, Robin Cook tried to stop the Iraq war. I helped write that historic speech ",https://www.theguardian.com/commentisfree/2023/mar/17/robin-cook-stop-iraq-war-speech,4,0.108,0.107,0.785,-0.9095,Guardian
+6,2023-03-17 15:31:57.288954,You be the judge: should my boyfriend stop farting in front of me?,https://www.theguardian.com/lifeandstyle/2023/mar/17/you-be-the-judge-should-my-partner-stop-farting-in-front-of-me,5,0.165,0.121,0.715,0.9964,Guardian
+7,2023-03-17 15:31:57.288954,French anger spreads after Macron forces pension age rise,https://www.theguardian.com/world/2023/mar/17/french-anger-spreads-after-macron-forces-pension-age-rise,6,0.062,0.171,0.767,-0.9978,Guardian
+8,2023-03-17 15:31:57.289980,"Champions League draw, Vieira sacking reaction, team news and more – live",https://www.theguardian.com/football/live/2023/mar/17/premier-league-and-fa-cup-team-news-champions-league-draw-and-more-live,7,0.223,0.049,0.728,1.0,Guardian
+9,2023-03-17 15:31:57.289980,Russia-Ukraine war live: international criminal court accuses Putin of ‘unlawful deportation’ of Ukrainian children,https://www.theguardian.com/world/live/2023/mar/17/russia-ukraine-war-live-polands-decision-to-send-warplanes-puts-pressure-on-kyivs-allies,8,0.065,0.043,0.892,0.9917,Guardian
+10,2023-03-17 15:31:57.289980,Government ‘to cut £250m from social care workforce funding’ in England,https://www.theguardian.com/society/2023/mar/17/government-to-cut-250m-from-social-care-workforce-funding-in-england-report-says,9,0.21,0.061,0.729,0.9988,Guardian
