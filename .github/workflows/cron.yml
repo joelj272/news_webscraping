@@ -5,7 +5,12 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 8,20 * * *"
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
 
 jobs:
   build-and-deploy:
