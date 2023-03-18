@@ -999,3 +999,43 @@ rank,datetime,story,url,index,pos,neg,neu,comp,source
 8,2023-03-17 20:08:17.731607,"Sam Neill on his new memoir and living with blood cancer: ‘I’m not afraid to die, but it would annoy me’",https://www.theguardian.com/film/2023/mar/17/sam-neill-cancer-memoir-interview,7,0.162,0.061,0.778,0.9997,Guardian
 9,2023-03-17 20:08:17.731777,Romello McCook: investigator to face hearing over case of student hit by train,https://www.theguardian.com/uk-news/2023/mar/17/romello-mccook-student-struck-by-train-police-investigator-plymouth,8,0.056,0.183,0.761,-0.9986,Guardian
 10,2023-03-17 20:08:17.732160,"NHS doctors offered up to £5,000 to recruit colleagues for private hospitals",https://www.theguardian.com/business/2023/mar/17/nhs-doctors-recruit-colleagues-private-hospitals-hca-healthcare,9,0.111,0.025,0.864,0.9983,Guardian
+1,2023-03-18 08:09:04.342283,Thousands may have lost out to crypto trading app,https://www.bbc.co.uk/news/technology-64939146,0,0.086,0.062,0.852,0.9747,BBC
+2,2023-03-18 08:09:04.342426,Biden welcomes court's Putin arrest warrant,https://www.bbc.co.uk/news/world-europe-64998165,1,0.064,0.13,0.805,-0.99,BBC
+3,2023-03-18 08:09:04.342475,Actor Sam Neill reveals cancer diagnosis,https://www.bbc.co.uk/news/entertainment-arts-64969344,2,0.095,0.104,0.8,-0.8414,BBC
+4,2023-03-18 08:09:04.342520,The Wire star Lance Reddick dies aged 60,https://www.bbc.co.uk/news/world-us-canada-64959805,3,0.081,0.069,0.85,0.4419,BBC
+5,2023-03-18 08:09:04.342564,Italy leaves children of same-sex parents in limbo,https://www.bbc.co.uk/news/world-europe-64967517,4,0.114,0.055,0.832,0.9943,BBC
+6,2023-03-18 08:09:04.342607,Millions of dead fish wash up in Australian town,https://www.bbc.co.uk/news/world-australia-64992726,5,0.055,0.089,0.856,-0.9635,BBC
+7,2023-03-18 08:09:04.342651,Russia threatens to destroy jets pledged to Ukraine,https://www.bbc.co.uk/news/world-europe-64988504,6,0.099,0.109,0.793,-0.5884,BBC
+8,2023-03-18 08:09:04.342694,Teen kills two Canadian police officers,https://www.bbc.co.uk/news/world-us-canada-64971967,7,0.048,0.121,0.83,-0.9885,BBC
+9,2023-03-18 08:09:04.342737,Djokovic denied entry to US to play at Miami Open,https://www.bbc.co.uk/sport/tennis/64997434,8,0.0,0.0,0.0,0.0,BBC
+10,2023-03-18 08:09:04.342780,Turkey's Erdogan seals deal on Finland joining Nato,https://www.bbc.co.uk/news/world-europe-64986744,9,0.12,0.082,0.798,0.9737,BBC
+1,2023-03-18 08:09:14.524406,"Lance Reddick dead at 60: The Wire and John Wick star 'dies of natural causes' at his home in LA - just one day after posting an adorable photo of himself cuddling his three dogs 
+",https://www.dailymail.co.uk/tvshowbiz/article-11873587/Lance-Reddick-dead-60-Wire-John-Wick-star-dies-natural-causes-home-LA.html,0,0.152,0.105,0.744,0.9924,Daily Mail
+2,2023-03-18 08:09:14.524490,"Distressing moment female teacher QUITS in the middle of class after being taunted by kids 
+",https://www.dailymail.co.uk/news/article-11873061/Distressing-moment-female-teacher-QUITS-middle-class-marching-classroom.html,1,0.094,0.114,0.792,-0.7946,Daily Mail
+3,2023-03-18 08:09:14.524541,"Ohio spring breaker, 19, is charged with violently attacking one-armed Def Leppard drummer Rick Allen, 59, as rocker puffed cigarette outside Fort Lauderdale Four Seasons hotel
+",https://www.dailymail.co.uk/news/article-11867653/Def-Leppards-drummer-Rick-Allen-59-violently-assaulted-man-19-unprovoked-attack.html,2,0.023,0.118,0.859,-0.9896,Daily Mail
+4,2023-03-18 08:09:14.524590,"66 MILLION Americans want a 'national divorce': New poll shows growing number back Marjorie Taylor Greene's call for a split between blue and red states
+",https://www.dailymail.co.uk/news/article-11873063/66-MILLION-Marjorie-Taylor-Greenes-call-national-divorce-blue-red-states.html,3,0.091,0.057,0.853,0.9226,Daily Mail
+5,2023-03-18 08:09:14.524638,"Now Ayesha Curry joins the super skinny trend: Food Network star's dramatic transformation prompts fans to speculate she's on Hollywood's favorite new weight loss drug
+",https://www.dailymail.co.uk/tvshowbiz/article-11871193/Ayesha-Curry-shows-svelte-figure-new-Instagram-snaps-prompts-weight-loss-drug-speculation.html,4,0.155,0.046,0.799,0.9974,Daily Mail
+6,2023-03-18 08:09:14.524687,"EXCLUSIVE: The look of love? Gisele beams as she shows off her incredible abs in a green bikini during beach stroll in Costa Rica - after DailyMail.com revealed she has moved on from Tom Brady with Elle Macpherson's billionaire ex Jeffrey Soffer
+",https://www.dailymail.co.uk/femail/article-11869949/Gisele-beams-shows-incredible-abs-green-bikini-beach-stroll-Costa-Rica.html,5,0.11,0.016,0.874,0.9991,Daily Mail
+7,2023-03-18 08:09:14.524734,"EXCLUSIVE: It's official! Beaming Amy Robach steps out with T.J. Holmes after quietly finalizing divorce agreement with Andrew Shue - as the Melrose Place actor is comforted by her daughter while picking up their Maltipoo in doggy joint custody deal
+",https://www.dailymail.co.uk/news/article-11872637/Amy-Robach-Andrew-Shue-finalize-divorce-agreement-months-affair-exposed.html,6,0.17,0.038,0.792,0.9993,Daily Mail
+8,2023-03-18 08:09:14.524780,"Was this the FIFTH 9/11 plane? Crew of United 23 reveal their 767 scheduled to takeoff on fateful day was raided by FBI after they found box cutters they feared would be used in hijack and identified four suspicious passengers... but kept it quiet
+",https://www.dailymail.co.uk/news/article-11874023/Was-FIFTH-9-11-plane-Crew-United-23-reveal-767-raided-FBI-grounded.html,7,0.046,0.106,0.847,-0.9975,Daily Mail
+9,2023-03-18 08:09:14.524826,"Home Alone star Macaulay Culkin, 42, and fiancée Brenda Song, 34, 'welcomed their second child, a baby boy named Carson, three months ago'
+",https://www.dailymail.co.uk/tvshowbiz/article-11873629/Macaulay-Culkin-fianc-e-Brenda-Song-secretly-welcome-second-child.html,8,0.133,0.005,0.862,0.9976,Daily Mail
+10,2023-03-18 08:09:14.524874,"'This is my real voice!' Paris Hilton is preened to perfection in a pink maxi dress and hair bow as she leaves This Morning hosts baffled by how she sounds
+",https://www.dailymail.co.uk/tvshowbiz/article-11872411/Paris-Hilton-leaves-Morning-hosts-baffled-real-voice-sounds.html,9,0.109,0.055,0.836,0.9761,Daily Mail
+1,2023-03-18 08:09:22.281481,Braverman criticised for shutting out Guardian and BBC from Rwanda trip,https://www.theguardian.com/politics/2023/mar/18/braverman-criticised-for-shutting-out-guardian-and-bbc-from-rwanda-trip,0,0.107,0.095,0.799,0.8793,Guardian
+2,2023-03-18 08:09:22.281639,Rail strikes to severely disrupt travel in Great Britain this weekend,https://www.theguardian.com/uk-news/2023/mar/18/rail-strikes-travel-great-britain-rmt-lner-avanti-lner-avanti,1,0.062,0.096,0.842,-0.6249,Guardian
+3,2023-03-18 08:09:22.281770,Jon Snow ‘at complete ease’ with becoming a father again in his 70s,https://www.theguardian.com/media/2023/mar/18/jon-snow-channel-4-late-fatherhood,2,0.12,0.048,0.831,0.9875,Guardian
+4,2023-03-18 08:09:22.281912,Blind date: ‘She tried to bring up politics but I was worried she was more leftwing than me’,https://www.theguardian.com/lifeandstyle/2023/mar/18/blind-date-mariana-oliver,3,0.142,0.041,0.817,0.9981,Guardian
+5,2023-03-18 08:09:22.282058,Biden administration quietly resumes deportations to Russia ,https://www.theguardian.com/us-news/2023/mar/18/biden-administration-russia-deportations,4,0.048,0.09,0.862,-0.9902,Guardian
+6,2023-03-18 08:09:22.282195,Boris Johnson may be only witness called in Partygate investigation,https://www.theguardian.com/politics/2023/mar/18/boris-johnson-may-be-only-witness-called-in-partygate-investigation,5,0.093,0.079,0.828,0.7453,Guardian
+7,2023-03-18 08:09:22.282335,"Lance Reddick, star of The Wire and John Wick, dies aged 60",https://www.theguardian.com/culture/2023/mar/17/lance-reddick-dies-john-wick-the-wire-actor,6,0.14,0.075,0.785,0.9874,Guardian
+8,2023-03-18 08:09:22.282473,Digested week: Hugh Grant plays the prat instead of the dumb Oscars game,https://www.theguardian.com/uk-news/2023/mar/17/digested-week-hugh-grant-plays-the-prat-instead-of-the-dumb-oscars-game,7,0.119,0.068,0.813,0.9955,Guardian
+9,2023-03-18 08:09:22.282635,Blundstones on the march: Gary Lineker’s boots catch the eye once again,https://www.theguardian.com/fashion/2023/mar/17/blundstones-on-the-march-gary-linekers-boots-catch-the-eye-once-again,8,0.105,0.025,0.87,0.9975,Guardian
+10,2023-03-18 08:09:22.282772,Tories pressured BBC over Johnson’s claim Starmer failed to prosecute Jimmy Savile,https://www.theguardian.com/politics/2023/mar/17/tories-pressured-bbc-over-johnsons-claim-starmer-failed-to-prosecute-jimmy-savile,9,0.055,0.077,0.867,-0.9436,Guardian
