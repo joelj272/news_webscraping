@@ -1039,3 +1039,43 @@ rank,datetime,story,url,index,pos,neg,neu,comp,source
 8,2023-03-18 08:09:22.282473,Digested week: Hugh Grant plays the prat instead of the dumb Oscars game,https://www.theguardian.com/uk-news/2023/mar/17/digested-week-hugh-grant-plays-the-prat-instead-of-the-dumb-oscars-game,7,0.119,0.068,0.813,0.9955,Guardian
 9,2023-03-18 08:09:22.282635,Blundstones on the march: Gary Lineker’s boots catch the eye once again,https://www.theguardian.com/fashion/2023/mar/17/blundstones-on-the-march-gary-linekers-boots-catch-the-eye-once-again,8,0.105,0.025,0.87,0.9975,Guardian
 10,2023-03-18 08:09:22.282772,Tories pressured BBC over Johnson’s claim Starmer failed to prosecute Jimmy Savile,https://www.theguardian.com/politics/2023/mar/17/tories-pressured-bbc-over-johnsons-claim-starmer-failed-to-prosecute-jimmy-savile,9,0.055,0.077,0.867,-0.9436,Guardian
+1,2023-03-18 20:07:18.390562,Trump says he expects to be arrested on Tuesday,https://www.bbc.co.uk/news/world-us-canada-65000325,0,0.076,0.101,0.822,-0.9685,BBC
+2,2023-03-18 20:07:18.390685,Man sent bailiffs to airport for Wizz Air refund,https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-64999557,1,0.075,0.065,0.86,0.8898,BBC
+3,2023-03-18 20:07:18.390729,The mountain town buried by California winter chaos,https://www.bbc.co.uk/news/world-us-canada-64995904,2,0.069,0.086,0.845,-0.9635,BBC
+4,2023-03-18 20:07:18.390769,Thousands may have lost out to crypto trading app,https://www.bbc.co.uk/news/technology-64939146,3,0.086,0.062,0.852,0.9747,BBC
+5,2023-03-18 20:07:18.390808,Italy leaves children of same-sex parents in limbo,https://www.bbc.co.uk/news/world-europe-64967517,4,0.114,0.055,0.832,0.9943,BBC
+6,2023-03-18 20:07:18.390847,Millions of dead fish wash up in Australian town,https://www.bbc.co.uk/news/world-australia-64992726,5,0.055,0.089,0.856,-0.9635,BBC
+7,2023-03-18 20:07:18.390886,Russia and Ukraine agree to extend grain deal,https://www.bbc.co.uk/news/world-europe-65000324,6,0.074,0.101,0.825,-0.8938,BBC
+8,2023-03-18 20:07:18.390925,Wyoming becomes first US state to ban abortion pills,https://www.bbc.co.uk/news/world-us-canada-64998920,7,0.09,0.108,0.801,-0.9313,BBC
+9,2023-03-18 20:07:18.390963,Taylor Swift launches Eras tour with 44-song set,https://www.bbc.co.uk/news/entertainment-arts-64999388,8,0.125,0.04,0.836,0.9968,BBC
+10,2023-03-18 20:07:18.391003,The Wire star Lance Reddick dies aged 60,https://www.bbc.co.uk/news/world-us-canada-64959805,9,0.081,0.069,0.85,0.4419,BBC
+1,2023-03-18 20:07:22.264107,"Lance Reddick dead at 60: The Wire and John Wick star 'dies of natural causes' at his home in LA - just one day after posting an adorable photo of himself cuddling his three dogs 
+",https://www.dailymail.co.uk/tvshowbiz/article-11873587/Lance-Reddick-dead-60-Wire-John-Wick-star-dies-natural-causes-home-LA.html,0,0.152,0.105,0.744,0.9924,Daily Mail
+2,2023-03-18 20:07:22.264190,"66 MILLION Americans want a 'national divorce': New poll shows growing number back Marjorie Taylor Greene's call for a split between blue and red states
+",https://www.dailymail.co.uk/news/article-11873063/66-MILLION-Marjorie-Taylor-Greenes-call-national-divorce-blue-red-states.html,1,0.091,0.057,0.853,0.9226,Daily Mail
+3,2023-03-18 20:07:22.264240,"This one is divisive! Can you solve a 'simple' math problem that has stumped the internet?
+",https://www.dailymail.co.uk/news/article-11863217/Can-solve-seemingly-simple-math-problem-left-internet-stumped.html,2,0.079,0.022,0.899,0.9638,Daily Mail
+4,2023-03-18 20:07:22.264288,"Distressing moment female teacher QUITS in the middle of class after being taunted by kids 
+",https://www.dailymail.co.uk/news/article-11873061/Distressing-moment-female-teacher-QUITS-middle-class-marching-classroom.html,3,0.094,0.114,0.792,-0.7946,Daily Mail
+5,2023-03-18 20:07:22.264334,"'This is my real voice!' Paris Hilton is preened to perfection in a pink maxi dress and hair bow as she leaves This Morning hosts baffled by how she sounds
+",https://www.dailymail.co.uk/tvshowbiz/article-11872411/Paris-Hilton-leaves-Morning-hosts-baffled-real-voice-sounds.html,4,0.109,0.055,0.836,0.9761,Daily Mail
+6,2023-03-18 20:07:22.264379,"EXCLUSIVE: Grammy award-winning saxophonist Kenny G, 66, pushes to terminate spousal support after paying $3.9 million over nine years as 'touring opportunities dry up and income declines'
+",https://www.dailymail.co.uk/news/article-11874515/Saxophonist-Kenny-G-66-tries-end-spousal-support-touring-opportunities-dry-up.html,5,0.17,0.045,0.785,0.9983,Daily Mail
+7,2023-03-18 20:07:22.264425,"Was this the FIFTH 9/11 plane? Crew of United 23 reveal their 767 scheduled to takeoff on fateful day was raided by FBI after they found box cutters they feared would be used in hijack and identified four suspicious passengers... but kept it quiet
+",https://www.dailymail.co.uk/news/article-11874023/Was-FIFTH-9-11-plane-Crew-United-23-reveal-767-raided-FBI-grounded.html,6,0.046,0.106,0.847,-0.9975,Daily Mail
+8,2023-03-18 20:07:22.264471,"A legendary clan caught up in an ugly legal row: Why Priscilla Presley is battling her own granddaughter Riley Keough over Elvis's millions - and may well win 
+",https://www.dailymail.co.uk/tvshowbiz/article-11873911/Why-Priscilla-Presley-battling-granddaughter-Riley-Keough-Elviss-millions.html,7,0.102,0.107,0.792,-0.9865,Daily Mail
+9,2023-03-18 20:07:22.264516,"Donald Trump says he will be arrested on TUESDAY, as New York prosecutors move to indict him over hush money payments to porn star Stormy Daniels
+",https://www.dailymail.co.uk/news/article-11875425/Donald-Trump-says-arrested-TUESDAY-Stormy-Daniels-payments.html,8,0.084,0.109,0.807,-0.978,Daily Mail
+10,2023-03-18 20:07:22.264561,"EXCLUSIVE: It's official! Beaming Amy Robach steps out with T.J. Holmes after quietly finalizing divorce agreement with Andrew Shue - as the Melrose Place actor is comforted by her daughter while picking up their Maltipoo in doggy joint custody deal
+",https://www.dailymail.co.uk/news/article-11872637/Amy-Robach-Andrew-Shue-finalize-divorce-agreement-months-affair-exposed.html,9,0.17,0.038,0.792,0.9993,Daily Mail
+1,2023-03-18 20:07:29.805539,Ireland 29-16 England: Irish clinch Six Nations grand slam – live reaction,https://www.theguardian.com/sport/live/2023/mar/18/ireland-v-england-six-nations-live,0,0.111,0.078,0.811,0.9964,Guardian
+2,2023-03-18 20:07:29.805705,Boris Johnson makes last-ditch bid to discredit Partygate inquiry,https://www.theguardian.com/politics/2023/mar/18/boris-johnson-makes-last-ditch-bid-to-discredit-partygate-probe,1,0.056,0.057,0.887,-0.5445,Guardian
+3,2023-03-18 20:07:29.805827,Manchester City 6-0 Burnley: FA Cup quarter-final – as it happened,https://www.theguardian.com/football/live/2023/mar/18/manchester-city-v-burnley-fa-cup-quarter-final-live,2,0.132,0.034,0.834,0.9996,Guardian
+4,2023-03-18 20:07:29.805946,Thérèse Coffey’s ‘eat turnips’ message leaves bitter taste after UK’s biggest grower gives up,https://www.theguardian.com/food/2023/mar/18/therese-coffeys-eat-turnips-message-leaves-bitter-taste-after-uks-biggest-grower-gives-up,3,0.128,0.06,0.813,0.9945,Guardian
+5,2023-03-18 20:07:29.806064,"My mother, the troll: ‘I think she lost sight of the McCanns’ humanity’",https://www.theguardian.com/society/2023/mar/18/my-mother-troll-of-madeleine-mccann-parents,4,0.09,0.14,0.77,-0.9999,Guardian
+6,2023-03-18 20:07:29.806182,Trump claims he ‘will be arrested’ on Tuesday in New York criminal case,https://www.theguardian.com/us-news/2023/mar/18/donald-trump-arrest-stormy-daniels-,5,0.054,0.162,0.785,-0.9991,Guardian
+7,2023-03-18 20:07:29.806300,Chelsea 2-2 Everton: Premier League – as it happened,https://www.theguardian.com/football/live/2023/mar/18/chelsea-v-everton-premier-league-live,6,0.168,0.066,0.766,0.9996,Guardian
+8,2023-03-18 20:07:29.806420,SNP chief executive Peter Murrell resigns amid membership row,https://www.theguardian.com/politics/2023/mar/18/snp-chief-executive-peter-murrell-resigns-nicola-sturgeon,7,0.128,0.074,0.798,0.9947,Guardian
+9,2023-03-18 20:07:29.806539,‘We had to hide them’: how Ukraine’s ‘kidnapped’ children led to Vladimir Putin’s arrest warrant,https://www.theguardian.com/world/2023/mar/18/how-ukraine-kidnapped-children-led-to-vladimir-putins-arrest-warrant-russia,8,0.057,0.093,0.85,-0.9963,Guardian
+10,2023-03-18 20:07:29.806658,Alan Shearer talks of ‘difficult week’ as he and Gary Lineker return to MotD,https://www.theguardian.com/football/2023/mar/18/gary-lineker-back-on-match-of-the-day-after-row-that-engulfed-bbc,9,0.116,0.029,0.855,0.9938,Guardian
