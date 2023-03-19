@@ -1079,3 +1079,43 @@ rank,datetime,story,url,index,pos,neg,neu,comp,source
 8,2023-03-18 20:07:29.806420,SNP chief executive Peter Murrell resigns amid membership row,https://www.theguardian.com/politics/2023/mar/18/snp-chief-executive-peter-murrell-resigns-nicola-sturgeon,7,0.128,0.074,0.798,0.9947,Guardian
 9,2023-03-18 20:07:29.806539,‘We had to hide them’: how Ukraine’s ‘kidnapped’ children led to Vladimir Putin’s arrest warrant,https://www.theguardian.com/world/2023/mar/18/how-ukraine-kidnapped-children-led-to-vladimir-putins-arrest-warrant-russia,8,0.057,0.093,0.85,-0.9963,Guardian
 10,2023-03-18 20:07:29.806658,Alan Shearer talks of ‘difficult week’ as he and Gary Lineker return to MotD,https://www.theguardian.com/football/2023/mar/18/gary-lineker-back-on-match-of-the-day-after-row-that-engulfed-bbc,9,0.116,0.029,0.855,0.9938,Guardian
+1,2023-03-19 08:09:01.929212,Putin pays surprise visit to war-damaged Mariupol,https://www.bbc.co.uk/news/world-europe-65004610,0,0.033,0.123,0.845,-0.9877,BBC
+2,2023-03-19 08:09:01.929331,Trump says he expects to be arrested on Tuesday,https://www.bbc.co.uk/news/world-us-canada-65000325,1,0.086,0.108,0.805,-0.9736,BBC
+3,2023-03-19 08:09:01.929374,Swiss UBS bank 'in Credit Suisse takeover talks',https://www.bbc.co.uk/news/business-65004605,2,0.125,0.161,0.714,-0.9469,BBC
+4,2023-03-19 08:09:01.929414,Is France's government doomed by the pension crisis?,https://www.bbc.co.uk/news/world-europe-64986741,3,0.058,0.14,0.801,-0.9977,BBC
+5,2023-03-19 08:09:01.929454,Extradited to the UK for a 41-year-old pub brawl,https://www.bbc.co.uk/news/uk-64678781,4,0.051,0.14,0.809,-0.9991,BBC
+6,2023-03-19 08:09:01.929494,Why Egyptians are being asked to eat chicken feet,https://www.bbc.co.uk/news/world-64951519,5,0.057,0.109,0.834,-0.9936,BBC
+7,2023-03-19 08:09:01.929534,Johnson to publish defence ahead of grilling by MPs,https://www.bbc.co.uk/news/uk-politics-65001385,6,0.07,0.094,0.836,-0.9769,BBC
+8,2023-03-19 08:09:01.929573,The New Zealand flood victims too scared to go home,https://www.bbc.co.uk/news/world-asia-64940342,7,0.065,0.112,0.823,-0.9899,BBC
+9,2023-03-19 08:09:01.929613,The multi-million dollar business of Ryan Reynolds,https://www.bbc.co.uk/news/world-us-canada-64984291,8,0.091,0.021,0.888,0.9842,BBC
+10,2023-03-19 08:09:01.929652,Teen kills two Canadian police officers,https://www.bbc.co.uk/news/world-us-canada-64971967,9,0.048,0.121,0.83,-0.9885,BBC
+1,2023-03-19 08:09:09.775723,"This one is divisive! Can you solve a 'simple' math problem that has stumped the internet?
+",https://www.dailymail.co.uk/news/article-11863217/Can-solve-seemingly-simple-math-problem-left-internet-stumped.html,0,0.079,0.022,0.899,0.9638,Daily Mail
+2,2023-03-19 08:09:09.775805,"'This is my real voice!' Paris Hilton is preened to perfection in a pink maxi dress and hair bow as she leaves This Morning hosts baffled by how she sounds
+",https://www.dailymail.co.uk/tvshowbiz/article-11872411/Paris-Hilton-leaves-Morning-hosts-baffled-real-voice-sounds.html,1,0.109,0.055,0.836,0.9761,Daily Mail
+3,2023-03-19 08:09:09.775856,"Donald Trump's post claiming he'll be arrested Tuesday could see him DENIED BAIL over fears he'll try and incite Jan 6. riot at arraignment hearing, former federal prosecutor says
+",https://www.dailymail.co.uk/news/article-11875637/Donald-Trumps-post-sharing-details-arrest-DENIED-BAIL.html,2,0.074,0.1,0.826,-0.9797,Daily Mail
+4,2023-03-19 08:09:09.775905,"Terrifying moment LA weather forecaster's eyes roll to the back of her head before she collapses on live TV 
+",https://www.dailymail.co.uk/news/article-11876189/Terrifying-moment-LA-weather-forecasters-eyes-roll-head-collapses.html,3,0.05,0.084,0.867,-0.9479,Daily Mail
+5,2023-03-19 08:09:09.775953,"The most expensive and cheapest college in each state - and how you could save a mind-blowing $63,000 depending on which one you choose
+",https://www.dailymail.co.uk/news/article-11855415/The-expensive-cheapest-college-state.html,4,0.03,0.021,0.949,0.662,Daily Mail
+6,2023-03-19 08:09:09.776000,"EXCLUSIVE: Grammy award-winning saxophonist Kenny G, 66, pushes to terminate spousal support after paying $3.9 million over nine years as 'touring opportunities dry up and income declines'
+",https://www.dailymail.co.uk/news/article-11874515/Saxophonist-Kenny-G-66-tries-end-spousal-support-touring-opportunities-dry-up.html,5,0.17,0.045,0.785,0.9983,Daily Mail
+7,2023-03-19 08:09:09.776047,"Rob Kardashian's ex Blac Chyna makes first appearance since having her butt and breast implants removed and facial fillers dissolved
+",https://www.dailymail.co.uk/tvshowbiz/article-11876167/Blac-Chyna-makes-appearance-having-butt-breast-implants-removed-Atlanta.html,6,0.094,0.016,0.891,0.9941,Daily Mail
+8,2023-03-19 08:09:09.776092,"Princess Beatrice's Meghan dilemma: Royal who is fiercely loyal to the Crown and her parents faces awkward choices after Fergie distanced herself - while sister Eugenie is BFFs with the Duchess 
+",https://www.dailymail.co.uk/femail/article-11858815/How-notoriously-private-Princess-Beatrice-hidden-friendship-Meghan-Markle.html,7,0.074,0.054,0.872,0.9908,Daily Mail
+9,2023-03-19 08:09:09.776139,"Toddler twin brother and sister aged 18 months BOTH drown in murky outdoor pool of their family's Oklahoma mansion 'after great-grandma with Alzheimer's left back door open' 
+",https://www.dailymail.co.uk/news/article-11875357/Toddler-twin-brother-sister-drown-outdoor-pool-familys-Oklahoma-mansion.html,8,0.107,0.115,0.778,-0.8726,Daily Mail
+10,2023-03-19 08:09:09.776185,"'It's time!!! Protest, protest, protest!!!' Donald Trump calls for Americans to take to the streets after claiming he'll be arrested by Manhattan DA on Tuesday as prosecutors move to indict him over $130K hush money paid to porn star Stormy Daniels
+",https://www.dailymail.co.uk/news/article-11875929/Donald-Trump-calls-Americans-protest-claiming-hell-arrested-Tuesday.html,9,0.073,0.167,0.76,-0.9993,Daily Mail
+1,2023-03-19 08:09:17.755156,Trump allies and rivals rally to his defence after he claims arrest is imminent,https://www.theguardian.com/us-news/2023/mar/19/trump-allies-and-rivals-rally-to-his-defence-after-he-claims-arrest-is-imminent,0,0.081,0.132,0.787,-0.9967,Guardian
+2,2023-03-19 08:09:17.755301,"My mother, the troll: ‘I think she lost sight of the McCanns’ humanity’",https://www.theguardian.com/society/2023/mar/18/my-mother-troll-of-madeleine-mccann-parents,1,0.09,0.14,0.77,-0.9999,Guardian
+3,2023-03-19 08:09:17.755419,John Lewis considering end to 100% employee ownership – reports,https://www.theguardian.com/business/2023/mar/19/john-lewis-considering-end-to-100-employee-ownership-reports,2,0.068,0.077,0.854,-0.128,Guardian
+4,2023-03-19 08:09:17.755535,Boris Johnson makes last-ditch bid to discredit Partygate inquiry,https://www.theguardian.com/politics/2023/mar/18/boris-johnson-makes-last-ditch-bid-to-discredit-partygate-probe,3,0.056,0.057,0.887,-0.5445,Guardian
+5,2023-03-19 08:09:17.755650,Jeremy Hunt’s ‘bizarre’ ditching of pension limit ‘widens inheritance loophole for wealthy’,https://www.theguardian.com/uk-news/2023/mar/19/jeremy-hunts-bizarre-ditching-of-pension-limit-widens-inheritance-loophole-for-wealthy,4,0.119,0.07,0.811,0.9865,Guardian
+6,2023-03-19 08:09:17.755765,BBC chair Richard Sharp ‘helped friend get paid job’ advising corporation,https://www.theguardian.com/media/2023/mar/18/bbc-chair-richard-sharp-helped-friend-to-paid-job-advising-corporation,5,0.062,0.036,0.902,0.9346,Guardian
+7,2023-03-19 08:09:17.755882,‘We had to hide them’: how Ukraine’s ‘kidnapped’ children led to Vladimir Putin’s arrest warrant,https://www.theguardian.com/world/2023/mar/18/how-ukraine-kidnapped-children-led-to-vladimir-putins-arrest-warrant-russia,6,0.057,0.093,0.85,-0.9963,Guardian
+8,2023-03-19 08:09:17.756000,My best friends are divorcing and I’m stuck in the middle,https://www.theguardian.com/lifeandstyle/2023/mar/19/ask-philppa-perry-my-best-friends-are-divorcing-and-i-am-stuck-in-the-middle,7,0.103,0.114,0.783,-0.9611,Guardian
+9,2023-03-19 08:09:17.756117,Fresh appeal to find missing 15-year-old girl last seen in Glasgow,https://www.theguardian.com/uk-news/2023/mar/18/fresh-appeal-to-find-missing-15-year-old-girl-last-seen-in-glasgow,8,0.12,0.016,0.864,0.9829,Guardian
+10,2023-03-19 08:09:17.756234,Interest rate rises in doubt as fear of new global crisis rattles central banks,https://www.theguardian.com/business/2023/mar/19/interest-rate-rises-in-doubt-as-fear-of-new-global-crisis-rattles-central-banks,9,0.118,0.086,0.796,0.979,Guardian
