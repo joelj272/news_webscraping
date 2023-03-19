@@ -1119,3 +1119,43 @@ rank,datetime,story,url,index,pos,neg,neu,comp,source
 8,2023-03-19 08:09:17.756000,My best friends are divorcing and I’m stuck in the middle,https://www.theguardian.com/lifeandstyle/2023/mar/19/ask-philppa-perry-my-best-friends-are-divorcing-and-i-am-stuck-in-the-middle,7,0.103,0.114,0.783,-0.9611,Guardian
 9,2023-03-19 08:09:17.756117,Fresh appeal to find missing 15-year-old girl last seen in Glasgow,https://www.theguardian.com/uk-news/2023/mar/18/fresh-appeal-to-find-missing-15-year-old-girl-last-seen-in-glasgow,8,0.12,0.016,0.864,0.9829,Guardian
 10,2023-03-19 08:09:17.756234,Interest rate rises in doubt as fear of new global crisis rattles central banks,https://www.theguardian.com/business/2023/mar/19/interest-rate-rises-in-doubt-as-fear-of-new-global-crisis-rattles-central-banks,9,0.118,0.086,0.796,0.979,Guardian
+1,2023-03-19 20:07:26.526156,'It's personal for him': What Putin saw in Mariupol,https://www.bbc.co.uk/news/world-europe-65007289,0,0.035,0.12,0.845,-0.9986,BBC
+2,2023-03-19 20:07:26.526299,UBS agrees to rescue troubled bank Credit Suisse,https://www.bbc.co.uk/news/business-65007871,1,0.195,0.068,0.737,0.9958,BBC
+3,2023-03-19 20:07:26.526345,Taliban officials must sack sons given government jobs,https://www.bbc.co.uk/news/world-asia-65005792,2,0.031,0.106,0.863,-0.9699,BBC
+4,2023-03-19 20:07:26.526388,"Trump prosecution a political move, say Republicans",https://www.bbc.co.uk/news/world-us-canada-65007991,3,0.067,0.122,0.811,-0.9908,BBC
+5,2023-03-19 20:07:26.526430,Top South African corruption investigator shot dead,https://www.bbc.co.uk/news/world-africa-65007942,4,0.037,0.101,0.862,-0.9738,BBC
+6,2023-03-19 20:07:26.526471,Why Egyptians are being asked to eat chicken feet,https://www.bbc.co.uk/news/world-64951519,5,0.057,0.109,0.834,-0.9936,BBC
+7,2023-03-19 20:07:26.526513,Extradited to the UK for a 41-year-old pub brawl,https://www.bbc.co.uk/news/uk-64678781,6,0.051,0.14,0.809,-0.9991,BBC
+8,2023-03-19 20:07:26.526553,Harrison: I was living in fear after sex footage,https://www.bbc.co.uk/news/uk-64998904,7,0.107,0.127,0.766,-0.9274,BBC
+9,2023-03-19 20:07:26.526595,Is France's government doomed by the pension crisis?,https://www.bbc.co.uk/news/world-europe-64986741,8,0.058,0.14,0.801,-0.9977,BBC
+10,2023-03-19 20:07:26.526636,Royals mark first Mother's Day without late Queen,https://www.bbc.co.uk/news/uk-65007719,9,0.055,0.087,0.858,-0.8658,BBC
+1,2023-03-19 20:07:31.952730,"Rob Kardashian's ex Blac Chyna makes first appearance since having her butt and breast implants removed and facial fillers dissolved
+",https://www.dailymail.co.uk/tvshowbiz/article-11876167/Blac-Chyna-makes-appearance-having-butt-breast-implants-removed-Atlanta.html,0,0.094,0.016,0.891,0.9941,Daily Mail
+2,2023-03-19 20:07:31.952821,"Terrifying moment LA weather forecaster's eyes roll to the back of her head before she collapses on live TV 
+",https://www.dailymail.co.uk/news/article-11876189/Terrifying-moment-LA-weather-forecasters-eyes-roll-head-collapses.html,1,0.05,0.084,0.867,-0.9479,Daily Mail
+3,2023-03-19 20:07:31.952878,"The most expensive and cheapest college in each state - and how you could save a mind-blowing $63,000 depending on which one you choose
+",https://www.dailymail.co.uk/news/article-11855415/The-expensive-cheapest-college-state.html,2,0.03,0.021,0.949,0.662,Daily Mail
+4,2023-03-19 20:07:31.952928,"Spring break horror as gunman kills one and injures another in Miami Beach while Mexico deploys the armed SOLDIERS on Cancun coast... but revelers ramp up celebrations
+",https://www.dailymail.co.uk/news/article-11877375/Spring-break-horror-gunman-kills-one-injures-Miami-Beach.html,3,0.119,0.123,0.759,0.4702,Daily Mail
+5,2023-03-19 20:07:31.952978,"Donald Trump's post claiming he'll be arrested Tuesday could see him DENIED BAIL over fears he'll try and incite Jan 6. riot at arraignment hearing, former federal prosecutor says
+",https://www.dailymail.co.uk/news/article-11875637/Donald-Trumps-post-sharing-details-arrest-DENIED-BAIL.html,4,0.074,0.1,0.826,-0.9797,Daily Mail
+6,2023-03-19 20:07:31.953027,"Kate shares heart-warming new photos of George, Charlotte and Louis and King Charles pays tribute to his 'beloved Mama' as the Royal Family celebrate their first Mother's Day without the Queen
+",https://www.dailymail.co.uk/femail/article-11877949/Prince-William-Kate-Middleton-share-family-pic-George-Charlotte-Louis-Mothers-Day.html,5,0.166,0.018,0.815,0.9992,Daily Mail
+7,2023-03-19 20:07:31.953075,"Plastic surgeon reveals how Kylie and Kendall Jenner's very different looks inspired the two most popular surgery trends among young women going under the knife: 'It's Paris vs Miami'
+",https://www.dailymail.co.uk/tvshowbiz/article-11865493/How-Kylie-Kendall-Jenner-inspired-Australian-plastic-surgery-trends.html,6,0.058,0.041,0.901,0.7032,Daily Mail
+8,2023-03-19 20:07:31.953123,"EXCLUSIVE: Grammy award-winning saxophonist Kenny G, 66, pushes to terminate spousal support after paying $3.9 million over nine years as 'touring opportunities dry up and income declines'
+",https://www.dailymail.co.uk/news/article-11874515/Saxophonist-Kenny-G-66-tries-end-spousal-support-touring-opportunities-dry-up.html,7,0.17,0.045,0.785,0.9983,Daily Mail
+9,2023-03-19 20:07:31.953170,"MAGA supporters call for Gov. DeSantis to deploy National Guard to protect ex-president at Mar-a-Lago from possible arrest and plan a 'Patriot Moat' at Florida mansion - as GOP chiefs accuse Manhattan DA of 'abusing his power'
+",https://www.dailymail.co.uk/news/article-11878015/MAGA-supporters-demand-DeSantis-defy-Trump-arrest-National-Guard-Mar-Lago.html,8,0.091,0.145,0.764,-0.9966,Daily Mail
+10,2023-03-19 20:07:31.953218,"'It's time!!! Protest, protest, protest!!!' Donald Trump calls for Americans to take to the streets after claiming he'll be arrested by Manhattan DA on Tuesday as prosecutors move to indict him over $130K hush money paid to porn star Stormy Daniels
+",https://www.dailymail.co.uk/news/article-11875929/Donald-Trump-calls-Americans-protest-claiming-hell-arrested-Tuesday.html,9,0.073,0.167,0.76,-0.9993,Daily Mail
+1,2023-03-19 20:07:40.728610,Manchester United 3-1 Fulham: FA Cup quarter-final – as it happened,https://www.theguardian.com/football/live/2023/mar/19/manchester-united-v-fulham-fa-cup-quarter-final-live,0,0.153,0.079,0.768,0.9994,Guardian
+2,2023-03-19 20:07:40.728784,Kitchen renovation reveals 400-year-old friezes in York flat,https://www.theguardian.com/uk-news/2023/mar/19/kitchen-renovation-reveals-400-year-old-friezes-in-york-flat,1,0.099,0.039,0.862,0.98,Guardian
+3,2023-03-19 20:07:40.728926,‘The US army destroyed our lives’: five Iraqis on the war that changed the Middle East,https://www.theguardian.com/world/2023/mar/19/the-us-army-destroyed-our-lives-five-iraqis-on-the-war-that-changed-the-middle-east,2,0.074,0.159,0.767,-0.9998,Guardian
+4,2023-03-19 20:07:40.729064,F1: Sergio Pérez wins Saudi Arabian GP with Verstappen second – as it happened,https://www.theguardian.com/sport/live/2023/mar/19/f1-saudi-arabian-grand-prix-live,3,0.121,0.074,0.805,0.9983,Guardian
+5,2023-03-19 20:07:40.729200,"Stay-at-home motherhood being undermined, says senior Tory MP",https://www.theguardian.com/society/2023/mar/19/stay-at-home-motherhood-being-undermined-says-senior-tory-mp,4,0.122,0.046,0.832,0.995,Guardian
+6,2023-03-19 20:07:40.729336,"My mother, the troll: ‘I think she lost sight of the McCanns’ humanity’",https://www.theguardian.com/society/2023/mar/18/my-mother-troll-of-madeleine-mccann-parents,5,0.09,0.14,0.77,-0.9999,Guardian
+7,2023-03-19 20:07:40.729471,‘I’ve been silenced … literally’: Gary Lineker absent for BBC after losing voice,https://www.theguardian.com/football/2023/mar/19/gary-lineker-bbc-fa-cup-tie-lost-voice-alex-scott,6,0.048,0.085,0.867,-0.8736,Guardian
+8,2023-03-19 20:07:40.729608,British man deported to Jamaica launches action against Home Office,https://www.theguardian.com/uk-news/2023/mar/19/richard-wallace-british-man-deported-to-jamaica-launches-action-against-home-office,7,0.025,0.193,0.782,-0.9993,Guardian
+9,2023-03-19 20:07:40.729744,Several Tory MPs may join DUP in voting against Brexit ‘Stormont brake’,https://www.theguardian.com/politics/2023/mar/19/tory-mps-dup-vote-brexit-stormont-brake,8,0.101,0.013,0.886,0.991,Guardian
+10,2023-03-19 20:07:40.729881,The ‘Sunday scaries’ are all too real for many workers – but there are simple ways to help,https://www.theguardian.com/commentisfree/2023/mar/19/sunday-scaries-workers-end-of-the-weekend,9,0.078,0.094,0.828,-0.9574,Guardian
