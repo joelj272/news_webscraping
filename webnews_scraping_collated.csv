@@ -1159,3 +1159,43 @@ rank,datetime,story,url,index,pos,neg,neu,comp,source
 8,2023-03-19 20:07:40.729608,British man deported to Jamaica launches action against Home Office,https://www.theguardian.com/uk-news/2023/mar/19/richard-wallace-british-man-deported-to-jamaica-launches-action-against-home-office,7,0.025,0.193,0.782,-0.9993,Guardian
 9,2023-03-19 20:07:40.729744,Several Tory MPs may join DUP in voting against Brexit ‘Stormont brake’,https://www.theguardian.com/politics/2023/mar/19/tory-mps-dup-vote-brexit-stormont-brake,8,0.101,0.013,0.886,0.991,Guardian
 10,2023-03-19 20:07:40.729881,The ‘Sunday scaries’ are all too real for many workers – but there are simple ways to help,https://www.theguardian.com/commentisfree/2023/mar/19/sunday-scaries-workers-end-of-the-weekend,9,0.078,0.094,0.828,-0.9574,Guardian
+1,2023-03-20 08:10:27.753242,Why migrants are choosing Canada in record numbers,https://www.bbc.co.uk/news/world-us-canada-64825197,0,0.076,0.099,0.826,-0.988,BBC
+2,2023-03-20 08:10:27.753368,A tiny tool Indian women use to fight sexual harassment,https://www.bbc.co.uk/news/world-asia-india-64979731,1,0.072,0.12,0.808,-0.9963,BBC
+3,2023-03-20 08:10:27.753409,'It's personal for him': What Putin saw in Mariupol,https://www.bbc.co.uk/news/world-europe-65007289,2,0.035,0.12,0.845,-0.9986,BBC
+4,2023-03-20 08:10:27.753447,What Xi and Putin want from their Moscow meeting,https://www.bbc.co.uk/news/world-europe-64990826,3,0.103,0.084,0.813,0.9338,BBC
+5,2023-03-20 08:10:27.753483,Central banks to boost flow of US dollars,https://www.bbc.co.uk/news/business-65010255,4,0.081,0.051,0.869,0.9547,BBC
+6,2023-03-20 08:10:27.753519,Australia begins mass fish death clean-up,https://www.bbc.co.uk/news/world-australia-65010344,5,0.099,0.06,0.841,0.9645,BBC
+7,2023-03-20 08:10:27.753555,UK banking system 'safe' as Credit Suisse rescued,https://www.bbc.co.uk/news/business-65007871,6,0.167,0.084,0.749,0.9978,BBC
+8,2023-03-20 08:10:27.753591,Australia ex-SAS soldier charged over alleged war crime,https://www.bbc.co.uk/news/world-australia-65010345,7,0.034,0.202,0.764,-0.9928,BBC
+9,2023-03-20 08:10:27.753627,How 2003's US/UK-led invasion turbo-charged Iraq into chaos,https://www.bbc.co.uk/news/world-middle-east-64976144,8,0.06,0.196,0.744,-0.9999,BBC
+10,2023-03-20 08:10:27.753663,From Putin's chef to head of Russia's private army,https://www.bbc.co.uk/news/world-europe-64976080,9,0.073,0.139,0.788,-0.9988,BBC
+1,2023-03-20 08:10:44.920609,"Rob Kardashian's ex Blac Chyna makes first appearance since having her butt and breast implants removed and facial fillers dissolved
+",https://www.dailymail.co.uk/tvshowbiz/article-11876167/Blac-Chyna-makes-appearance-having-butt-breast-implants-removed-Atlanta.html,0,0.094,0.016,0.891,0.9941,Daily Mail
+2,2023-03-20 08:10:44.920697,"Spring break horror as gunman kills one and injures another in Miami Beach while Mexico deploys the armed SOLDIERS on Cancun coast... but revelers ramp up celebrations
+",https://www.dailymail.co.uk/news/article-11877375/Spring-break-horror-gunman-kills-one-injures-Miami-Beach.html,1,0.119,0.123,0.759,0.4702,Daily Mail
+3,2023-03-20 08:10:44.920748,"EXCLUSIVE: 24 hours of HELL in top NYC hospital: Patients left lying in hallways, urine soaked floors and staff incapable of providing answers for desperate family members - as city's healthcare system is stretched to breaking point
+",https://www.dailymail.co.uk/news/article-11840539/24-hours-HELL-NYC-hospital-Patients-left-lying-hallways-urine-soaked-floors.html,2,0.046,0.13,0.824,-0.9976,Daily Mail
+4,2023-03-20 08:10:44.920794,"MAGA supporters call for Gov. DeSantis to deploy National Guard to protect ex-president at Mar-a-Lago from possible arrest and plan a 'Patriot Moat' at Florida mansion - as GOP chiefs accuse Manhattan DA of 'abusing his power'
+",https://www.dailymail.co.uk/news/article-11878015/MAGA-supporters-demand-DeSantis-defy-Trump-arrest-National-Guard-Mar-Lago.html,3,0.091,0.145,0.764,-0.9966,Daily Mail
+5,2023-03-20 08:10:44.920840,"Kate shares heart-warming new photos of George, Charlotte and Louis and King Charles pays tribute to his 'beloved Mama' as the Royal Family celebrate their first Mother's Day without the Queen
+",https://www.dailymail.co.uk/femail/article-11877949/Prince-William-Kate-Middleton-share-family-pic-George-Charlotte-Louis-Mothers-Day.html,4,0.166,0.018,0.815,0.9992,Daily Mail
+6,2023-03-20 08:10:44.920885,"EXCLUSIVE: Grammy award-winning saxophonist Kenny G, 66, pushes to terminate spousal support after paying $3.9 million over nine years as 'touring opportunities dry up and income declines'
+",https://www.dailymail.co.uk/news/article-11874515/Saxophonist-Kenny-G-66-tries-end-spousal-support-touring-opportunities-dry-up.html,5,0.17,0.045,0.785,0.9983,Daily Mail
+7,2023-03-20 08:10:44.920929,"Fears for Ruby Rose as she vanishes on 'traumatic' birthday and leaves a worrying farewell note on Instagram
+",https://www.dailymail.co.uk/tvshowbiz/article-11878959/Fears-actress-Ruby-Rose-vanishes-traumatic-birthday.html,6,0.132,0.086,0.782,0.9926,Daily Mail
+8,2023-03-20 08:10:44.920974,"Where is Anna Nicole Smith's daughter now? Dannielynn Birkhead, 16, enjoys a quiet life out of the spotlight - apart from special annual tribute to her mother and cute Instagram snaps with her dad Larry
+",https://www.dailymail.co.uk/femail/article-11859133/Where-Anna-Nicole-Smiths-daughter-Dannielynn-Birkhead-now.html,7,0.095,0.059,0.846,0.9905,Daily Mail
+9,2023-03-20 08:10:44.921019,"Plastic surgeon reveals how Kylie and Kendall Jenner's very different looks inspired the two most popular surgery trends among young women going under the knife: 'It's Paris vs Miami'
+",https://www.dailymail.co.uk/tvshowbiz/article-11865493/How-Kylie-Kendall-Jenner-inspired-Australian-plastic-surgery-trends.html,8,0.058,0.041,0.901,0.7032,Daily Mail
+10,2023-03-20 08:10:44.921063,"Kanye West is joined by his wife Bianca Censori and eldest daughter North for church service in Los Angeles
+",https://www.dailymail.co.uk/tvshowbiz/article-11878631/Kanye-West-goes-church-wife-Bianca-Censori-eldest-daughter-North.html,9,0.066,0.01,0.924,0.9217,Daily Mail
+1,2023-03-20 08:10:52.948256,Trump in panic mode as he braces for likely charges in Stormy Daniels case,https://www.theguardian.com/us-news/2023/mar/19/trump-manhattan-criminal-charges-hush-money-stormy-daniels,0,0.085,0.123,0.793,-0.993,Guardian
+2,2023-03-20 08:10:52.948409,South Swindon voters lean to Labour after ‘kick in the teeth’ Tory budget,https://www.theguardian.com/politics/2023/mar/20/south-swindon-voters-lean-to-labour-after-kick-in-the-teeth-tory-budget,1,0.103,0.085,0.812,0.9672,Guardian
+3,2023-03-20 08:10:52.948530,NHS union members step up campaign to reject ‘paltry’ pay deal,https://www.theguardian.com/politics/2023/mar/19/health-union-members-ramp-up-campaign-to-reject-paltry-pay-deal,2,0.089,0.101,0.81,0.2786,Guardian
+4,2023-03-20 08:10:52.948646,‘A billion listens? Is that a lot?’ John Cooper Clarke on penning possibly the world’s favourite poem,https://www.theguardian.com/music/2023/mar/20/john-cooper-clarke-arctic-monkeys-worlds-favourite-poem-i-wanna-be-yours-ford-cortina,3,0.113,0.043,0.844,0.9993,Guardian
+5,2023-03-20 08:10:52.948762,"‘There was cruelty and unpleasantness’: Emily Watson on school, stardom and sex scenes in her 50s",https://www.theguardian.com/film/2023/mar/20/there-was-cruelty-and-unpleasantness-emily-watson-on-school-stardom-and-sex-scenes-in-her-50s,4,0.102,0.092,0.807,0.9336,Guardian
+6,2023-03-20 08:10:52.948878,You could cook while on the toilet: a night in one of Tokyo’s micro-apartments,https://www.theguardian.com/world/2023/mar/20/you-could-cook-while-on-the-toilet-a-night-in-one-of-tokyos-micro-apartments,5,0.078,0.041,0.881,0.9914,Guardian
+7,2023-03-20 08:10:52.948992,Kwarteng: Johnson could survive Partygate grilling and lead Tories again ,https://www.theguardian.com/politics/2023/mar/19/kwasi-kwarteng-i-would-never-rule-out-boris-johnson-leading-tories-again,6,0.098,0.045,0.857,0.979,Guardian
+8,2023-03-20 08:10:52.949106,Rare 6ft shark washed up then decapitated on Hampshire beach,https://www.theguardian.com/environment/2023/mar/19/appeal-launched-to-find-rare-sharks-head-taken-from-hampshire-beach,7,0.106,0.05,0.844,0.9797,Guardian
+9,2023-03-20 08:10:52.949221,"UK house prices defy gloom with an average £3,000 rise",https://www.theguardian.com/money/2023/mar/20/uk-house-prices-defy-gloom-with-an-average-3000-rise,8,0.051,0.09,0.858,-0.9836,Guardian
+10,2023-03-20 08:10:52.949338,Kitchen renovation reveals 400-year-old friezes in York flat,https://www.theguardian.com/uk-news/2023/mar/19/kitchen-renovation-reveals-400-year-old-friezes-in-york-flat,9,0.099,0.039,0.862,0.98,Guardian
