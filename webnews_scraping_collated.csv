@@ -1159,3 +1159,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Boris Johnson faces fight for political future at Partygate hearing,https://www.theguardian.com/politics/2023/mar/21/boris-johnson-faces-fight-for-political-future-at-partygate-hearing,7,0.095,0.072,0.833,0.9761,Guardian,2023-03-22,10
 9,Ministers reportedly scrap plan to bring forward rise in UK state pension age,https://www.theguardian.com/money/2023/mar/21/ministers-reportedly-scrap-plan-to-bring-forward-rise-in-uk-state-pension-age,8,0.069,0.053,0.878,0.8201,Guardian,2023-03-22,10
 10,Putin says Russia ‘will respond’ if UK supplies depleted uranium shells to Ukraine,https://www.theguardian.com/world/2023/mar/21/putin-says-russia-will-respond-if-uk-supplies-depleted-uranium-shells-to-ukraine,9,0.036,0.09,0.874,-0.9885,Guardian,2023-03-22,10
+1,US raises interest rates despite banking turmoil,https://www.bbc.co.uk/news/business-65041649,0,0.104,0.086,0.81,0.9244,BBC,2023-03-22,20
+2,Multiple injuries at dockyard after ship tips over,https://www.bbc.co.uk/news/technology-65038617,1,0.061,0.12,0.819,-0.997,BBC,2023-03-22,20
+3,Jack Daniel's and dog toy in Supreme Court showdown,https://www.bbc.co.uk/news/world-us-canada-65043219,2,0.228,0.064,0.708,0.9981,BBC,2023-03-22,20
+4,A new Coppola has arrived - with viral TikTok clip,https://www.bbc.co.uk/news/entertainment-arts-65038887,3,0.158,0.034,0.809,0.9967,BBC,2023-03-22,20
+5,Grand jury hearing on Trump hush money case delayed,https://www.bbc.co.uk/news/world-us-canada-65017128,4,0.063,0.079,0.858,-0.7314,BBC,2023-03-22,20
+6,Dick Van Dyke injured in car crash in Malibu,https://www.bbc.co.uk/news/world-us-canada-65038802,5,0.065,0.053,0.882,0.4352,BBC,2023-03-22,20
+7,Deadly fungal infection spreading in US,https://www.bbc.co.uk/news/world-us-canada-65027557,6,0.095,0.093,0.811,-0.4573,BBC,2023-03-22,20
+8,DeSantis sharpens attacks on Trump's 'daily drama',https://www.bbc.co.uk/news/world-us-canada-65034653,7,0.05,0.095,0.855,-0.9642,BBC,2023-03-22,20
+9,Tate brothers' custody extended by another month,https://www.bbc.co.uk/news/world-europe-65041668,8,0.045,0.141,0.814,-0.9799,BBC,2023-03-22,20
+10,Friend who inspired Begum mocks her as non-believer,https://www.bbc.co.uk/news/uk-65031943,9,0.052,0.102,0.846,-0.9922,BBC,2023-03-22,20
+1,"EXCLUSIVE: 'Trump will NOT be arraigned this week.' Former president is expected to be indicted tomorrow and Secret Service will make plans for his surrender and appearance in New York court NEXT WEEK
+",https://www.dailymail.co.uk/news/article-11886761/Trump-indicted-WEDNESDAY-wont-appear-court-week.html,0,0.055,0.101,0.844,-0.9942,Daily Mail,2023-03-22,20
+2,"'Elevator malfunction during maintenance' caused NYC's new $3.3BN One Vanderbilt skyscraper to SHAKE and terrified workers to flee the 93-floor tower, owner says
+",https://www.dailymail.co.uk/news/article-11887385/NYCs-new-One-Vanderbilt-skyscraper-evacuated-huge-SHAKE-rippled-it.html,1,0.062,0.055,0.883,0.7672,Daily Mail,2023-03-22,20
+3,"'Not in our hood, you rat!' 'Snitch' rapper Tekashi 6ix9ine is beaten to a pulp in men's locker room of LA Fitness gym - five years after testifying against gang members and Cardi B
+",https://www.dailymail.co.uk/tvshowbiz/article-11888669/Tekashi-6ix9ine-rushed-hospital-ambulance-getting-beaten-pulp-LA-Fitness-sauna.html,2,0.034,0.143,0.823,-0.9957,Daily Mail,2023-03-22,20
+4,"Stephen Smith's death is officially ruled a HOMICIDE - just two days after Buster Murdaugh denied 'vicious, baseless rumors' that he was involved in the death amid claims pair were linked romantically
+",https://www.dailymail.co.uk/news/article-11888251/Stephen-Smiths-death-ruled-homicide-eight-years-dead-near-Murdaugh-property.html,3,0.062,0.192,0.746,-0.9995,Daily Mail,2023-03-22,20
+5,"'He's face down, spread-eagle, with Gwyneth on top of him!' Sole eyewitness of Utah ski crash testifies that Paltrow 'slammed' into retired optometrist and left him unconscious in snow before 'bolting'
+",https://www.dailymail.co.uk/news/article-11886151/Gwyneth-Paltrow-arrives-Utah-court-stand-300-000-civil-lawsuit.html,4,0.063,0.151,0.786,-0.9995,Daily Mail,2023-03-22,20
+6,"EXCLUSIVE: Katie Holmes' 16-year-old daughter Suri is already applying to college - and wants to study FASHION in New York - but dad Tom Cruise WON'T get a say in where she goes because 'he has no part in her life'
+",https://www.dailymail.co.uk/tvshowbiz/article-11881881/Tom-Cruise-no-daughter-Suris-life-applies-college.html,5,0.136,0.038,0.826,0.999,Daily Mail,2023-03-22,20
+7,"Millie Bobby Brown 'turns down £10million paycheck to star in Stranger Things spin-off film' as she wants to 'branch out'
+",https://www.dailymail.co.uk/tvshowbiz/article-11888045/Millie-Bobby-Brown-turns-10million-paycheck-star-Stranger-Things-spin-film.html,6,0.127,0.009,0.864,0.995,Daily Mail,2023-03-22,20
+8,"A scream like King Kong, nervous jumper clutching and a Facebook status saying 'I'm famous!' TOM LEONARD watches an explosive start to Gwyneth Paltrow's £245,000 'hit-and-run' ski crash case 
+",https://www.dailymail.co.uk/news/article-11887669/TOM-LEONARD-reflects-explosive-start-Gwyneth-Paltrows-245-000-hit-run-ski-crash-case.html,7,0.063,0.125,0.812,-0.9983,Daily Mail,2023-03-22,20
+9,"Shocking moment black NYC subway passenger hurls vile, unprovoked anti-white racist abuse at young couple traveling with their toddler son
+",https://www.dailymail.co.uk/news/article-11886647/Black-NYC-subway-passenger-hurls-racist-abuse-white-couple-toddler.html,8,0.039,0.185,0.777,-0.9983,Daily Mail,2023-03-22,20
+10,"'It was the death of my dream': Gisele says she still loves ex-husband Tom Brady but they 'grew apart' - as she denies giving him ultimatum to choose between her or NFL in wide-ranging Vanity Fair interview 
+",https://www.dailymail.co.uk/femail/article-11890063/Gisele-breaks-silence-divorce-Tom-Brady-death-dream.html,9,0.118,0.034,0.848,0.9992,Daily Mail,2023-03-22,20
+1,Boris Johnson insists Partygate leaving dos were ‘essential for work purposes’ during grilling by MPs – UK politics live,https://www.theguardian.com/politics/live/2023/mar/22/boris-johnson-partygate-inquiry-privileges-committee-brexit-rishi-sunak-uk-politics-latest-news,0,0.112,0.065,0.823,0.9986,Guardian,2023-03-22,20
+2,‘It just feels a bit sad’: the Rev Richard Coles disappointed at ‘rushed’ BBC Radio 4 exit,https://www.theguardian.com/tv-and-radio/2023/mar/22/it-just-feels-a-bit-sad-the-rev-richard-coles-disappointed-at-rushed-bbc-radio-4-exit,1,0.103,0.073,0.825,0.9757,Guardian,2023-03-22,20
+3,Rishi Sunak publishes long-awaited personal tax details,https://www.theguardian.com/politics/2023/mar/22/rishi-sunak-publishes-long-awaited-personal-uk-tax-returns,2,0.092,0.047,0.861,0.9833,Guardian,2023-03-22,20
+4,Trump hush-money grand jury proceedings abruptly postponed,https://www.theguardian.com/us-news/2023/mar/22/trump-grand-jury-delay-charges-hush-money,3,0.063,0.085,0.852,-0.8726,Guardian,2023-03-22,20
+5,"One in five people in UK suffer from misophonia, researchers find",https://www.theguardian.com/society/2023/mar/22/one-in-five-people-in-uk-suffer-from-misophonia-researchers-find,4,0.06,0.094,0.846,-0.9745,Guardian,2023-03-22,20
+6,Boris Johnson tries to draw Rishi Sunak into Partygate scandal,https://www.theguardian.com/politics/2023/mar/22/boris-johnson-partygate-hearing-rishi-sunak,5,0.053,0.046,0.902,0.4892,Guardian,2023-03-22,20
+7,Boris Johnson and Liz Truss among 22 Tory rebels as NI Brexit plan passes,https://www.theguardian.com/politics/2023/mar/22/tory-mps-rebel-as-rishi-sunak-northern-ireland-brexit-plan-passes,6,0.089,0.065,0.846,0.9686,Guardian,2023-03-22,20
+8,Twenty-one people taken to hospital after ship topples over at Leith dry dock,https://www.theguardian.com/uk-news/2023/mar/22/ship-topples-over-in-terrifying-incident-at-leith-dry-dock,7,0.081,0.055,0.865,0.9432,Guardian,2023-03-22,20
+9,Boris Johnson has been sliced and diced. The real winner is Rishi Sunak,https://www.theguardian.com/commentisfree/2023/mar/22/boris-johnson-rishi-sunak,8,0.107,0.112,0.781,-0.9038,Guardian,2023-03-22,20
+10,Fears England risks losing historical footpaths forever in government U-turn ,https://www.theguardian.com/lifeandstyle/2023/mar/22/government-accused-u-turn-england-footpath-promise,9,0.109,0.082,0.81,0.9674,Guardian,2023-03-22,20
