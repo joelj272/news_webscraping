@@ -22,18 +22,10 @@ import nltk
 
 nltk.download('vader_lexicon')
 
-# =============================================================================
-# # Set correct path based on device
-# uni_path = 'C:/Users/c1435294/OneDrive - Cardiff University/'\
-#          'Documents/webscrape_with_actions/'
-# 
-# alt_path = 'D:/Joel/Docs/Uni/webscrape_with_actions/'
-# 
-# if os.path.exists(uni_path):
-#     os.chdir(uni_path)
-# else:
-#     os.chdir(alt_path)
-# =============================================================================
+# Get date and time of start of scrape
+this_datetime = datetime.now()
+today_date = this_datetime.date()
+today_time = this_datetime.hour
 
 
 # Functions
@@ -131,14 +123,13 @@ top_stories = []
 for i, story in enumerate(most_read):
   top_stories.append([
       i + 1,
-      datetime.now(),
       story.a.text,
       'https://www.bbc.co.uk' + story.a['href']
       ])
 
 
 top_stories = pd.DataFrame(top_stories, columns = [
-  'rank', 'datetime', 'story', 'url'])
+  'rank', 'story', 'url'])
 
 ## Get text content of each story from links
 
@@ -178,14 +169,13 @@ for i, story in enumerate(most_read):
     
     top_stories.append([
         i + 1,
-        datetime.now(),
         story.h2.text[1:], # removing '\n'
         'https://www.dailymail.co.uk' + story.h2.a['href']
         ])
 
 
 top_stories = pd.DataFrame(top_stories, columns = [
-  'rank', 'datetime', 'story', 'url'])
+  'rank', 'story', 'url'])
 
 ## Get text content of each story from links
 
@@ -226,14 +216,13 @@ for i, story in enumerate(most_read):
     
     top_stories.append([
         i + 1,
-        datetime.now(),
         story.find('span', {'class', 'js-headline-text'}).text, 
         story.find('a', {'class', 'fc-item__link'})['href']
         ])
 
 
 top_stories = pd.DataFrame(top_stories, columns = [
-  'rank', 'datetime', 'story', 'url'])
+  'rank', 'story', 'url'])
 
 ## Get text content of each story from links
 
@@ -260,16 +249,18 @@ for link in top_stories['url']:
 sent_df = getSentiment(every_text)
 guardian_data = joinSentiment(top_stories, sent_df, 'Guardian')
 
-## NOTE: Need to ensure device is logged in to Guardian website
 
 
 
-
-#######################################################
+##############################################################################
 
 # Combine data sources and export
 
 news_data = pd.concat([bbc_data, dailym_data, guardian_data])
+
+# add date and times of scrapes
+news_data['date'] = today_date
+news_data['hour'] = today_time 
 
 news_data.to_csv('webnews_scraping_collated.csv',
                       mode = 'a', # change to 'a' if instead appending 
