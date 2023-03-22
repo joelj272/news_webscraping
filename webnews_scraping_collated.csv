@@ -1119,3 +1119,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Ministers reportedly scrap plan to bring forward rise in UK state pension age,https://www.theguardian.com/money/2023/mar/21/ministers-reportedly-scrap-plan-to-bring-forward-rise-in-uk-state-pension-age,7,0.069,0.053,0.878,0.8201,Guardian,2023-03-22,8
 9,UK inflation jumps to 10.4% as cost of living crisis intensifies – business live,https://www.theguardian.com/business/live/2023/mar/22/uk-inflation-cost-of-living-crisis-february-house-prices-rent-us-federal-reserve-interest-rates-jerome-powell-business-live,8,0.08800000000000001,0.069,0.843,0.9907,Guardian,2023-03-22,8
 10,Boris Johnson faces day of reckoning during Partygate committee hearing,https://www.theguardian.com/politics/2023/mar/22/boris-johnson-faces-day-of-reckoning-during-partygate-committee-hearing,9,0.073,0.09300000000000001,0.8340000000000001,-0.9615,Guardian,2023-03-22,8
+1,"'Reckless' Paltrow caused ski crash, lawyer says",https://www.bbc.co.uk/news/entertainment-arts-65027945,0,0.037,0.142,0.821,-0.9962,BBC,2023-03-22,10
+2,Four dead as Russia launches new attack on Ukraine,https://www.bbc.co.uk/news/world-europe-65036208,1,0.038,0.1,0.862,-0.9625,BBC,2023-03-22,10
+3,UN warns against 'vampiric' global water use,https://www.bbc.co.uk/news/world-65035041,2,0.049,0.083,0.869,-0.8863,BBC,2023-03-22,10
+4,Trump says protest. His supporters say - stay home,https://www.bbc.co.uk/news/world-us-canada-65019136,3,0.1,0.169,0.732,-0.9957,BBC,2023-03-22,10
+5,DeSantis sharpens attacks on Trump's 'daily drama',https://www.bbc.co.uk/news/world-us-canada-65034653,4,0.05,0.095,0.855,-0.9642,BBC,2023-03-22,10
+6,Deadly fungal infection spreading in US,https://www.bbc.co.uk/news/world-us-canada-65027557,5,0.097,0.128,0.775,-0.9355,BBC,2023-03-22,10
+7,UK defends uranium shells after Putin warning,https://www.bbc.co.uk/news/world-europe-65032671,6,0.051,0.131,0.818,-0.9915,BBC,2023-03-22,10
+8,Video shows police pile on man before custody death,https://www.bbc.co.uk/news/world-us-canada-65017124,7,0.026,0.092,0.882,-0.9827,BBC,2023-03-22,10
+9,Japan edge USA to win World Baseball Classic,https://www.bbc.co.uk/sport/baseball/65035829,8,0.0,0.0,0.0,0.0,BBC,2023-03-22,10
+10,Conspiracy theorists led family to death in Switzerland,https://www.bbc.co.uk/news/world-europe-65031382,9,0.032,0.143,0.825,-0.9928,BBC,2023-03-22,10
+1,"EXCLUSIVE: 'Trump will NOT be arraigned this week.' Former president is expected to be indicted tomorrow and Secret Service will make plans for his surrender and appearance in New York court NEXT WEEK
+",https://www.dailymail.co.uk/news/article-11886761/Trump-indicted-WEDNESDAY-wont-appear-court-week.html,0,0.055,0.101,0.844,-0.9942,Daily Mail,2023-03-22,10
+2,"EXCLUSIVE: Katie Holmes' 16-year-old daughter Suri is already applying to college - and wants to study FASHION in New York - but dad Tom Cruise WON'T get a say in where she goes because 'he has no part in her life'
+",https://www.dailymail.co.uk/tvshowbiz/article-11881881/Tom-Cruise-no-daughter-Suris-life-applies-college.html,1,0.136,0.038,0.826,0.999,Daily Mail,2023-03-22,10
+3,"'He's face down, spread-eagle, with Gwyneth on top of him!' Sole eyewitness of Utah ski crash testifies that Paltrow 'slammed' into retired optometrist and left him unconscious in snow before 'bolting'
+",https://www.dailymail.co.uk/news/article-11886151/Gwyneth-Paltrow-arrives-Utah-court-stand-300-000-civil-lawsuit.html,2,0.063,0.151,0.786,-0.9995,Daily Mail,2023-03-22,10
+4,"'Elevator malfunction during maintenance' caused NYC's new $3.3BN One Vanderbilt skyscraper to SHAKE and terrified workers to flee the 93-floor tower, owner says
+",https://www.dailymail.co.uk/news/article-11887385/NYCs-new-One-Vanderbilt-skyscraper-evacuated-huge-SHAKE-rippled-it.html,3,0.061,0.055,0.883,0.7672,Daily Mail,2023-03-22,10
+5,"Ed Sheeran breaks down in tears as he opens up on wife Cherry Seaborn's health issues and the death of his best friend Jamal Edwards in first look at new emotional documentary
+",https://www.dailymail.co.uk/tvshowbiz/article-11884713/Ed-Sheeran-breaks-tears-opens-wife-Cherry-Seaborn-late-friend-Jamal-Edwards.html,4,0.136,0.1,0.764,0.9948,Daily Mail,2023-03-22,10
+6,"Heidi Klum, 49, goes braless in a sheer cream top as she poses for Vogue Greece's fourth anniversary cover
+",https://www.dailymail.co.uk/tvshowbiz/article-11881807/Heidi-Klum-49-goes-braless-sheer-cream-poses-Vogue-Greece-cover.html,5,0.143,0.008,0.849,0.9986,Daily Mail,2023-03-22,10
+7,"Paul Walker's daughter Meadow Walker shares snaps from Costa Rican getaway with pals
+",https://www.dailymail.co.uk/tvshowbiz/article-11881515/Meadow-Walker-looks-thinner-sports-one-piece-swimsuit-Costa-Rican-river.html,6,0.083,0.047,0.871,0.9633,Daily Mail,2023-03-22,10
+8,"Stephen Smith's death is officially ruled a HOMICIDE - a day after Buster Murdaugh denied 'vicious, baseless rumors' that he was involved in the death amid claims pair were linked romantically 
+",https://www.dailymail.co.uk/news/article-11888251/Stephen-Smiths-death-ruled-homicide-eight-years-dead-near-Murdaugh-property.html,7,0.06,0.183,0.757,-0.9994,Daily Mail,2023-03-22,10
+9,"Porn-addict dentist arrested for murdering his wife with poison-laced protein shakes 'to start a new life with orthodontist lover' had multiple affairs, and flew in mistress to be by his side while mother-of-six was hospitalized
+",https://www.dailymail.co.uk/news/article-11883101/Porn-addict-dentist-arrested-murdering-wife-poison-laced-protein-shakes.html,8,0.098,0.148,0.754,-0.9978,Daily Mail,2023-03-22,10
+10,"'She's after an olympic medal now!': Taylor Swift leaves fans in awe as she DIVES head first into the stage and 'swims' during the first performances of her Eras tour
+",https://www.dailymail.co.uk/tvshowbiz/article-11884697/Taylor-Swift-leaves-fans-awe-DIVES-stage-swims-Eras-tour.html,9,0.105,0.014,0.881,0.9919,Daily Mail,2023-03-22,10
+1,"Trump wants to be handcuffed for court appearance in Stormy Daniels case, sources say",https://www.theguardian.com/us-news/2023/mar/22/trump-wants-to-be-handcuffed-for-court-appearance-in-stormy-daniels-case-sources-say,0,0.078,0.113,0.809,-0.9863,Guardian,2023-03-22,10
+2,My biggest regret: I knew my friend was dying – and I didn’t contact her,https://www.theguardian.com/lifeandstyle/2023/mar/22/my-biggest-regret-i-knew-my-friend-was-dying-and-i-didnt-contact-her,1,0.13,0.163,0.706,-0.9698,Guardian,2023-03-22,10
+3,‘I struggled to believe it’: my part in exposing Partygate,https://www.theguardian.com/politics/2023/mar/22/i-struggled-to-believe-it-my-part-in-exposing-partygate,2,0.048,0.1,0.852,-0.9947,Guardian,2023-03-22,10
+4,Hunt’s jobs drive will push mothers on benefits to work 30-hour week,https://www.theguardian.com/society/2023/mar/22/jeremy-hunt-universal-credit-benefits-mothers-30-hour-weeks,3,0.105,0.071,0.824,0.9932,Guardian,2023-03-22,10
+5,Odds of UK interest rate rise surge after inflation jumps to 10.4% – business live,https://www.theguardian.com/business/live/2023/mar/22/uk-inflation-cost-of-living-crisis-february-house-prices-rent-us-federal-reserve-interest-rates-jerome-powell-business-live,4,0.076,0.063,0.861,0.9911,Guardian,2023-03-22,10
+6,UK inflation rate in surprise rise to 10.4% as salad crisis pushes up prices,https://www.theguardian.com/business/2023/mar/22/uk-inflation-rate-rises-price-rises-interest-rates,5,0.098,0.085,0.817,0.5129,Guardian,2023-03-22,10
+7,Boris Johnson faces day of reckoning during Partygate committee hearing,https://www.theguardian.com/politics/2023/mar/22/boris-johnson-faces-day-of-reckoning-during-partygate-committee-hearing,6,0.086,0.096,0.818,-0.8419,Guardian,2023-03-22,10
+8,Boris Johnson faces fight for political future at Partygate hearing,https://www.theguardian.com/politics/2023/mar/21/boris-johnson-faces-fight-for-political-future-at-partygate-hearing,7,0.095,0.072,0.833,0.9761,Guardian,2023-03-22,10
+9,Ministers reportedly scrap plan to bring forward rise in UK state pension age,https://www.theguardian.com/money/2023/mar/21/ministers-reportedly-scrap-plan-to-bring-forward-rise-in-uk-state-pension-age,8,0.069,0.053,0.878,0.8201,Guardian,2023-03-22,10
+10,Putin says Russia ‘will respond’ if UK supplies depleted uranium shells to Ukraine,https://www.theguardian.com/world/2023/mar/21/putin-says-russia-will-respond-if-uk-supplies-depleted-uranium-shells-to-ukraine,9,0.036,0.09,0.874,-0.9885,Guardian,2023-03-22,10
