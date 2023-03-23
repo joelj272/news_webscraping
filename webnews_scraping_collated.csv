@@ -1199,3 +1199,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Twenty-one people taken to hospital after ship topples over at Leith dry dock,https://www.theguardian.com/uk-news/2023/mar/22/ship-topples-over-in-terrifying-incident-at-leith-dry-dock,7,0.081,0.055,0.865,0.9432,Guardian,2023-03-22,20
 9,Boris Johnson has been sliced and diced. The real winner is Rishi Sunak,https://www.theguardian.com/commentisfree/2023/mar/22/boris-johnson-rishi-sunak,8,0.107,0.112,0.781,-0.9038,Guardian,2023-03-22,20
 10,Fears England risks losing historical footpaths forever in government U-turn ,https://www.theguardian.com/lifeandstyle/2023/mar/22/government-accused-u-turn-england-footpath-promise,9,0.109,0.082,0.81,0.9674,Guardian,2023-03-22,20
+1,Canada adds million to population inside a year,https://www.bbc.co.uk/news/world-us-canada-65047436,0,0.137,0.057,0.806,0.9769,BBC,2023-03-23,8
+2,Bundchen says Brady split was 'death of my dream',https://www.bbc.co.uk/news/world-us-canada-65047375,1,0.094,0.065,0.842,0.907,BBC,2023-03-23,8
+3,Gandhi sentenced to jail for Modi 'thieves' remark,https://www.bbc.co.uk/news/world-asia-india-65048602,2,0.064,0.057,0.879,0.5719,BBC,2023-03-23,8
+4,Skier 'deteriorated' after Gwyneth Paltrow crash,https://www.bbc.co.uk/news/world-us-canada-65045457,3,0.045,0.153,0.802,-0.9969,BBC,2023-03-23,8
+5,Lindsay Lohan and Jake Paul settle in crypto plot,https://www.bbc.co.uk/news/world-us-canada-65046882,4,0.072,0.083,0.844,0.3307,BBC,2023-03-23,8
+6,DeSantis says Ukraine remarks 'mischaracterised',https://www.bbc.co.uk/news/world-us-canada-65047556,5,0.071,0.094,0.835,-0.9029,BBC,2023-03-23,8
+7,US raises interest rates despite banking turmoil,https://www.bbc.co.uk/news/business-65041649,6,0.117,0.106,0.777,0.8993,BBC,2023-03-23,8
+8,Beethoven hair tests reveal genetic health woes,https://www.bbc.co.uk/news/uk-england-cambridgeshire-65037387,7,0.02,0.073,0.906,-0.9672,BBC,2023-03-23,8
+9,ChatGPT bug leaked users' conversation histories,https://www.bbc.co.uk/news/technology-65047304,8,0.063,0.043,0.895,0.6059,BBC,2023-03-23,8
+10,Young Europeans critical of US and China - study,https://www.bbc.co.uk/news/world-europe-65022680,9,0.069,0.113,0.818,-0.9906,BBC,2023-03-23,8
+1,"'Not in our hood, you rat!' 'Snitch' rapper Tekashi 6ix9ine is beaten to a pulp in men's locker room of LA Fitness gym - five years after testifying against gang members and Cardi B
+",https://www.dailymail.co.uk/tvshowbiz/article-11888669/Tekashi-6ix9ine-rushed-hospital-ambulance-getting-beaten-pulp-LA-Fitness-sauna.html,0,0.034,0.143,0.823,-0.9957,Daily Mail,2023-03-23,8
+2,"'My name is Angela': Blac Chyna goes by her birth name at Forbes' offices as she displays her new look after removing facial and butt fillers and breast implants to 'transform' her life
+",https://www.dailymail.co.uk/tvshowbiz/article-11891777/Blac-Chyna-goes-birth-removing-butt-fillers-implants-transform-life.html,1,0.083,0.027,0.89,0.9886,Daily Mail,2023-03-23,8
+3,"Gwyneth Paltrow's ski crash accuser is 'obsessed' with the 2016 accident, neuropsychologist tells trial as its second day draws to a close: Star heaved a sigh and left court during break after radiologist gave evidence 
+",https://www.dailymail.co.uk/news/article-11890053/Gwyneth-Paltrow-arrives-second-day-ski-accident-trial.html,2,0.051,0.138,0.811,-0.9998,Daily Mail,2023-03-23,8
+4,"EXCLUSIVE: Is this the smoking gun? Letter from Michael Cohen claiming Donald Trump did NOT reimburse him for hush money paid to Stormy Daniels appears to fly in the face of the star witness's grand jury testimony
+",https://www.dailymail.co.uk/news/article-11891633/Smoking-gun-letter-Michael-Cohen-claiming-NOT-reimbursed-Donald-Trump.html,3,0.062,0.091,0.846,-0.9857,Daily Mail,2023-03-23,8
+5,"Millie Bobby Brown 'turns down £10million paycheck to star in Stranger Things spin-off film' as she wants to 'branch out'
+",https://www.dailymail.co.uk/tvshowbiz/article-11888045/Millie-Bobby-Brown-turns-10million-paycheck-star-Stranger-Things-spin-film.html,4,0.127,0.009,0.864,0.995,Daily Mail,2023-03-23,8
+6,"'Nothing is worth fighting over': Gisele Bundchen reveals difficult start in relationship with Tom Brady's ex Bridget Moynahan as she sheds light on their co-parenting relationship
+",https://www.dailymail.co.uk/tvshowbiz/article-11890667/Gisele-Bundchen-reveals-difficult-start-relationship-Tom-Bradys-ex-Bridget-Moynahan.html,5,0.2,0.027,0.774,0.9989,Daily Mail,2023-03-23,8
+7,"Inside Tom Cruise and Katie Holmes' tug of love over Suri: How pair's bitter divorce left Top Gun star estranged from the 16-year-old who he's not seen in 10 years 
+",https://www.dailymail.co.uk/tvshowbiz/article-11888303/Inside-Tom-Cruise-Katie-Holmes-custody-battle-Suri.html,6,0.114,0.06,0.826,0.9987,Daily Mail,2023-03-23,8
+8,"'It was the death of my dream': Gisele says she still loves ex-husband Tom Brady but they 'grew apart' - as she denies giving him ultimatum to choose between her or NFL in wide-ranging Vanity Fair interview 
+",https://www.dailymail.co.uk/femail/article-11890063/Gisele-breaks-silence-divorce-Tom-Brady-death-dream.html,7,0.118,0.034,0.848,0.9992,Daily Mail,2023-03-23,8
+9,"A scream like King Kong, nervous jumper clutching and a Facebook status saying 'I'm famous!' TOM LEONARD watches an explosive start to Gwyneth Paltrow's £245,000 'hit-and-run' ski crash case 
+",https://www.dailymail.co.uk/news/article-11887669/TOM-LEONARD-reflects-explosive-start-Gwyneth-Paltrows-245-000-hit-run-ski-crash-case.html,8,0.063,0.125,0.812,-0.9983,Daily Mail,2023-03-23,8
+10,"Surveillance footage captures Tekashi 6ix9ine's attackers being let into Florida LA Fitness - before beating rapper up in men's locker room 
+",https://www.dailymail.co.uk/news/article-11892507/Tekashi-69-attack-New-gym-surveillance-footage-shows-moments-just-LA-Fitness-attack.html,9,0.028,0.113,0.859,-0.9963,Daily Mail,2023-03-23,8
+1,Boris Johnson facing formal reprimand for misleading parliament,https://www.theguardian.com/politics/2023/mar/22/boris-johnson-facing-formal-reprimand-for-misleading-parliament,0,0.074,0.101,0.825,-0.9876,Guardian,2023-03-23,8
+2,‘You’ve never eaten a banana?!’ 10 writers face their fiercest – and strangest – food fears,https://www.theguardian.com/food/2023/mar/23/youve-never-eaten-a-banana-10-writers-face-their-fiercest-and-strangest-food-fears,1,0.144,0.086,0.77,0.9997,Guardian,2023-03-23,8
+3,‘Johnson in peril’: what the papers say after former PM questioned over Partygate,https://www.theguardian.com/media/2023/mar/23/johnson-in-peril-what-the-papers-say-after-former-pm-questioned-over-partygate,2,0.064,0.081,0.855,-0.4784,Guardian,2023-03-23,8
+4,"Impervious to advice or rules, Johnson held up the shield of stupidity",https://www.theguardian.com/politics/2023/mar/22/impervious-to-advice-or-rules-johnson-held-up-the-shield-of-stupidity,3,0.134,0.161,0.705,-0.9933,Guardian,2023-03-23,8
+5,Britain’s biggest banks under pressure to pass on higher interest rates to savers,https://www.theguardian.com/business/2023/mar/23/britains-biggest-banks-under-pressure-to-pass-on-higher-interest-rates-to-savers,4,0.092,0.057,0.852,0.9578,Guardian,2023-03-23,8
+6,Race Across the World series three review – one of the greatest reality shows gets its best cast ever,https://www.theguardian.com/tv-and-radio/2023/mar/22/race-across-the-world-series-three-review-one-of-the-greatest-reality-shows-gets-its-best-cast-ever,5,0.138,0.05,0.812,0.9976,Guardian,2023-03-23,8
+7,‘It just feels a bit sad’: the Rev Richard Coles disappointed at ‘rushed’ BBC Radio 4 exit,https://www.theguardian.com/tv-and-radio/2023/mar/22/it-just-feels-a-bit-sad-the-rev-richard-coles-disappointed-at-rushed-bbc-radio-4-exit,6,0.103,0.073,0.825,0.9757,Guardian,2023-03-23,8
+8,UK asylum seekers who complain about conditions ‘threatened with Rwanda’,https://www.theguardian.com/world/2023/mar/23/uk-asylum-seekers-who-complain-about-conditions-threatened-with-rwanda,7,0.05,0.08,0.87,-0.93,Guardian,2023-03-23,8
+9,Boris Johnson has been sliced and diced. The real winner is Rishi Sunak,https://www.theguardian.com/commentisfree/2023/mar/22/boris-johnson-rishi-sunak,8,0.107,0.112,0.781,-0.9038,Guardian,2023-03-23,8
+10,Separating parents could be forced to go to mediation under Raab plans,https://www.theguardian.com/law/2023/mar/23/mediation-enforced-separating-families-england-wales,9,0.161,0.044,0.795,0.996,Guardian,2023-03-23,8
