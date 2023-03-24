@@ -1319,3 +1319,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,And it’s goodbye from her: an emotional Nicola Sturgeon quits the stage,https://www.theguardian.com/politics/2023/mar/23/and-its-goodbye-from-her-an-emotional-nicola-sturgeon-quits-the-stage,7,0.107,0.101,0.792,0.8203,Guardian,2023-03-24,8
 9,"Behind the smile, smart suits and ‘reasonable’ solutions lies Rishi Sunak the authoritarian",https://www.theguardian.com/commentisfree/2023/mar/24/rishi-sunak-authoritarian-technocrat-liz-truss-boris-johnson,8,0.12,0.107,0.773,0.9362,Guardian,2023-03-24,8
 10,"Three years on, there is a new generation of lockdown sceptics – and they’re rewriting history",https://www.theguardian.com/commentisfree/2023/mar/23/lockdown-sceptics-history-academics-left-covid,9,0.056,0.11,0.834,-0.9957,Guardian,2023-03-24,8
+1,Macron takes off luxury watch during TV interview,https://www.bbc.co.uk/news/world-europe-65069823,0,0.09,0.093,0.817,0.6876,BBC,2023-03-24,20
+2,How to tell these Trump photos are fake,https://www.bbc.co.uk/news/world-us-canada-65069316,1,0.106,0.11,0.784,-0.6369,BBC,2023-03-24,20
+3,US and Canada reach deal to reject asylum seekers,https://www.bbc.co.uk/news/world-us-canada-65047438,2,0.082,0.049,0.869,0.9706,BBC,2023-03-24,20
+4,Massive asteroid to pass between Earth and Moon,https://www.bbc.co.uk/news/science-environment-65061818,3,0.1,0.069,0.831,0.6652,BBC,2023-03-24,20
+5,What's bothering America's friendliest neighbour?,https://www.bbc.co.uk/news/world-us-canada-65017277,4,0.107,0.077,0.816,0.9802,BBC,2023-03-24,20
+6,The child whose drawing sparked a police investigation,https://www.bbc.co.uk/news/world-europe-65015289,5,0.056,0.1,0.843,-0.9934,BBC,2023-03-24,20
+7,US bombs Syria targets after deadly drone attack,https://www.bbc.co.uk/news/world-middle-east-65061880,6,0.049,0.142,0.808,-0.9954,BBC,2023-03-24,20
+8,Top Gear production halted after Flintoff crash,https://www.bbc.co.uk/news/entertainment-arts-65056723,7,0.162,0.083,0.756,0.9981,BBC,2023-03-24,20
+9,King Charles's state visit to France postponed,https://www.bbc.co.uk/news/uk-65064510,8,0.078,0.113,0.809,-0.988,BBC,2023-03-24,20
+10,Bank shares hit as investor nerves return,https://www.bbc.co.uk/news/business-65064378,9,0.123,0.131,0.746,-0.7245,BBC,2023-03-24,20
+1,"The Irwins are rocked by marriage split rumours as Bindi's estranged cousin 'breaks up with her husband' after launching adult modelling career - as he says: 'I'm treated like I don't exist'
+",https://www.dailymail.co.uk/tvshowbiz/article-11896181/Rumours-Steve-Irwins-niece-Rebecca-Lobie-split-husband-Mick.html,0,0.117,0.036,0.847,0.9966,Daily Mail,2023-03-24,20
+2,"What REALLY happens when you die: Man, 55, who was 'brought back from the dead' reveals what it is like on the other side - and how he knew it wasn't his time 
+",https://www.dailymail.co.uk/health/article-11894483/Man-55-nearly-died-heart-stopped-beating-says-theres-NO-light-towards.html,1,0.05,0.134,0.817,-0.9946,Daily Mail,2023-03-24,20
+3,"Tallahassee principal is forced to resign after parents complained that Michelangelo's statue of David is 'pornographic' and shouldn't be shown to sixth grade art history class
+",https://www.dailymail.co.uk/news/article-11894493/Tallahassee-principal-fired-parents-complain-Michelangelo-statue-David-pornographic.html,2,0.078,0.076,0.846,0.5525,Daily Mail,2023-03-24,20
+4,"Worth a thousand laughs! Woman is left MORTIFIED after paying for professional photos of her skydiving... only to discover they captured a VERY awkward wardrobe malfunction
+",https://www.dailymail.co.uk/femail/article-11896103/I-paid-professional-skydiving-photos-HORRIFIED-results.html,3,0.1,0.048,0.852,0.9501,Daily Mail,2023-03-24,20
+5,"Surveillance footage captures Tekashi 6ix9ine's attackers being let into Florida LA Fitness - before beating rapper up in men's locker room 
+",https://www.dailymail.co.uk/news/article-11892507/Tekashi-69-attack-New-gym-surveillance-footage-shows-moments-just-LA-Fitness-attack.html,4,0.028,0.114,0.858,-0.9963,Daily Mail,2023-03-24,20
+6,"Austin Butler and his bikini-clad girlfriend Kaia Gerber pack on the PDA during a romantic getaway to Mexico following Elvis star's loss at Oscars
+",https://www.dailymail.co.uk/tvshowbiz/article-11897055/Austin-Butler-bikini-clad-Kaia-Gerber-packing-PDA-romantic-getaway-Mexico.html,5,0.175,0.02,0.805,0.9963,Daily Mail,2023-03-24,20
+7,"Vanderpump Rules lovers rekindled! Raquel Leviss and Tom Sandoval seen together for FIRST time since illicit affair was exposed as they have an intimate chat at show reunion
+",https://www.dailymail.co.uk/tvshowbiz/article-11897053/Raquel-Leviss-affair-partner-Tom-Sandoval-seen-time-fling-exposed.html,6,0.065,0.052,0.883,0.9414,Daily Mail,2023-03-24,20
+8,"US contractor is killed in Iranian suicide drone strike in Syria - as Biden orders retaliation 'precision airstrikes' taking out 11 militants tied to Revolutionary Guard
+",https://www.dailymail.co.uk/news/article-11897437/Drone-strike-kills-US-contractor-Syria-US-retaliates.html,7,0.042,0.147,0.811,-0.9992,Daily Mail,2023-03-24,20
+9,"America is NOT seeking conflict with Iran, White House insists after Biden ordered deadly airstrikes on Tehran-backed militants who killed US worker in suicide drone raid and fired salvo of rockets at bases in Syria
+",https://www.dailymail.co.uk/news/article-11898631/Missiles-slam-base-Syria-Iran-backed-militants-retaliate-airstrikes.html,8,0.049,0.157,0.794,-0.9998,Daily Mail,2023-03-24,20
+10,"Walmart to close a series of stores across 9 states this year due to falling profits - after announcing hundreds of layoffs at fulfilment centers
+",https://www.dailymail.co.uk/news/article-11896667/Walmart-close-series-stores-9-states-year-falling-profits.html,9,0.046,0.036,0.917,0.7208,Daily Mail,2023-03-24,20
+1,‘I think he’s done’: Boris Johnson’s support nosedives after bruising week,https://www.theguardian.com/politics/2023/mar/24/boris-johnson-tory-support-nosedives-bruising-week-brexit-partygate,0,0.103,0.074,0.823,0.9866,Guardian,2023-03-24,20
+2,London theatres may lock up audiences’ phones after illicit James Norton photos,https://www.theguardian.com/stage/2023/mar/24/london-theatres-lock-up-audiences-phones-illicit-james-norton-photos,1,0.085,0.055,0.86,0.9524,Guardian,2023-03-24,20
+3,Rishi Sunak bans media from Conservatives’ spring conference,https://www.theguardian.com/politics/2023/mar/24/rishi-sunak-bans-media-conservative-spring-conference,2,0.114,0.015,0.871,0.99,Guardian,2023-03-24,20
+4,BBC told Kirsty Lang not to ‘say goodbye’ on leaving Front Row,https://www.theguardian.com/media/2023/mar/24/bbc-told-kirsty-lang-not-to-say-goodbye-leaving-front-row,3,0.066,0.064,0.87,0.7166,Guardian,2023-03-24,20
+5,SNP braces for leadership result after contest opens up divisions,https://www.theguardian.com/politics/2023/mar/24/snp-leadership-contest-result-scotland-nicola-sturgeon,4,0.137,0.065,0.798,0.9964,Guardian,2023-03-24,20
+6,"Punishing Ofsted regime is driving us out of education, say school leaders",https://www.theguardian.com/education/2023/mar/24/punishing-ofsted-regime-driving-out-education-school-leaders,5,0.081,0.146,0.773,-0.9975,Guardian,2023-03-24,20
+7,Ukraine’s Marta Kostyuk refuses to shake hands with Russian opponent at Miami Open,https://www.theguardian.com/sport/2023/mar/24/ukrainian-marta-kostyuk-refuses-to-shake-hands-with-russian-anastasia-potapova-miami-open-tennis,6,0.056,0.144,0.8,-0.9832,Guardian,2023-03-24,20
+8,Jeremy Hunt has left the UK to rot in poverty. So we must take matters into our own hands,https://www.theguardian.com/commentisfree/2023/mar/24/jeremy-hunt-uk-poverty-hygiene-banks-gordon-brown,7,0.125,0.096,0.779,0.9921,Guardian,2023-03-24,20
+9,Why was Boris Johnson cast into the wilderness this week? Because a populist without a tribe is nothing,https://www.theguardian.com/commentisfree/2023/mar/24/boris-johnson-populist-enablers-trump-netanyahu,8,0.092,0.103,0.805,-0.959,Guardian,2023-03-24,20
+10,How to solve a problem like John Lewis? Retail experts give their views,https://www.theguardian.com/business/2023/mar/24/john-lewis-retail-experts-strategy,9,0.122,0.052,0.826,0.9982,Guardian,2023-03-24,20
