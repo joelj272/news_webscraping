@@ -1279,3 +1279,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Partygate: Johnson should reject any finding that he broke rules, say allies",https://www.theguardian.com/politics/2023/mar/23/partygate-johnson-should-reject-any-finding-that-he-broke-rules-say-allies,7,0.104,0.03,0.866,0.9915,Guardian,2023-03-23,20
 9,"Three years on, there is a new generation of lockdown sceptics – and they’re rewriting history",https://www.theguardian.com/commentisfree/2023/mar/23/lockdown-sceptics-history-academics-left-covid,8,0.056,0.11,0.834,-0.9957,Guardian,2023-03-23,20
 10,Keir Starmer follows Rishi Sunak in releasing tax returns ,https://www.theguardian.com/politics/2023/mar/23/keir-starmer-follows-rishi-sunak-in-releasing-tax-returns,9,0.124,0.024,0.852,0.9955,Guardian,2023-03-23,20
+1,What's bothering America's friendliest neighbour?,https://www.bbc.co.uk/news/world-us-canada-65017277,0,0.107,0.077,0.816,0.9802,BBC,2023-03-24,8
+2,US and Canada reach deal to reject asylum seekers,https://www.bbc.co.uk/news/world-us-canada-65047438,1,0.088,0.044,0.868,0.9444,BBC,2023-03-24,8
+3,The child whose drawing sparked a police investigation,https://www.bbc.co.uk/news/world-europe-65015289,2,0.056,0.103,0.841,-0.9941,BBC,2023-03-24,8
+4,Judge rejects Paltrow team offer of court 'treats',https://www.bbc.co.uk/news/entertainment-arts-65050951,3,0.099,0.155,0.746,-0.9928,BBC,2023-03-24,8
+5,Capitol rioter who stormed Pelosi's office jailed,https://www.bbc.co.uk/news/world-us-canada-65060096,4,0.079,0.151,0.77,-0.9857,BBC,2023-03-24,8
+6,Bordeaux town hall set on fire in French protests,https://www.bbc.co.uk/news/world-europe-65057249,5,0.049,0.111,0.84,-0.9834,BBC,2023-03-24,8
+7,Five key moments in TikTok CEO's Congress grilling,https://www.bbc.co.uk/news/65047087,6,0.078,0.096,0.826,-0.8138,BBC,2023-03-24,8
+8,Utah first US state to limit teen social media use,https://www.bbc.co.uk/news/world-us-canada-65060733,7,0.088,0.037,0.875,0.9728,BBC,2023-03-24,8
+9,Fugitive 'cryptocrash' boss arrested in Montenegro,https://www.bbc.co.uk/news/technology-65058533,8,0.066,0.17,0.764,-0.9943,BBC,2023-03-24,8
+10,Top Gear production halted after Flintoff crash,https://www.bbc.co.uk/news/entertainment-arts-65056723,9,0.131,0.063,0.806,0.9784,BBC,2023-03-24,8
+1,"What REALLY happens when you die: Man, 55, who was 'brought back from the dead' reveals what it is like on the other side - and how he knew it wasn't his time 
+",https://www.dailymail.co.uk/health/article-11894483/Man-55-nearly-died-heart-stopped-beating-says-theres-NO-light-towards.html,0,0.05,0.133,0.817,-0.9946,Daily Mail,2023-03-24,8
+2,"Surveillance footage captures Tekashi 6ix9ine's attackers being let into Florida LA Fitness - before beating rapper up in men's locker room 
+",https://www.dailymail.co.uk/news/article-11892507/Tekashi-69-attack-New-gym-surveillance-footage-shows-moments-just-LA-Fitness-attack.html,1,0.028,0.114,0.858,-0.9963,Daily Mail,2023-03-24,8
+3,"'My name is Angela': Blac Chyna goes by her birth name at Forbes' offices as she displays her new look after removing facial and butt fillers and breast implants to 'transform' her life
+",https://www.dailymail.co.uk/tvshowbiz/article-11891777/Blac-Chyna-goes-birth-removing-butt-fillers-implants-transform-life.html,2,0.084,0.027,0.89,0.9891,Daily Mail,2023-03-24,8
+4,"Out of this world: TikTok 'time traveller' claims the earth will be invaded by aliens with 8,000 abducted
+",https://www.dailymail.co.uk/femail/article-11894333/TikTok-time-traveller-claims-earth-invaded-aliens-TODAY.html,3,0.051,0.039,0.909,0.8191,Daily Mail,2023-03-24,8
+5,"Tallahassee principal is forced to resign after parents complained that Michelangelo's statue of David is 'pornographic' and shouldn't be shown to sixth grade art history class
+",https://www.dailymail.co.uk/news/article-11894493/Tallahassee-principal-fired-parents-complain-Michelangelo-statue-David-pornographic.html,4,0.078,0.076,0.846,0.5525,Daily Mail,2023-03-24,8
+6,"Three people die after using contaminated eyedrops bought at Walmart, CVS and Target: Eight lose vision and four have eyeballs surgically removed due to rare bacterial superbug in solution
+",https://www.dailymail.co.uk/news/article-11892027/Three-people-died-using-eyedrops-contaminated-rare-bacterial-superbug.html,5,0.07,0.086,0.844,-0.8761,Daily Mail,2023-03-24,8
+7,"Coldplay's Chris Martin, 46, reveals he only eats one meal a day because he was jealous that Bruce Springsteen, 73, 'was in better shape than him'
+",https://www.dailymail.co.uk/tvshowbiz/chris-martin/article-11893555/Coldplays-Chris-Martin-reveals-eats-one-meal-day-Bruce-Springsteen.html,6,0.13,0.051,0.819,0.9979,Daily Mail,2023-03-24,8
+8,"'Storage Wars' star Gunter Nezhoda dies aged 67 after losing battle with cancer just months after diagnosis
+",https://www.dailymail.co.uk/news/article-11893797/Storage-Wars-star-Gunter-Nezhoda-dies-aged-67-losing-battle-cancer.html,7,0.127,0.107,0.766,0.9219,Daily Mail,2023-03-24,8
+9,"Moment woman gets CARRIED off Frontier flight by cops at Miami airport after foul-mouthed brawl with another passenger
+",https://www.dailymail.co.uk/news/article-11894563/Moment-woman-gets-CARRIED-Frontier-flight-cops-Miami-airport.html,8,0.023,0.102,0.875,-0.996,Daily Mail,2023-03-24,8
+10,"EXCLUSIVE: Colorado dentist keeps his head down as he comes face to face with his kids and parents for the first time since being charged with murdering his wife with poison so he could start new life with his mistress
+",https://www.dailymail.co.uk/news/article-11895193/Colorado-Mormon-dentist-appears-court-charged-poisoning-wife.html,9,0.046,0.118,0.835,-0.9914,Daily Mail,2023-03-24,8
+1,Bordeaux city hall set on fire amid nationwide protests against French pension changes,https://www.theguardian.com/world/2023/mar/23/workers-block-paris-airport-terminal-pension-protests-continue-france,0,0.033,0.157,0.81,-0.9994,Guardian,2023-03-24,8
+2,BBC will not resume filming Top Gear series after Flintoff crash investigation,https://www.theguardian.com/tv-and-radio/2023/mar/23/bbc-will-not-resume-filming-top-gear-series-after-flintoff-crash-investigation,1,0.064,0.078,0.858,-0.8151,Guardian,2023-03-24,8
+3,‘City killer’ asteroid to pass harmlessly between Earth and moon,https://www.theguardian.com/science/2023/mar/24/city-killer-asteroid-to-pass-harmlessly-between-earth-and-moon,2,0.111,0.049,0.84,0.9428,Guardian,2023-03-24,8
+4,‘Deeply sorry’ Ofsted chief rejects call for halt in inspections after head’s death,https://www.theguardian.com/education/2023/mar/24/ofsted-chief-amanda-spielman-sorry-ruth-perry-death,3,0.103,0.159,0.738,-0.9952,Guardian,2023-03-24,8
+5,Ed Sheeran: Eyes Closed review – the most unradical of reinventions,https://www.theguardian.com/music/2023/mar/24/ed-sheeran-eyes-closed-review-the-most-unradical-of-reinventions,4,0.115,0.054,0.831,0.9943,Guardian,2023-03-24,8
+6,"Russia-Ukraine war live: Bakhmut counteroffensive starts soon, says Ukrainian ground forces commander",https://www.theguardian.com/world/live/2023/mar/24/russia-ukraine-war-live-counteroffensive-starts-soon-says-ukrainian-ground-forces-commander,5,0.068,0.102,0.83,-0.9982,Guardian,2023-03-24,8
+7,Tech guru Jaron Lanier: ‘The danger isn’t that AI destroys us. It’s that it drives us insane’,https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane,6,0.144,0.091,0.765,0.9993,Guardian,2023-03-24,8
+8,And it’s goodbye from her: an emotional Nicola Sturgeon quits the stage,https://www.theguardian.com/politics/2023/mar/23/and-its-goodbye-from-her-an-emotional-nicola-sturgeon-quits-the-stage,7,0.107,0.101,0.792,0.8203,Guardian,2023-03-24,8
+9,"Behind the smile, smart suits and ‘reasonable’ solutions lies Rishi Sunak the authoritarian",https://www.theguardian.com/commentisfree/2023/mar/24/rishi-sunak-authoritarian-technocrat-liz-truss-boris-johnson,8,0.12,0.107,0.773,0.9362,Guardian,2023-03-24,8
+10,"Three years on, there is a new generation of lockdown sceptics – and they’re rewriting history",https://www.theguardian.com/commentisfree/2023/mar/23/lockdown-sceptics-history-academics-left-covid,9,0.056,0.11,0.834,-0.9957,Guardian,2023-03-24,8
