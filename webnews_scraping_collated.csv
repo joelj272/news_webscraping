@@ -1359,3 +1359,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Jeremy Hunt has left the UK to rot in poverty. So we must take matters into our own hands,https://www.theguardian.com/commentisfree/2023/mar/24/jeremy-hunt-uk-poverty-hygiene-banks-gordon-brown,7,0.125,0.096,0.779,0.9921,Guardian,2023-03-24,20
 9,Why was Boris Johnson cast into the wilderness this week? Because a populist without a tribe is nothing,https://www.theguardian.com/commentisfree/2023/mar/24/boris-johnson-populist-enablers-trump-netanyahu,8,0.092,0.103,0.805,-0.959,Guardian,2023-03-24,20
 10,How to solve a problem like John Lewis? Retail experts give their views,https://www.theguardian.com/business/2023/mar/24/john-lewis-retail-experts-strategy,9,0.122,0.052,0.826,0.9982,Guardian,2023-03-24,20
+1,Principal fired after students shown David statue,https://www.bbc.co.uk/news/world-us-canada-65071989,0,0.043,0.206,0.75,-0.9866,BBC,2023-03-25,8
+2,Battle for Bakhmut stabilising - Ukraine commander,https://www.bbc.co.uk/news/world-europe-65072173,1,0.05,0.071,0.879,-0.9156,BBC,2023-03-25,8
+3,Gwyneth Paltrow denies hit-and-run in ski crash,https://www.bbc.co.uk/news/world-us-canada-65072367,2,0.058,0.126,0.816,-0.989,BBC,2023-03-25,8
+4,US-Canada agree to turn back asylum seekers at border,https://www.bbc.co.uk/news/world-us-canada-65047438,3,0.069,0.066,0.865,-0.8119,BBC,2023-03-25,8
+5,How to tell these Trump photos are fake,https://www.bbc.co.uk/news/world-us-canada-65069316,4,0.106,0.11,0.784,-0.6369,BBC,2023-03-25,8
+6,The infamous Texas town hosting Trump's rally,https://www.bbc.co.uk/news/world-us-canada-65068125,5,0.063,0.135,0.802,-0.9972,BBC,2023-03-25,8
+7,Intel founder and Moore's law creator Gordon Moore dies,https://www.bbc.co.uk/news/world-us-canada-65073812,6,0.093,0.012,0.895,0.9878,BBC,2023-03-25,8
+8,Have we found the 'animal origin' of Covid?,https://www.bbc.co.uk/news/science-environment-65067264,7,0.051,0.048,0.901,0.4607,BBC,2023-03-25,8
+9,Macron takes off luxury watch during TV interview,https://www.bbc.co.uk/news/world-europe-65069823,8,0.096,0.086,0.817,0.9119,BBC,2023-03-25,8
+10,MI5 spy reveals secret 'unauthorised' IRA talks,https://www.bbc.co.uk/news/uk-65038587,9,0.076,0.071,0.853,0.4662,BBC,2023-03-25,8
+1,"The Irwins are rocked by marriage split rumours as Bindi's estranged cousin 'breaks up with her husband' after launching adult modelling career - as he says: 'I'm treated like I don't exist'
+",https://www.dailymail.co.uk/tvshowbiz/article-11896181/Rumours-Steve-Irwins-niece-Rebecca-Lobie-split-husband-Mick.html,0,0.117,0.036,0.847,0.9966,Daily Mail,2023-03-25,8
+2,"America is NOT seeking conflict with Iran, White House insists after Biden ordered deadly airstrikes on Tehran-backed militants who killed US worker in suicide drone raid and fired salvo of rockets at bases in Syria
+",https://www.dailymail.co.uk/news/article-11898631/Missiles-slam-base-Syria-Iran-backed-militants-retaliate-airstrikes.html,1,0.049,0.157,0.794,-0.9998,Daily Mail,2023-03-25,8
+3,"Reese Witherspoon and husband Jim Toth SPLIT! Actress announces 'difficult decision' to divorce - TWO days before their 12th wedding anniversary
+",https://www.dailymail.co.uk/tvshowbiz/article-11900127/Reese-Witherspoon-husband-Jim-Toth-SPLIT-Actress-announces-difficult-decision-divorce.html,2,0.126,0.039,0.835,0.9969,Daily Mail,2023-03-25,8
+4,"'I'm not the great extrovert that people think': Hollywood star Johnny Depp reveals he prefers his quiet life in Somerset at his £13m Downton Abbey-style estate
+",https://www.dailymail.co.uk/tvshowbiz/article-11898073/Im-not-great-extrovert-Johnny-Depp-reveals-prefers-quiet-life-Somerset.html,3,0.129,0.056,0.815,0.9947,Daily Mail,2023-03-25,8
+5,"'Is this someone doing something perverted?': Gwyneth Paltrow says she feared she was being sexually assaulted when retired optometrist crashed into her - 'he was making groaning noise'
+",https://www.dailymail.co.uk/news/article-11899323/Gwyneth-Paltrow-ski-crash-trial-Day-4-Actress-prepares-stand.html,4,0.05,0.152,0.798,-0.9998,Daily Mail,2023-03-25,8
+6,"US contractor is killed in Iranian suicide drone strike in Syria - as Biden orders retaliation 'precision airstrikes' taking out 11 militants tied to Revolutionary Guard
+",https://www.dailymail.co.uk/news/article-11897437/Drone-strike-kills-US-contractor-Syria-US-retaliates.html,5,0.042,0.147,0.811,-0.9992,Daily Mail,2023-03-25,8
+7,"Her father is an Emmy winning actor who was on Melrose Place (and his ex-wife is a two-time Oscar winner), her uncle is a Brat Packer from the 80s. Can you guess who she is?
+",https://www.dailymail.co.uk/tvshowbiz/article-11898931/Her-father-Emmy-winning-actor-Melrose-Place-uncle-Brat-Packer-she.html,6,0.143,0.081,0.776,0.9945,Daily Mail,2023-03-25,8
+8,"Austin Butler and his bikini-clad girlfriend Kaia Gerber pack on the PDA during a romantic getaway to Mexico following Elvis star's loss at Oscars
+",https://www.dailymail.co.uk/tvshowbiz/article-11897055/Austin-Butler-bikini-clad-Kaia-Gerber-packing-PDA-romantic-getaway-Mexico.html,7,0.175,0.02,0.805,0.9963,Daily Mail,2023-03-25,8
+9,"EXCLUSIVE: Blac Chyna reveals she quit 'degrading' OnlyFans and reversed plastic surgery because 'God wouldn't want me doing it' - as born-again Christian tells DailyMail.com how finding religion made her shed X-rated image and 'become whole' as Angela
+",https://www.dailymail.co.uk/tvshowbiz/article-11891933/Blac-Chyna-finding-God-quit-OnlyFans-rid-filler.html,8,0.112,0.032,0.856,0.9988,Daily Mail,2023-03-25,8
+10,"EXCLUSIVE: 'Olivia Wilde reveals she is worth $10 million and spends more than $100,000 a month as she claims ex Jason Sudeikis is far wealthier than her and is trying to 'litigate her into debt' over child support payments
+",https://www.dailymail.co.uk/news/article-11898555/Jason-Sudeikis-files-new-motion-custody-battle-ex-Olivia-Wilde.html,9,0.079,0.087,0.834,-0.9324,Daily Mail,2023-03-25,8
+1,"Punishing Ofsted regime is driving us out of education, say school leaders",https://www.theguardian.com/education/2023/mar/24/punishing-ofsted-regime-driving-out-education-school-leaders,0,0.081,0.146,0.773,-0.9975,Guardian,2023-03-25,8
+2,Blind date: ‘Most of my friends have heard the story of “Guardian Girl” by now’,https://www.theguardian.com/lifeandstyle/2023/mar/25/blind-date-madeline-sam,1,0.185,0.053,0.762,0.9992,Guardian,2023-03-25,8
+3,Gwyneth Paltrow testifies she felt ‘violated’ in Utah ski crash,https://www.theguardian.com/film/2023/mar/24/gwyneth-paltrow-ski-crash-trial-testimony,2,0.038,0.077,0.885,-0.9734,Guardian,2023-03-25,8
+4,Liz Truss requests peerages for some of her closest Tory supporters,https://www.theguardian.com/politics/2023/mar/24/liz-truss-requests-peerages-for-some-of-her-closest-tory-supporters,3,0.096,0.087,0.817,-0.5789,Guardian,2023-03-25,8
+5,‘I think he’s done’: Boris Johnson’s support nosedives after bruising week,https://www.theguardian.com/politics/2023/mar/24/boris-johnson-tory-support-nosedives-bruising-week-brexit-partygate,4,0.103,0.074,0.823,0.9866,Guardian,2023-03-25,8
+6,UK public warned not to eat Baronet semi-soft cheeses after listeria death,https://www.theguardian.com/society/2023/mar/24/dies-uk-eating-cheese-contaminated-listeria-baronet,5,0.03,0.115,0.855,-0.9824,Guardian,2023-03-25,8
+7,Emmanuel Macron takes off ‘luxury’ watch during pensions TV interview,https://www.theguardian.com/world/2023/mar/24/emmanuel-macron-takes-off-luxury-watch-pensions-tv-interview,6,0.047,0.034,0.918,0.7526,Guardian,2023-03-25,8
+8,"As Caversham parents, Ruth Perry’s death has opened our eyes to the realities of Ofsted inspections",https://www.theguardian.com/education/2023/mar/24/caversham-primary-school-parents-ruth-perry-death-realities-ofsted-inspections,7,0.193,0.113,0.694,0.999,Guardian,2023-03-25,8
+9,Man charged with murder after death of pedestrian in Plymouth,https://www.theguardian.com/uk-news/2023/mar/24/man-charged-with-after-death-of-pedestrian-in-plymouth,8,0.0,0.218,0.782,-0.9741,Guardian,2023-03-25,8
+10,"US teens say they have new proof for 2,000-year-old mathematical theorem",https://www.theguardian.com/us-news/2023/mar/24/new-orleans-pythagoras-theorem-trigonometry-prove,9,0.069,0.014,0.916,0.9884,Guardian,2023-03-25,8
