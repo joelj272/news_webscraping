@@ -1479,3 +1479,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘My colleague had a heart attack in front of me’: horrific toll of Ofsted inspections,https://www.theguardian.com/education/2023/mar/26/colleague-had-heart-attack-in-front-of-me-horrific-toll-of-ofsted-inspections,7,0.082,0.12,0.798,-0.997,Guardian,2023-03-26,8
 9,"Russia-Ukraine war live: Kremlin has ‘Belarus as nuclear hostage’ with plans to station tactical nuclear weapons, says Kyiv",https://www.theguardian.com/world/live/2023/mar/26/russia-ukraine-war-live-us-reacts-cautiously-to-russias-plan-to-station-tactical-nuclear-weapons-in-belarus,8,0.06,0.134,0.806,-0.9993,Guardian,2023-03-26,8
 10,"111 by Modou, Glasgow: ‘A banging recipe for a great place’ – restaurant review",https://www.theguardian.com/food/2023/mar/26/jay-rayner-restaurant-review-111-by-modou-glasgow-a-banging-recipe-for-a-great-place,9,0.115,0.031,0.854,0.999,Guardian,2023-03-26,8
+1,Israel defence minister fired in legal reform row,https://www.bbc.co.uk/news/world-middle-east-65080919,0,0.156,0.1,0.744,0.9489,BBC,2023-03-26,20
+2,Actor Jonathan Majors arrested on assault charges,https://www.bbc.co.uk/news/world-65081847,1,0.05,0.109,0.842,-0.954,BBC,2023-03-26,20
+3,"'God, guns, Trump': Thousands turn out for rally",https://www.bbc.co.uk/news/world-us-canada-65078418,2,0.093,0.096,0.811,-0.6455,BBC,2023-03-26,20
+4,More storms feared after Mississippi tornado,https://www.bbc.co.uk/news/world-us-canada-65082746,3,0.097,0.139,0.763,-0.9774,BBC,2023-03-26,20
+5,Nato condemns 'dangerous' Russian nuclear rhetoric,https://www.bbc.co.uk/news/world-europe-65081575,4,0.041,0.164,0.795,-0.9985,BBC,2023-03-26,20
+6,Why was the Mississippi tornado so destructive?,https://www.bbc.co.uk/news/world-us-canada-65072195,5,0.028,0.088,0.885,-0.9902,BBC,2023-03-26,20
+7,Finland's Sanna Marin fights for survival in election,https://www.bbc.co.uk/news/world-europe-64872698,6,0.168,0.086,0.745,0.9988,BBC,2023-03-26,20
+8,Principal resigns after students shown David statue,https://www.bbc.co.uk/news/world-us-canada-65071989,7,0.048,0.131,0.821,-0.9894,BBC,2023-03-26,20
+9,UAE pardons Israeli woman who faced life in prison,https://www.bbc.co.uk/news/world-middle-east-65080918,8,0.136,0.085,0.779,0.8481,BBC,2023-03-26,20
+10,Andrew Lloyd Webber 'shattered' after death of son,https://www.bbc.co.uk/news/entertainment-arts-65078024,9,0.077,0.087,0.836,-0.7154,BBC,2023-03-26,20
+1,"Welcome to Wrexham, kid! Hollywood stars Ryan Reynolds and Blake Lively pose for snaps with newborn baby and their three daughters as they cheer on Welsh football club owned by the actor 
+",https://www.dailymail.co.uk/tvshowbiz/article-11901863/Ryan-Reynolds-Blake-Lively-pose-snaps-newborn-baby-three-daughters-Wrexham.html,0,0.105,0.04,0.855,0.9936,Daily Mail,2023-03-26,20
+2,"EXCLUSIVE Look away now, Olivia! Harry Styles passionately kisses Emily Ratajkowski on the streets of Tokyo just six MONTHS after she filed for divorce - as ex-girlfriend Wilde and former husband Jason Sudeikis attend son's LA soccer game
+",https://www.dailymail.co.uk/tvshowbiz/article-11902929/Harry-Styles-kisses-Emily-Ratajkowski-Olivia-Wilde-romance.html,1,0.108,0.074,0.818,0.9966,Daily Mail,2023-03-26,20
+3,"Crypto 'prodigy', 23, is 'abducted and TORTURED' after 'scamming' investors out of $29M before blowing $12M on fleet of supercars, luxury vacations and a private jet
+",https://www.dailymail.co.uk/news/article-11903219/Crypto-prodigy-23-abducted-TORTURED-scamming-investors-29M.html,2,0.066,0.056,0.877,0.8875,Daily Mail,2023-03-26,20
+4,"Revenge is sweet! Handyman gets revenge on squatters who moved into his mom's vacant home by arriving with GUNS while they were out and moving himself in
+",https://www.dailymail.co.uk/news/article-11902843/Man-turns-tables-squatters-living-inside-mothers-Northern-California-home.html,3,0.095,0.057,0.848,0.9839,Daily Mail,2023-03-26,20
+5,"I'm into a specific bedroom kink many would argue is 'creepy', writes JANA HOCKING, but so are millions of other women... they just haven't told you yet
+",https://www.dailymail.co.uk/femail/article-11893203/What-praise-kink-Jana-Hocking-sexual-fetish-loves-most.html,4,0.32,0.043,0.637,0.9999,Daily Mail,2023-03-26,20
+6,"'He just isn't the man she married anymore': Reese Witherspoon's split from her husband Jim Toth 'was fuelled by his midlife crisis following a drastic career change'
+",https://www.dailymail.co.uk/tvshowbiz/article-11901555/Reese-Witherspoons-pal-reveals-husband-Jim-Toths-midlife-crisis-fuelled-divorce.html,5,0.226,0.039,0.735,0.9994,Daily Mail,2023-03-26,20
+7,"Missing Indiana teen Scottie Morris, 14, is found ALIVE just five minutes from where he vanished a week ago - after his parents forced him to wear a T-shirt branding him a LIAR 
+",https://www.dailymail.co.uk/news/article-11902487/Missing-Indiana-teen-Scottie-Morris-14-ALIVE-just-minutes-vanished.html,6,0.088,0.082,0.83,-0.1136,Daily Mail,2023-03-26,20
+8,"Worth a thousand laughs! Woman is left MORTIFIED after paying for professional photos of her skydiving... only to discover they captured a VERY awkward wardrobe malfunction
+",https://www.dailymail.co.uk/femail/article-11896103/I-paid-professional-skydiving-photos-HORRIFIED-results.html,7,0.1,0.048,0.852,0.9501,Daily Mail,2023-03-26,20
+9,"Andrew Lloyd Webber 'shattered' as he confirms his eldest son Nicholas has died aged 43 after battling gastric cancer 
+",https://www.dailymail.co.uk/news/article-11902463/Andrew-Lloyd-Webber-shattered-confirms-eldest-son-Nicholas-died-aged-43.html,8,0.07,0.084,0.847,-0.9656,Daily Mail,2023-03-26,20
+10,"'It feels like an SNL sketch': Taylor Swift fans react to bizarre video of Gwyneth Paltrow being grilled at her ski crash trial about their friendship and gifting the pop star a vibrator
+",https://www.dailymail.co.uk/tvshowbiz/article-11902303/Taylor-Swift-fans-react-video-Gwyneth-Paltrow-getting-grilled-lawyer-friendship.html,9,0.149,0.046,0.805,0.9975,Daily Mail,2023-03-26,20
+1,England 2-0 Ukraine: Euro 2024 qualifying – as it happened,https://www.theguardian.com/football/live/2023/mar/26/england-v-ukraine-euro-2024-qualifying-live,0,0.165,0.035,0.8,0.9997,Guardian,2023-03-26,20
+2,Rwanda scheme would ‘completely erode’ UK’s standing on world stage,https://www.theguardian.com/law/2023/mar/26/rwanda-scheme-would-completely-erode-uks-standing-on-world-stage,1,0.073,0.053,0.874,0.9409,Guardian,2023-03-26,20
+3,‘Excellent evidence that this works’: how mind experts protect their brains,https://www.theguardian.com/lifeandstyle/2023/mar/27/excellent-evidence-that-this-works-how-mind-experts-protect-their-brains,2,0.129,0.052,0.819,0.9982,Guardian,2023-03-26,20
+4,All UK honey tested in EU fraud investigation fails authenticity test,https://www.theguardian.com/food/2023/mar/26/uk-honey-fails-authenticity-test,3,0.088,0.114,0.798,-0.9666,Guardian,2023-03-26,20
+5,‘He’s a great guy’: Kwasi Kwarteng told fake firm he could introduce them to Boris Johnson,https://www.theguardian.com/politics/2023/mar/26/kwasi-kwarteng-fake-korean-firm-boris-johnson-introduction,4,0.072,0.063,0.865,0.1176,Guardian,2023-03-26,20
+6,‘Dad said: We’re going to follow Captain Cook’: how an endless round-the-world voyage stole my childhood,https://www.theguardian.com/lifeandstyle/2023/mar/25/suzanne-heywood-round-the-world-sailing-trip-stolen-childhood,5,0.07,0.064,0.865,0.9713,Guardian,2023-03-26,20
+7,Elon Musk memo suggests Twitter worth less than half of what he paid for it,https://www.theguardian.com/technology/2023/mar/26/elon-musk-twitter-value-leaked-memo-less-than-half-paid,6,0.12,0.025,0.855,0.9798,Guardian,2023-03-26,20
+8,There’s more to life than work – as everyone but the Tories and Kim Kardashian knows,https://www.theguardian.com/commentisfree/2023/mar/26/life-work-tories-kim-kardashian-britons-government-class,7,0.115,0.056,0.829,0.998,Guardian,2023-03-26,20
+9,"NHS staff shortages in England could exceed 570,000 by 2036, leaked document warns",https://www.theguardian.com/society/2023/mar/26/nhs-england-staff-shortages-could-exceed-570000-by-2036-study-finds,8,0.101,0.069,0.83,0.9695,Guardian,2023-03-26,20
+10,Council takes legal action to stop asylum seekers being sent to Essex airfield,https://www.theguardian.com/politics/2023/mar/26/council-takes-legal-action-to-stop-asylum-seekers-being-sent-to-essex-airfield,9,0.045,0.044,0.911,-0.561,Guardian,2023-03-26,20
