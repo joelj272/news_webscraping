@@ -1439,3 +1439,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Russia to station tactical nuclear weapons in Belarus,https://www.theguardian.com/world/2023/mar/25/russia-to-station-tactical-nuclear-weapons-in-belarus,7,0.107,0.12,0.773,-0.4076,Guardian,2023-03-25,20
 9,‘My city is gone’: ‘supercell’ tornado annihilates Mississippi town and kills 23,https://www.theguardian.com/us-news/2023/mar/25/tornado-deaths-mississippi-alabama-rolling-fork,8,0.033,0.138,0.829,-0.998,Guardian,2023-03-25,20
 10,‘Dad said: We’re going to follow Captain Cook’: how an endless round-the-world voyage stole my childhood,https://www.theguardian.com/lifeandstyle/2023/mar/25/suzanne-heywood-round-the-world-sailing-trip-stolen-childhood,9,0.07,0.064,0.865,0.9713,Guardian,2023-03-25,20
+1,"'God, guns, Trump': Thousands turn out for rally",https://www.bbc.co.uk/news/world-us-canada-65078418,0,0.093,0.096,0.811,-0.6455,BBC,2023-03-26,8
+2,Entire town flattened by deadly Mississippi tornado,https://www.bbc.co.uk/news/world-us-canada-65078588,1,0.103,0.054,0.844,0.9893,BBC,2023-03-26,8
+3,Putin: Russia to station nuclear weapons in Belarus,https://www.bbc.co.uk/news/world-europe-65077687,2,0.043,0.057,0.9,-0.827,BBC,2023-03-26,8
+4,Andrew Lloyd Webber's son Nicholas dies aged 43,https://www.bbc.co.uk/news/entertainment-arts-65078024,3,0.075,0.073,0.852,-0.3746,BBC,2023-03-26,8
+5,Principal resigns after students shown David statue,https://www.bbc.co.uk/news/world-us-canada-65071989,4,0.048,0.131,0.821,-0.9894,BBC,2023-03-26,8
+6,Sniffing sweat is tested as an anxiety therapy,https://www.bbc.co.uk/news/health-65049739,5,0.137,0.071,0.792,0.9907,BBC,2023-03-26,8
+7,Can US charm offensive woo Africa away from China?,https://www.bbc.co.uk/news/world-africa-65062976,6,0.142,0.058,0.8,0.9985,BBC,2023-03-26,8
+8,Lebanon wakes up in two rival time zones,https://www.bbc.co.uk/news/world-middle-east-65079574,7,0.052,0.073,0.874,-0.7096,BBC,2023-03-26,8
+9,No Ukraine offensive without more weapons – Zelensky,https://www.bbc.co.uk/news/world-europe-65075952,8,0.069,0.117,0.813,-0.98,BBC,2023-03-26,8
+10,Massive asteroid passes between Earth and Moon,https://www.bbc.co.uk/news/science-environment-65061818,9,0.09,0.057,0.853,0.872,BBC,2023-03-26,8
+1,"Welcome to Wrexham, kid! Hollywood stars Ryan Reynolds and Blake Lively pose for snaps with newborn baby and their three daughters as they cheer on Welsh football club owned by the actor 
+",https://www.dailymail.co.uk/tvshowbiz/article-11901863/Ryan-Reynolds-Blake-Lively-pose-snaps-newborn-baby-three-daughters-Wrexham.html,0,0.105,0.04,0.855,0.9936,Daily Mail,2023-03-26,8
+2,"'He just isn't the man she married anymore': Reese Witherspoon's split from her husband Jim Toth 'was fuelled by his midlife crisis following a drastic career change'
+",https://www.dailymail.co.uk/tvshowbiz/article-11901555/Reese-Witherspoons-pal-reveals-husband-Jim-Toths-midlife-crisis-fuelled-divorce.html,1,0.226,0.039,0.735,0.9994,Daily Mail,2023-03-26,8
+3,"EXCLUSIVE Look away now, Olivia! Harry Styles passionately kisses Emily Ratajkowski on the streets of Tokyo just six MONTHS after she filed for divorce - as ex-girlfriend Wilde and former husband Jason Sudeikis attend son's LA soccer game
+",https://www.dailymail.co.uk/tvshowbiz/article-11902929/Harry-Styles-kisses-Emily-Ratajkowski-Olivia-Wilde-romance.html,2,0.108,0.074,0.818,0.9966,Daily Mail,2023-03-26,8
+4,"Tornadoes kill at least 23 in Mississippi with dozens of people still trapped in rubble after ELEVEN 135mph twisters - including one MILE-WIDE storm - cut a 100-mile swath across the state 
+",https://www.dailymail.co.uk/news/article-11901179/At-seven-killed-huge-mile-wide-tornado-rips-Mississippi.html,3,0.05,0.135,0.815,-0.9976,Daily Mail,2023-03-26,8
+5,"'Dear Jesus, please help them': Dramatic moment Mississippi meteorologist calls on God as he watches major tornado head straight for the town of Amory 
+",https://www.dailymail.co.uk/news/article-11901721/Dramatic-moment-Mississippi-meteorologist-calls-God-watches-major-tornado-hit-small-town.html,4,0.061,0.149,0.79,-0.9987,Daily Mail,2023-03-26,8
+6,"'It was very rare': Mississippi tornado tore across 170 MILES on path of destruction and spawned dozens of other twisters that left at least 25 dead, 75,000 without power: Rescue teams are now scrambling to find survivors as region braces for floods
+",https://www.dailymail.co.uk/news/article-11901771/At-23-dead-Mississippi-town-Rolling-Fork-obliterated-huge-mile-wide-tornado.html,5,0.085,0.174,0.741,-0.9998,Daily Mail,2023-03-26,8
+7,"Worth a thousand laughs! Woman is left MORTIFIED after paying for professional photos of her skydiving... only to discover they captured a VERY awkward wardrobe malfunction
+",https://www.dailymail.co.uk/femail/article-11896103/I-paid-professional-skydiving-photos-HORRIFIED-results.html,6,0.1,0.048,0.852,0.9501,Daily Mail,2023-03-26,8
+8,"Reese Witherspoon's 'busy schedule' contributed to split from husband of 12 years Jim Toth and they would 'go days without interacting' while she worked which 'raised eyebrows' with friends: Pair says 'biggest priority is our son' 
+",https://www.dailymail.co.uk/tvshowbiz/article-11900877/Reese-Witherspoons-busy-schedule-contributed-split-husband-12-years-Jim-Toth.html,7,0.114,0.041,0.845,0.9971,Daily Mail,2023-03-26,8
+9,"I'm into a specific bedroom kink many would argue is 'creepy', writes JANA HOCKING, but so are millions of other women... they just haven't told you yet
+",https://www.dailymail.co.uk/femail/article-11893203/What-praise-kink-Jana-Hocking-sexual-fetish-loves-most.html,8,0.32,0.043,0.637,0.9999,Daily Mail,2023-03-26,8
+10,"Revenge is sweet! Handyman gets revenge on squatters who moved into his mom's vacant home by arriving with GUNS while they were out and moving himself in
+",https://www.dailymail.co.uk/news/article-11902843/Man-turns-tables-squatters-living-inside-mothers-Northern-California-home.html,9,0.095,0.057,0.848,0.9839,Daily Mail,2023-03-26,8
+1,"Top Tory MPs ask for £10,000 a day to work for fake Korean company",https://www.theguardian.com/politics/2023/mar/25/top-tory-mps-ask-for-10000-a-day-to-work-for-fake-korean-company,0,0.09,0.063,0.847,0.9883,Guardian,2023-03-26,8
+2,A failed revolt and an ‘embarrassing’ display: the week that saw Boris Johnson’s downfall,https://www.theguardian.com/politics/2023/mar/26/a-failed-revolt-and-an-embarrassing-display-the-week-that-saw-boris-johnsons-downfall,1,0.114,0.084,0.802,0.9955,Guardian,2023-03-26,8
+3,Trump describes 2024 election as ‘the final battle’ from podium in Waco,https://www.theguardian.com/us-news/2023/mar/26/trump-waco-texas-2024-election-final-battle-january-6,2,0.075,0.111,0.814,-0.989,Guardian,2023-03-26,8
+4,‘Dad said: We’re going to follow Captain Cook’: how an endless round-the-world voyage stole my childhood,https://www.theguardian.com/lifeandstyle/2023/mar/25/suzanne-heywood-round-the-world-sailing-trip-stolen-childhood,3,0.07,0.064,0.865,0.9713,Guardian,2023-03-26,8
+5,‘Witch bee’ riding tiny broomstick to feature in Attenborough’s Wild Isles,https://www.theguardian.com/media/2023/mar/26/witch-bee-riding-tiny-broomstick-to-feature-in-attenboroughs-wild-isles,4,0.066,0.042,0.892,0.8687,Guardian,2023-03-26,8
+6,I am worried that my introvert teenage son is missing out,https://www.theguardian.com/lifeandstyle/2023/mar/26/ask-philippa-perry-i-am-worried-my-introvert-teenage-son-is-missing-out,5,0.143,0.072,0.785,0.9974,Guardian,2023-03-26,8
+7,"Andrew Lloyd Webber’s eldest son, Nicholas, dies of gastric cancer aged 43",https://www.theguardian.com/culture/2023/mar/25/andrew-lloyd-webbers-eldest-son-nicholas-dies-of-gastric-cancer-aged-43,6,0.102,0.089,0.809,0.6498,Guardian,2023-03-26,8
+8,‘My colleague had a heart attack in front of me’: horrific toll of Ofsted inspections,https://www.theguardian.com/education/2023/mar/26/colleague-had-heart-attack-in-front-of-me-horrific-toll-of-ofsted-inspections,7,0.082,0.12,0.798,-0.997,Guardian,2023-03-26,8
+9,"Russia-Ukraine war live: Kremlin has ‘Belarus as nuclear hostage’ with plans to station tactical nuclear weapons, says Kyiv",https://www.theguardian.com/world/live/2023/mar/26/russia-ukraine-war-live-us-reacts-cautiously-to-russias-plan-to-station-tactical-nuclear-weapons-in-belarus,8,0.06,0.134,0.806,-0.9993,Guardian,2023-03-26,8
+10,"111 by Modou, Glasgow: ‘A banging recipe for a great place’ – restaurant review",https://www.theguardian.com/food/2023/mar/26/jay-rayner-restaurant-review-111-by-modou-glasgow-a-banging-recipe-for-a-great-place,9,0.115,0.031,0.854,0.999,Guardian,2023-03-26,8
