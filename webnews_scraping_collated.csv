@@ -1519,3 +1519,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,There’s more to life than work – as everyone but the Tories and Kim Kardashian knows,https://www.theguardian.com/commentisfree/2023/mar/26/life-work-tories-kim-kardashian-britons-government-class,7,0.115,0.056,0.829,0.998,Guardian,2023-03-26,20
 9,"NHS staff shortages in England could exceed 570,000 by 2036, leaked document warns",https://www.theguardian.com/society/2023/mar/26/nhs-england-staff-shortages-could-exceed-570000-by-2036-study-finds,8,0.101,0.069,0.83,0.9695,Guardian,2023-03-26,20
 10,Council takes legal action to stop asylum seekers being sent to Essex airfield,https://www.theguardian.com/politics/2023/mar/26/council-takes-legal-action-to-stop-asylum-seekers-being-sent-to-essex-airfield,9,0.045,0.044,0.911,-0.561,Guardian,2023-03-26,20
+1,Online trolls are taking a toll in China,https://www.bbc.co.uk/news/world-asia-china-64871816,0,0.089,0.203,0.708,-0.9997,BBC,2023-03-27,8
+2,Japan indicts man for killing student with thallium,https://www.bbc.co.uk/news/world-asia-65084566,1,0.018,0.145,0.837,-0.9956,BBC,2023-03-27,8
+3,Alibaba's Jack Ma seen in China after long absence,https://www.bbc.co.uk/news/world-asia-china-65084344,2,0.05,0.08,0.869,-0.7351,BBC,2023-03-27,8
+4,"Ukraine drone downed over Russia, Moscow says",https://www.bbc.co.uk/news/world-europe-65082747,3,0.039,0.102,0.86,-0.9585,BBC,2023-03-27,8
+5,Failed lender Silicon Valley Bank bought by rival,https://www.bbc.co.uk/news/business-65084248,4,0.065,0.112,0.823,-0.9812,BBC,2023-03-27,8
+6,Actor Jonathan Majors arrested on assault charges,https://www.bbc.co.uk/news/world-65081847,5,0.05,0.109,0.842,-0.954,BBC,2023-03-27,8
+7,"'When I see the boys going to school, it hurts'",https://www.bbc.co.uk/news/world-asia-65058099,6,0.064,0.112,0.824,-0.9957,BBC,2023-03-27,8
+8,Myanmar leader vows to crush resistance in rare speech,https://www.bbc.co.uk/news/world-asia-65084202,7,0.095,0.176,0.729,-0.99,BBC,2023-03-27,8
+9,Why was the Mississippi tornado so destructive?,https://www.bbc.co.uk/news/world-us-canada-65072195,8,0.028,0.087,0.885,-0.9896,BBC,2023-03-27,8
+10,Strike brings German transport network to halt,https://www.bbc.co.uk/news/world-europe-65083774,9,0.082,0.106,0.811,0.0644,BBC,2023-03-27,8
+1,"Crypto 'prodigy', 23, is 'abducted and TORTURED' after 'scamming' investors out of $29M before blowing $12M on fleet of supercars, luxury vacations and a private jet
+",https://www.dailymail.co.uk/news/article-11903219/Crypto-prodigy-23-abducted-TORTURED-scamming-investors-29M.html,0,0.066,0.056,0.879,0.8875,Daily Mail,2023-03-27,8
+2,"EXCLUSIVE Look away now, Olivia! Harry Styles passionately kisses Emily Ratajkowski on the streets of Tokyo just six MONTHS after she filed for divorce - as ex-girlfriend Wilde and former husband Jason Sudeikis attend son's LA soccer game
+",https://www.dailymail.co.uk/tvshowbiz/article-11902929/Harry-Styles-kisses-Emily-Ratajkowski-Olivia-Wilde-romance.html,1,0.108,0.074,0.818,0.9966,Daily Mail,2023-03-27,8
+3,"The end of an era: Iconic Australian retailer officially shuts down all 50 stores after 40 years in business
+",https://www.dailymail.co.uk/news/article-11904699/Australias-Sanity-stores-close.html,2,0.064,0.023,0.913,0.9423,Daily Mail,2023-03-27,8
+4,"I'd never let my girls do a Pretty Baby: Brooke Shields turns on her mother asking why she 'thought it was all right' to let her pose naked at 10 and star as a child prostitute at 11 
+",https://www.dailymail.co.uk/news/article-11904413/Brooke-Shields-reveals-dealt-posing-nude-Playboy-kissing-men-pre-teen.html,3,0.125,0.087,0.789,0.9979,Daily Mail,2023-03-27,8
+5,"I'm a cardiologist. These are the seven foods I'll never eat - and why 
+",https://www.dailymail.co.uk/health/article-11887301/Im-cardiologist-seven-foods-Ill-never-eat-why.html,4,0.096,0.095,0.809,-0.2843,Daily Mail,2023-03-27,8
+6,"Revenge is sweet! Handyman gets revenge on squatters who moved into his mom's vacant home by arriving with GUNS while they were out and moving himself in
+",https://www.dailymail.co.uk/news/article-11902843/Man-turns-tables-squatters-living-inside-mothers-Northern-California-home.html,5,0.095,0.057,0.848,0.9839,Daily Mail,2023-03-27,8
+7,"No Blurred Lines here! Harry Styles gets touchy-feely with Emily Ratajkowski in MORE jaw-dropping footage - as model dances seductively during their passionate make-out session in Tokyo
+",https://www.dailymail.co.uk/tvshowbiz/article-11903979/EXC-Harry-Styles-crosses-Fine-Line-pats-Emily-Ratajkowskis-bottom-passionate-kiss.html,6,0.107,0.074,0.819,0.9965,Daily Mail,2023-03-27,8
+8,"Worth a thousand laughs! Woman is left MORTIFIED after paying for professional photos of her skydiving... only to discover they captured a VERY awkward wardrobe malfunction
+",https://www.dailymail.co.uk/femail/article-11896103/I-paid-professional-skydiving-photos-HORRIFIED-results.html,7,0.1,0.048,0.852,0.9501,Daily Mail,2023-03-27,8
+9,"Welcome to Wrexham, kid! Hollywood stars Ryan Reynolds and Blake Lively pose for snaps with newborn baby and their three daughters as they cheer on Welsh football club owned by the actor 
+",https://www.dailymail.co.uk/tvshowbiz/article-11901863/Ryan-Reynolds-Blake-Lively-pose-snaps-newborn-baby-three-daughters-Wrexham.html,8,0.105,0.04,0.855,0.9936,Daily Mail,2023-03-27,8
+10,"Meet the Miami twins taking over March Madness: Hanna and Haley Cavinder are worth $850,000 EACH from NIL deals, have 4.5m TikTok followers... and are making history on the court too! 
+",https://www.dailymail.co.uk/sport/college-basketball/article-11900433/Hanna-Haley-Cavinder-Miami-twins-taking-March-Madness.html,9,0.144,0.051,0.805,0.997,Daily Mail,2023-03-27,8
+1,"Two-thirds of UK workers with long Covid have faced unfair treatment, says report",https://www.theguardian.com/society/2023/mar/27/long-covid-two-thirds-workers-unfair-treatment-report,0,0.091,0.107,0.803,-0.9343,Guardian,2023-03-27,8
+2,"World ‘population bomb’ may never go off as feared, finds study",https://www.theguardian.com/world/2023/mar/27/world-population-bomb-may-never-go-off-as-feared-finds-study,1,0.084,0.09,0.826,-0.4688,Guardian,2023-03-27,8
+3,Rishi Sunak to ignore independent advice and ban laughing gas in UK,https://www.theguardian.com/politics/2023/mar/26/rishi-sunak-to-ignore-independent-advice-and-ban-laughing-gas-in-uk,2,0.082,0.156,0.762,-0.9964,Guardian,2023-03-27,8
+4,"Revised plans for HS2 Euston terminus would cost almost £5bn, says watchdog",https://www.theguardian.com/uk-news/2023/mar/27/revised-plans-hs2-london-euston-terminus-cost-5bn,3,0.058,0.052,0.891,0.6979,Guardian,2023-03-27,8
+5,A new start after 60: my divorce felt mortally wounding – then I walked the Camino de Santiago,https://www.theguardian.com/lifeandstyle/2023/mar/27/a-new-start-after-60-divorce-mortally-wounding-walked-camino-de-santiago,4,0.173,0.079,0.748,0.9986,Guardian,2023-03-27,8
+6,The Finns hold the secret of happiness – and it is not what you might expect,https://www.theguardian.com/commentisfree/2023/mar/27/the-finns-hold-the-secret-of-happiness-and-it-is-not-what-you-might-expect,5,0.185,0.093,0.721,0.9906,Guardian,2023-03-27,8
+7,Peta condemns Rings of Power producers after horse dies on set of Lord of the Rings spin-off,https://www.theguardian.com/tv-and-radio/2023/mar/27/peta-condemns-rings-of-power-producers-after-horse-dies-on-set-of-lord-of-the-rings-spin-off,6,0.045,0.082,0.873,-0.9595,Guardian,2023-03-27,8
+8,Poole harbour: major incident declared over leak from oilfield ,https://www.theguardian.com/environment/2023/mar/26/poole-harbour-major-incident-declared-over-leak-from-oil-field,7,0.053,0.067,0.88,-0.7655,Guardian,2023-03-27,8
+9,‘People will be disturbed’: Steve McQueen on airing his Grenfell film,https://www.theguardian.com/uk-news/2023/mar/27/steve-mcqueen-grenfell-tower-film-serpentine-gallery,8,0.084,0.12,0.796,-0.9937,Guardian,2023-03-27,8
+10,Israel’s president calls for halt to judicial overhaul after mass protests,https://www.theguardian.com/world/2023/mar/27/israels-president-calls-for-halt-to-judicial-overhaul-after-mass-protests,9,0.102,0.066,0.832,0.9813,Guardian,2023-03-27,8
