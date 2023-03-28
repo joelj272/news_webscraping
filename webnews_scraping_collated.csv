@@ -1639,3 +1639,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Norwegian company says TikTok data centre is limiting energy for manufacturing Ukraine ammunition,https://www.theguardian.com/technology/2023/mar/28/energy-hungry-tiktok-data-centre-ukraine-ammunition-production-nammo-norway,7,0.064,0.059,0.877,0.6652,Guardian,2023-03-28,8
 9,Jonathan Majors charged with assault and harassment after alleged domestic dispute,https://www.theguardian.com/film/2023/mar/28/jonathan-majors-creed-iii-actor-charged-assault-harassment-alleged-domestic-dispute,8,0.052,0.138,0.81,-0.9918,Guardian,2023-03-28,8
 10,Russian soldiers say commanders used ‘barrier troops’ to stop them retreating,https://www.theguardian.com/world/2023/mar/27/russian-soldiers-commanders-used-barrier-troops-stop-retreating,9,0.041,0.175,0.783,-0.9989,Guardian,2023-03-28,8
+1,Billionaire’s son admits role in student’s death,https://www.bbc.co.uk/news/uk-65033048,0,0.095,0.118,0.788,-0.9975,BBC,2023-03-28,20
+2,Russian whose daughter drew anti-war picture flees jail term,https://www.bbc.co.uk/news/world-europe-65102392,1,0.057,0.133,0.81,-0.9944,BBC,2023-03-28,20
+3,Amateur Australian gold digger finds massive nugget,https://www.bbc.co.uk/news/world-australia-65095925,2,0.101,0.012,0.886,0.9741,BBC,2023-03-28,20
+4,Boss of failed crypto firm accused of China bribe,https://www.bbc.co.uk/news/business-65104103,3,0.034,0.129,0.837,-0.9848,BBC,2023-03-28,20
+5,Two stabbed to death at Muslim centre in Lisbon,https://www.bbc.co.uk/news/world-europe-65097098,4,0.01,0.178,0.811,-0.9949,BBC,2023-03-28,20
+6,Beloved school head among Nashville shooting victims,https://www.bbc.co.uk/news/world-us-canada-65095355,5,0.067,0.089,0.844,-0.8879,BBC,2023-03-28,20
+7,Germany sends much-awaited tanks to Ukraine,https://www.bbc.co.uk/news/world-europe-65095126,6,0.118,0.053,0.829,0.9538,BBC,2023-03-28,20
+8,How many US mass shootings have there been in 2023?,https://www.bbc.co.uk/news/world-us-canada-41488081,7,0.05,0.175,0.775,-0.9991,BBC,2023-03-28,20
+9,N Korea claims first evidence of tactical nukes,https://www.bbc.co.uk/news/world-asia-65085542,8,0.054,0.181,0.764,-0.9993,BBC,2023-03-28,20
+10,Israel crisis a battle for country's identity,https://www.bbc.co.uk/news/world-middle-east-65097625,9,0.091,0.147,0.762,-0.9982,BBC,2023-03-28,20
+1,"Trans female former student, 28, armed with two assault rifles and a handgun, kills three nine-year-old kids and three staff members at Nashville private Christian school after writing manifesto and drawing maps of church campus
+",https://www.dailymail.co.uk/news/article-11907711/Multiple-injured-private-Nashville-Christian-school.html,0,0.091,0.09,0.819,0.1927,Daily Mail,2023-03-28,20
+2,"Trans Nashville shooter is seen firing through door of private Christian school before stalking corridors with rifle as she prepared to kill three kids and three school workers
+",https://www.dailymail.co.uk/news/article-11909129/PICTURED-Transgender-school-shooter-28-killed-three-nine-year-old-students-three-adults.html,1,0.067,0.099,0.834,-0.9955,Daily Mail,2023-03-28,20
+3,"Cops share snap of school door Nashville shooter blasted to gain entry and car she drove to scene with plans inside, as it's revealed murdered head of school worked there alongside her daughter 
+",https://www.dailymail.co.uk/news/article-11908745/Nashville-school-shooter-Audrey-Hale-transgender-former-student-plotted-massacre-detail.html,2,0.071,0.117,0.812,-0.9973,Daily Mail,2023-03-28,20
+4,"Moment brave cop takes down Nashville school shooter with precision shots before colleague finishes her off on the ground: Police release six minutes of hellish bodycam footage
+",https://www.dailymail.co.uk/news/article-11911549/Cops-release-six-minutes-bodycam-footage-Nashville-school-shooting.html,3,0.032,0.144,0.823,-0.9946,Daily Mail,2023-03-28,20
+5,"Trump bombshell as mystery witness is revealed: Former National Enquirer publisher David Pecker testifies before Manhattan grand jury in hush money probe - as indictment looms 
+",https://www.dailymail.co.uk/news/article-11907661/In-Trump-probe-Manhattan-grand-jury-work.html,4,0.044,0.11,0.846,-0.996,Daily Mail,2023-03-28,20
+6,"'I'm planning to die today... you'll probably hear about me on the news': Trans school shooter Audrey Hale's final messages to a friend before she shot six people - including three kids in private Christian school
+",https://www.dailymail.co.uk/news/article-11911021/Trans-school-shooters-final-messages-revealed.html,5,0.029,0.137,0.833,-0.9947,Daily Mail,2023-03-28,20
+7,"Netflix viewers are left outraged as the streaming service cancels popular crime series after two seasons
+",https://www.dailymail.co.uk/tvshowbiz/article-11910493/Netflix-viewers-left-outraged-streaming-service-cancels-popular-crime-series.html,6,0.065,0.117,0.819,-0.9726,Daily Mail,2023-03-28,20
+8,"Female school shooter in Nashville is just the FIFTH in history: Incredibly rare attacks date back to 1979 when teen girl said she killed because 'I don't like Mondays' - inspiring Bob Geldof's hit record
+",https://www.dailymail.co.uk/news/article-11908187/Female-school-shooter-Nashville-just-FIFTH-history.html,7,0.049,0.224,0.727,-0.9995,Daily Mail,2023-03-28,20
+9,"EXCLUSIVE: Kim Kardashian the beach bombshell flaunts her toned curves and derriere in VERY cheeky pink thong bikini for sizzling photoshoot
+",https://www.dailymail.co.uk/tvshowbiz/article-11908535/Kim-Kardashian-beach-bombshell-flaunts-toned-curves-derriere-cheeky-pink-bikini.html,8,0.041,0.048,0.911,-0.3335,Daily Mail,2023-03-28,20
+10,"I'm a frequent flyer and this is why you should NEVER wear leggings or yoga pants on a plane
+",https://www.dailymail.co.uk/travel/article-11907621/Im-frequent-flyer-NEVER-wear-leggings-yoga-pants-plane.html,9,0.042,0.117,0.841,-0.9776,Daily Mail,2023-03-28,20
+1,Nashville school shooter legally stockpiled weapons before attack,https://www.theguardian.com/us-news/2023/mar/28/nashville-school-shooting-tennessee-warning-messages-police,0,0.054,0.203,0.743,-0.9997,Guardian,2023-03-28,20
+2,"Britons who do not pave over garden could receive water bill discount, Ofwat says",https://www.theguardian.com/environment/2023/mar/28/uk-water-saving-bills-ofwat,1,0.091,0.052,0.857,0.9359,Guardian,2023-03-28,20
+3,Putin prepares Russia for ‘forever war’ with west as Ukraine invasion stalls,https://www.theguardian.com/world/2023/mar/28/putin-prepares-russia-for-forever-war-with-west-as-ukraine-invasion-stalls,2,0.08,0.154,0.767,-0.9994,Guardian,2023-03-28,20
+4,Boris Johnson jokes he was given Partygate fine for ‘eating lunch at his desk’,https://www.theguardian.com/politics/2023/mar/28/boris-johnson-jokes-he-was-given-partygate-fine-for-eating-lunch-at-his-desk,3,0.079,0.038,0.883,0.959,Guardian,2023-03-28,20
+5,"Did Gwyneth Paltrow ski into a retired optometrist? I couldn’t care less, but the farce is unmissable",https://www.theguardian.com/commentisfree/2023/mar/28/gwyneth-paltrow-ski-optometrist-court-utah,4,0.114,0.098,0.787,0.9641,Guardian,2023-03-28,20
+6,Gary Lineker wins battle with HMRC over £4.9m tax bill,https://www.theguardian.com/football/2023/mar/28/gary-lineker-wins-battle-with-hmrc-over-49m-tax-bill,5,0.097,0.036,0.867,0.9789,Guardian,2023-03-28,20
+7,Amsterdam tells young British men who want a ‘messy’ weekend to stay away,https://www.theguardian.com/world/2023/mar/28/amsterdam-young-british-men-misbehave-stay-away-campaign,6,0.066,0.058,0.876,0.6801,Guardian,2023-03-28,20
+8,Fish finger surprise! The shocking ingredients found in supermarket foods,https://www.theguardian.com/food/2023/mar/28/fish-finger-surprise-the-shocking-ingredients-found-in-supermarket-foods,7,0.089,0.073,0.838,0.6698,Guardian,2023-03-28,20
+9,Scotland v Spain: Euro 2024 qualifying – live,https://www.theguardian.com/football/live/2023/mar/28/scotland-v-spain-euro-2024-qualifying-live,8,0.129,0.064,0.806,0.9997,Guardian,2023-03-28,20
+10,"Three abandoned children, two missing parents and a 40-year mystery",https://www.theguardian.com/world/2023/mar/28/three-abandoned-children-two-missing-parents-40-year-mystery-elvira-moral-barcelona,9,0.096,0.085,0.819,0.9966,Guardian,2023-03-28,20
