@@ -1719,3 +1719,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Russia-Ukraine war live: Zelenskiy says Putin ‘informationally isolated’ but fears war could be hampered by US divisions,https://www.theguardian.com/world/live/2023/mar/29/russia-ukraine-war-live-zelenskiy-fears-war-could-be-hampered-by-washington-divisions-moscow-starts-drills-with-new-icbm,7,0.077,0.101,0.822,-0.998,Guardian,2023-03-29,8
 9,"Did Gwyneth Paltrow ski into a retired optometrist? I couldn’t care less, but the farce is unmissable",https://www.theguardian.com/commentisfree/2023/mar/28/gwyneth-paltrow-ski-optometrist-court-utah,8,0.114,0.098,0.787,0.9641,Guardian,2023-03-29,8
 10,WeWork mugs for $500: 10 of the strangest merch items from companies that crashed,https://www.theguardian.com/technology/2023/mar/29/theranos-ftx-merch-swag-ebay,9,0.106,0.062,0.832,0.9923,Guardian,2023-03-29,8
+1,Melissa Joan Hart: I helped kids flee shooting,https://www.bbc.co.uk/news/world-us-canada-65114339,0,0.038,0.082,0.88,-0.9694,BBC,2023-03-29,20
+2,Orthodox monks refuse to leave Kyiv monastery,https://www.bbc.co.uk/news/world-europe-65117269,1,0.067,0.152,0.781,-0.9948,BBC,2023-03-29,20
+3,Pope Francis in hospital with respiratory infection,https://www.bbc.co.uk/news/world-europe-65117270,2,0.067,0.064,0.869,0.411,BBC,2023-03-29,20
+4,"Russian spies more effective than army, say experts",https://www.bbc.co.uk/news/world-europe-65113340,3,0.103,0.137,0.759,-0.9825,BBC,2023-03-29,20
+5,Video of deadly Mexico fire causes outrage,https://www.bbc.co.uk/news/world-latin-america-65111258,4,0.048,0.101,0.852,-0.9942,BBC,2023-03-29,20
+6,Young Brits told to stay away from Amsterdam,https://www.bbc.co.uk/news/world-europe-65107405,5,0.063,0.052,0.884,0.769,BBC,2023-03-29,20
+7,'Nashville shooter sent me messages before attack',https://www.bbc.co.uk/news/world-us-canada-65106763,6,0.028,0.081,0.891,-0.9538,BBC,2023-03-29,20
+8,Advanced AI risk to humanity - technology leaders,https://www.bbc.co.uk/news/technology-65110030,7,0.09,0.084,0.825,0.6955,BBC,2023-03-29,20
+9,Man guilty of murdering woman in B&B bed mix-up,https://www.bbc.co.uk/news/uk-wales-65062565,8,0.035,0.18,0.785,-0.998,BBC,2023-03-29,20
+10,Swimmers in Hawaii accused of harassing dolphins,https://www.bbc.co.uk/news/world-us-canada-65114336,9,0.069,0.068,0.863,0.1109,BBC,2023-03-29,20
+1,"EXCLUSIVE: Nashville mass school shooter Audrey Hale was rejected by her Christian parents who 'couldn't accept' she was gay and trans - as cops reveal she also planned to shoot relatives 
+",https://www.dailymail.co.uk/news/article-11912163/Nashville-school-shooter-Audrey-Hales-parents-accept-gay-trans.html,0,0.038,0.164,0.799,-0.9971,Daily Mail,2023-03-29,20
+2,"Humans will achieve immortality in eight YEARS, says former Google engineer who has predicted the future with 86% accuracy
+",https://www.dailymail.co.uk/sciencetech/article-11911975/Humans-achieve-immortality-eight-YEARS-says-former-Google-engineer.html,1,0.16,0.032,0.808,0.9975,Daily Mail,2023-03-29,20
+3,"Bryan Kohberger's sisters 'lose their jobs' despite family refusing to visit accused Idaho University killer in jail as he waits to find out if he faces the death penalty
+",https://www.dailymail.co.uk/news/article-11912589/Bryan-Kohbergers-sisters-lose-jobs-despite-refusing-visit-accused-Idaho-killer-jail.html,2,0.067,0.155,0.778,-0.9989,Daily Mail,2023-03-29,20
+4,"Netflix viewers are left outraged as the streaming service cancels popular crime series after two seasons
+",https://www.dailymail.co.uk/tvshowbiz/article-11910493/Netflix-viewers-left-outraged-streaming-service-cancels-popular-crime-series.html,3,0.065,0.117,0.819,-0.9726,Daily Mail,2023-03-29,20
+5,"PICTURED: Hero schoolgirl, 9, who died trying to pull fire alarm to stop trans shooter opening fire on her friends - as family say they are 'completely broken' by her death
+",https://www.dailymail.co.uk/news/article-11912233/PICTURED-Hero-schoolgirl-9-died-trying-pull-fire-alarm-stop-trans-shooter-Audrey-Hale.html,4,0.099,0.14,0.761,-0.9957,Daily Mail,2023-03-29,20
+6,"Brazen serial squatter is forced to flee Texas home after changing locks, faking LEASE and going on camera to insist she was entitled to stay there with her family 
+",https://www.dailymail.co.uk/news/article-11913211/Texas-squatters-booted-property-changing-locks-forging-lease.html,5,0.057,0.079,0.864,-0.9665,Daily Mail,2023-03-29,20
+7,"Australian porn star Angela White breaks her silence on horror on-set injury after reports she 'almost died during hour-long sex scene'
+",https://www.dailymail.co.uk/tvshowbiz/article-11913617/Angela-White-Australian-porn-star-breaks-silence-horror-set-injury.html,6,0.072,0.111,0.817,-0.9766,Daily Mail,2023-03-29,20
+8,"Moment brave cop takes down Nashville school shooter with precision shots before colleague finishes her off on the ground: Police release six minutes of hellish bodycam footage
+",https://www.dailymail.co.uk/news/article-11911549/Cops-release-six-minutes-bodycam-footage-Nashville-school-shooting.html,7,0.032,0.144,0.823,-0.9946,Daily Mail,2023-03-29,20
+9,"Sam Neill, 75, shocks fans as he reveals his real name after being forced to change it when he was in school: 'It's the one thing I resent about my parents'
+",https://www.dailymail.co.uk/tvshowbiz/article-11913905/Sam-Neill-75-shocks-fans-reveals-real-name.html,8,0.109,0.057,0.834,0.9768,Daily Mail,2023-03-29,20
+10,"'I would leave him at the altar': Vulgar groom is SLAMMED for 'humiliating' his bride with 'disgusting' wedding vows in front of their mortified friends and family
+",https://www.dailymail.co.uk/femail/article-11911293/Vulgar-groom-SLAMMED-disgusting-wedding-vows.html,9,0.146,0.062,0.792,0.9981,Daily Mail,2023-03-29,20
+1,Tories keep Psycho Dom at arm’s length as Angela Rayner goes for jugular,https://www.theguardian.com/politics/2023/mar/29/psycho-raab-struggles-to-contain-his-rage-during-prime-ministers-questions,0,0.089,0.17,0.741,-0.9988,Guardian,2023-03-29,20
+2,‘Microcosm of Brexit Britain’: Norfolk documentary is surprise German hit,https://www.theguardian.com/uk-news/2023/mar/29/brexit-britain-norfolk-cromer-documentary-seaside-special-germany-hit,1,0.129,0.063,0.809,0.9898,Guardian,2023-03-29,20
+3,Plans for rail pass for UK staycationers axed over cost concerns,https://www.theguardian.com/uk-news/2023/mar/29/plans-for-rail-pass-for-uk-staycationers-axed-over-cost-concerns,2,0.126,0.069,0.805,0.9937,Guardian,2023-03-29,20
+4,"‘I’m Lily Savage, the blonde bombsite’ – the genius of Paul O’Grady, by Suzy Eddie Izzard, Russell T Davies and more",https://www.theguardian.com/tv-and-radio/2023/mar/29/lily-savage-paul-ogrady-eddie-izzard-russell-t-davies-blonde-bombsite,3,0.174,0.087,0.738,0.9997,Guardian,2023-03-29,20
+5,Man guilty of murdering woman who mistook his Welsh home for B&B,https://www.theguardian.com/uk-news/2023/mar/29/man-guilty-of-murdering-woman-who-mistook-his-welsh-home-for-b-and-b-barmouth,4,0.025,0.121,0.854,-0.9907,Guardian,2023-03-29,20
+6,Ministers urged to be more aggressive in tackling issues within religious groups,https://www.theguardian.com/world/2023/mar/29/ministers-urged-to-be-more-aggressive-in-tackling-issues-within-religious-groups,5,0.087,0.093,0.82,-0.8799,Guardian,2023-03-29,20
+7,"Roman Abramovich secretly bankrolled Dutch football club, leaked documents suggest",https://www.theguardian.com/world/2023/mar/29/roman-abramovich-secretly-bankrolled-dutch-football-club-leaked-documents-suggest,6,0.096,0.037,0.867,0.999,Guardian,2023-03-29,20
+8,"Paul O’Grady, TV presenter and comedian, dies aged 67",https://www.theguardian.com/tv-and-radio/2023/mar/29/paul-ogrady-presenter-and-comedian-dies-aged-67,7,0.212,0.078,0.71,0.9989,Guardian,2023-03-29,20
+9,Tory row brewing over Sunak pledge to end small boat crossings,https://www.theguardian.com/uk-news/2023/mar/29/tory-row-brewing-rishi-sunak-pledge-end-small-boat-crossings,8,0.08,0.124,0.796,-0.9943,Guardian,2023-03-29,20
+10,"Witness in Prince Harry’s case against Daily Mail owner unreliable, say lawyers ",https://www.theguardian.com/uk-news/2023/mar/29/witness-in-prince-harrys-case-against-daily-mail-owner-unreliable-say-lawyers,9,0.044,0.096,0.86,-0.9896,Guardian,2023-03-29,20
