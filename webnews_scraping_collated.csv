@@ -1679,3 +1679,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Fish finger surprise! The shocking ingredients found in supermarket foods,https://www.theguardian.com/food/2023/mar/28/fish-finger-surprise-the-shocking-ingredients-found-in-supermarket-foods,7,0.089,0.073,0.838,0.6698,Guardian,2023-03-28,20
 9,Scotland v Spain: Euro 2024 qualifying – live,https://www.theguardian.com/football/live/2023/mar/28/scotland-v-spain-euro-2024-qualifying-live,8,0.129,0.064,0.806,0.9997,Guardian,2023-03-28,20
 10,"Three abandoned children, two missing parents and a 40-year mystery",https://www.theguardian.com/world/2023/mar/28/three-abandoned-children-two-missing-parents-40-year-mystery-elvira-moral-barcelona,9,0.096,0.085,0.819,0.9966,Guardian,2023-03-28,20
+1,Young Brits told to stay away from Amsterdam,https://www.bbc.co.uk/news/world-europe-65107405,0,0.069,0.056,0.875,0.7562,BBC,2023-03-29,8
+2,TV star Paul O'Grady dies aged 67,https://www.bbc.co.uk/news/entertainment-arts-65108130,1,0.236,0.072,0.692,0.9997,BBC,2023-03-29,8
+3,Tourist who posed naked on Bali peak to be deported,https://www.bbc.co.uk/news/world-asia-65108311,2,0.054,0.057,0.889,-0.765,BBC,2023-03-29,8
+4,'Nashville shooter sent me messages before attack',https://www.bbc.co.uk/news/world-us-canada-65106763,3,0.028,0.081,0.891,-0.9538,BBC,2023-03-29,8
+5,Fishermen frauds plead guilty in cheating scandal,https://www.bbc.co.uk/news/world-us-canada-65106997,4,0.104,0.092,0.804,0.6651,BBC,2023-03-29,8
+6,Nashville school shooter hid guns in parents' home,https://www.bbc.co.uk/news/world-us-canada-65106976,5,0.046,0.213,0.741,-0.9992,BBC,2023-03-29,8
+7,Millions to get cost-of-living help from April,https://www.bbc.co.uk/news/business-65066972,6,0.138,0.037,0.825,0.9886,BBC,2023-03-29,8
+8,Ticketmaster faces lawsuit over Drake ticket prices,https://www.bbc.co.uk/news/world-us-canada-65105755,7,0.049,0.083,0.868,-0.8074,BBC,2023-03-29,8
+9,Second time lucky for King on first state visit,https://www.bbc.co.uk/news/uk-64954731,8,0.085,0.068,0.847,0.9627,BBC,2023-03-29,8
+10,AI could affect 300 million jobs - report,https://www.bbc.co.uk/news/technology-65102150,9,0.126,0.041,0.833,0.9923,BBC,2023-03-29,8
+1,"Moment brave cop takes down Nashville school shooter with precision shots before colleague finishes her off on the ground: Police release six minutes of hellish bodycam footage
+",https://www.dailymail.co.uk/news/article-11911549/Cops-release-six-minutes-bodycam-footage-Nashville-school-shooting.html,0,0.032,0.144,0.823,-0.9946,Daily Mail,2023-03-29,8
+2,"Netflix viewers are left outraged as the streaming service cancels popular crime series after two seasons
+",https://www.dailymail.co.uk/tvshowbiz/article-11910493/Netflix-viewers-left-outraged-streaming-service-cancels-popular-crime-series.html,1,0.065,0.117,0.819,-0.9726,Daily Mail,2023-03-29,8
+3,"EXCLUSIVE: Nashville mass school shooter Audrey Hale was rejected by her Christian parents who 'couldn't accept' she was gay and trans - as cops reveal she also planned to shoot relatives 
+",https://www.dailymail.co.uk/news/article-11912163/Nashville-school-shooter-Audrey-Hales-parents-accept-gay-trans.html,2,0.038,0.164,0.799,-0.9971,Daily Mail,2023-03-29,8
+4,"'I'm planning to die today... you'll probably hear about me on the news': Trans school shooter Audrey Hale's final messages to a friend before she shot six people - including three kids in private Christian school
+",https://www.dailymail.co.uk/news/article-11911021/Trans-school-shooters-final-messages-revealed.html,3,0.029,0.137,0.833,-0.9947,Daily Mail,2023-03-29,8
+5,"PICTURED: Hero schoolgirl, 9, who died trying to pull fire alarm to stop trans shooter opening fire on her friends - as family say they are 'completely broken' by her death
+",https://www.dailymail.co.uk/news/article-11912233/PICTURED-Hero-schoolgirl-9-died-trying-pull-fire-alarm-stop-trans-shooter-Audrey-Hale.html,4,0.099,0.14,0.761,-0.9957,Daily Mail,2023-03-29,8
+6,"'I would leave him at the altar': Vulgar groom is SLAMMED for 'humiliating' his bride with 'disgusting' wedding vows in front of their mortified friends and family
+",https://www.dailymail.co.uk/femail/article-11911293/Vulgar-groom-SLAMMED-disgusting-wedding-vows.html,5,0.146,0.062,0.792,0.9981,Daily Mail,2023-03-29,8
+7,"'I think I just lost my daughter': Anguished words of transgender Nashville shooter's mom, as her Facebook posts decrying school shootings and calling for gun control emerge
+",https://www.dailymail.co.uk/news/article-11909639/Anti-gun-Mom-Nashville-school-shooter-says-think-just-lost-daughter.html,6,0.05,0.147,0.803,-0.9994,Daily Mail,2023-03-29,8
+8,"Trans female former student, 28, armed with two assault rifles and a handgun, kills three nine-year-old kids and three staff members at Nashville private Christian school after writing manifesto and drawing maps of church campus
+",https://www.dailymail.co.uk/news/article-11907711/Multiple-injured-private-Nashville-Christian-school.html,7,0.091,0.09,0.819,0.1927,Daily Mail,2023-03-29,8
+9,"Bryan Kohberger's sisters 'lose their jobs' despite family refusing to visit accused Idaho University killer in jail as he waits to find out if he faces the death penalty
+",https://www.dailymail.co.uk/news/article-11912589/Bryan-Kohbergers-sisters-lose-jobs-despite-refusing-visit-accused-Idaho-killer-jail.html,8,0.067,0.155,0.778,-0.9989,Daily Mail,2023-03-29,8
+10,"I'm a frequent flyer and this is why you should NEVER wear leggings or yoga pants on a plane
+",https://www.dailymail.co.uk/travel/article-11907621/Im-frequent-flyer-NEVER-wear-leggings-yoga-pants-plane.html,9,0.042,0.117,0.841,-0.9776,Daily Mail,2023-03-29,8
+1,"Paul O’Grady, TV presenter and comedian, dies aged 67",https://www.theguardian.com/tv-and-radio/2023/mar/29/paul-ogrady-presenter-and-comedian-dies-aged-67,0,0.212,0.078,0.71,0.9989,Guardian,2023-03-29,8
+2,UK ‘strikingly unprepared’ for impacts of climate crisis,https://www.theguardian.com/environment/2023/mar/29/uk-strikingly-unprepared-impacts-climate-crisis,1,0.061,0.1,0.839,-0.9774,Guardian,2023-03-29,8
+3,Red wall Brexiters will be the ‘hero voters’ of the next election. The rest of us are just walk-on players,https://www.theguardian.com/commentisfree/2023/mar/29/red-wall-brexiters-hero-voters-election-partisan,2,0.102,0.062,0.835,0.9946,Guardian,2023-03-29,8
+4,‘It would survive nuclear Armageddon’: should plastic grass be banned?,https://www.theguardian.com/lifeandstyle/2023/mar/29/it-would-survive-nuclear-armageddon-the-rise-and-fall-of-plastic-lawns,3,0.106,0.077,0.817,0.9968,Guardian,2023-03-29,8
+5,The Big Door Prize review – Chris O’Dowd’s comic timing is immaculate in this beautifully light sci-fi,https://www.theguardian.com/tv-and-radio/2023/mar/29/the-big-door-prize-review-chris-odowds-comic-timing-is-immaculate-in-this-beautifully-light-sci-fi,4,0.115,0.048,0.837,0.9937,Guardian,2023-03-29,8
+6,Michel Houellebecq sex film to be released despite attempt to stop it,https://www.theguardian.com/books/2023/mar/28/michel-houellebecq-sex-film-to-be-released-despite-attempt-to-stop-it,5,0.066,0.124,0.81,-0.9914,Guardian,2023-03-29,8
+7,Putin prepares Russia for ‘forever war’ with west as Ukraine invasion stalls,https://www.theguardian.com/world/2023/mar/28/putin-prepares-russia-for-forever-war-with-west-as-ukraine-invasion-stalls,6,0.08,0.154,0.767,-0.9994,Guardian,2023-03-29,8
+8,Russia-Ukraine war live: Zelenskiy says Putin ‘informationally isolated’ but fears war could be hampered by US divisions,https://www.theguardian.com/world/live/2023/mar/29/russia-ukraine-war-live-zelenskiy-fears-war-could-be-hampered-by-washington-divisions-moscow-starts-drills-with-new-icbm,7,0.077,0.101,0.822,-0.998,Guardian,2023-03-29,8
+9,"Did Gwyneth Paltrow ski into a retired optometrist? I couldn’t care less, but the farce is unmissable",https://www.theguardian.com/commentisfree/2023/mar/28/gwyneth-paltrow-ski-optometrist-court-utah,8,0.114,0.098,0.787,0.9641,Guardian,2023-03-29,8
+10,WeWork mugs for $500: 10 of the strangest merch items from companies that crashed,https://www.theguardian.com/technology/2023/mar/29/theranos-ftx-merch-swag-ebay,9,0.106,0.062,0.832,0.9923,Guardian,2023-03-29,8
