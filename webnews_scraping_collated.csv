@@ -1759,3 +1759,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Paul O’Grady, TV presenter and comedian, dies aged 67",https://www.theguardian.com/tv-and-radio/2023/mar/29/paul-ogrady-presenter-and-comedian-dies-aged-67,7,0.212,0.078,0.71,0.9989,Guardian,2023-03-29,20
 9,Tory row brewing over Sunak pledge to end small boat crossings,https://www.theguardian.com/uk-news/2023/mar/29/tory-row-brewing-rishi-sunak-pledge-end-small-boat-crossings,8,0.08,0.124,0.796,-0.9943,Guardian,2023-03-29,20
 10,"Witness in Prince Harry’s case against Daily Mail owner unreliable, say lawyers ",https://www.theguardian.com/uk-news/2023/mar/29/witness-in-prince-harrys-case-against-daily-mail-owner-unreliable-say-lawyers,9,0.044,0.096,0.86,-0.9896,Guardian,2023-03-29,20
+1,Nuclear warning from Russia's Nobel-winning journalist,https://www.bbc.co.uk/news/world-europe-65119595,0,0.146,0.128,0.726,0.9723,BBC,2023-03-30,8
+2,Deaths feared after two US Army helicopters crash,https://www.bbc.co.uk/news/world-65121331,1,0.033,0.122,0.844,-0.9628,BBC,2023-03-30,8
+3,Paltrow accuser apologises for 'King Kong' jab  ,https://www.bbc.co.uk/news/world-us-canada-65120347,2,0.055,0.162,0.784,-0.9961,BBC,2023-03-30,8
+4,Disney sidesteps DeSantis board with royal clause,https://www.bbc.co.uk/news/world-us-canada-65120369,3,0.103,0.063,0.834,0.9455,BBC,2023-03-30,8
+5,Deep ocean currents heading for collapse - report,https://www.bbc.co.uk/news/world-australia-65120327,4,0.048,0.025,0.927,0.8807,BBC,2023-03-30,8
+6,Taiwan's Tsai arrives in US to warnings from China,https://www.bbc.co.uk/news/world-asia-china-65120501,5,0.057,0.091,0.852,-0.9304,BBC,2023-03-30,8
+7,‘Blood test meant I was spared chemo’,https://www.bbc.co.uk/news/health-65042224,6,0.068,0.139,0.793,-0.9983,BBC,2023-03-30,8
+8,Australian man arrested over AK-47-shaped bong,https://www.bbc.co.uk/news/world-australia-65120330,7,0.0,0.113,0.887,-0.98,BBC,2023-03-30,8
+9,Bolsonaro flying back to Brazil from US,https://www.bbc.co.uk/news/world-latin-america-65120313,8,0.121,0.08,0.799,0.991,BBC,2023-03-30,8
+10,Burrito snares suspected bomber of anti-abortion group,https://www.bbc.co.uk/news/world-us-canada-65119859,9,0.023,0.137,0.84,-0.9915,BBC,2023-03-30,8
+1,"Humans will achieve immortality in eight YEARS, says former Google engineer who has predicted the future with 86% accuracy
+",https://www.dailymail.co.uk/sciencetech/article-11911975/Humans-achieve-immortality-eight-YEARS-says-former-Google-engineer.html,0,0.16,0.032,0.808,0.9975,Daily Mail,2023-03-30,8
+2,"Controversial group behind 'Trans Day of Vengeance' raised money for firearms training - as other trans protestors pose with guns ahead of march in DC on Saturday 
+",https://www.dailymail.co.uk/news/article-11915513/Controversial-group-Trans-Day-Vengeance-raised-money-firearms-training.html,1,0.076,0.144,0.78,-0.9988,Daily Mail,2023-03-30,8
+3,"I carried a celebrity's longed-for baby. She treated me appallingly. What it's REALLY like to bear a child for an A-list celebrity 
+",https://www.dailymail.co.uk/femail/article-11916555/I-carried-celebritys-longed-baby-treated-appallingly.html,2,0.112,0.07,0.818,0.9986,Daily Mail,2023-03-30,8
+4,"EXCLUSIVE: Nashville mass school shooter Audrey Hale was rejected by her Christian parents who 'couldn't accept' she was gay and trans - as cops reveal she also planned to shoot relatives 
+",https://www.dailymail.co.uk/news/article-11912163/Nashville-school-shooter-Audrey-Hales-parents-accept-gay-trans.html,3,0.038,0.164,0.799,-0.9971,Daily Mail,2023-03-30,8
+5,"Australian porn star Angela White breaks her silence on horror on-set injury after reports she 'almost died during hour-long sex scene'
+",https://www.dailymail.co.uk/tvshowbiz/article-11913617/Angela-White-Australian-porn-star-breaks-silence-horror-set-injury.html,4,0.072,0.111,0.817,-0.9766,Daily Mail,2023-03-30,8
+6,"Sam Neill, 75, shocks fans as he reveals his real name after being forced to change it when he was in school: 'It's the one thing I resent about my parents'
+",https://www.dailymail.co.uk/tvshowbiz/article-11913905/Sam-Neill-75-shocks-fans-reveals-real-name.html,5,0.11,0.054,0.836,0.9831,Daily Mail,2023-03-30,8
+7,"First ever case of human being struck down by killer plant fungus: Healthy Indian mushroom hunter was left with agonising abscess in his windpipe
+",https://www.dailymail.co.uk/health/article-11895869/First-case-human-struck-killer-plant-fungus.html,6,0.038,0.102,0.86,-0.9933,Daily Mail,2023-03-30,8
+8,"I was with my husband for 17 years and had three children when a DNA test revealed we're COUSINS
+",https://www.dailymail.co.uk/femail/article-11914703/A-DNA-test-revealed-related-husband.html,7,0.102,0.088,0.81,0.706,Daily Mail,2023-03-30,8
+9,"What a catch! Jennifer Aniston, 54, shines in silver netted mini dress that showcases her incredible legs as she leads stars at Murder Mystery 2 premiere in LA
+",https://www.dailymail.co.uk/tvshowbiz/article-11913881/Jennifer-Aniston-shows-toned-legs-leads-stars-Murder-Mystery-2-premiere-LA.html,8,0.146,0.013,0.841,0.9987,Daily Mail,2023-03-30,8
+10,"'Gwyneth looked like a snotty so-and-so': Journalist details 'enervating' exchange with Gwyneth Paltrow where 'not pleasant' star 'let me know this wasn't going to be nice for either of us'
+",https://www.dailymail.co.uk/tvshowbiz/article-11914715/Gwyneth-Paltrow-labelled-not-pleasant-Dylan-Jones-recalls-interviewing-90s.html,9,0.111,0.06,0.829,0.9875,Daily Mail,2023-03-30,8
+1,UK government gambles on carbon capture and storage tech despite scientists’ doubts,https://www.theguardian.com/environment/2023/mar/30/government-gambles-on-carbon-capture-and-storage-tech-despite-scientists-doubts,0,0.124,0.054,0.822,0.9971,Guardian,2023-03-30,8
+2,"Britons have more confidence in EU than Westminster, poll finds",https://www.theguardian.com/politics/2023/mar/30/britons-more-confidence-in-eu-than-westminster-poll-brexit,1,0.127,0.023,0.85,0.9963,Guardian,2023-03-30,8
+3,Three arrested after two men shot dead in incidents in Cambridgeshire,https://www.theguardian.com/uk-news/2023/mar/30/three-arrested-after-two-men-shot-dead-in-incidents-in-cambridgeshire,2,0.026,0.16,0.814,-0.9975,Guardian,2023-03-30,8
+4,‘I chose to survive’: Jeremy Renner gives first interview since snowplough accident,https://www.theguardian.com/film/2023/mar/30/i-chose-to-survive-jeremy-renner-gives-first-interview-since-snowplow-accident,3,0.054,0.083,0.863,-0.6532,Guardian,2023-03-30,8
+5,Sadie Frost’s forever fashion: ‘I bought this dress for the Oscars – I had no idea it was see-through’,https://www.theguardian.com/fashion/2023/mar/30/sadie-frosts-forever-fashion-i-bought-this-dress-for-the-oscars-i-had-no-idea-it-was-see-through,4,0.185,0.023,0.792,0.9976,Guardian,2023-03-30,8
+6,Tories keep Psycho Dom at arm’s length as Angela Rayner goes for jugular,https://www.theguardian.com/politics/2023/mar/29/psycho-raab-struggles-to-contain-his-rage-during-prime-ministers-questions,5,0.089,0.17,0.741,-0.9988,Guardian,2023-03-30,8
+7,Adam Peaty to miss British swimming championships due to mental health,https://www.theguardian.com/sport/2023/mar/29/swimming-adam-peaty-withdraws-british-championships-mental-health,6,0.123,0.042,0.836,0.9797,Guardian,2023-03-30,8
+8,Afghan applying to resettle in UK asked to provide Taliban approval,https://www.theguardian.com/uk-news/2023/mar/30/afghan-applying-uk-told-retrieve-documents-from-taliban,7,0.086,0.07,0.844,0.8798,Guardian,2023-03-30,8
+9,"Three abandoned children, two missing parents and a 40-year mystery",https://www.theguardian.com/world/2023/mar/28/three-abandoned-children-two-missing-parents-40-year-mystery-elvira-moral-barcelona,8,0.096,0.085,0.819,0.9966,Guardian,2023-03-30,8
+10,English students spend a fortune to go to university. Shouldn’t that buy them more teaching and less partying? ,https://www.theguardian.com/commentisfree/2023/mar/29/english-students-spend-a-fortune-to-go-to-university-shouldnt-that-buy-them-more-teaching-and-less-partying,9,0.105,0.078,0.817,0.9594,Guardian,2023-03-30,8
