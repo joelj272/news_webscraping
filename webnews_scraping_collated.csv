@@ -1799,3 +1799,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Afghan applying to resettle in UK asked to provide Taliban approval,https://www.theguardian.com/uk-news/2023/mar/30/afghan-applying-uk-told-retrieve-documents-from-taliban,7,0.086,0.07,0.844,0.8798,Guardian,2023-03-30,8
 9,"Three abandoned children, two missing parents and a 40-year mystery",https://www.theguardian.com/world/2023/mar/28/three-abandoned-children-two-missing-parents-40-year-mystery-elvira-moral-barcelona,8,0.096,0.085,0.819,0.9966,Guardian,2023-03-30,8
 10,English students spend a fortune to go to university. Shouldn’t that buy them more teaching and less partying? ,https://www.theguardian.com/commentisfree/2023/mar/29/english-students-spend-a-fortune-to-go-to-university-shouldnt-that-buy-them-more-teaching-and-less-partying,9,0.105,0.078,0.817,0.9594,Guardian,2023-03-30,8
+1,Russia to offer food for North Korean weapons - US,https://www.bbc.co.uk/news/world-europe-65131117,0,0.047,0.071,0.882,-0.7269,BBC,2023-03-30,20
+2,Report criticises Mounties over Nova Scotia rampage,https://www.bbc.co.uk/news/world-us-canada-65107912,1,0.027,0.098,0.874,-0.9908,BBC,2023-03-30,20
+3,US journalist arrested in Russia accused of spying,https://www.bbc.co.uk/news/world-europe-65121885,2,0.046,0.124,0.83,-0.9974,BBC,2023-03-30,20
+4,Ex-Fugee in court over vast 'US influence scheme',https://www.bbc.co.uk/news/world-us-canada-65130683,3,0.092,0.121,0.787,-0.9674,BBC,2023-03-30,20
+5,Nine dead after US Army helicopters crash,https://www.bbc.co.uk/news/world-65121331,4,0.046,0.126,0.827,-0.9325,BBC,2023-03-30,20
+6,Nuclear warning from Russia's Nobel-winning journalist,https://www.bbc.co.uk/news/world-europe-65119595,5,0.146,0.128,0.726,0.9723,BBC,2023-03-30,20
+7,Father of 'anti-war' girl arrested on run in Minsk,https://www.bbc.co.uk/news/world-europe-65129231,6,0.051,0.113,0.836,-0.9765,BBC,2023-03-30,20
+8,Spanish anger over actress's surrogate baby in US,https://www.bbc.co.uk/news/world-europe-65122973,7,0.08,0.166,0.754,-0.9916,BBC,2023-03-30,20
+9,She lost her son in a shooting. Then came another,https://www.bbc.co.uk/news/world-us-canada-65114926,8,0.041,0.162,0.797,-0.999,BBC,2023-03-30,20
+10,Disney sidesteps DeSantis board with royal clause,https://www.bbc.co.uk/news/world-us-canada-65120369,9,0.103,0.063,0.834,0.9455,BBC,2023-03-30,20
+1,"I carried a celebrity's longed-for baby. She treated me appallingly. What it's REALLY like to bear a child for an A-list star
+",https://www.dailymail.co.uk/femail/article-11916555/I-carried-celebritys-longed-baby-treated-appallingly.html,0,0.112,0.07,0.818,0.9986,Daily Mail,2023-03-30,20
+2,"Pulling his weight! Male powerlifter protests Canada's woke gender self-ID laws by saying he's a woman, then entering female contest and smashing bench press record 
+",https://www.dailymail.co.uk/news/article-11918455/Male-powerlifter-protests-Canadas-self-ID-rules-entering-female-contest-smashing-record.html,1,0.065,0.032,0.903,0.9794,Daily Mail,2023-03-30,20
+3,"Cruel trolls accuse mum of being a 'monster' for lasering port-wine stain birthmark on her baby's face - but she says 'it's far from what they think'
+",https://www.dailymail.co.uk/femail/real-life/article-11060345/Trolls-call-Gold-Coast-mum-monster-lasering-port-wine-stain-birthmark.html,2,0.106,0.066,0.829,0.9903,Daily Mail,2023-03-30,20
+4,"QAnon Shaman Jacob Chansley is released 14 months early from prison after Jan. 6 footage showed him being 'ESCORTED' by cops inside the Capitol
+",https://www.dailymail.co.uk/news/article-11920455/QAnon-Shaman-Jacob-Chansley-released-early-prison-halfway-house-lawyer-says.html,3,0.082,0.104,0.814,-0.9784,Daily Mail,2023-03-30,20
+5,"REVEALED: Nashville shooter was having 'private counseling sessions' with school's head pastor before massacre where she shot dead his nine-year-old daughter 'because HE wasn't on site'
+",https://www.dailymail.co.uk/news/article-11919801/Nashville-school-shooter-private-counselling-sessions-schools-head-pastor.html,4,0.072,0.134,0.793,-0.9981,Daily Mail,2023-03-30,20
+6,"Controversial group behind 'Trans Day of Vengeance' raised money for firearms training - as other trans protestors pose with guns ahead of march in DC on Saturday 
+",https://www.dailymail.co.uk/news/article-11915513/Controversial-group-Trans-Day-Vengeance-raised-money-firearms-training.html,5,0.075,0.144,0.781,-0.9988,Daily Mail,2023-03-30,20
+7,"Shock as it's revealed Mama June's daughter Chickadee, 28, is battling stage 4 cancer in her liver, kidney and lung after being diagnosed with rare adrenal carcinoma
+",https://www.dailymail.co.uk/news/article-11919563/Mama-Junes-daughter-Chickadee-28-battling-stage-4-cancer.html,6,0.07,0.111,0.82,-0.9675,Daily Mail,2023-03-30,20
+8,"Blac Chyna flaunts her natural curves in a figure-hugging brown suit at SiriusXM in New York City... after claiming she lost '10lbs' from removing illegal silicone
+",https://www.dailymail.co.uk/tvshowbiz/article-11917623/Blac-Chyna-flaunts-natural-curves-figure-hugging-brown-suit-SiriusXM-New-York-City.html,7,0.074,0.06,0.865,0.5266,Daily Mail,2023-03-30,20
+9,"'Do you miss your old face?' Khloe Kardashian gives VERY honest response after fan calls out her dramatically different appearance in new selfie 
+",https://www.dailymail.co.uk/tvshowbiz/article-11918025/Khloe-Kardashian-jokes-does-NOT-miss-old-face.html,8,0.12,0.069,0.811,0.9809,Daily Mail,2023-03-30,20
+10,"Revealed: Gun-toting transgender woman who has become the face of the 'Day of Vengeance' organized by trans activists after Nashville massacre is 'former SOLDIER'
+",https://www.dailymail.co.uk/news/article-11917893/Gun-toting-transgender-woman-backing-day-vengeance-Nashville-massacre-former-SOLDIER.html,9,0.056,0.145,0.799,-0.9984,Daily Mail,2023-03-30,20
+1,‘Vulkan files’ leak reveals Putin’s global and domestic cyberwarfare tactics,https://www.theguardian.com/technology/2023/mar/30/vulkan-files-leak-reveals-putins-global-and-domestic-cyberwarfare-tactics,0,0.079,0.101,0.82,-0.9982,Guardian,2023-03-30,20
+2,Jennifer Aniston: ‘A whole generation of kids’ finds Friends offensive,https://www.theguardian.com/film/2023/mar/30/jennifer-aniston-friends-offensive-interview,1,0.176,0.08,0.744,0.9881,Guardian,2023-03-30,20
+3,‘Festival of Brexit’ met radically downgraded predictions for visitor numbers,https://www.theguardian.com/politics/2023/mar/30/116m-brexit-festival-saw-just-a-fraction-of-visitors-and-income-predicted,2,0.148,0.035,0.817,0.9963,Guardian,2023-03-30,20
+4,Humza Yousaf reprises Nicola Sturgeon’s old hits in underwhelming first FMQs,https://www.theguardian.com/politics/2023/mar/30/humza-yousaf-reprises-nicola-sturgeon-old-hits-underwhelming-first-fmqs,3,0.157,0.077,0.767,0.9986,Guardian,2023-03-30,20
+5,Reports of rotten pork being sold in UK may lead to tighter control of FSA,https://www.theguardian.com/world/2023/mar/30/rotten-pork-sold-in-uk-may-lead-to-tighter-control-of-food-safety-body-fsa,4,0.044,0.102,0.854,-0.9926,Guardian,2023-03-30,20
+6,Firm at centre of Sunak conflict of interest row attended Downing Street event,https://www.theguardian.com/politics/2023/mar/30/firm-at-centre-of-sunak-conflict-of-interest-row-attended-no-11-event,5,0.098,0.065,0.836,0.9413,Guardian,2023-03-30,20
+7,A new Hugh Grant has emerged – and he is gloriously grumpy,https://www.theguardian.com/film/2023/mar/30/new-hugh-grant-oscars-phones,6,0.179,0.064,0.757,0.9987,Guardian,2023-03-30,20
+8,"Alison Steadman: ‘We filmed the sex scene in the New Forest, so it was quite prickly’",https://www.theguardian.com/film/2023/mar/30/alison-steadman-we-filmed-the-sex-scene-in-the-new-forest-so-it-was-quite-prickly,7,0.173,0.082,0.745,0.9992,Guardian,2023-03-30,20
+9,Why the ‘ludicrously capacious’ bag on Succession was such a faux pas for the very wealthiest,https://www.theguardian.com/fashion/2023/mar/30/succession-burberry-bag-bridget,8,0.086,0.065,0.849,0.9638,Guardian,2023-03-30,20
+10,"Three abandoned children, two missing parents and a 40-year mystery",https://www.theguardian.com/world/2023/mar/28/three-abandoned-children-two-missing-parents-40-year-mystery-elvira-moral-barcelona,9,0.096,0.085,0.819,0.9966,Guardian,2023-03-30,20
