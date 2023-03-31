@@ -1839,3 +1839,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Alison Steadman: ‘We filmed the sex scene in the New Forest, so it was quite prickly’",https://www.theguardian.com/film/2023/mar/30/alison-steadman-we-filmed-the-sex-scene-in-the-new-forest-so-it-was-quite-prickly,7,0.173,0.082,0.745,0.9992,Guardian,2023-03-30,20
 9,Why the ‘ludicrously capacious’ bag on Succession was such a faux pas for the very wealthiest,https://www.theguardian.com/fashion/2023/mar/30/succession-burberry-bag-bridget,8,0.086,0.065,0.849,0.9638,Guardian,2023-03-30,20
 10,"Three abandoned children, two missing parents and a 40-year mystery",https://www.theguardian.com/world/2023/mar/28/three-abandoned-children-two-missing-parents-40-year-mystery-elvira-moral-barcelona,9,0.096,0.085,0.819,0.9966,Guardian,2023-03-30,20
+1,What did Paltrow say to the man who sued her?,https://www.bbc.co.uk/news/entertainment-arts-65133932,0,0.11,0.031,0.859,0.9812,BBC,2023-03-31,8
+2,Paltrow awarded $1 and cleared of fault over ski crash,https://www.bbc.co.uk/news/world-us-canada-65132827,1,0.067,0.072,0.86,-0.4155,BBC,2023-03-31,8
+3,Branson's rocket company lays off majority of staff,https://www.bbc.co.uk/news/business-65133099,2,0.053,0.056,0.891,-0.6488,BBC,2023-03-31,8
+4,Trump likely to be arrested in the coming days,https://www.bbc.co.uk/news/world-us-canada-65132553,3,0.048,0.131,0.82,-0.9972,BBC,2023-03-31,8
+5,This is what will happen when Trump is arrested,https://www.bbc.co.uk/news/world-us-canada-65012096,4,0.065,0.133,0.803,-0.9967,BBC,2023-03-31,8
+6,'QAnon Shaman' freed early from federal prison,https://www.bbc.co.uk/news/world-us-canada-65132475,5,0.033,0.133,0.834,-0.9841,BBC,2023-03-31,8
+7,Swimmer 'body shamed' in surf club nudity row,https://www.bbc.co.uk/news/world-australia-65133860,6,0.078,0.073,0.849,0.8523,BBC,2023-03-31,8
+8,Pistorius parole board to consider early release,https://www.bbc.co.uk/news/world-africa-65123142,7,0.039,0.183,0.779,-0.9979,BBC,2023-03-31,8
+9,Austria's far right walks out of Zelensky speech,https://www.bbc.co.uk/news/world-europe-65131744,8,0.105,0.106,0.788,0.5744,BBC,2023-03-31,8
+10,What happened between Stormy Daniels and Trump?,https://www.bbc.co.uk/news/world-us-canada-64920037,9,0.062,0.107,0.831,-0.9842,BBC,2023-03-31,8
+1,"Cruel trolls accuse mum of being a 'monster' for lasering port-wine stain birthmark on her baby's face - but she says 'it's far from what they think'
+",https://www.dailymail.co.uk/femail/real-life/article-11060345/Trolls-call-Gold-Coast-mum-monster-lasering-port-wine-stain-birthmark.html,0,0.106,0.066,0.829,0.9903,Daily Mail,2023-03-31,8
+2,"Gun control activists storm Tennessee State Capitol in Nashville after 'Trans Shaman' joined occupation of Kentucky legislature - as fears of a left-wing uprising loom ahead of Trans Day of Vengeance
+",https://www.dailymail.co.uk/news/article-11921273/Gun-control-activists-storm-Tennessee-State-Capitol-fears-left-wing-uprising-loom.html,1,0.058,0.143,0.799,-0.9983,Daily Mail,2023-03-31,8
+3,"QAnon Shaman Jacob Chansley is released 14 months early from prison after Jan. 6 footage showed him being 'ESCORTED' by cops inside the Capitol
+",https://www.dailymail.co.uk/news/article-11920455/QAnon-Shaman-Jacob-Chansley-released-early-prison-halfway-house-lawyer-says.html,2,0.082,0.104,0.814,-0.9784,Daily Mail,2023-03-31,8
+4,"Pulling his weight! Male powerlifter protests Canada's woke gender self-ID laws by saying he's a woman, then entering female contest and smashing bench press record 
+",https://www.dailymail.co.uk/news/article-11918455/Male-powerlifter-protests-Canadas-self-ID-rules-entering-female-contest-smashing-record.html,3,0.065,0.032,0.903,0.9794,Daily Mail,2023-03-31,8
+5,"Trump will be indicted on THIRTY counts of business fraud, sources claim, as ex-president's lawyer says he'll travel to Manhattan to be arraigned on TUESDAY
+",https://www.dailymail.co.uk/news/article-11921989/Manhattan-grand-jury-votes-indict-Donald-Trump-hush-money-paid-pornstar-Stormy-Daniels.html,4,0.106,0.104,0.79,0.4336,Daily Mail,2023-03-31,8
+6,"Ex-pastor walks back claim that Nashville shooter was 'having private counseling sessions' with school's head pastor whose daughter died in massacre - says they were 'influenced by social media'
+",https://www.dailymail.co.uk/news/article-11919801/Nashville-school-shooter-private-counselling-sessions-schools-head-pastor.html,5,0.07,0.135,0.794,-0.9984,Daily Mail,2023-03-31,8
+7,"Shock as it's revealed Mama June's daughter Chickadee, 28, is battling stage 4 cancer in her liver, kidney and lung after being diagnosed with rare adrenal carcinoma
+",https://www.dailymail.co.uk/news/article-11919563/Mama-Junes-daughter-Chickadee-28-battling-stage-4-cancer.html,6,0.07,0.111,0.819,-0.9675,Daily Mail,2023-03-31,8
+8,"Gwyneth Paltrow WINS her case: Jury rules optometrist WAS to blame for 2016 Utah ski crash as gracious actress tells her 'deflated' opponent 'I wish you well', moments after verdict 
+",https://www.dailymail.co.uk/news/article-11922001/Gwyneth-Paltrow-WINS-ski-crash-trial-Jury-finds-retired-doctor-100-fault.html,7,0.103,0.142,0.755,-0.9919,Daily Mail,2023-03-31,8
+9,"Mark Wahlberg explains his decision to leave Hollywood for Las Vegas with his teenaged children: 'It's giving the kids a chance to thrive'
+",https://www.dailymail.co.uk/tvshowbiz/article-11921083/Mark-Wahlberg-explains-decision-relocate-Las-Vegas-giving-kids-chance-thrive.html,8,0.179,0.018,0.803,0.9995,Daily Mail,2023-03-31,8
+10,"Jessica Simpson, 42, flashes her cleavage as she goes shirt-free in a denim outfit... as she continues to keep off the 100lbs she lost three years ago
+",https://www.dailymail.co.uk/tvshowbiz/article-11920251/Jessica-Simpson-42-flashes-cleavage-denim-outfit.html,9,0.067,0.037,0.896,0.8804,Daily Mail,2023-03-31,8
+1,Donald Trump indicted by grand jury over hush money payment to Stormy Daniels,https://www.theguardian.com/us-news/2023/mar/30/donald-trump-indicted-stormy-daniels-hush-money,0,0.085,0.143,0.772,-0.9976,Guardian,2023-03-31,8
+2,‘Absurdity to a new level’ as Russia takes charge of UN security council,https://www.theguardian.com/world/2023/mar/31/absurdity-to-a-new-level-as-russia-takes-charge-of-un-security-council,1,0.086,0.099,0.814,-0.9724,Guardian,2023-03-31,8
+3,Gwyneth Paltrow found not at fault in Utah ski crash trial,https://www.theguardian.com/us-news/2023/mar/30/gwyneth-paltrow-utah-ski-crash-trial-verdict,2,0.073,0.111,0.816,-0.9899,Guardian,2023-03-31,8
+4,"UK house prices in biggest fall since 2009, but recession avoided – business live",https://www.theguardian.com/business/live/2023/mar/31/uk-national-accounts-gdp-growth-recession-house-prices-inflation-eurozone-us-pce-business-live,3,0.106,0.069,0.825,0.9985,Guardian,2023-03-31,8
+5,Man accused of pushing wife from Arthur’s Seat was ‘abusive’ and ‘violent’,https://www.theguardian.com/uk-news/2023/mar/30/man-accused-of-murdering-wife-told-her-he-would-be-free-if-she-died-during-childbirth,4,0.034,0.13,0.835,-0.9971,Guardian,2023-03-31,8
+6,‘He is a bad-ass’: Fox News makes amends with Trump as he faces indictment,https://www.theguardian.com/media/2023/mar/31/donald-trump-indicted-reaction-how-fox-news-reported-indictment,5,0.101,0.098,0.801,0.3958,Guardian,2023-03-31,8
+7,Jennifer Aniston: ‘A whole generation of kids’ finds Friends offensive,https://www.theguardian.com/film/2023/mar/30/jennifer-aniston-friends-offensive-interview,6,0.176,0.08,0.744,0.9881,Guardian,2023-03-31,8
+8,Rising bills and tax hikes to make UK families hundreds of pounds worse off,https://www.theguardian.com/money/2023/mar/31/rising-bills-and-tax-hikes-to-make-uk-families-hundreds-of-pounds-worse-off,7,0.079,0.055,0.866,0.9711,Guardian,2023-03-31,8
+9,Sunderland footballer Jack Diamond charged with rape and sexual assault,https://www.theguardian.com/football/2023/mar/30/sunderland-footballer-jack-diamond-charged-with-and-sexual-assault,8,0.079,0.192,0.728,-0.9868,Guardian,2023-03-31,8
+10,"10 years on, what did George Osborne’s Help to Buy scheme really achieve?",https://www.theguardian.com/society/2023/mar/31/10-years-on-what-did-george-osbornes-help-to-buy-scheme-really-achieve,9,0.141,0.062,0.797,0.9983,Guardian,2023-03-31,8
