@@ -1999,3 +1999,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"‘Stevenage Woman’ vital to Labour success at next election, analysts say",https://www.theguardian.com/politics/2023/apr/01/stevenage-woman-vital-to-labour-success-at-next-election-analysts-say,7,0.108,0.082,0.809,0.9739,Guardian,2023-04-01,20
 9,‘We’re in a huge mess’: could ‘Stevenage Woman’ block Labour’s path to power?,https://www.theguardian.com/politics/2023/apr/01/were-in-a-huge-mess-could-stevenage-woman-block-labours-path-to-power,8,0.088,0.04,0.872,0.9948,Guardian,2023-04-01,20
 10,Bayern Munich 4-2 Borussia Dortmund: Bundesliga – as it happened,https://www.theguardian.com/football/live/2023/apr/01/bayern-munich-v-borussia-dortmund-bundesliga-live-score-updates-der-klassiker,9,0.108,0.078,0.815,0.9972,Guardian,2023-04-01,20
+1,Large cemetery stone revealed as Nazi monument,https://www.bbc.co.uk/news/world-europe-65099516,0,0.075,0.17,0.755,-0.999,BBC,2023-04-02,8
+2,Finns vote as PM Sanna Marin fights for survival,https://www.bbc.co.uk/news/world-europe-65141461,1,0.107,0.074,0.819,0.9813,BBC,2023-04-02,8
+3,Polley told to return Oscar in April Fools’ prank,https://www.bbc.co.uk/news/entertainment-arts-65152276,2,0.191,0.094,0.715,0.9928,BBC,2023-04-02,8
+4,At least 26 dead as storms ravage parts of US,https://www.bbc.co.uk/news/world-us-canada-65150138,3,0.038,0.12,0.842,-0.9881,BBC,2023-04-02,8
+5,Iranian women arrested after yoghurt hurled at them,https://www.bbc.co.uk/news/world-middle-east-65150135,4,0.015,0.141,0.843,-0.9922,BBC,2023-04-02,8
+6,China's loans to Africa worry World Bank chief,https://www.bbc.co.uk/news/business-65140363,5,0.096,0.061,0.844,0.9845,BBC,2023-04-02,8
+7,Florida protesters: Trump will be our next president,https://www.bbc.co.uk/news/world-us-canada-65152112,6,0.104,0.04,0.856,0.9945,BBC,2023-04-02,8
+8,Fury as Russia becomes UN Security Council president,https://www.bbc.co.uk/news/world-europe-65146557,7,0.101,0.121,0.778,-0.9669,BBC,2023-04-02,8
+9,Author Blume concerned about intolerance in the US,https://www.bbc.co.uk/news/entertainment-arts-65142127,8,0.06,0.1,0.841,-0.9856,BBC,2023-04-02,8
+10,Deepest ever fish caught on camera off Japan,https://www.bbc.co.uk/news/science-environment-65148876,9,0.032,0.038,0.931,-0.478,BBC,2023-04-02,8
+1,"Coca-Cola produces as much as $2BN of pure COCAINE every year in a secretive New Jersey factory - all thanks to its iconic recipe and a VERY special arrangement with the DEA
+",https://www.dailymail.co.uk/news/article-11911203/The-secretive-NJ-plant-Coke-produces-2BN-cocaine.html,0,0.058,0.037,0.905,0.9863,Daily Mail,2023-04-02,8
+2,"'Why will nobody kiss me?' Dylan Mulvaney's man-to-girl transition has won her TikTok fame, riches, and allies in the White House, but left her lonely and undateable
+",https://www.dailymail.co.uk/news/article-11917063/The-lonely-life-trans-influencer-Dylan-Mulvaney.html,1,0.112,0.085,0.803,0.987,Daily Mail,2023-04-02,8
+3,"'Thou shalt NOT purchase Louis Vuitton': Woman who grew up in a 'rich white neighborhood' shares 'weird' rules about wealth and status that were ingrained in her 
+",https://www.dailymail.co.uk/femail/article-11916941/I-grew-rich-white-neighborhood-weird-things-learned-wealth.html,2,0.179,0.052,0.769,0.9986,Daily Mail,2023-04-02,8
+4,"Cruel trolls accuse mum of being a 'monster' for lasering port-wine stain birthmark on her baby's face - but she says 'it's far from what they think'
+",https://www.dailymail.co.uk/femail/real-life/article-11060345/Trolls-call-Gold-Coast-mum-monster-lasering-port-wine-stain-birthmark.html,3,0.106,0.066,0.829,0.9903,Daily Mail,2023-04-02,8
+5,"Trader Joe's shooting which left one man dead and three hospitalized is linked to a drug deal as suspect, his female getaway driver and survivors are taken into custody after cops reveal they all opened fire 
+",https://www.dailymail.co.uk/news/article-11928991/One-dead-two-critical-Trader-Joes-shooting-Southern-California.html,4,0.007,0.12,0.873,-0.9942,Daily Mail,2023-04-02,8
+6,"'I'm the expert in the room!': Moment University of Pittsburgh class erupts in laughter when professor claims there is NO difference between male and female skeletons 
+",https://www.dailymail.co.uk/news/article-11927739/Woke-Pittsburgh-professor-claims-NO-difference-male-female-skeletons.html,5,0.078,0.053,0.868,0.9671,Daily Mail,2023-04-02,8
+7,"Kaley Cuoco is now a mom! Big Bang Theory actress announces arrival of daughter Matilda Carmine Richie Pelphery with heart-warming snaps  
+",https://www.dailymail.co.uk/tvshowbiz/article-11928221/Kaley-Cuoco-mom-Big-Bang-Theory-actress-announces-arrival-daughter-Matilda.html,6,0.155,0.044,0.801,0.9956,Daily Mail,2023-04-02,8
+8,"I've had 43 cosmetic procedures to become a Barbie doll lookalike - but critics say I look like a 'zombie'
+",https://www.dailymail.co.uk/femail/real-life/article-11927689/Ive-43-cosmetic-procedures-Barbie-doll-lookalike.html,7,0.117,0.043,0.84,0.9409,Daily Mail,2023-04-02,8
+9,"How the world will look in 2050, according to experts: We WILL have made contact with an alien race and life after death could be possible by uploading consciousness to a computer 
+",https://www.dailymail.co.uk/sciencetech/article-11915399/How-world-look-2050-according-experts.html,8,0.128,0.049,0.823,0.9991,Daily Mail,2023-04-02,8
+10,"Missing two-year-old's body is found in the mouth of an ALLIGATOR: Mother was discovered stabbed to death in her apartment and father is charged with two counts of first-degree murder
+",https://www.dailymail.co.uk/news/article-11927075/Body-missing-two-year-old-alligators-mouth-mother-stabbed-death.html,9,0.045,0.13,0.825,-0.9865,Daily Mail,2023-04-02,8
+1,"Nicola Sturgeon resignation: online rumours played a part, says ex-SNP leader",https://www.theguardian.com/politics/2023/apr/02/nicola-sturgeon-resignation-online-rumours-played-a-part-says-ex-snp-leader,0,0.109,0.04,0.852,0.9615,Guardian,2023-04-02,8
+2,I felt wheelie awful in Amsterdam; no wonder they want British tourists to stay away,https://www.theguardian.com/commentisfree/2023/apr/01/i-felt-wheelie-awful-amsterdam-no-wonder-want-british-tourists-stay-away,1,0.083,0.061,0.856,0.9,Guardian,2023-04-02,8
+3,Care homes crisis: children sent to live hundreds of miles away,https://www.theguardian.com/society/2023/apr/01/care-homes-crisis-children-sent-to-live-hundreds-of-miles-away,2,0.128,0.076,0.796,0.9967,Guardian,2023-04-02,8
+4,Australian Grand Prix: Verstappen edges out Hamilton after chaotic finale – live reaction,https://www.theguardian.com/sport/live/2023/apr/02/f1-australian-grand-prix-live-news-2023-race-melbourne-formula-one-drivers-teams-result-australia-albert-park,3,0.095,0.072,0.834,0.9931,Guardian,2023-04-02,8
+5,How do I stop my mother giving me stuff I don’t want?,https://www.theguardian.com/lifeandstyle/2023/apr/02/how-do-i-stop-my-mother-giving-me-stuff-i-dont-want-ask-philippa-perry,4,0.189,0.064,0.746,0.9993,Guardian,2023-04-02,8
+6,Shelly-Ann Fraser-Pryce triumphs in son’s sports day race,https://www.theguardian.com/sport/2023/apr/01/shelly-ann-fraser-pryce-triumphs-in-sons-sports-day-race,5,0.11,0.0,0.89,0.9806,Guardian,2023-04-02,8
+7,"At this rate, Sunak may even repent of Brexit before Starmer does",https://www.theguardian.com/business/2023/apr/02/at-this-rate-sunak-may-even-repent-of-brexit-before-starmer-does,6,0.139,0.103,0.758,0.9839,Guardian,2023-04-02,8
+8,Revealed: maker of Wegovy ‘skinny jab’ is funding NHS weight-loss services,https://www.theguardian.com/business/2023/apr/02/revealed-maker-of-wegovy-skinny-jab-is-funding-nhs-weight-loss-services,7,0.1,0.036,0.864,0.9984,Guardian,2023-04-02,8
+9,"Speedboat Bar, London: ‘Completely irresistible style’ – restaurant review",https://www.theguardian.com/food/2023/apr/02/jay-rayner-restaurant-review-speedboat-bar-london-completely-irresistible-style,8,0.087,0.03,0.883,0.9974,Guardian,2023-04-02,8
+10,My parents’ divorce reshaped our family – but it wasn’t the end of their story,https://www.theguardian.com/books/2023/apr/02/my-parents-divorce-reshaped-our-family-but-it-wasnt-the-end-of-their-story,9,0.144,0.058,0.798,0.9987,Guardian,2023-04-02,8
