@@ -2079,3 +2079,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Has London reached peak toxicity?,https://www.theguardian.com/commentisfree/2023/apr/02/has-london-reached-peak-toxicity,7,0.097,0.086,0.817,0.7893,Guardian,2023-04-02,20
 9,Revealed: maker of Wegovy ‘skinny jab’ is funding NHS weight-loss services,https://www.theguardian.com/business/2023/apr/02/revealed-maker-of-wegovy-skinny-jab-is-funding-nhs-weight-loss-services,8,0.1,0.036,0.864,0.9984,Guardian,2023-04-02,20
 10,"Surrounded and outgunned, Ukraine’s tank crews prepare for battle of Bakhmut",https://www.theguardian.com/world/2023/apr/02/surrounded-and-outgunned-ukraines-tank-crews-prepare-for-battle-of-bakhmut,9,0.062,0.16,0.778,-0.9997,Guardian,2023-04-02,20
+1,Killing of pro-Kremlin blogger investigated as murder,https://www.bbc.co.uk/news/world-europe-65155075,0,0.083,0.158,0.759,-0.9968,BBC,2023-04-03,8
+2,Referee killed after stabbing player,https://www.bbc.co.uk/news/world-latin-america-23215676,1,0.032,0.209,0.759,-0.9907,BBC,2023-04-03,8
+3,Wagner raises flag in Bakhmut as Ukraine fights on,https://www.bbc.co.uk/news/world-europe-65158796,2,0.07,0.075,0.855,-0.5818,BBC,2023-04-03,8
+4,Sanna Marin defeated by Finland's conservatives,https://www.bbc.co.uk/news/world-europe-65157357,3,0.185,0.045,0.77,0.9988,BBC,2023-04-03,8
+5,The other Chinese apps taking the US by storm,https://www.bbc.co.uk/news/technology-65072407,4,0.145,0.06,0.794,0.9976,BBC,2023-04-03,8
+6,Israeli head teacher guilty of Australia child sex abuse,https://www.bbc.co.uk/news/world-australia-64947540,5,0.07,0.169,0.762,-0.9926,BBC,2023-04-03,8
+7,Paris votes to ban rental e-scooters,https://www.bbc.co.uk/news/world-europe-65154854,6,0.095,0.146,0.76,-0.9872,BBC,2023-04-03,8
+8,Cleared off the streets into Taliban drug rehab,https://www.bbc.co.uk/news/world-asia-65138423,7,0.105,0.088,0.807,0.9417,BBC,2023-04-03,8
+9,Oil prices surge after surprise move to cut output,https://www.bbc.co.uk/news/business-65157555,8,0.09,0.13,0.78,-0.9887,BBC,2023-04-03,8
+10,Blue ticks disappear as Musk attacks NY Times,https://www.bbc.co.uk/news/technology-65156216,9,0.052,0.039,0.909,0.5318,BBC,2023-04-03,8
+1,"Inside America's most inbred family: Members of West Virginia's Whittakers family would BARK at people and only communicate through grunts while living in squalor overrun with animals 
+",https://www.dailymail.co.uk/news/article-11931011/Inside-inbred-family-Members-Whittakers-family-BARK-people-grunt.html,0,0.038,0.028,0.935,0.6277,Daily Mail,2023-04-03,8
+2,"McDonald's closes all of its US offices and cancels in-person meetings this week as it prepares to layoff corporate staff - after CEO warned 'difficult decisions' will be made
+",https://www.dailymail.co.uk/news/article-11931299/McDonalds-closes-offices-cancels-meetings-prepares-layoff-corporate-staff.html,1,0.084,0.038,0.878,0.9833,Daily Mail,2023-04-03,8
+3,"Chris Hemsworth is 'taking on fewer acting roles' as he takes a step back from Hollywood after discovering he is genetically predisposed to Alzheimer's disease
+",https://www.dailymail.co.uk/tvshowbiz/article-11931001/Chris-Hemsworth-taking-fewer-acting-roles-discovering-predisposed-Alzheimers.html,2,0.087,0.083,0.829,0.2973,Daily Mail,2023-04-03,8
+4,"'It kills me to say it... she needs to go to prison': Grieving woman calls for her MOTHER to be jailed for letting both her toddlers die within a year - boy drowned and girl was left in burning hot car all afternoon
+",https://www.dailymail.co.uk/news/article-11929123/Daughter-says-mother-jail-TWO-toddlers-died-care-year.html,3,0.08,0.108,0.812,-0.9756,Daily Mail,2023-04-03,8
+5,"Ben Affleck is ever the cool stepdad as he laughs it up with wife Jennifer Lopez's daughter Emme, 15, during shopping trip in Santa Monica
+",https://www.dailymail.co.uk/tvshowbiz/article-11929391/Ben-Affleck-stepdaughter-Emme-laugh-Santa-Monica.html,4,0.113,0.025,0.861,0.9941,Daily Mail,2023-04-03,8
+6,"'Why will nobody kiss me?' Dylan Mulvaney's man-to-girl transition has won her TikTok fame, riches, and allies in the White House, but left her lonely and undateable
+",https://www.dailymail.co.uk/news/article-11917063/The-lonely-life-trans-influencer-Dylan-Mulvaney.html,5,0.112,0.085,0.803,0.987,Daily Mail,2023-04-03,8
+7,"Husband and wife tragically die as their hot air balloon bursts into flames in Mexico - while their teen daughter miraculously survives with broken bones after jumping from the burning basket 
+",https://www.dailymail.co.uk/news/article-11930105/Man-50-woman-38-dead-girl-injured-hot-air-balloon-crash-Mexico-City.html,6,0.061,0.125,0.814,-0.9963,Daily Mail,2023-04-03,8
+8,"Detroit couple who bought a derelict $6,500 house that was set to be TORN DOWN reveal how they went on to sell it for $410,000 after transforming it with pieces they SALVAGED - from old church pews to basketball court floors
+",https://www.dailymail.co.uk/femail/article-11921799/We-bought-Detroit-home-set-TORN-6-5k-sold-410k.html,7,0.113,0.027,0.86,0.9957,Daily Mail,2023-04-03,8
+9,"Flo Rida asks for prayers for six-year-old son who 'miraculously survived' after plunging more than 50ft from apartment window leaving him in ICU 
+",https://www.dailymail.co.uk/news/article-11925355/Flo-Rida-asks-prayers-son-6-miraculously-survived-plunging-window.html,8,0.088,0.135,0.778,-0.995,Daily Mail,2023-04-03,8
+10,"Most awkward celeb interviews EVER: As 'unpleasant' chat with Gwyneth Paltrow resurfaces, look back at other VERY frosty exchanges from Tom Cruise losing it over 'bad manners' to Grace Jones SLAPPING a show host
+",https://www.dailymail.co.uk/tvshowbiz/article-11914857/Most-awkward-celebrity-interviews-EVER.html,9,0.111,0.112,0.776,0.9154,Daily Mail,2023-04-03,8
+1,Sanna Marin suffers defeat in Finland election as SDP beaten into third place,https://www.theguardian.com/world/2023/apr/02/sanna-marin-finland-election-sdp-social-democratic-national-coalition,0,0.189,0.06,0.751,0.9991,Guardian,2023-04-03,8
+2,Royal College of Nursing asks police to investigate some of its members,https://www.theguardian.com/society/2023/apr/03/royal-college-of-nursing-asks-police-to-investigate-some-of-its-members,1,0.088,0.111,0.801,-0.9302,Guardian,2023-04-03,8
+3,Swedish police moving ahead with plan to deport UK woman with Alzheimer’s,https://www.theguardian.com/world/2023/apr/03/swedish-police-moving-ahead-plan-deport-uk-woman-alzheimers,2,0.074,0.063,0.862,0.9041,Guardian,2023-04-03,8
+4,"As a journalist, my partner fought for the facts. Yet the truth of his own medical condition was kept from him",https://www.theguardian.com/commentisfree/2023/apr/03/journalist-henry-mcdonald-facts-online-medical-records,3,0.086,0.13,0.784,-0.9964,Guardian,2023-04-03,8
+5,Parisians vote to ban rental e-scooters from French capital by huge margin,https://www.theguardian.com/world/2023/apr/02/parisians-vote-on-banning-e-scooters-from-french-capital,4,0.093,0.146,0.761,-0.9952,Guardian,2023-04-03,8
+6,Panic and emotional pain as alleged deep-cover Russian spies vanish ,https://www.theguardian.com/world/2023/apr/03/why-two-alleged-deep-cover-russian-spies-most-unusual-yet,5,0.089,0.101,0.81,-0.913,Guardian,2023-04-03,8
+7,Has London reached peak toxicity?,https://www.theguardian.com/commentisfree/2023/apr/02/has-london-reached-peak-toxicity,6,0.097,0.086,0.817,0.7893,Guardian,2023-04-03,8
+8,‘Brutal monomaniac’: the gripping film about Boris Becker’s astonishing rise and spectacular fall,https://www.theguardian.com/film/2023/apr/03/boris-becker-alex-gibney-oscar-boom-boom,7,0.134,0.104,0.762,0.9933,Guardian,2023-04-03,8
+9,Rishi Sunak says grooming gang crackdown will defy ‘political correctness’,https://www.theguardian.com/society/2023/apr/02/rishi-sunak-says-grooming-gang-crackdown-will-defy-political-correctness,8,0.038,0.103,0.859,-0.9891,Guardian,2023-04-03,8
+10,Supreme court justices felt tricked by Trump at Kavanaugh swearing-in – book,https://www.theguardian.com/books/2023/apr/02/supreme-court-justices-tricked-trump-kavanaugh-book-biskupic-cnn,9,0.068,0.059,0.872,0.7607,Guardian,2023-04-03,8
