@@ -2159,3 +2159,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Donald Trump arrives in New York for tomorrow’s court appearance – live,https://www.theguardian.com/us-news/live/2023/apr/03/trump-indictment-arraignment-biden-economy-us-politics-live-updates,7,0.093,0.099,0.808,-0.9834,Guardian,2023-04-03,20
 9,Everton v Tottenham: Premier League – live,https://www.theguardian.com/football/live/2023/apr/03/everton-v-tottenham-premier-league-live,8,0.14,0.064,0.796,0.9994,Guardian,2023-04-03,20
 10,"Strong rejection of pay offer in England shows teachers’ fury, says union",https://www.theguardian.com/education/2023/apr/03/strong-rejection-of-pay-offer-in-england-shows-teachers-fury-says-neu-union,9,0.056,0.124,0.82,-0.9934,Guardian,2023-04-03,20
+1,Richard Branson's rocket firm files for bankruptcy,https://www.bbc.co.uk/news/business-65172594,0,0.102,0.041,0.857,0.9863,BBC,2023-04-04,8
+2,US kills IS commander who planned European attacks,https://www.bbc.co.uk/news/world-middle-east-65172448,1,0.031,0.251,0.718,-0.9858,BBC,2023-04-04,8
+3,Dingo 'held child underwater' on Australian island,https://www.bbc.co.uk/news/world-australia-65171305,2,0.046,0.094,0.861,-0.9481,BBC,2023-04-04,8
+4,"Virginia teacher shot by boy, 6, files $40m lawsuit",https://www.bbc.co.uk/news/world-us-canada-65171455,3,0.034,0.148,0.818,-0.993,BBC,2023-04-04,8
+5,Catalonia in grip of worst drought in decades,https://www.bbc.co.uk/news/world-europe-65129735,4,0.026,0.086,0.888,-0.9945,BBC,2023-04-04,8
+6,Spy balloon sent data to China in real time - report,https://www.bbc.co.uk/news/world-us-canada-65169855,5,0.045,0.029,0.926,0.5233,BBC,2023-04-04,8
+7,Teenager's body exhumed after Murdaugh murder trial,https://www.bbc.co.uk/news/world-us-canada-65170947,6,0.026,0.168,0.806,-0.9974,BBC,2023-04-04,8
+8,Trump in New York for historic court appearance,https://www.bbc.co.uk/news/world-us-canada-65167341,7,0.04,0.068,0.893,-0.9704,BBC,2023-04-04,8
+9,Disney boss calls governor DeSantis 'anti-Florida',https://www.bbc.co.uk/news/world-us-canada-65170949,8,0.051,0.067,0.882,-0.599,BBC,2023-04-04,8
+10,Four things to watch for when Trump is charged,https://www.bbc.co.uk/news/world-us-canada-65144742,9,0.05,0.091,0.859,-0.9785,BBC,2023-04-04,8
+1,"Inside America's most inbred family: Members of West Virginia's Whittakers family would BARK at people and only communicate through grunts while living in squalor overrun with animals 
+",https://www.dailymail.co.uk/news/article-11931011/Inside-inbred-family-Members-Whittakers-family-BARK-people-grunt.html,0,0.039,0.03,0.931,0.5382,Daily Mail,2023-04-04,8
+2,"America's most inbred family tree: How West Virginia's barking and grunting  Whittakers started with identical twin brothers whose kids married each other
+",https://www.dailymail.co.uk/news/article-11933679/Americas-inbred-family-started-IDENTICAL-TWIN-brothers-kids-married-other.html,1,0.048,0.103,0.849,-0.9978,Daily Mail,2023-04-04,8
+3,"Carrie Underwood shows off her VERY toned legs in bedazzled shorts and matching top while Shania Twain and Kelsea Ballerini stun as they lead the glamour at 2023 CMT Music Awards in Texas
+",https://www.dailymail.co.uk/tvshowbiz/article-11931487/Shania-Twain-Kelsea-Ballerini-Megan-Thee-Stallion-lead-glamour-2023-CMT-Music-Awards.html,2,0.159,0.032,0.809,0.9999,Daily Mail,2023-04-04,8
+4,"Revealed: Fleetwood Mac legend Christine McVie died aged 79 after suffering a stroke as she battled against cancer 
+",https://www.dailymail.co.uk/tvshowbiz/article-11934921/Fleetwood-Mac-star-Christine-McVies-cause-death-revealed.html,3,0.151,0.06,0.789,0.9994,Daily Mail,2023-04-04,8
+5,"'The weirdest thing I've ever seen': Bud Light sparks backlash after partnering with controversial trans poster girl Dylan Mulvaney - and even prints her face on a beer can 
+",https://www.dailymail.co.uk/news/article-11931823/Bud-Light-sparks-backlash-partnering-trans-poster-girl-Dylan-Mulvaney.html,4,0.098,0.053,0.849,0.9949,Daily Mail,2023-04-04,8
+6,"Sara Beth Liebe QUITS American Idol after Katy Perry 'mom-shamed' the contestant causing mass backlash: 'My babies need me!' 
+",https://www.dailymail.co.uk/tvshowbiz/article-11934333/Sara-Beth-Liebe-QUITS-American-Idol-Katy-Perry-mom-shamed-contestant.html,5,0.127,0.087,0.785,0.9905,Daily Mail,2023-04-04,8
+7,"McDonald's closes all of its US offices and cancels in-person meetings this week as it prepares to layoff corporate staff - after CEO warned 'difficult decisions' will be made
+",https://www.dailymail.co.uk/news/article-11931299/McDonalds-closes-offices-cancels-meetings-prepares-layoff-corporate-staff.html,6,0.083,0.038,0.879,0.983,Daily Mail,2023-04-04,8
+8,"Five Guys finally reveals why its menu is so expensive (and the 3 reasons might surprise you!)
+",https://www.dailymail.co.uk/femail/food/article-11932677/Five-Guys-finally-reveals-menu-expensive-3-reasons-surprise-you.html,7,0.089,0.016,0.895,0.9863,Daily Mail,2023-04-04,8
+9,"'Better hire a new stylist!' Gwen Stefani raises eyebrows as she dons a black blazer with a gold mini skirt and furry ski boots at CMT Awards
+",https://www.dailymail.co.uk/tvshowbiz/article-11932431/Gwen-Stefani-raises-eyebrows-quirky-outfit-CMT-Awards.html,8,0.083,0.041,0.876,0.9449,Daily Mail,2023-04-04,8
+10,"EXCLUSIVE Trump's lawyers believe a Manhattan judge will impose a GAG order on Monday that will BAN him talking about his Tuesday arrest in NYC - with a penalty of 30 DAYS jail time or $1,000 fine
+",https://www.dailymail.co.uk/news/article-11930577/Trumps-legal-team-believes-judge-impose-GAG-order-gears-Amendment-battle.html,9,0.058,0.111,0.832,-0.9949,Daily Mail,2023-04-04,8
+1,Too good to be true? What it is really like to win a £3m dream home,https://www.theguardian.com/lifeandstyle/2023/apr/04/too-good-to-be-true-what-it-is-really-like-to-win-a-3m-dream-home,0,0.199,0.034,0.768,0.9999,Guardian,2023-04-04,8
+2,Virgin Media confirms internet outages with users across UK disconnected – business live,https://www.theguardian.com/business/live/2023/apr/04/virgin-media-internet-down-outages-markets-business-live,1,0.045,0.059,0.896,-0.7506,Guardian,2023-04-04,8
+3,"Halving social care workforce funding in England an ‘insult’, ministers told",https://www.theguardian.com/society/2023/apr/04/halving-social-care-workforce-funding-in-england-an-insult-ministers-told,2,0.208,0.052,0.74,0.9989,Guardian,2023-04-04,8
+4,Carol Vorderman’s later-life renaissance gives us just the kind of political hero we need,https://www.theguardian.com/commentisfree/2023/apr/04/carol-vorderman-60s-renaissance-political-hero,3,0.119,0.119,0.762,0.3238,Guardian,2023-04-04,8
+5,‘The miracle that disrupts order’: mathematicians invent new ‘Einstein’ shape,https://www.theguardian.com/science/2023/apr/03/new-einstein-shape-aperiodic-monotile,4,0.09,0.015,0.894,0.995,Guardian,2023-04-04,8
+6,Spurs’ Cristian Stellini defends Harry Kane against ‘cheat’ taunts,https://www.theguardian.com/sport/2023/apr/03/spurs-cristian-stellini-defends-harry-kane-against-taunts,5,0.102,0.076,0.822,0.8573,Guardian,2023-04-04,8
+7,TV tonight: Daisy May Cooper is excellent in striking new drama ,https://www.theguardian.com/tv-and-radio/2023/apr/04/tv-tonight-daisy-may-cooper-is-excellent-in-striking-new-drama,6,0.135,0.062,0.803,0.9814,Guardian,2023-04-04,8
+8,Netherlands train crash: one dead and dozens injured after carriages derail,https://www.theguardian.com/world/2023/apr/04/netherlands-train-accident-several-seriously-injured-as-carriage-hits-construction-equipment,7,0.01,0.209,0.78,-0.9896,Guardian,2023-04-04,8
+9,"UK government spurned chances to free Nazanin Zaghari-Ratcliffe, say MPs",https://www.theguardian.com/news/2023/apr/04/uk-government-spurned-chances-to-free-nazanin-zaghari-ratcliffe-say-mps,8,0.068,0.105,0.827,-0.9874,Guardian,2023-04-04,8
+10,Our first few years as a child can determine the rest of our lives,https://www.theguardian.com/commentisfree/2023/apr/03/early-years-support-parents,9,0.146,0.055,0.798,0.9988,Guardian,2023-04-04,8
