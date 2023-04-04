@@ -2199,3 +2199,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Netherlands train crash: one dead and dozens injured after carriages derail,https://www.theguardian.com/world/2023/apr/04/netherlands-train-accident-several-seriously-injured-as-carriage-hits-construction-equipment,7,0.01,0.209,0.78,-0.9896,Guardian,2023-04-04,8
 9,"UK government spurned chances to free Nazanin Zaghari-Ratcliffe, say MPs",https://www.theguardian.com/news/2023/apr/04/uk-government-spurned-chances-to-free-nazanin-zaghari-ratcliffe-say-mps,8,0.068,0.105,0.827,-0.9874,Guardian,2023-04-04,8
 10,Our first few years as a child can determine the rest of our lives,https://www.theguardian.com/commentisfree/2023/apr/03/early-years-support-parents,9,0.146,0.055,0.798,0.9988,Guardian,2023-04-04,8
+1,In pictures: Donald Trump is arrested,https://www.bbc.co.uk/news/world-us-canada-65181677,0,0.079,0.066,0.854,0.3874,BBC,2023-04-04,20
+2,Prince recruits Jacinda Ardern for environment role,https://www.bbc.co.uk/news/uk-65180096,1,0.147,0.055,0.798,0.9834,BBC,2023-04-04,20
+3,Trump pleads not guilty to falsifying business records,https://www.bbc.co.uk/news/world-us-canada-65182264,2,0.065,0.102,0.834,-0.939,BBC,2023-04-04,20
+4,What happened between Stormy Daniels and Trump?,https://www.bbc.co.uk/news/world-us-canada-64920037,3,0.062,0.109,0.829,-0.9867,BBC,2023-04-04,20
+5,"Who is Juan Merchan, the judge in Trump's case?",https://www.bbc.co.uk/news/world-us-canada-65182727,4,0.14,0.115,0.746,0.8806,BBC,2023-04-04,20
+6,Nato's border with Russia doubles as Finland joins,https://www.bbc.co.uk/news/world-europe-65173043,5,0.104,0.058,0.838,0.9841,BBC,2023-04-04,20
+7,What clues does new Russian bomb footage reveal?,https://www.bbc.co.uk/news/world-europe-65178332,6,0.031,0.068,0.901,-0.9779,BBC,2023-04-04,20
+8,Moana: What is behind all the Disney remakes?,https://www.bbc.co.uk/news/entertainment-arts-65171981,7,0.1,0.029,0.871,0.9978,BBC,2023-04-04,20
+9,"Virginia teacher shot by boy, 6, files $40m lawsuit",https://www.bbc.co.uk/news/world-us-canada-65171455,8,0.034,0.148,0.818,-0.993,BBC,2023-04-04,20
+10,Russia cafe bomb suspect charged with terrorism,https://www.bbc.co.uk/news/world-europe-65178006,9,0.046,0.165,0.789,-0.9974,BBC,2023-04-04,20
+1,"America's most inbred family tree: How West Virginia's barking and grunting  Whittakers started with identical twin brothers whose kids married each other
+",https://www.dailymail.co.uk/news/article-11933679/Americas-inbred-family-started-IDENTICAL-TWIN-brothers-kids-married-other.html,0,0.048,0.103,0.849,-0.9978,Daily Mail,2023-04-04,20
+2,"Inside America's most inbred family: Members of West Virginia's Whittakers family would BARK at people and only communicate through grunts while living in squalor overrun with animals 
+",https://www.dailymail.co.uk/news/article-11931011/Inside-inbred-family-Members-Whittakers-family-BARK-people-grunt.html,1,0.039,0.03,0.931,0.5382,Daily Mail,2023-04-04,20
+3,"Revealed: Fleetwood Mac legend Christine McVie died aged 79 after suffering a stroke as she battled against cancer 
+",https://www.dailymail.co.uk/tvshowbiz/article-11934921/Fleetwood-Mac-star-Christine-McVies-cause-death-revealed.html,2,0.151,0.06,0.789,0.9994,Daily Mail,2023-04-04,20
+4,"Young woman who believes she may be Madeleine McCann finally receives DNA test results as new statement is released
+",https://www.dailymail.co.uk/news/article-11936625/Julia-Wendell-Polish-woman-believes-Madeleine-McCann-receives-DNA-test-results.html,3,0.108,0.038,0.854,0.9976,Daily Mail,2023-04-04,20
+5,"'F*** Bud Light': Kid Rock SHOOTS up cases of Bud Light after it chose trans activist Dylan Mulvaney as poster girl - as firm stands by her but says cans with her face on them are NOT for sale 
+",https://www.dailymail.co.uk/news/article-11937347/Kid-Rock-SHOOTS-cases-Bud-Light-chose-trans-activist-Dylan-Mulvaney-poster-girl.html,4,0.129,0.04,0.832,0.999,Daily Mail,2023-04-04,20
+6,"Sara Beth Liebe QUITS American Idol after Katy Perry 'mom-shamed' the contestant causing mass backlash: 'My babies need me!' 
+",https://www.dailymail.co.uk/tvshowbiz/article-11934333/Sara-Beth-Liebe-QUITS-American-Idol-Katy-Perry-mom-shamed-contestant.html,5,0.127,0.087,0.785,0.9905,Daily Mail,2023-04-04,20
+7,"'Better hire a new stylist!' Gwen Stefani raises eyebrows as she dons a black blazer with a gold mini skirt and furry ski boots at CMT Awards
+",https://www.dailymail.co.uk/tvshowbiz/article-11932431/Gwen-Stefani-raises-eyebrows-quirky-outfit-CMT-Awards.html,6,0.083,0.041,0.876,0.9449,Daily Mail,2023-04-04,20
+8,"Furious Trump demands Alvin Bragg 'indict himself' and 'resign' for 'illegally leaking' details of indictment that include 34 felony counts and NO mugshot or handcuffs - just hours before his Manhattan arraignment 
+",https://www.dailymail.co.uk/news/article-11935583/Trump-NOT-handcuffed-mugshot-taken-hes-charged-34-felony-counts.html,7,0.043,0.17,0.787,-0.9994,Daily Mail,2023-04-04,20
+9,"Mayhem outside Trump's arraignment as MAGA supporters clash with protesters
+",https://www.dailymail.co.uk/news/article-11936709/Pro-anti-Donald-Trump-protesters-descend-ex-Presidents-day-reckoning-finally-arrives.html,8,0.076,0.088,0.836,-0.8567,Daily Mail,2023-04-04,20
+10,"Brooke Shields reveals she ran 'butt naked' from the room after losing her virginity aged 22 to Dean Cain in her new documentary
+",https://www.dailymail.co.uk/news/article-11935135/Brooke-Shields-reveals-ran-butt-naked-room-losing-virginity-aged-22.html,9,0.092,0.051,0.858,0.9836,Daily Mail,2023-04-04,20
+1,Donald Trump pleads not guilty to 34 charges in New York hush money case – live,https://www.theguardian.com/us-news/live/2023/apr/04/trump-indictment-arraignment-court-hush-money-politics-live-updates,0,0.07,0.094,0.836,-0.9962,Guardian,2023-04-04,20
+2,"Sweden has expelled 1,100 British nationals since Brexit",https://www.theguardian.com/politics/2023/apr/04/sweden-expelled-1100-british-nationals-since-uk-left-eu,1,0.058,0.055,0.887,-0.7929,Guardian,2023-04-04,20
+3,Too good to be true? What it is really like to win a £3m dream home,https://www.theguardian.com/lifeandstyle/2023/apr/04/too-good-to-be-true-what-it-is-really-like-to-win-a-3m-dream-home,2,0.199,0.034,0.768,0.9999,Guardian,2023-04-04,20
+4,Chelsea v Liverpool: Premier League – live,https://www.theguardian.com/football/live/2023/apr/04/chelsea-v-liverpool-premier-league-live,3,0.125,0.081,0.794,0.9984,Guardian,2023-04-04,20
+5,"What do you, a real person in the real world, want? Best be quiet and let the politicians tell you",https://www.theguardian.com/commentisfree/2023/apr/04/real-person-real-world-politicians,4,0.133,0.079,0.788,0.9962,Guardian,2023-04-04,20
+6,‘The helicopter lost track of Trump’: how the BBC News channel picked the wildest day for a revamp,https://www.theguardian.com/tv-and-radio/2023/apr/04/the-helicopter-lost-track-of-trump-how-the-bbc-news-channel-picked-the-wildest-day-for-a-revamp,5,0.067,0.033,0.9,0.9864,Guardian,2023-04-04,20
+7,Outrage as man walks free after rape of 13-year-old girl in Scotland,https://www.theguardian.com/uk-news/2023/apr/04/outrage-as-man-walks-free-after-of-13-year-old-girl-in-scotland,6,0.046,0.149,0.805,-0.9828,Guardian,2023-04-04,20
+8,Climate activist who allegedly held sign directed at jurors may be charged,https://www.theguardian.com/uk-news/2023/apr/04/climate-activist-trudi-warner-held-sign-telling-jurors-act-conscience-charged,7,0.039,0.09,0.871,-0.9927,Guardian,2023-04-04,20
+9,Critically ill patients ‘will inevitably die’ due to junior doctors’ strike,https://www.theguardian.com/society/2023/apr/04/critically-ill-patients-inevitably-die-junior-doctors-strike,8,0.058,0.105,0.837,-0.9812,Guardian,2023-04-04,20
+10,Bank of England ‘may need to cut interest rates earlier and faster’,https://www.theguardian.com/business/2023/apr/04/bank-of-england-may-need-to-cut-interest-rates-earlier-and-faster-inflation,9,0.06,0.064,0.876,-0.0768,Guardian,2023-04-04,20
