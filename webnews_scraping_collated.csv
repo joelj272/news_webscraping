@@ -2279,3 +2279,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Diners in Japan arrested for dipping own chopsticks in communal bowl of ginger,https://www.theguardian.com/world/2023/apr/05/diners-in-japan-arrested-for-dipping-own-chopsticks-in-communal-bowl-of-ginger,7,0.085,0.088,0.826,-0.5719,Guardian,2023-04-05,8
 9,Trump campaign tries to cash in on arrest with fake mugshot T-shirt,https://www.theguardian.com/us-news/2023/apr/04/donald-trump-merchandise-mugshot-arrest-stormy-daniels,8,0.079,0.062,0.859,0.8639,Guardian,2023-04-05,8
 10,Naked Education review – the look at pubic hair is wonderfully revelatory,https://www.theguardian.com/tv-and-radio/2023/apr/04/naked-education-review-the-look-at-pubic-hair-is-wonderfully-revelatory,9,0.166,0.075,0.759,0.9982,Guardian,2023-04-05,8
+1,Body of indigenous woman found in Canada landfill,https://www.bbc.co.uk/news/world-us-canada-65191527,0,0.014,0.168,0.818,-0.998,BBC,2023-04-05,20
+2,Cash App founder killed in San Francisco stabbing,https://www.bbc.co.uk/news/world-us-canada-65191466,1,0.056,0.183,0.76,-0.9972,BBC,2023-04-05,20
+3,Trump wins legal fees in Stormy Daniels tweet case,https://www.bbc.co.uk/news/world-us-canada-65191465,2,0.09,0.097,0.813,0.2432,BBC,2023-04-05,20
+4,"US going to hell, says Trump after being charged",https://www.bbc.co.uk/news/world-us-canada-65186244,3,0.037,0.098,0.865,-0.9886,BBC,2023-04-05,20
+5,How the world reacted to Trump's arrest,https://www.bbc.co.uk/news/world-us-canada-65186531,4,0.049,0.119,0.832,-0.9906,BBC,2023-04-05,20
+6,Poland pledges more jets to Ukraine on Zelensky visit,https://www.bbc.co.uk/news/world-europe-65194094,5,0.117,0.117,0.766,-0.6266,BBC,2023-04-05,20
+7,"Will Trump face a gag order, and what happens next?",https://www.bbc.co.uk/news/world-us-canada-65184050,6,0.069,0.113,0.818,-0.9951,BBC,2023-04-05,20
+8,Deadly cobra in cockpit forces plane to land,https://www.bbc.co.uk/news/world-africa-65188013,7,0.107,0.091,0.802,0.818,BBC,2023-04-05,20
+9,What happened when other countries charged ex-leaders?,https://www.bbc.co.uk/news/world-us-canada-65181338,8,0.061,0.175,0.764,-0.999,BBC,2023-04-05,20
+10,Everything you need to know about the Barbie movie,https://www.bbc.co.uk/news/entertainment-arts-65187179,9,0.116,0.046,0.838,0.9978,BBC,2023-04-05,20
+1,"Technology mogul and dad dubbed 'Crazy Bob' who founded CashApp was stabbed 'multiple times' in the early hours after extending a business trip to San Francisco: Elon Musk calls to lock up repeat violent offenders
+",https://www.dailymail.co.uk/news/article-11941061/Tech-exec-dubbed-Crazy-Bob-founded-Cash-App-stabbed-death-San-Francisco.html,0,0.054,0.141,0.805,-0.9959,Daily Mail,2023-04-05,20
+2,"Melania is MIA as furious Donald goes on the attack: Indicted ex-president's wife is not at Mar-a-Lago speech where he thanks family - but omits his wife - and lashes 'criminal' New York DA and 'Trump-hating judge' 
+",https://www.dailymail.co.uk/news/article-11939905/Defiant-Trump-speaks-family-supporters-Mar-Lago.html,1,0.089,0.116,0.796,-0.9991,Daily Mail,2023-04-05,20
+3,"Trump faces a maximum of 136 years in jail as unsealed indictment reveals 34 FELONY charges for 'catch and kill scheme' that included '$30,000 hush money to Trump Tower doorman who claimed Donald had a child out of wedlock' 
+",https://www.dailymail.co.uk/news/article-11938395/Trump-New-York-court-pictures-charged-Stormy-Daniels-case.html,2,0.06,0.093,0.847,-0.9986,Daily Mail,2023-04-05,20
+4,"'And then the cake stopped': Brooke Shields miffed Tom Cruise stopped sending her a $126 sweet treat every Christmas after 10 years... and details how he nixed Suri and Katie from card
+",https://www.dailymail.co.uk/tvshowbiz/article-11940109/Brooke-Shields-says-removed-list-celebs-Tom-Cruise-sends-126-coconut-cake-to.html,3,0.103,0.052,0.844,0.9971,Daily Mail,2023-04-05,20
+5,"Read DA'S damning Trump dossier in FULL: Ex-President is accused of falsifying business records to cover up hush money payments and kill three salacious stories - including one about fathering a MYSTERY CHILD 
+",https://www.dailymail.co.uk/news/article-11939097/READ-Unsealed-13-page-statement-fact-against-Trump.html,4,0.041,0.062,0.897,-0.9622,Daily Mail,2023-04-05,20
+6,"Young woman who believes she may be Madeleine McCann finally receives DNA test results as new statement is released
+",https://www.dailymail.co.uk/news/article-11936625/Julia-Wendell-Polish-woman-believes-Madeleine-McCann-receives-DNA-test-results.html,5,0.108,0.038,0.854,0.9976,Daily Mail,2023-04-05,20
+7,"'F*** Bud Light': Kid Rock SHOOTS up cases of Bud Light after it chose trans activist Dylan Mulvaney as poster girl - as firm stands by her but says cans with her face on them are NOT for sale 
+",https://www.dailymail.co.uk/news/article-11937347/Kid-Rock-SHOOTS-cases-Bud-Light-chose-trans-activist-Dylan-Mulvaney-poster-girl.html,6,0.129,0.04,0.832,0.999,Daily Mail,2023-04-05,20
+8,"'She couldn't cope with being in the public eye': Billionaire media mogul Rupert Murdoch and his fifth fiancée Ann Lesley Smith abruptly call OFF their engagement only two weeks after it was first announced
+",https://www.dailymail.co.uk/news/article-11938617/Rupert-Murdoch-92-fifth-fianc-e-Ann-Lesley-Smith-66-call-engagement.html,7,0.19,0.06,0.75,0.9978,Daily Mail,2023-04-05,20
+9,"His father is an Eighties movie icon who is still popular, his mother is an Emmy winner and his mom's cousin was in Andy Warhol's circle. Who is he?
+",https://www.dailymail.co.uk/tvshowbiz/article-11934451/His-father-Eighties-movie-star-popular-mother-Emmy-winner-he.html,8,0.114,0.036,0.85,0.9973,Daily Mail,2023-04-05,20
+10,"Inside America's most inbred family: Members of West Virginia's Whittakers family would BARK at people and only communicate through grunts while living in squalor overrun with animals 
+",https://www.dailymail.co.uk/news/article-11931011/Inside-inbred-family-Members-Whittakers-family-BARK-people-grunt.html,9,0.039,0.03,0.931,0.5382,Daily Mail,2023-04-05,20
+1,Russian defector sheds light on Putin paranoia and his secret train network,https://www.theguardian.com/world/2023/apr/05/russian-defector-sheds-light-on-putin-paranoia-including-secret-train,0,0.033,0.065,0.902,-0.9784,Guardian,2023-04-05,20
+2,Twenty-one convicted in West Midlands child sexual abuse inquiry,https://www.theguardian.com/uk-news/2023/apr/05/twenty-one-convicted-in-west-midlands-child-sexual-abuse-inquiry,1,0.066,0.122,0.811,-0.9879,Guardian,2023-04-05,20
+3,The Bella Hadid lift: will a generation of girls regret shaving their eyebrows?,https://www.theguardian.com/fashion/2023/apr/05/bella-hadid-lift-straight-eyebrow-trend-tiktok,2,0.091,0.012,0.898,0.9902,Guardian,2023-04-05,20
+4,Spanish TV star says surrogate baby is actually her grandchild,https://www.theguardian.com/world/2023/apr/05/ana-obregon-spanish-tv-star-says-surrogate-baby-is-actually-her-grandchild,3,0.103,0.06,0.837,0.9411,Guardian,2023-04-05,20
+5,"Nicola Sturgeon’s husband, Peter Murrell, arrested in SNP funding inquiry",https://www.theguardian.com/uk-news/2023/apr/05/peter-murrell-nicola-sturgeons-husband-arrested-over-snp-funding-investigation,4,0.082,0.068,0.85,0.8979,Guardian,2023-04-05,20
+6,Revealed: royals took more than £1bn income from controversial estates,https://www.theguardian.com/uk-news/ng-interactive/2023/apr/05/revealed-royals-took-more-than-1bn-income-from-controversial-estates-king-charles-queen-duchies-cornwall-lancaster,5,0.074,0.037,0.889,0.9981,Guardian,2023-04-05,20
+7,West Ham v Newcastle: Premier League – live,https://www.theguardian.com/football/live/2023/apr/05/west-ham-v-newcastle-premier-league-live,6,0.16,0.065,0.774,0.9997,Guardian,2023-04-05,20
+8,Deaths of two pensioners on M1 spurs calls to halt smart motorways,https://www.theguardian.com/world/2023/apr/05/deaths-of-two-pensioners-on-m1-spurs-calls-for-end-to-smart-motorways,7,0.061,0.138,0.801,-0.993,Guardian,2023-04-05,20
+9,Mike Pence will comply with subpoena to testify before January 6 grand jury – live,https://www.theguardian.com/us-news/live/2023/apr/05/donald-trump-hush-money-court-arrest-indictment-latest-live,8,0.089,0.102,0.809,-0.9945,Guardian,2023-04-05,20
+10,Asylum seekers to be housed on Dorset barge despite local opposition,https://www.theguardian.com/uk-news/2023/apr/05/asylum-seekers-to-be-housed-on-dorset-barge-home-office-confirms,9,0.056,0.062,0.882,-0.7964,Guardian,2023-04-05,20
