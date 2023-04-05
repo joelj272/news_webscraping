@@ -2239,3 +2239,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Climate activist who allegedly held sign directed at jurors may be charged,https://www.theguardian.com/uk-news/2023/apr/04/climate-activist-trudi-warner-held-sign-telling-jurors-act-conscience-charged,7,0.039,0.09,0.871,-0.9927,Guardian,2023-04-04,20
 9,Critically ill patients ‘will inevitably die’ due to junior doctors’ strike,https://www.theguardian.com/society/2023/apr/04/critically-ill-patients-inevitably-die-junior-doctors-strike,8,0.058,0.105,0.837,-0.9812,Guardian,2023-04-04,20
 10,Bank of England ‘may need to cut interest rates earlier and faster’,https://www.theguardian.com/business/2023/apr/04/bank-of-england-may-need-to-cut-interest-rates-earlier-and-faster-inflation,9,0.06,0.064,0.876,-0.0768,Guardian,2023-04-04,20
+1,What the 34 felony charges against Trump reveal,https://www.bbc.co.uk/news/world-us-canada-65181178,0,0.073,0.13,0.796,-0.9927,BBC,2023-04-05,8
+2,Rupert Murdoch's engagement called off - reports,https://www.bbc.co.uk/news/entertainment-arts-65184205,1,0.119,0.032,0.848,0.9824,BBC,2023-04-05,8
+3,Who is Karen McDougal? The second woman in Trump case,https://www.bbc.co.uk/news/world-us-canada-65181430,2,0.057,0.062,0.881,-0.4749,BBC,2023-04-05,8
+4,Australian jailed for abducting girl from campsite,https://www.bbc.co.uk/news/world-australia-65184620,3,0.07,0.107,0.823,-0.9548,BBC,2023-04-05,8
+5,'Queen Camilla' title debuts on coronation invite,https://www.bbc.co.uk/news/uk-65175984,4,0.063,0.03,0.907,0.9706,BBC,2023-04-05,8
+6,Woman with Alzheimer's faces Swedish deportation,https://www.bbc.co.uk/news/uk-65180538,5,0.1,0.068,0.831,0.983,BBC,2023-04-05,8
+7,‘You aimed at my eyes but my heart still beats’,https://www.bbc.co.uk/news/world-middle-east-64503873,6,0.097,0.12,0.782,-0.9731,BBC,2023-04-05,8
+8,Liberals win control of Wisconsin Supreme Court,https://www.bbc.co.uk/news/world-us-canada-65184936,7,0.219,0.027,0.754,0.9941,BBC,2023-04-05,8
+9,Johnson & Johnson offers $9bn to settle talc claims,https://www.bbc.co.uk/news/business-65180131,8,0.171,0.104,0.726,0.986,BBC,2023-04-05,8
+10,Is Taiwan in danger of being loved to death?,https://www.bbc.co.uk/news/world-asia-65160872,9,0.093,0.071,0.836,0.9733,BBC,2023-04-05,8
+1,"Young woman who believes she may be Madeleine McCann finally receives DNA test results as new statement is released
+",https://www.dailymail.co.uk/news/article-11936625/Julia-Wendell-Polish-woman-believes-Madeleine-McCann-receives-DNA-test-results.html,0,0.108,0.038,0.854,0.9976,Daily Mail,2023-04-05,8
+2,"'F*** Bud Light': Kid Rock SHOOTS up cases of Bud Light after it chose trans activist Dylan Mulvaney as poster girl - as firm stands by her but says cans with her face on them are NOT for sale 
+",https://www.dailymail.co.uk/news/article-11937347/Kid-Rock-SHOOTS-cases-Bud-Light-chose-trans-activist-Dylan-Mulvaney-poster-girl.html,1,0.129,0.04,0.832,0.999,Daily Mail,2023-04-05,8
+3,"Trump faces a maximum of 136 years in jail as unsealed indictment reveals 34 FELONY charges for 'catch and kill scheme' that included '$30,000 hush money to Trump Tower doorman who claimed Donald had a child out of wedlock' 
+",https://www.dailymail.co.uk/news/article-11938395/Trump-New-York-court-pictures-charged-Stormy-Daniels-case.html,2,0.06,0.093,0.847,-0.9986,Daily Mail,2023-04-05,8
+4,"His father is an Eighties movie icon who is still popular, his mother is an Emmy winner and his mom's cousin was in Andy Warhol's circle. Who is he?
+",https://www.dailymail.co.uk/tvshowbiz/article-11934451/His-father-Eighties-movie-star-popular-mother-Emmy-winner-he.html,3,0.114,0.036,0.85,0.9973,Daily Mail,2023-04-05,8
+5,"Mayhem outside Trump's arraignment as MAGA supporters clash with protesters
+",https://www.dailymail.co.uk/news/article-11936709/Pro-anti-Donald-Trump-protesters-descend-ex-Presidents-day-reckoning-finally-arrives.html,4,0.08,0.101,0.819,-0.9799,Daily Mail,2023-04-05,8
+6,"Scowling Trump is booked, fingerprinted BUT no mugshot yet as he walks into NYC courtroom in Stormy Daniels hush money probe and becomes first US president to be indicted
+",https://www.dailymail.co.uk/news/article-11938561/Trump-LEAVES-Trump-Tower-way-Manhattan-court.html,5,0.057,0.078,0.864,-0.9938,Daily Mail,2023-04-05,8
+7,"Inside America's most inbred family: Members of West Virginia's Whittakers family would BARK at people and only communicate through grunts while living in squalor overrun with animals 
+",https://www.dailymail.co.uk/news/article-11931011/Inside-inbred-family-Members-Whittakers-family-BARK-people-grunt.html,6,0.039,0.03,0.931,0.5382,Daily Mail,2023-04-05,8
+8,"Read DA'S damning Trump dossier in FULL: Ex-President is accused of falsifying business records to cover up hush money payments and kill three salacious stories - including one about fathering a MYSTERY CHILD 
+",https://www.dailymail.co.uk/news/article-11939097/READ-Unsealed-13-page-statement-fact-against-Trump.html,7,0.041,0.062,0.897,-0.9622,Daily Mail,2023-04-05,8
+9,"Marjorie Taylor Greene compares Trump to Nelson Mandela and Jesus as she's mobbed outside arraignment court: Protesters call her a 'Nazi' and scream 'Go back to Georgia!'
+",https://www.dailymail.co.uk/news/article-11938151/Marjorie-Taylor-Greene-swarmed-huge-scrum-Trump-arraignment.html,8,0.06,0.107,0.833,-0.9787,Daily Mail,2023-04-05,8
+10,"Melania is MIA as furious Donald goes on the attack: Indicted ex-president's wife's absence raises eyebrows as he risks gag order over blistering speech lashing 'criminal' New York DA and 'Trump-hating judge' and his family 
+",https://www.dailymail.co.uk/news/article-11939905/Defiant-Trump-speaks-family-supporters-Mar-Lago.html,9,0.084,0.116,0.8,-0.9993,Daily Mail,2023-04-05,8
+1,Hikers urged to check themselves for ticks after deadly virus found in UK,https://www.theguardian.com/society/2023/apr/05/hikers-urged-to-check-themselves-for-ticks-after-deadly-virus-found-in-uk,0,0.035,0.06,0.905,-0.9508,Guardian,2023-04-05,8
+2,‘US going to hell’: Donald Trump attacks hush money case in grievance-filled Mar-a-Lago speech,https://www.theguardian.com/us-news/2023/apr/05/trump-vents-grievances-against-criminal-charges-from-the-safety-of-mar-a-lago,1,0.085,0.15,0.765,-0.9974,Guardian,2023-04-05,8
+3,Rupert Murdoch reportedly calls off engagement after two weeks,https://www.theguardian.com/media/2023/apr/04/rupert-murdoch-calls-off-engagement-ann-lesley-smith,2,0.145,0.058,0.796,0.9871,Guardian,2023-04-05,8
+4,"Eating mackerel no longer sustainable, Good Fish Guide advises",https://www.theguardian.com/environment/2023/apr/05/mackerel-loses-sustainable-status-as-overfishing-puts-species-at-risk,3,0.095,0.03,0.874,0.99,Guardian,2023-04-05,8
+5,Rain Dogs review – no wonder Daisy May Cooper is being touted as the next M in Bond,https://www.theguardian.com/tv-and-radio/2023/apr/04/rain-dogs-review-no-wonder-daisy-may-cooper-is-being-touted-as-the-next-m-in-bond,4,0.148,0.135,0.717,0.9115,Guardian,2023-04-05,8
+6,Trump gets underwhelming show of support on surreal day in New York,https://www.theguardian.com/us-news/2023/apr/04/trump-protests-reaction-new-york-court,5,0.09,0.082,0.829,0.9228,Guardian,2023-04-05,8
+7,Politicians are right about the ‘decline of the west’ – but so wrong about the causes,https://www.theguardian.com/commentisfree/2023/apr/05/decline-of-the-west-causes-moral-decay-living-standards,6,0.133,0.159,0.708,-0.9886,Guardian,2023-04-05,8
+8,Diners in Japan arrested for dipping own chopsticks in communal bowl of ginger,https://www.theguardian.com/world/2023/apr/05/diners-in-japan-arrested-for-dipping-own-chopsticks-in-communal-bowl-of-ginger,7,0.085,0.088,0.826,-0.5719,Guardian,2023-04-05,8
+9,Trump campaign tries to cash in on arrest with fake mugshot T-shirt,https://www.theguardian.com/us-news/2023/apr/04/donald-trump-merchandise-mugshot-arrest-stormy-daniels,8,0.079,0.062,0.859,0.8639,Guardian,2023-04-05,8
+10,Naked Education review – the look at pubic hair is wonderfully revelatory,https://www.theguardian.com/tv-and-radio/2023/apr/04/naked-education-review-the-look-at-pubic-hair-is-wonderfully-revelatory,9,0.166,0.075,0.759,0.9982,Guardian,2023-04-05,8
