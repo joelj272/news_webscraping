@@ -2319,3 +2319,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Deaths of two pensioners on M1 spurs calls to halt smart motorways,https://www.theguardian.com/world/2023/apr/05/deaths-of-two-pensioners-on-m1-spurs-calls-for-end-to-smart-motorways,7,0.061,0.138,0.801,-0.993,Guardian,2023-04-05,20
 9,Mike Pence will comply with subpoena to testify before January 6 grand jury – live,https://www.theguardian.com/us-news/live/2023/apr/05/donald-trump-hush-money-court-arrest-indictment-latest-live,8,0.089,0.102,0.809,-0.9945,Guardian,2023-04-05,20
 10,Asylum seekers to be housed on Dorset barge despite local opposition,https://www.theguardian.com/uk-news/2023/apr/05/asylum-seekers-to-be-housed-on-dorset-barge-home-office-confirms,9,0.056,0.062,0.882,-0.7964,Guardian,2023-04-05,20
+1,Heavy cost of war for Russia's 'best of the best',https://www.bbc.co.uk/news/world-europe-65179074,0,0.067,0.129,0.804,-0.9988,BBC,2023-04-06,8
+2,Kennedy to challenge Biden for White House,https://www.bbc.co.uk/news/world-us-canada-65197673,1,0.069,0.094,0.837,-0.9592,BBC,2023-04-06,8
+3,US teen shot by officer sitting behind him in car,https://www.bbc.co.uk/news/world-us-canada-65197857,2,0.042,0.147,0.81,-0.9911,BBC,2023-04-06,8
+4,China moves warships after US hosts Taiwan's Tsai,https://www.bbc.co.uk/news/world-asia-65160872,3,0.093,0.07,0.836,0.9759,BBC,2023-04-06,8
+5,Cash App founder killed in San Francisco stabbing,https://www.bbc.co.uk/news/world-us-canada-65191466,4,0.066,0.189,0.746,-0.9984,BBC,2023-04-06,8
+6,Exonerated Central Park Five man lampoons Trump ad,https://www.bbc.co.uk/news/world-us-canada-65197862,5,0.031,0.178,0.791,-0.9953,BBC,2023-04-06,8
+7,Europe’s good cop and bad cop to meet Xi Jinping,https://www.bbc.co.uk/news/world-asia-china-65186222,6,0.104,0.075,0.82,0.9856,BBC,2023-04-06,8
+8,Ban would have sent Russia strong message - Swiatek,https://www.bbc.co.uk/sport/tennis/65197165,7,0.0,0.0,0.0,0.0,BBC,2023-04-06,8
+9,Platypus taken on train sparks Australia police hunt,https://www.bbc.co.uk/news/world-australia-65158947,8,0.05,0.089,0.86,-0.9188,BBC,2023-04-06,8
+10,Rivals Iran and Saudi Arabia hold high-level talks,https://www.bbc.co.uk/news/world-middle-east-65197717,9,0.088,0.112,0.8,-0.4398,BBC,2023-04-06,8
+1,"Cash App tech mogul, 43, dubbed 'Crazy Bob' is knifed to death outside luxury San Fran high-rise after extending business trip - as Elon Musk calls for repeat violent offenders be locked up
+",https://www.dailymail.co.uk/news/article-11941061/Tech-exec-dubbed-Crazy-Bob-founded-Cash-App-stabbed-death-San-Francisco.html,0,0.054,0.141,0.805,-0.9959,Daily Mail,2023-04-06,8
+2,"Another tawdry saga, more dirty laundry... no wonder Melania wasn't at Trump's Mar-a-Lago fight-back. But now DailyMail.com reveals what's REALLY going on in their marriage
+",https://www.dailymail.co.uk/news/article-11943581/No-wonder-Melania-wasnt-Mar-Lago-furious-public-airing-dirty-laundry.html,1,0.098,0.108,0.794,-0.9503,Daily Mail,2023-04-06,8
+3,"'And then the cake stopped': Brooke Shields miffed Tom Cruise stopped sending her a $126 sweet treat every Christmas after 10 years... and details how he nixed Suri and Katie from card
+",https://www.dailymail.co.uk/tvshowbiz/article-11940109/Brooke-Shields-says-removed-list-celebs-Tom-Cruise-sends-126-coconut-cake-to.html,2,0.103,0.052,0.844,0.9971,Daily Mail,2023-04-06,8
+4,"Bud Light have 'set their loyal fanbase on fire' after using trans influencer Dylan Mulvaney in latest campaign, PR experts claim - and Kid Rock certainly agrees. Do you?
+",https://www.dailymail.co.uk/news/article-11942257/Bud-Light-set-loyal-fanbase-fire-using-trans-influencer-Dylan-Mulvaney.html,3,0.115,0.041,0.844,0.9993,Daily Mail,2023-04-06,8
+5,"EXCLUSIVE: Peter Thiel's Instagram model boyfriend plunged to his death WEEKS after witnessing messy showdown between the billionaire mogul and his husband when he crashed couple's New Year's bash
+",https://www.dailymail.co.uk/news/article-11926699/Peter-Thiels-model-boyfriend-died-WEEKS-NYE-showdown-billionaire-husband.html,4,0.124,0.095,0.78,0.9962,Daily Mail,2023-04-06,8
+6,"Train passenger wins praise after insisting a fellow traveller move from his booked seat after she initially REFUSED
+",https://www.dailymail.co.uk/femail/article-11940835/Social-media-shocked-train-passengers-tell-man-whos-seat-taken-just-look-elsewhere.html,5,0.046,0.071,0.883,-0.8201,Daily Mail,2023-04-06,8
+7,"Bud Light parent company Anheuser-Busch's website mysteriously goes offline for two hours - days after it sparked controversy over partnership with trans influencer Dylan Mulvaney
+",https://www.dailymail.co.uk/news/article-11943343/Bud-Light-parent-company-Anheuser-Buschs-website-mysteriously-goes-offline.html,6,0.074,0.056,0.87,0.954,Daily Mail,2023-04-06,8
+8,"Nike angers feminists after choosing controversial trans influencer Dylan Mulvaney as new face of its women's SPORTS BRA, days after Bud Light was slammed for putting her on can 
+",https://www.dailymail.co.uk/news/article-11943777/Nike-angers-feminists-making-trans-influencer-Dylan-Mulvaney-new-face-womens-workout-gear.html,7,0.076,0.098,0.826,-0.9582,Daily Mail,2023-04-06,8
+9,"Dirrty girl! Christina Aguilera makes X-rated confessions about her VERY experimental sex life - including a romp in a music studio and intimate act she endorses
+",https://www.dailymail.co.uk/tvshowbiz/article-11943353/Christina-Aguilera-makes-X-rated-confessions-experimental-sex-life.html,8,0.109,0.023,0.868,0.9887,Daily Mail,2023-04-06,8
+10,"'We had to save the children': Three fearless cops who took down Nashville school shooter put Uvalde police to shame - and  say they're haunted by stepping over one of her victims on floor
+",https://www.dailymail.co.uk/news/article-11942363/Three-hero-cops-took-Nashville-school-shooter-say-theyre-haunted-stepping-victim.html,9,0.049,0.123,0.828,-0.9987,Daily Mail,2023-04-06,8
+1,A Very British Cult review – an unrelenting investigation into the worst of humanity,https://www.theguardian.com/tv-and-radio/2023/apr/05/a-very-british-cult-review-lighthouse-bbc-documentary,0,0.146,0.104,0.749,0.9929,Guardian,2023-04-06,8
+2,Russian defector sheds light on Putin paranoia and his secret train network,https://www.theguardian.com/world/2023/apr/05/russian-defector-sheds-light-on-putin-paranoia-including-secret-train,1,0.032,0.066,0.902,-0.982,Guardian,2023-04-06,8
+3,Gary Lineker: it was factually accurate to call refugee policy cruel,https://www.theguardian.com/football/2023/apr/06/gary-lineker-it-was-factually-accurate-to-call-refugee-policy-cruel,2,0.076,0.072,0.852,-0.1596,Guardian,2023-04-06,8
+4,Tory MP Scott Benton has whip suspended after newspaper sting,https://www.theguardian.com/politics/2023/apr/05/rishi-sunak-facing-calls-suspend-whip-scott-benton,3,0.05,0.057,0.893,-0.8011,Guardian,2023-04-06,8
+5,The big surprise when the Trump circus came back to town? How boring he has become,https://www.theguardian.com/commentisfree/2023/apr/06/donald-trump-court-supporters,4,0.072,0.138,0.791,-0.9962,Guardian,2023-04-06,8
+6,A Little Life review – James Norton’s sexually abused lawyer is spared no misery,https://www.theguardian.com/stage/2023/apr/05/a-little-life-review-james-norton-sexually-abused-harold-pinter-theatre-london-hanya-yanagihara,5,0.091,0.141,0.768,-0.996,Guardian,2023-04-06,8
+7,How the British royal family hides its wealth from public scrutiny,https://www.theguardian.com/uk-news/2023/apr/05/how-the-british-royal-family-hides-its-wealth-from-public-scrutiny,6,0.086,0.056,0.859,0.9947,Guardian,2023-04-06,8
+8,"Russia-Ukraine war live: Ukraine signals willingness to discuss Crimea if its forces reach border, reports say",https://www.theguardian.com/world/live/2023/apr/06/russia-ukraine-war-live-powerful-blasts-in-occupied-melitopol-von-der-leyen-and-macron-in-china,7,0.082,0.11,0.808,-0.9981,Guardian,2023-04-06,8
+9,The Bella Hadid lift: will a generation of girls regret shaving their eyebrows?,https://www.theguardian.com/fashion/2023/apr/05/bella-hadid-lift-straight-eyebrow-trend-tiktok,8,0.091,0.012,0.898,0.9902,Guardian,2023-04-06,8
+10,A moment that changed me: I saw the empty sock drawer – and knew my marriage was over,https://www.theguardian.com/lifeandstyle/2023/apr/05/a-moment-that-changed-me-marriage-over-ex-husband-grief-rebuilding,9,0.134,0.127,0.738,0.9468,Guardian,2023-04-06,8
