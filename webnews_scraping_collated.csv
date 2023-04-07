@@ -2399,3 +2399,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,King Charles signals first explicit support for research into monarchy’s slavery ties,https://www.theguardian.com/world/2023/apr/06/king-charles-signals-first-explicit-support-for-research-into-monarchys-slavery-ties,7,0.107,0.097,0.796,0.2093,Guardian,2023-04-06,20
 9,"Benefit sanctions slow people’s progress into work, says report Coffey suppressed",https://www.theguardian.com/society/2023/apr/06/benefit-sanctions-slow-peoples-progress-into-work-says-report-therese-coffey-suppressed,8,0.096,0.071,0.833,0.9656,Guardian,2023-04-06,20
 10,Paris brasserie favoured by Macron set alight as pension protests continue,https://www.theguardian.com/world/2023/apr/06/france-pension-protests-paris-brasserie-macron,9,0.06,0.116,0.824,-0.9825,Guardian,2023-04-06,20
+1,Tennessee statehouse expels Democrats over protest,https://www.bbc.co.uk/news/world-us-canada-65206459,0,0.043,0.15,0.807,-0.9984,BBC,2023-04-07,8
+2,Rap star Coolio died of fentanyl overdose - manager,https://www.bbc.co.uk/news/entertainment-arts-65209910,1,0.12,0.043,0.838,0.9899,BBC,2023-04-07,8
+3,Israel strikes Lebanon and Gaza after rocket fire,https://www.bbc.co.uk/news/world-middle-east-65210045,2,0.038,0.2,0.762,-0.9989,BBC,2023-04-07,8
+4,Chinese scientists publish long-awaited Covid data,https://www.bbc.co.uk/news/science-environment-65204169,3,0.071,0.056,0.873,0.8798,BBC,2023-04-07,8
+5,White House blames chaotic Afghan pull-out on Trump,https://www.bbc.co.uk/news/world-us-canada-65208663,4,0.076,0.202,0.722,-0.9991,BBC,2023-04-07,8
+6,The daughter who fled North Korea to find her mother,https://www.bbc.co.uk/news/world-asia-64820529,5,0.094,0.098,0.808,-0.9664,BBC,2023-04-07,8
+7,One Romanian family's fatal attempt to reach the US,https://www.bbc.co.uk/news/world-us-canada-65197573,6,0.064,0.114,0.821,-0.9959,BBC,2023-04-07,8
+8,Man murdered wife by pushing her off Arthur's Seat,https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-65199907,7,0.048,0.127,0.825,-0.9977,BBC,2023-04-07,8
+9,Debris found in hunt for missing Japanese helicopter,https://www.bbc.co.uk/news/world-asia-65209753,8,0.025,0.054,0.92,-0.6124,BBC,2023-04-07,8
+10,"If Joe Biden does not run in 2024, who might?",https://www.bbc.co.uk/news/world-us-canada-63654388,9,0.109,0.069,0.821,0.9951,BBC,2023-04-07,8
+1,"Country star Travis Tritt DROPS all Anheuser-Busch beers from his tour as backlash continues after Bud Light signed up trans activist Dylan Mulvaney
+",https://www.dailymail.co.uk/news/article-11945593/Travis-Tritt-drops-Anheuser-Busch-beers-tour-Bud-Light-signed-Dylan-Mulvaney.html,0,0.109,0.053,0.838,0.9989,Daily Mail,2023-04-07,8
+2,"Aubrey Plaza claims director instructed her to  masturbate 'like it says in the script' for 2013 movie: 'There were a bunch of old men smoking and I touched myself'
+",https://www.dailymail.co.uk/tvshowbiz/article-11946357/Aubrey-Plaza-claims-director-instructed-masturbate-like-says-script-2013-film.html,1,0.084,0.046,0.87,0.9513,Daily Mail,2023-04-07,8
+3,"EXCLUSIVE: Harrowing final moments of Cash App founder Bob Lee, 43, as he staggers outside luxury high-rise after knife attack and tries to get help - and residents say video is shocking proof that crime in San Fran is OUT OF CONTROL
+",https://www.dailymail.co.uk/news/article-11946767/Cash-App-founder-Bob-Lee-seen-video-staggering-collapsing-stabbed.html,2,0.08,0.135,0.785,-0.9968,Daily Mail,2023-04-07,8
+4,"EXCLUSIVE: Peter Thiel's Instagram model boyfriend plunged to his death WEEKS after witnessing messy showdown between the billionaire mogul and his husband when he crashed couple's New Year's bash
+",https://www.dailymail.co.uk/news/article-11926699/Peter-Thiels-model-boyfriend-died-WEEKS-NYE-showdown-billionaire-husband.html,3,0.124,0.095,0.78,0.9962,Daily Mail,2023-04-07,8
+5,"Nike angers feminists after choosing controversial trans influencer Dylan Mulvaney as new face of its women's SPORTS BRA, days after Bud Light was slammed for putting her on can 
+",https://www.dailymail.co.uk/news/article-11943777/Nike-angers-feminists-making-trans-influencer-Dylan-Mulvaney-new-face-womens-workout-gear.html,4,0.076,0.085,0.84,-0.795,Daily Mail,2023-04-07,8
+6,"Bud Light parent company Anheuser-Busch's website mysteriously goes offline for two hours - days after it sparked controversy over partnership with trans influencer Dylan Mulvaney
+",https://www.dailymail.co.uk/news/article-11943343/Bud-Light-parent-company-Anheuser-Buschs-website-mysteriously-goes-offline.html,5,0.074,0.056,0.87,0.954,Daily Mail,2023-04-07,8
+7,"'I'm done with this sh**!' Distressing moment Ohio school bus driver resigns 'after being tormented by bully students who triggered her asthma by spraying perfume' - as her rant inspires T-SHIRTS
+",https://www.dailymail.co.uk/news/article-11944591/Dramatic-moment-Ohio-school-bus-driver-resigns-yelling-students.html,6,0.034,0.109,0.857,-0.9924,Daily Mail,2023-04-07,8
+8,"Steve Irwin's father makes rare public statement amid a family feud with Bindi and Terri that has been raging for more than a decade
+",https://www.dailymail.co.uk/news/article-11943889/Australia-Zoo-founder-Bob-Irwin-breaks-silence-amid-family-feud-Terri-Bindi.html,7,0.069,0.074,0.857,-0.4066,Daily Mail,2023-04-07,8
+9,"Brad Pitt let his 105-year-old neighbor live rent-free on his $39m former compound for years, reveals Elvira star Cassandra Peterson: 'He was very, very kind'
+",https://www.dailymail.co.uk/tvshowbiz/article-11946999/Brad-Pitt-let-105-year-old-neighbor-live-rent-free-39m-former-compound-years.html,8,0.095,0.037,0.868,0.9817,Daily Mail,2023-04-07,8
+10,"EXCLUSIVE: Jeff Bezos' girlfriend Lauren Sanchez shows off her curves in a VERY risque silk slip dress as she enjoys a night out with the Amazon billionaire and her son Nikko 
+",https://www.dailymail.co.uk/femail/article-11946721/Lauren-Sanchez-dons-risque-silk-slip-dress-date-night-Jeff-Bezos.html,9,0.117,0.021,0.862,0.9969,Daily Mail,2023-04-07,8
+1,‘Truly alarming’: girls put off sport in UK by clothing requirements,https://www.theguardian.com/sport/2023/apr/07/girls-put-off-sport-by-clothing-requirements-tess-howard,0,0.102,0.047,0.851,0.968,Guardian,2023-04-07,8
+2,‘The king has been dethroned’: Stormy Daniels speaks on Trump indictment,https://www.theguardian.com/us-news/2023/apr/06/stormy-daniels-interview-donald-trump-indictment,1,0.034,0.085,0.881,-0.9607,Guardian,2023-04-07,8
+3,Kelly seals glory again as England win Finalissima in penalty shootout,https://www.theguardian.com/football/2023/apr/06/kelly-seals-it-as-england-win-on-penalties-after-brazil-comeback,2,0.132,0.06,0.808,0.9974,Guardian,2023-04-07,8
+4,"Russia-Ukraine war live: Russia has ‘highly likely’ reached Bakhmut centre, says UK",https://www.theguardian.com/world/live/2023/apr/07/russia-ukraine-war-live-pentagon-investigating-leak-of-us-and-nato-files-report-macron-and-von-der-leyens-last-day-in-china,3,0.109,0.083,0.807,0.9931,Guardian,2023-04-07,8
+5,"Coolio died from fentanyl overdose, manager says",https://www.theguardian.com/us-news/2023/apr/06/coolio-death-fentanyl-overdose,4,0.134,0.085,0.781,0.9081,Guardian,2023-04-07,8
+6,30 under 30-year sentences: why so many of Forbes’ young heroes face jail,https://www.theguardian.com/business/2023/apr/06/forbes-30-under-30-tech-finance-prison,5,0.092,0.155,0.753,-0.9961,Guardian,2023-04-07,8
+7,‘I still can’t handle the big ones’: the new wave of spider hunters scouring Britain’s heaths,https://www.theguardian.com/environment/2023/apr/07/i-still-cant-handle-the-big-ones-the-new-wave-of-spider-hunters-scouring-britains-heaths,6,0.11,0.021,0.87,0.9987,Guardian,2023-04-07,8
+8,Dreamland review – Lily Allen’s TV acting debut is nothing to write home about,https://www.theguardian.com/tv-and-radio/2023/apr/06/dreamland-review-lily-allen-sharon-horgan-comedy-drama,7,0.139,0.069,0.792,0.9952,Guardian,2023-04-07,8
+9,TV tonight: seven celebrity pilgrims take a hugely emotional trip,https://www.theguardian.com/tv-and-radio/2023/apr/07/tv-tonight-seven-celebrity-pilgrims-take-a-hugely-emotional-trip,8,0.115,0.07,0.815,0.9798,Guardian,2023-04-07,8
+10,Why did Terence Kelly take Cleo Smith? The story behind the abduction that gripped the world,https://www.theguardian.com/australia-news/2023/apr/07/why-did-terence-kelly-take-cleo-smith-the-story-behind-the-abduction-that-gripped-the-world,9,0.077,0.168,0.755,-0.9995,Guardian,2023-04-07,8
