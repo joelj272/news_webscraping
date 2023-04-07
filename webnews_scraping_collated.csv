@@ -2439,3 +2439,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Dreamland review – Lily Allen’s TV acting debut is nothing to write home about,https://www.theguardian.com/tv-and-radio/2023/apr/06/dreamland-review-lily-allen-sharon-horgan-comedy-drama,7,0.139,0.069,0.792,0.9952,Guardian,2023-04-07,8
 9,TV tonight: seven celebrity pilgrims take a hugely emotional trip,https://www.theguardian.com/tv-and-radio/2023/apr/07/tv-tonight-seven-celebrity-pilgrims-take-a-hugely-emotional-trip,8,0.115,0.07,0.815,0.9798,Guardian,2023-04-07,8
 10,Why did Terence Kelly take Cleo Smith? The story behind the abduction that gripped the world,https://www.theguardian.com/australia-news/2023/apr/07/why-did-terence-kelly-take-cleo-smith-the-story-behind-the-abduction-that-gripped-the-world,9,0.077,0.168,0.755,-0.9995,Guardian,2023-04-07,8
+1,Supreme Court Justice Thomas defends luxury trips,https://www.bbc.co.uk/news/world-us-canada-65215407,0,0.083,0.031,0.886,0.9909,BBC,2023-04-07,20
+2,S Club 7 star Paul Cattermole dies aged 46,https://www.bbc.co.uk/news/entertainment-arts-65215283,1,0.147,0.083,0.77,0.9986,BBC,2023-04-07,20
+3,Stormy Daniels: Trump doesn't deserve prison,https://www.bbc.co.uk/news/world-us-canada-65212196,2,0.054,0.11,0.836,-0.9829,BBC,2023-04-07,20
+4,Bob Lee killing highlights San Francisco crime fears,https://www.bbc.co.uk/news/world-us-canada-65191474,3,0.07,0.161,0.769,-0.997,BBC,2023-04-07,20
+5,Russian rouble falls to lowest value for a year,https://www.bbc.co.uk/news/world-europe-65213412,4,0.093,0.056,0.851,0.952,BBC,2023-04-07,20
+6,Expelled Tennessee lawmaker vows to return,https://www.bbc.co.uk/news/world-us-canada-65215212,5,0.02,0.125,0.855,-0.9949,BBC,2023-04-07,20
+7,Actress reveals she had miscarriage on stage,https://www.bbc.co.uk/news/entertainment-arts-65211625,6,0.157,0.093,0.749,0.9863,BBC,2023-04-07,20
+8,"People were taking drugs in Spain 3,000 years ago",https://www.bbc.co.uk/news/world-europe-65211722,7,0.04,0.008,0.951,0.8122,BBC,2023-04-07,20
+9,The daughter who fled North Korea to find her mother,https://www.bbc.co.uk/news/world-asia-64820529,8,0.094,0.098,0.808,-0.9664,BBC,2023-04-07,20
+10,Six jailed in chained woman case that horrified China,https://www.bbc.co.uk/news/world-asia-china-65210833,9,0.044,0.143,0.813,-0.9979,BBC,2023-04-07,20
+1,"EXCLUSIVE: Harrowing final moments of Cash App founder Bob Lee, 43, as he staggers outside luxury high-rise after knife attack and tries to get help - and residents say video is shocking proof that crime in San Fran is OUT OF CONTROL
+",https://www.dailymail.co.uk/news/article-11946767/Cash-App-founder-Bob-Lee-seen-video-staggering-collapsing-stabbed.html,0,0.08,0.135,0.785,-0.9968,Daily Mail,2023-04-07,20
+2,"Moment Mississippi woman, 19, is arrested over video showing her 'having sexual intercourse with a DOG' 
+",https://www.dailymail.co.uk/news/article-11948195/Moment-Mississippi-woman-19-arrested-video-showing-having-intercourse-DOG.html,1,0.027,0.142,0.831,-0.9944,Daily Mail,2023-04-07,20
+3,"Country star Travis Tritt DROPS all Anheuser-Busch beers from his tour as backlash continues after Bud Light signed up trans activist Dylan Mulvaney
+",https://www.dailymail.co.uk/news/article-11945593/Travis-Tritt-drops-Anheuser-Busch-beers-tour-Bud-Light-signed-Dylan-Mulvaney.html,2,0.109,0.053,0.838,0.9989,Daily Mail,2023-04-07,20
+4,"Tyrese Gibson CONFIRMS he and Paul Walker both slept with Eva Mendes' stunt double while filming 2 Fast 2 Furious in 2003... 8 years after she revealed the flings in VERY crass chat 
+",https://www.dailymail.co.uk/tvshowbiz/article-11947729/Tyrese-Gibson-said-slept-woman-Paul-Walker-2-Fast-2-Furious.html,3,0.105,0.069,0.826,0.9766,Daily Mail,2023-04-07,20
+5,"Terrified swimming champion Riley Gaines is ambushed by screaming trans activists and 'hit twice by guy in a dress' after Saving Women's Sports speech at San Fran State University - as cops say there were NO arrests 
+",https://www.dailymail.co.uk/news/article-11949057/Terrified-Riley-Gaines-ambushed-screaming-trans-activists-physically-attacked-her.html,4,0.088,0.126,0.786,-0.9904,Daily Mail,2023-04-07,20
+6,"Aubrey Plaza claims director instructed her to  masturbate 'like it says in the script' for 2013 movie: 'There were a bunch of old men smoking and I touched myself'
+",https://www.dailymail.co.uk/tvshowbiz/article-11946357/Aubrey-Plaza-claims-director-instructed-masturbate-like-says-script-2013-film.html,5,0.084,0.046,0.87,0.9513,Daily Mail,2023-04-07,20
+7,"'SF is a complete s**thole. I am a registered Democrat... liberal politicians are ruining cities.' Music mogul David Foster's daughter slams woke lawmakers over murder of CashApp founder Bob Lee
+",https://www.dailymail.co.uk/news/article-11948345/Music-mogul-David-Fosters-daughter-slams-woke-lawmakers-murder-CashApp-founder-Bob-Lee.html,6,0.075,0.14,0.784,-0.9986,Daily Mail,2023-04-07,20
+8,"'I'll get him': Sheriff vows to hunt down third killer as two boys, 12 and 17, are arrested in triple teen murders: Cop says shooters left messy crime scene as they hid bodies after 'turning on the victims' 
+",https://www.dailymail.co.uk/news/article-11949349/Arrests-murder-three-Florida-teenagers-shot-dead-outside-tiny-town.html,7,0.059,0.184,0.757,-0.9994,Daily Mail,2023-04-07,20
+9,"Brad Pitt let his 105-year-old neighbor live rent-free on his $39m former compound for years, reveals Elvira star Cassandra Peterson: 'He was very, very kind'
+",https://www.dailymail.co.uk/tvshowbiz/article-11946999/Brad-Pitt-let-105-year-old-neighbor-live-rent-free-39m-former-compound-years.html,8,0.095,0.037,0.868,0.9817,Daily Mail,2023-04-07,20
+10,"EXCLUSIVE: Jeff Bezos' girlfriend Lauren Sanchez shows off her curves in a VERY risque silk slip dress as she enjoys a night out with the Amazon billionaire and her son Nikko 
+",https://www.dailymail.co.uk/femail/article-11946721/Lauren-Sanchez-dons-risque-silk-slip-dress-date-night-Jeff-Bezos.html,9,0.117,0.021,0.862,0.9969,Daily Mail,2023-04-07,20
+1,"Paul Cattermole, singer with S Club 7, dies aged 46",https://www.theguardian.com/music/2023/apr/07/paul-cattermole-singer-with-s-club-7-dies-aged-46,0,0.148,0.101,0.751,0.9927,Guardian,2023-04-07,20
+2,Cancer and heart disease vaccines ‘ready by end of the decade’,https://www.theguardian.com/society/2023/apr/07/cancer-and-heart-disease-vaccines-ready-by-end-of-the-decade,1,0.1,0.092,0.808,-0.5314,Guardian,2023-04-07,20
+3,Paul Cattermole was the endearing wild card in S Club 7’s peppy pop pack,https://www.theguardian.com/music/2023/apr/07/paul-cattermole-s-club-7-wild-card,2,0.107,0.018,0.875,0.996,Guardian,2023-04-07,20
+4,What was that dreadful thud? The sound of Keir Starmer falling off his high horse,https://www.theguardian.com/commentisfree/2023/apr/07/keir-starmer-high-horse-politics-labour-rishi-sunak,3,0.074,0.09,0.836,-0.9678,Guardian,2023-04-07,20
+5,Stand on one leg – and 16 other life-changing daily moves that will keep your body happy,https://www.theguardian.com/lifeandstyle/2023/apr/07/life-changing-daily-moves-that-will-keep-your-body-happy,4,0.131,0.055,0.813,0.9994,Guardian,2023-04-07,20
+6,"‘It’s been horrendous’: Cardiff flat owner gets tax bills for 11,000 Chinese firms ",https://www.theguardian.com/politics/2023/apr/07/cardiff-flat-owner-gets-tax-bills-for-11000-chinese-firms,5,0.032,0.138,0.83,-0.9942,Guardian,2023-04-07,20
+7,The chasm between mothers and childless women is widening ,https://www.theguardian.com/commentisfree/2023/apr/07/chasm-mothers-childless-women-widening-motherhood-empathy,6,0.076,0.08,0.843,-0.8018,Guardian,2023-04-07,20
+8,"Star Wars announces three new films on the way, with Daisy Ridley to return as Rey",https://www.theguardian.com/film/2023/apr/07/star-wars-three-new-films-lucasfilm-daisy-ridley-rey,7,0.032,0.066,0.902,-0.8481,Guardian,2023-04-07,20
+9,UK hopes to emulate Japan with cherry blossom tourism plans,https://www.theguardian.com/environment/2023/apr/07/uk-hopes-to-emulate-japan-with-cherry-blossom-tourism-plans,8,0.195,0.012,0.793,0.9994,Guardian,2023-04-07,20
+10,Two British sisters killed and mother injured in West Bank shooting,https://www.theguardian.com/world/2023/apr/07/two-sisters-killed-and-mother-injured-in-west-bank-shooting,9,0.055,0.172,0.773,-0.9993,Guardian,2023-04-07,20
