@@ -2519,3 +2519,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Blind date: ‘There was confusion between hare – which was on the menu – and hair’,https://www.theguardian.com/lifeandstyle/2023/apr/08/blind-date-aidan-richard,7,0.173,0.029,0.798,0.9988,Guardian,2023-04-08,8
 9,The chasm between mothers and childless women is widening ,https://www.theguardian.com/commentisfree/2023/apr/07/chasm-mothers-childless-women-widening-motherhood-empathy,8,0.076,0.08,0.843,-0.8018,Guardian,2023-04-08,8
 10,"Tim Dowling: the cat is a liar and a coward, and it’s got me by the toe",https://www.theguardian.com/lifeandstyle/2023/apr/08/tim-dowling-the-cat-is-a-liar-and-a-coward-and-its-got-me-by-the-toe,9,0.043,0.033,0.924,0.7404,Guardian,2023-04-08,8
+1,British-Israeli sisters killed in West Bank named,https://www.bbc.co.uk/news/world-middle-east-65222234,0,0.0,0.144,0.856,-0.9897,BBC,2023-04-08,20
+2,Chinese military rehearses encirclement of Taiwan,https://www.bbc.co.uk/news/world-asia-65219219,1,0.068,0.041,0.891,0.9389,BBC,2023-04-08,20
+3,Chinese scientists publish long-awaited Covid data,https://www.bbc.co.uk/news/science-environment-65204169,2,0.071,0.056,0.873,0.8798,BBC,2023-04-08,20
+4,Ukraine to export electricity again after attacks,https://www.bbc.co.uk/news/world-europe-65220003,3,0.095,0.13,0.775,-0.9717,BBC,2023-04-08,20
+5,Rapist who escaped prison by faking death arrested,https://www.bbc.co.uk/news/world-africa-65221385,4,0.025,0.255,0.72,-0.9983,BBC,2023-04-08,20
+6,Audience singing sees The Bodyguard cut short,https://www.bbc.co.uk/news/uk-england-manchester-65220527,5,0.128,0.095,0.777,0.9806,BBC,2023-04-08,20
+7,DeSantis threatens Disney with taxes and tolls,https://www.bbc.co.uk/news/world-us-canada-65216192,6,0.106,0.054,0.84,0.9827,BBC,2023-04-08,20
+8,What goes on at men's-only club Bohemian Grove?,https://www.bbc.co.uk/news/world-us-canada-65217165,7,0.084,0.075,0.841,-0.0527,BBC,2023-04-08,20
+9,"Becker on prison, fame and his future",https://www.bbc.co.uk/sport/tennis/65214718,8,0.0,0.0,0.0,0.0,BBC,2023-04-08,20
+10,Iran installs cameras to identify unveiled women,https://www.bbc.co.uk/news/world-65220595,9,0.054,0.145,0.801,-0.9858,BBC,2023-04-08,20
+1,"Prince Harry 'infuriated' by 'bombshell' from King Charles who said he could not afford to pay for Meghan Markle - as damning new book unveils 'volatile exchanges' within the Royal Family 
+",https://www.dailymail.co.uk/news/article-11951001/Harry-infuriated-bombshell-King-Charles-said-not-afford-pay-Meghan.html,0,0.095,0.105,0.801,-0.9855,Daily Mail,2023-04-08,20
+2,"Sex/Life is canceled by Netflix after two seasons... just days after star Sarah Shahi called out the streamer for being too 'gimmicky' with last season 
+",https://www.dailymail.co.uk/tvshowbiz/article-11950595/Sex-Life-canceled-star-Sarah-Shahi-called-Netflix-gimmicks.html,1,0.106,0.028,0.866,0.9967,Daily Mail,2023-04-08,20
+3,"Tyrese Gibson CONFIRMS he and Paul Walker both slept with Eva Mendes' stunt double while filming 2 Fast 2 Furious in 2003... 8 years after she revealed the flings in VERY crass chat 
+",https://www.dailymail.co.uk/tvshowbiz/article-11947729/Tyrese-Gibson-said-slept-woman-Paul-Walker-2-Fast-2-Furious.html,2,0.105,0.069,0.826,0.9766,Daily Mail,2023-04-08,20
+4,"Mississippi woman, 19, accused of sex with German shepherd is pictured WITH the dog after she crashed her car days before her arrest: Cops say bestiality tape was recorded outside local Baptist CHURCH
+",https://www.dailymail.co.uk/news/article-11951457/Mississippi-woman-accused-having-sex-German-shepherd-seen-video-THREE-separate-dogs.html,3,0.029,0.153,0.818,-0.9977,Daily Mail,2023-04-08,20
+5,"Blake Lively shows off VERY toned abs in a black cut-out swimsuit as she soaks up the sun on vacation... just two months after welcoming fourth child with husband Ryan Reynolds
+",https://www.dailymail.co.uk/tvshowbiz/article-11951495/Blake-Lively-shows-toned-abs-welcoming-fourth-child-husband-Ryan-Reynolds.html,4,0.142,0.01,0.848,0.9931,Daily Mail,2023-04-08,20
+6,"Abusive Utah dad who murdered his five kids, wife and mother-in-law then killed himself left suicide note saying he'd rather 'rot in hell' than put up with 'manipulative' wife, as cops release eerie bodycam footage of bloodbath 
+",https://www.dailymail.co.uk/news/article-11951541/Utah-dad-murdered-five-kids-wife-mother-law-left-warped-suicide-note.html,5,0.081,0.144,0.775,-0.9995,Daily Mail,2023-04-08,20
+7,"Fresh-faced Dylan Mulvaney breaks cover to take out the trash at her LA home after 'living the good life' in $1,500-a-night room at NYC's Plaza Hotel - amid firestorm caused by Bud Light and Nike deals
+",https://www.dailymail.co.uk/news/article-11949473/Dylan-Mulvaney-takes-trash-LA-living-good-life-NYCs-Plaza-Hotel.html,6,0.077,0.059,0.864,0.9711,Daily Mail,2023-04-08,20
+8,"EXCLUSIVE: Machine Gun Kelly and Megan Fox are BACK ON! Couple rekindle romance on a 'healing' holiday in Hawaii after she ditched engagement ring amid split rumors: 'They're more connected than ever'
+",https://www.dailymail.co.uk/tvshowbiz/article-11950145/Machine-Gun-Kelly-Megan-Fox-rekindle-romance-healing-holiday-Hawaii-split-rumors.html,7,0.131,0.054,0.815,0.9992,Daily Mail,2023-04-08,20
+9,"Kylie Jenner and Timothée Chalamet spark WILD dating rumors that sends fans into meltdown on social media: 'The Jenners are collecting my men like Pokemons!'
+",https://www.dailymail.co.uk/tvshowbiz/article-11950139/Kylie-Jenner-Timoth-e-Chalamet-spark-WILD-dating-rumors-sends-fans-meltdown.html,8,0.133,0.033,0.834,0.9978,Daily Mail,2023-04-08,20
+10,"Horrifying moment three 100ft PINE TREES fall on patrons next to the 17th tee at The Masters... as play is stopped for the day and the course is evacuated amid electrical storms at Augusta National
+",https://www.dailymail.co.uk/sport/golf/article-11950719/The-Masters-Terrifying-moment-huge-pine-TREE-falls-patrons.html,9,0.098,0.102,0.8,-0.3858,Daily Mail,2023-04-08,20
+1,Home Office admits no evidence to support key claim on small boat crossings,https://www.theguardian.com/uk-news/2023/apr/08/home-office-admits-no-evidence-to-support-key-claim-on-small-boat-crossings,0,0.094,0.137,0.769,-0.9942,Guardian,2023-04-08,20
+2,Bodyguard show stopped after audience members refuse to stop singing along,https://www.theguardian.com/uk-news/2023/apr/08/bodyguard-performance-stops-early-as-disruptive-audience-members-are-removed,1,0.12,0.106,0.774,0.8618,Guardian,2023-04-08,20
+3,French and German tourists turn their back on Brexit Britain,https://www.theguardian.com/politics/2023/apr/08/french-and-german-tourists-turn-their-back-on-brexit-britain,2,0.077,0.037,0.886,0.9894,Guardian,2023-04-08,20
+4,Student faces deportation from UK after arriving early for course at university’s request,https://www.theguardian.com/uk-news/2023/apr/08/student-to-be-deported-from-uk-after-arriving-early-for-course-at-universitys-request,3,0.105,0.065,0.829,0.9887,Guardian,2023-04-08,20
+5,UK comedians pay tribute to Gareth Richards after his death at 41,https://www.theguardian.com/culture/2023/apr/08/uk-comedians-pay-tribute-to-gareth-richards-after-his-death-at-41,4,0.245,0.056,0.699,0.9995,Guardian,2023-04-08,20
+6,Yvette Cooper was ‘not told’ about Labour’s Sunak attack ad in advance,https://www.theguardian.com/politics/2023/apr/08/yvette-cooper-was-not-told-about-labours-sunak-attack-ad-in-advance,5,0.081,0.079,0.84,-0.4215,Guardian,2023-04-08,20
+7,Pensioner-dependent Tories have set the UK on the road to ruin,https://www.theguardian.com/business/2023/apr/08/pensioner-dependent-tories-have-set-the-uk-on-the-road-to-ruin,6,0.056,0.053,0.891,0.4574,Guardian,2023-04-08,20
+8,Southampton 1-4 Manchester City: Premier League – live reaction,https://www.theguardian.com/football/live/2023/apr/08/southampton-v-manchester-city-premier-league-live,7,0.137,0.073,0.789,0.9994,Guardian,2023-04-08,20
+9,Nicola Sturgeon promises full cooperation with police after husband’s arrest,https://www.theguardian.com/politics/2023/apr/08/nicola-sturgeon-promises-full-cooperation-with-police-after-husbands-arrest,8,0.098,0.049,0.853,0.9551,Guardian,2023-04-08,20
+10,Hospitals in frantic dash to fill gaps left by doctors’ strike,https://www.theguardian.com/society/2023/apr/08/hospitals-in-frantic-dash-to-fill-gaps-left-by-doctors-strike,9,0.081,0.108,0.811,-0.8035,Guardian,2023-04-08,20
