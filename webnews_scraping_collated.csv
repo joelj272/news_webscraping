@@ -2559,3 +2559,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Southampton 1-4 Manchester City: Premier League – live reaction,https://www.theguardian.com/football/live/2023/apr/08/southampton-v-manchester-city-premier-league-live,7,0.137,0.073,0.789,0.9994,Guardian,2023-04-08,20
 9,Nicola Sturgeon promises full cooperation with police after husband’s arrest,https://www.theguardian.com/politics/2023/apr/08/nicola-sturgeon-promises-full-cooperation-with-police-after-husbands-arrest,8,0.098,0.049,0.853,0.9551,Guardian,2023-04-08,20
 10,Hospitals in frantic dash to fill gaps left by doctors’ strike,https://www.theguardian.com/society/2023/apr/08/hospitals-in-frantic-dash-to-fill-gaps-left-by-doctors-strike,9,0.081,0.108,0.811,-0.8035,Guardian,2023-04-08,20
+1,China simulates hitting 'key targets' on Taiwan,https://www.bbc.co.uk/news/world-65223970,0,0.072,0.064,0.865,0.6765,BBC,2023-04-09,8
+2,'They offered me a spot in a Wagner cemetery',https://www.bbc.co.uk/news/world-europe-65213426,1,0.022,0.211,0.767,-0.9997,BBC,2023-04-09,8
+3,British-Israeli sisters killed in West Bank named,https://www.bbc.co.uk/news/world-middle-east-65222234,2,0.055,0.148,0.797,-0.9964,BBC,2023-04-09,8
+4,"Last surviving Nuremberg prosecutor dies, aged 103",https://www.bbc.co.uk/news/world-65223756,3,0.053,0.181,0.767,-0.9977,BBC,2023-04-09,8
+5,Chinese scientists publish long-awaited Covid data,https://www.bbc.co.uk/news/science-environment-65204169,4,0.071,0.056,0.873,0.8798,BBC,2023-04-09,8
+6,The rising star who scuppered Macron's pension vote,https://www.bbc.co.uk/news/world-europe-65186539,5,0.076,0.079,0.845,-0.8248,BBC,2023-04-09,8
+7,Rapist who escaped prison by faking death arrested,https://www.bbc.co.uk/news/world-africa-65221385,6,0.025,0.254,0.722,-0.9983,BBC,2023-04-09,8
+8,Israel hits targets in Syria after rocket attacks,https://www.bbc.co.uk/news/world-65224316,7,0.025,0.182,0.792,-0.9969,BBC,2023-04-09,8
+9,Audience singing sees The Bodyguard cut short,https://www.bbc.co.uk/news/uk-england-manchester-65220527,8,0.128,0.095,0.777,0.9806,BBC,2023-04-09,8
+10,DeSantis threatens Disney with taxes and tolls,https://www.bbc.co.uk/news/world-us-canada-65216192,9,0.106,0.054,0.84,0.9827,BBC,2023-04-09,8
+1,"Putin prepares for an invasion of Crimea: Beaches are covered with trenches and tank traps to repel an amphibious landing as Zelensky 'prepares spring offensive' 
+",https://www.dailymail.co.uk/news/article-11951857/Crimeas-beaches-covered-trenches-tank-traps.html,0,0.067,0.15,0.784,-0.9974,Daily Mail,2023-04-09,8
+2,"Prince Harry 'infuriated' by 'bombshell' from King Charles who said he could not afford to pay for Meghan Markle - as damning new book unveils 'volatile exchanges' within the Royal Family 
+",https://www.dailymail.co.uk/news/article-11951001/Harry-infuriated-bombshell-King-Charles-said-not-afford-pay-Meghan.html,1,0.095,0.105,0.801,-0.9855,Daily Mail,2023-04-09,8
+3,"Tyrese Gibson CONFIRMS he and Paul Walker both slept with Eva Mendes' stunt double while filming 2 Fast 2 Furious in 2003... 8 years after she revealed the flings in VERY crass chat 
+",https://www.dailymail.co.uk/tvshowbiz/article-11947729/Tyrese-Gibson-said-slept-woman-Paul-Walker-2-Fast-2-Furious.html,2,0.105,0.069,0.826,0.9766,Daily Mail,2023-04-09,8
+4,"Taylor Swift and Joe Alwyn 'SPLIT!' Pop star, 33, and longtime boyfriend, 32, call it quits after six years of dating - as she spends time away on Eras world tour 
+",https://www.dailymail.co.uk/tvshowbiz/article-11953329/Taylor-Swift-longtime-boyfriend-Joe-Alwyn-SPLIT-six-years-dating.html,3,0.139,0.062,0.799,0.9998,Daily Mail,2023-04-09,8
+5,"Blake Lively shows off VERY toned abs in a black cut-out swimsuit as she soaks up the sun on vacation... just two months after welcoming fourth child with husband Ryan Reynolds
+",https://www.dailymail.co.uk/tvshowbiz/article-11951495/Blake-Lively-shows-toned-abs-welcoming-fourth-child-husband-Ryan-Reynolds.html,4,0.142,0.01,0.848,0.9931,Daily Mail,2023-04-09,8
+6,"Netflix cancels hit show after just two seasons - days after lead star claimed she 'did not have support' during filming
+",https://www.dailymail.co.uk/tvshowbiz/article-11952333/Netflix-cancels-hit-just-two-seasons-days-star-claimed-did-not-support.html,5,0.063,0.053,0.884,0.4289,Daily Mail,2023-04-09,8
+7,"Mississippi woman, 19, accused of sex with German shepherd is pictured WITH the dog after she crashed her car days before her arrest: Cops say bestiality tape was recorded outside local Baptist CHURCH
+",https://www.dailymail.co.uk/news/article-11951457/Mississippi-woman-accused-having-sex-German-shepherd-seen-video-THREE-separate-dogs.html,6,0.029,0.153,0.818,-0.9977,Daily Mail,2023-04-09,8
+8,"Abusive Utah dad who murdered his five kids, wife and mother-in-law then killed himself left suicide note saying he'd rather 'rot in hell' than put up with 'manipulative' wife, as cops release eerie bodycam footage of bloodbath 
+",https://www.dailymail.co.uk/news/article-11951541/Utah-dad-murdered-five-kids-wife-mother-law-left-warped-suicide-note.html,7,0.081,0.144,0.775,-0.9995,Daily Mail,2023-04-09,8
+9,"Horrifying moment Houston High School student, 15, punches teacher in the head after demanding to get his cell phone back: Distressing behavior toward educators 'common' says teacher's union
+",https://www.dailymail.co.uk/news/article-11952135/Houston-school-student-15-punches-teacher-head-demanding-cell-phone-back.html,8,0.039,0.084,0.877,-0.9944,Daily Mail,2023-04-09,8
+10,"First class American Airlines passenger has a TANTRUM 'like a 5-year-old' when he can't get a drink before take-off forcing police to drag him off in handcuffs  
+",https://www.dailymail.co.uk/news/article-11952393/First-class-American-Airlines-passenger-TANTRUM-like-5-year-old-hes-refused-drink.html,9,0.059,0.199,0.742,-0.9979,Daily Mail,2023-04-09,8
+1,I’m 70 and so full of regret about my husband and career,https://www.theguardian.com/lifeandstyle/2023/apr/09/i-am-70-and-so-full-of-regret-about-my-husband-and-career-ask-philippa-perry,0,0.15,0.136,0.714,0.9165,Guardian,2023-04-09,8
+2,‘This is where people with staggering wealth end up’: who will buy Britain’s most expensive house?,https://www.theguardian.com/money/2023/apr/08/britain-most-expensive-house-rutland-gate-mansion-london-super-rich-buyer,1,0.098,0.057,0.845,0.9997,Guardian,2023-04-09,8
+3,TV tonight: Hugh Laurie’s juicy adaptation of an Agatha Christie classic,https://www.theguardian.com/tv-and-radio/2023/apr/09/tv-tonight-hugh-lauries-juicy-adaptation-of-an-agatha-christie-classic,2,0.13,0.073,0.797,0.9873,Guardian,2023-04-09,8
+4,Pensioner-dependent Tories have set the UK on the road to ruin,https://www.theguardian.com/business/2023/apr/08/pensioner-dependent-tories-have-set-the-uk-on-the-road-to-ruin,3,0.056,0.053,0.891,0.4574,Guardian,2023-04-09,8
+5,Student faces deportation from UK after arriving early for course at university’s request,https://www.theguardian.com/uk-news/2023/apr/08/student-to-be-deported-from-uk-after-arriving-early-for-course-at-universitys-request,4,0.105,0.065,0.829,0.9887,Guardian,2023-04-09,8
+6,French and German tourists turn their back on Brexit Britain,https://www.theguardian.com/politics/2023/apr/08/french-and-german-tourists-turn-their-back-on-brexit-britain,5,0.077,0.037,0.886,0.9894,Guardian,2023-04-09,8
+7,Government retreats from Brexit bill plan to ditch EU laws,https://www.theguardian.com/politics/2023/apr/09/tories-in-retreat-from-brexit-bill-to-scrap-thousands-of-eu-laws,6,0.092,0.068,0.84,0.9512,Guardian,2023-04-09,8
+8,Please Please Us: Lost tape of Beatles school gig could be saved for the nation,https://www.theguardian.com/music/2023/apr/09/please-please-us-lost-tape-of-beatles-school-gig-could-be-saved-for-the-nation,7,0.084,0.021,0.895,0.9926,Guardian,2023-04-09,8
+9,Yvette Cooper was ‘not told’ about Labour’s Sunak attack ad in advance,https://www.theguardian.com/politics/2023/apr/08/yvette-cooper-was-not-told-about-labours-sunak-attack-ad-in-advance,8,0.086,0.092,0.823,-0.8742,Guardian,2023-04-09,8
+10,I wanted to scream at other parents: ‘You don’t know how lucky you are’ – how cancer in my 30s brought me face-to-face with death,https://www.theguardian.com/society/2023/apr/08/how-cancer-in-my-30s-brought-me-face-to-face-with-death,9,0.096,0.126,0.778,-0.9995,Guardian,2023-04-09,8
