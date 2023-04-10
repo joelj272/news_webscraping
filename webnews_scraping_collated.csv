@@ -2679,3 +2679,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Musk admits BBC ‘among least biased’ in row over Twitter ‘government-funded media’ tag,https://www.theguardian.com/media/2023/apr/09/bbc-protests-after-twitter-labels-it-government-funded-media,7,0.026,0.027,0.947,0.1254,Guardian,2023-04-10,8
 9,Procession route for King Charles III coronation to be far shorter than in 1953,https://www.theguardian.com/uk-news/2023/apr/09/king-charles-iii-coronation-procession-route,8,0.035,0.017,0.948,0.8381,Guardian,2023-04-10,8
 10,I’m 70 and so full of regret about my husband and career,https://www.theguardian.com/lifeandstyle/2023/apr/09/i-am-70-and-so-full-of-regret-about-my-husband-and-career-ask-philippa-perry,9,0.15,0.136,0.714,0.9165,Guardian,2023-04-10,8
+1,Rookie officer struck in head in Kentucky shooting,https://www.bbc.co.uk/news/world-us-canada-65233350,0,0.06,0.16,0.78,-0.9922,BBC,2023-04-10,20
+2,Leaked documents a risk to US security - Pentagon,https://www.bbc.co.uk/news/world-us-canada-65235121,1,0.095,0.074,0.831,0.7474,BBC,2023-04-10,20
+3,Dalai Lama regrets asking boy to 'suck my tongue',https://www.bbc.co.uk/news/world-asia-india-65229327,2,0.121,0.047,0.832,0.9823,BBC,2023-04-10,20
+4,"US woman, 78, charged with third bank robbery",https://www.bbc.co.uk/news/world-us-canada-65232308,3,0.035,0.053,0.912,-0.479,BBC,2023-04-10,20
+5,What does the huge leak of Ukraine war documents tell us?,https://www.bbc.co.uk/news/world-europe-65225985,4,0.08,0.127,0.793,-0.9945,BBC,2023-04-10,20
+6,China aircraft carrier 'seals off' Taiwan in drill,https://www.bbc.co.uk/news/world-asia-65229003,5,0.045,0.065,0.89,-0.9567,BBC,2023-04-10,20
+7,French dancer who helped Nureyev defection dies,https://www.bbc.co.uk/news/world-europe-65234449,6,0.081,0.069,0.85,0.8924,BBC,2023-04-10,20
+8,UK-Israeli mother wounded in West Bank attack dies,https://www.bbc.co.uk/news/world-middle-east-65227638,7,0.049,0.18,0.772,-0.9969,BBC,2023-04-10,20
+9,Super Mario Movie breaks box office records,https://www.bbc.co.uk/news/entertainment-arts-65230431,8,0.063,0.092,0.845,-0.9068,BBC,2023-04-10,20
+10,Abba in tribute to 'superb' long-serving guitarist,https://www.bbc.co.uk/news/entertainment-arts-65232127,9,0.154,0.025,0.821,0.9959,BBC,2023-04-10,20
+1,"Louisville cop is fighting for his life after gun battle with disgruntled bank employee who gunned down four colleagues as governor reveals two of his friends were killed: 'I know everyone there - that's my bank'
+",https://www.dailymail.co.uk/news/article-11956823/Mass-casualty-incident-Louisville-bank-active-shooter-opens-fire.html,0,0.034,0.081,0.885,-0.9935,Daily Mail,2023-04-10,20
+2,"EXCLUSIVE: End of care doctors reveal the most common things they hear from patients during their final words
+",https://www.dailymail.co.uk/health/article-11937485/One-SIX-people-globally-infertile-finds-world-report.html,1,0.167,0.089,0.743,0.9988,Daily Mail,2023-04-10,20
+3,"Bud Light's VP says she wanted to update the 'fratty' and 'out of touch' branding with 'inclusivity' days before Dylan Mulvaney's controversial partnership with beer was unveiled
+",https://www.dailymail.co.uk/news/article-11956593/Bud-Light-marketing-VP-said-wanted-update-fratty-branding-days-Dylan-Mulvaney-ad.html,2,0.09,0.035,0.875,0.9909,Daily Mail,2023-04-10,20
+4,"Police in Northern Ireland disrupt plan for a terror attack to overshadow President Joe Biden's visit this week amid fresh warnings of violence
+",https://www.dailymail.co.uk/news/article-11954031/Northern-Ireland-police-disrupt-plan-terror-attack-overshadow-Bidens-visit.html,3,0.084,0.14,0.776,-0.9949,Daily Mail,2023-04-10,20
+5,"'This is outstanding TV': New Netflix comedy series Beef bags coveted 100 per cent Rotten Tomatoes score as it's lauded by critics and fans as 'one of kind' and 'showstopping'
+",https://www.dailymail.co.uk/tvshowbiz/article-11954089/New-Netflix-comedy-series-Beef-bags-perfect-Rotten-Tomatoes-score-lauded-critics-fans.html,4,0.215,0.058,0.727,0.998,Daily Mail,2023-04-10,20
+6,"Dalai Lama, 87, apologises after kissing young boy on the lips and asking the child to 'suck' his tongue in bizarre interaction captured on video at charity event in India
+",https://www.dailymail.co.uk/news/article-11956189/Dalai-Lama-87-apologises-kissing-young-boy-lips-asking-child-suck-tongue.html,5,0.129,0.08,0.792,0.9819,Daily Mail,2023-04-10,20
+7,"The three reasons women are cheating and paying for sex more than ever, SAMANTHA X reveals... and the one bedroom act they're definitely not interested in
+",https://www.dailymail.co.uk/femail/article-11944461/Samantha-X-three-reasons-women-cheating-paying-sex-ever.html,6,0.149,0.087,0.764,0.9916,Daily Mail,2023-04-10,20
+8,"Is this the real reason Taylor Swift and Joe Alwyn split? Fans believe lyrics of song 'Champagne Problems' that the couple wrote together hint at cause of break-up... after singer appeared to cry while singing hit
+",https://www.dailymail.co.uk/tvshowbiz/article-11956167/Is-real-reason-Taylor-Swift-Joe-Alwyn-split.html,7,0.133,0.081,0.786,0.9998,Daily Mail,2023-04-10,20
+9,"Baby joy! Hilary Swank, 48, reveals she has given birth to twins - a boy and a girl - as she shares adorable Instagram snap: 'Posting from pure Heaven'
+",https://www.dailymail.co.uk/tvshowbiz/article-11955807/Hilary-Swank-48-revels-gave-birth-twins-shares-adorable-Instagram-snap.html,8,0.168,0.012,0.82,0.9988,Daily Mail,2023-04-10,20
+10,"The Kardashian-Jenner clan celebrate 'the sweetest Easter weekend'  at Kris Jenner's $12M Palm Springs home... as LA Lakers sign Tristan Thompson
+",https://www.dailymail.co.uk/tvshowbiz/article-11955227/The-Kardashian-Jenner-clan-celebrate-Easter-Kris-Jenners-12M-Palm-Springs-home.html,9,0.124,0.012,0.863,0.9944,Daily Mail,2023-04-10,20
+1,German punk band ‘humiliated’ after being refused UK entry due to post-Brexit rules,https://www.theguardian.com/politics/2023/apr/10/german-punk-band-humiliated-after-being-refused-uk-entry-due-to-post-brexit-rules,0,0.096,0.096,0.808,0.5532,Guardian,2023-04-10,20
+2,‘We’ve had to stop people fighting and urinating in their seats’: the ugly new side of theatre audiences,https://www.theguardian.com/stage/2023/apr/10/bodyguard-police-fighting-urinating-seats-ugly-new-side-of-theatre-audiences,1,0.149,0.089,0.763,0.9985,Guardian,2023-04-10,20
+3,Dalai Lama apologises after kissing boy and asking him to ‘suck my tongue’,https://www.theguardian.com/world/2023/apr/10/dalai-lama-apologises-kissing-boy-suck-his-tongue-video,2,0.118,0.056,0.826,0.9674,Guardian,2023-04-10,20
+4,‘Unreliable splatter’: Vatican exorcists denounce Russell Crowe’s Pope’s Exorcist ,https://www.theguardian.com/film/2023/apr/10/exorcists-denounce-the-popes-exorcist-with-russell-crowe,3,0.072,0.083,0.846,-0.8835,Guardian,2023-04-10,20
+5,‘They’re starting to die’: fears Ukraine’s drone supremacy may soon be over,https://www.theguardian.com/world/2023/apr/10/in-war-there-are-no-emotions-ukraine-drone-squads-bakhmut,4,0.062,0.125,0.813,-0.9982,Guardian,2023-04-10,20
+6,‘I put them in bed together just to get it over with’ – how we made Jonathan Creek,https://www.theguardian.com/culture/2023/apr/10/jonathan-creek-alan-davies-caroline-quentin-alan-yentob,5,0.129,0.051,0.82,0.998,Guardian,2023-04-10,20
+7,Essex police deny Braverman rebuked them over pub seizure of golliwog dolls,https://www.theguardian.com/uk-news/2023/apr/10/essex-police-deny-braverman-rebuked-them-over-pub-seizure-of-golliwog-dolls,6,0.048,0.163,0.789,-0.9951,Guardian,2023-04-10,20
+8,Father of woman killed by husband in Greece to look after granddaughter ‘far away’,https://www.theguardian.com/world/2023/apr/10/father-of-woman-killed-by-husband-in-greece-to-take-granddaughter-far-away,7,0.069,0.127,0.804,-0.9952,Guardian,2023-04-10,20
+9,Mother of British-Israeli sisters killed in West Bank shooting dies,https://www.theguardian.com/world/2023/apr/10/mother-of-british-israeli-sisters-killed-in-west-bank-shooting-dies-lucy-dee,8,0.067,0.184,0.749,-0.9977,Guardian,2023-04-10,20
+10,"Swimming pools of the rich driving city water crises, study says",https://www.theguardian.com/environment/2023/apr/10/swimming-pools-rich-driving-city-water-crises,9,0.108,0.112,0.78,-0.103,Guardian,2023-04-10,20
