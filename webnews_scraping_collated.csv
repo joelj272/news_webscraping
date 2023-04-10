@@ -2639,3 +2639,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘Savages’: Ukrainian resort town resisting Russian attempts to repeat past glories ,https://www.theguardian.com/world/2023/apr/09/ukrainian-resort-town-ochakiv-russian-missiles,7,0.051,0.117,0.832,-0.9982,Guardian,2023-04-09,20
 9,Multiple people in contact with police over further David Carrick allegations,https://www.theguardian.com/uk-news/2023/apr/09/hertfordshire-police-david-carrick-further-allegations,8,0.067,0.223,0.71,-0.9964,Guardian,2023-04-09,20
 10,Judy Blume forever: the writer who dares to tell girls the plain truth,https://www.theguardian.com/books/2023/apr/09/judy-blume-forever-the-writer-who-dares-to-tell-girls-the-plain-truth,9,0.113,0.024,0.863,0.9985,Guardian,2023-04-09,20
+1,What does the huge leak of Ukraine war documents tell us?,https://www.bbc.co.uk/news/world-europe-65225985,0,0.08,0.132,0.788,-0.9953,BBC,2023-04-10,8
+2,China rehearses 'sealing off' Taiwan in latest drills,https://www.bbc.co.uk/news/world-asia-65229003,1,0.042,0.041,0.917,-0.4404,BBC,2023-04-10,8
+3,Indian bride on the run after firing gun at wedding,https://www.bbc.co.uk/news/world-asia-india-65200446,2,0.021,0.14,0.839,-0.9719,BBC,2023-04-10,8
+4,BBC objects to 'government funded' Twitter label,https://www.bbc.co.uk/news/entertainment-arts-65226481,3,0.054,0.035,0.91,0.9117,BBC,2023-04-10,8
+5,The EU politician fighting his own extradition,https://www.bbc.co.uk/news/world-europe-65148600,4,0.062,0.133,0.805,-0.9975,BBC,2023-04-10,8
+6,Prominent Chinese legal activists jailed,https://www.bbc.co.uk/news/world-asia-china-65229269,5,0.043,0.123,0.833,-0.9853,BBC,2023-04-10,8
+7,Coronation carriage will be a more comfortable ride,https://www.bbc.co.uk/news/uk-65194594,6,0.054,0.027,0.918,0.9678,BBC,2023-04-10,8
+8,Father mourns murdered daughters at West Bank funeral,https://www.bbc.co.uk/news/world-middle-east-65224751,7,0.088,0.153,0.758,-0.9953,BBC,2023-04-10,8
+9,Guides among five dead in French Alps avalanche,https://www.bbc.co.uk/news/world-europe-65227410,8,0.054,0.066,0.88,-0.6608,BBC,2023-04-10,8
+10,Thousands join mass Georgian anti-government rally,https://www.bbc.co.uk/news/world-europe-65228755,9,0.094,0.123,0.783,-0.9194,BBC,2023-04-10,8
+1,"Police in Northern Ireland disrupt plan for a terror attack to overshadow President Joe Biden's visit this week amid fresh warnings of violence
+",https://www.dailymail.co.uk/news/article-11954031/Northern-Ireland-police-disrupt-plan-terror-attack-overshadow-Bidens-visit.html,0,0.084,0.14,0.776,-0.9949,Daily Mail,2023-04-10,8
+2,"'This is outstanding TV': New Netflix comedy series Beef bags coveted 100 per cent Rotten Tomatoes score as it's lauded by critics and fans as 'one of kind' and 'showstopping'
+",https://www.dailymail.co.uk/tvshowbiz/article-11954089/New-Netflix-comedy-series-Beef-bags-perfect-Rotten-Tomatoes-score-lauded-critics-fans.html,1,0.215,0.058,0.727,0.998,Daily Mail,2023-04-10,8
+3,"EXCLUSIVE: End of care doctors reveal the most common things they hear from patients during their final words
+",https://www.dailymail.co.uk/health/article-11937485/One-SIX-people-globally-infertile-finds-world-report.html,2,0.167,0.089,0.743,0.9988,Daily Mail,2023-04-10,8
+4,"Are YOU a genius? Only 2% of people with 'extraordinary intelligence' can spot the animal in this baffling puzzle
+",https://www.dailymail.co.uk/femail/article-11947697/Can-spot-hidden-deer-brain-teaser.html,3,0.062,0.046,0.892,0.5574,Daily Mail,2023-04-10,8
+5,"Royal family wave to crowds in Spring sunshine after first Easter Sunday service of Charles's reign: King greets wellwishers at Windsor Castle as he and other senior royals including William, Kate and their three children leave St George's Chapel
+",https://www.dailymail.co.uk/news/article-11953967/Royal-family-gather-Windsor-Castle-Easter-Sunday-service-Charless-reign.html,4,0.065,0.023,0.913,0.9922,Daily Mail,2023-04-10,8
+6,"Bud Light loses its fizz: Beer giant has not posted on social media for more than a WEEK amid Dylan Mulvaney partnership that sparked furious backlash
+",https://www.dailymail.co.uk/news/article-11954285/Bud-Light-not-posted-social-media-WEEK-amid-Dylan-Mulvaney-partnership.html,5,0.107,0.062,0.831,0.9985,Daily Mail,2023-04-10,8
+7,"Cheeky Prince! Louis, four, holds back a grin as he joins the Prince and Princess of Wales, Prince George, and Princess Charlotte for his first Easter Sunday service in Windsor
+",https://www.dailymail.co.uk/femail/article-11949673/Prince-Princess-Wales-joined-Prince-George-Princess-Charlotte-Windsor.html,6,0.07,0.018,0.912,0.9893,Daily Mail,2023-04-10,8
+8,"Jorge Masvidal RETIRES from UFC after unanimous defeat in Miami to Gilbert Burns and tells the crowd: 'I'm a multi-millionaire... I had nothing when I started' before paying tribute to Donald Trump in the crowd
+",https://www.dailymail.co.uk/sport/mma/article-11953759/Jorge-Masvidal-RETIRES-UFC-defeat-Miami-Gilbert-Burns.html,7,0.122,0.09,0.787,0.9145,Daily Mail,2023-04-10,8
+9,"Putin prepares for an invasion of Crimea: Beaches are covered with trenches and tank traps to repel an amphibious landing as Zelensky 'prepares spring offensive' 
+",https://www.dailymail.co.uk/news/article-11951857/Crimeas-beaches-covered-trenches-tank-traps.html,8,0.067,0.15,0.784,-0.9974,Daily Mail,2023-04-10,8
+10,"Melania is seen for the first time in TEN DAYS as she attends Easter brunch with husband Donald at Mar-a-Lago - after disappearing from public view in the wake of his indictment for Stormy Daniels 'hush money'
+",https://www.dailymail.co.uk/news/article-11954873/Melania-seen-time-TEN-DAYS-attends-Easter-Brunch-Trump.html,9,0.074,0.067,0.86,0.8708,Daily Mail,2023-04-10,8
+1,Why Didn’t They Ask Evans? review – a classic whodunnit with delight in every scene,https://www.theguardian.com/tv-and-radio/2023/apr/09/why-didnt-they-ask-evans-review-agatha-christie-hugh-lauriea-classic-whodunnit-with-delight-in-every-scene,0,0.144,0.087,0.768,0.995,Guardian,2023-04-10,8
+2,‘It’s called stealing’: new allegations of plagiarism against Roy Lichtenstein,https://www.theguardian.com/artanddesign/2023/apr/09/new-allegations-of-plagiarism-against-roy-lichtenstein,1,0.062,0.113,0.824,-0.9949,Guardian,2023-04-10,8
+3,Four new wild swimming sites in England open for summer season,https://www.theguardian.com/lifeandstyle/2023/apr/10/four-new-wild-swimming-sites-in-england-open-for-summer-season,2,0.102,0.025,0.873,0.9866,Guardian,2023-04-10,8
+4,‘Stand by every word’: Keir Starmer defends attack ad on Rishi Sunak,https://www.theguardian.com/politics/2023/apr/09/keri-starmer-defends-insensitive-labour-advert-on-child-sexual-assaults,3,0.044,0.13,0.826,-0.9939,Guardian,2023-04-10,8
+5,"Ruthie Henshall: ‘While MPs were drinking and snogging, I was waving at Mum through a care home window’",https://www.theguardian.com/stage/2023/apr/10/ruthie-henshall-while-mps-were-drinking-and-snogging-i-was-waving-at-mum-through-a-care-home-window,4,0.126,0.09,0.784,0.9986,Guardian,2023-04-10,8
+6,Trump ‘dug himself a hole’ on classified documents and role in January 6 – Barr,https://www.theguardian.com/us-news/2023/apr/10/trump-william-barr-classified-documents-january-6,5,0.073,0.098,0.829,-0.9068,Guardian,2023-04-10,8
+7,Russia-Ukraine war live: Pentagon assesses impact of apparent intelligence leak; Zelenskiy condemns Palm Sunday shelling ,https://www.theguardian.com/world/live/2023/apr/10/russia-ukraine-war-live-pentagon-assesses-impact-of-apparent-intelligence-leak-zelenskiy-condemns-palm-sunday-shelling,6,0.092,0.126,0.782,-0.9993,Guardian,2023-04-10,8
+8,Musk admits BBC ‘among least biased’ in row over Twitter ‘government-funded media’ tag,https://www.theguardian.com/media/2023/apr/09/bbc-protests-after-twitter-labels-it-government-funded-media,7,0.026,0.027,0.947,0.1254,Guardian,2023-04-10,8
+9,Procession route for King Charles III coronation to be far shorter than in 1953,https://www.theguardian.com/uk-news/2023/apr/09/king-charles-iii-coronation-procession-route,8,0.035,0.017,0.948,0.8381,Guardian,2023-04-10,8
+10,I’m 70 and so full of regret about my husband and career,https://www.theguardian.com/lifeandstyle/2023/apr/09/i-am-70-and-so-full-of-regret-about-my-husband-and-career-ask-philippa-perry,9,0.15,0.136,0.714,0.9165,Guardian,2023-04-10,8
