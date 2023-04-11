@@ -2719,3 +2719,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Father of woman killed by husband in Greece to look after granddaughter ‘far away’,https://www.theguardian.com/world/2023/apr/10/father-of-woman-killed-by-husband-in-greece-to-take-granddaughter-far-away,7,0.069,0.127,0.804,-0.9952,Guardian,2023-04-10,20
 9,Mother of British-Israeli sisters killed in West Bank shooting dies,https://www.theguardian.com/world/2023/apr/10/mother-of-british-israeli-sisters-killed-in-west-bank-shooting-dies-lucy-dee,8,0.067,0.184,0.749,-0.9977,Guardian,2023-04-10,20
 10,"Swimming pools of the rich driving city water crises, study says",https://www.theguardian.com/environment/2023/apr/10/swimming-pools-rich-driving-city-water-crises,9,0.108,0.112,0.78,-0.103,Guardian,2023-04-10,20
+1,Kentucky bank employee shoots dead five colleagues,https://www.bbc.co.uk/news/world-us-canada-65233350,0,0.013,0.156,0.831,-0.9977,BBC,2023-04-11,8
+2,'I looked at my foot and saw I was missing toes',https://www.bbc.co.uk/news/world-europe-65204053,1,0.05,0.111,0.839,-0.9942,BBC,2023-04-11,8
+3,Interest rates 'likely' to fall to pre-Covid levels,https://www.bbc.co.uk/news/business-65237286,2,0.06,0.036,0.904,0.8074,BBC,2023-04-11,8
+4,US leak shows S Korea torn on sending Ukraine weapons,https://www.bbc.co.uk/news/world-asia-65236991,3,0.076,0.138,0.786,-0.9947,BBC,2023-04-11,8
+5,Mother of 6-year-old who shot teacher is charged,https://www.bbc.co.uk/news/world-us-canada-65202976,4,0.097,0.148,0.755,-0.965,BBC,2023-04-11,8
+6,Texas seeks pardon for soldier who killed protester,https://www.bbc.co.uk/news/world-us-canada-65235905,5,0.067,0.186,0.747,-0.996,BBC,2023-04-11,8
+7,'Hours went by and we barely saw any investors',https://www.bbc.co.uk/news/world-asia-india-65200441,6,0.047,0.088,0.865,-0.9957,BBC,2023-04-11,8
+8,US and Philippines begin biggest joint military drills,https://www.bbc.co.uk/news/world-asia-65236459,7,0.061,0.079,0.861,-0.9724,BBC,2023-04-11,8
+9,Why Ireland is so important to Joe Biden,https://www.bbc.co.uk/news/world-us-canada-65197578,8,0.214,0.034,0.752,0.9994,BBC,2023-04-11,8
+10,'Little old lady' charged with third bank heist,https://www.bbc.co.uk/news/world-us-canada-65232308,9,0.034,0.052,0.914,-0.479,BBC,2023-04-11,8
+1,"REVEALED: Louisville shooter Connor Sturgeon, 25, live-streamed massacre on Instagram after leaving note to his parents telling them he was going to attack the bank following his firing 
+",https://www.dailymail.co.uk/news/article-11957781/PICTURED-Louisville-shooter-Connor-Sturgeon-25-shot-death-four-bank-colleagues.html,0,0.085,0.087,0.829,0.7192,Daily Mail,2023-04-11,8
+2,"'I have a close friend that didn't make it': Kentucky Governor fights back tears as he reveals two friends were among the four killed by disgruntled bank staffer who shot up work conference at 8:30am 
+",https://www.dailymail.co.uk/news/article-11956823/Mass-casualty-incident-Louisville-bank-active-shooter-opens-fire.html,1,0.032,0.072,0.896,-0.9943,Daily Mail,2023-04-11,8
+3,"Bud Light's VP says she wanted to update the 'fratty' and 'out of touch' branding with 'inclusivity' days before Dylan Mulvaney's controversial partnership with beer was unveiled
+",https://www.dailymail.co.uk/news/article-11956593/Bud-Light-marketing-VP-said-wanted-update-fratty-branding-days-Dylan-Mulvaney-ad.html,2,0.09,0.035,0.875,0.9909,Daily Mail,2023-04-11,8
+4,"Dalai Lama, 87, apologises after kissing young boy on the lips and asking the child to 'suck' his tongue in bizarre interaction captured on video at charity event in India
+",https://www.dailymail.co.uk/news/article-11956189/Dalai-Lama-87-apologises-kissing-young-boy-lips-asking-child-suck-tongue.html,3,0.129,0.08,0.792,0.9819,Daily Mail,2023-04-11,8
+5,"Putin's 45-mile-long 'mega trench': Russian troops dig huge defensive fortification visible from space as they prepare for Ukrainian counterattack 
+",https://www.dailymail.co.uk/news/article-11956187/Putins-45-mile-long-mega-trench-Russian-troops-dig-huge-defensive-fortification.html,4,0.049,0.093,0.859,-0.9926,Daily Mail,2023-04-11,8
+6,"Is this the real reason Taylor Swift and Joe Alwyn split? Fans believe lyrics of song 'Champagne Problems' that the couple wrote together hint at cause of break-up... after singer appeared to cry while singing hit
+",https://www.dailymail.co.uk/tvshowbiz/article-11956167/Is-real-reason-Taylor-Swift-Joe-Alwyn-split.html,5,0.133,0.081,0.786,0.9998,Daily Mail,2023-04-11,8
+7,"Fifth victim dies in Louisville bank massacre: Mom-of-two, 57, passes away after multiple surgeries following 25-year-old shooter's rampage - as bank says it has been left 'devastated'
+",https://www.dailymail.co.uk/news/article-11957995/PICTURED-victims-Louisville-bank-shooting-including-executive-Tommy-Elliott-63.html,6,0.09,0.094,0.816,-0.7137,Daily Mail,2023-04-11,8
+8,"Baby joy! Hilary Swank, 48, reveals she has given birth to twins - a boy and a girl - as she shares adorable Instagram snap: 'Posting from pure Heaven'
+",https://www.dailymail.co.uk/tvshowbiz/article-11955807/Hilary-Swank-48-revels-gave-birth-twins-shares-adorable-Instagram-snap.html,7,0.168,0.012,0.82,0.9988,Daily Mail,2023-04-11,8
+9,"Bud Light sales plunge as distributors in the Heartland and the South are 'spooked' by the Dylan Mulvaney backlash - as 'Anheuser-Busch rep' fears he won't be able to feed his family
+",https://www.dailymail.co.uk/news/article-11958283/Bud-Light-distributors-Heartland-South-spooked.html,8,0.055,0.042,0.903,0.7598,Daily Mail,2023-04-11,8
+10,"Internal affairs! Married Texas 911 dispatcher faces ax 'after she was caught sexting SEVEN cops ""and having sex with two""' by HUSBAND who passed on sordid messages to bosses: Two cops also facing boot
+",https://www.dailymail.co.uk/news/article-11955743/Married-Texas-911-dispatcher-faces-fired-caught-sexting-SEVEN-cops.html,9,0.086,0.047,0.868,0.9934,Daily Mail,2023-04-11,8
+1,‘They’re starting to die’: fears Ukraine’s drone supremacy may soon be over,https://www.theguardian.com/world/2023/apr/10/in-war-there-are-no-emotions-ukraine-drone-squads-bakhmut,0,0.062,0.125,0.813,-0.9982,Guardian,2023-04-11,8
+2,The man who walked around the world: Tom Turcich on his seven-year search for the meaning of life,https://www.theguardian.com/lifeandstyle/2023/apr/11/the-man-who-walked-around-the-world-tom-turcich-seven-year-search-meaning-of-life,1,0.132,0.075,0.794,0.9998,Guardian,2023-04-11,8
+3,German punk band ‘humiliated’ after being refused UK entry due to post-Brexit rules,https://www.theguardian.com/politics/2023/apr/10/german-punk-band-humiliated-after-being-refused-uk-entry-due-to-post-brexit-rules,2,0.096,0.096,0.808,0.5532,Guardian,2023-04-11,8
+4,‘I put them in bed together just to get it over with’ – how we made Jonathan Creek,https://www.theguardian.com/culture/2023/apr/10/jonathan-creek-alan-davies-caroline-quentin-alan-yentob,3,0.129,0.051,0.82,0.998,Guardian,2023-04-11,8
+5,‘We can’t carry on’: over 150 pubs have shut this year as energy bills soar,https://www.theguardian.com/business/2023/apr/11/over-150-pubs-shut-this-year-energy-bills-soar,4,0.12,0.045,0.835,0.9925,Guardian,2023-04-11,8
+6,Pentagon leaks: US seeks to mend ties after claims Washington spied on key allies,https://www.theguardian.com/us-news/2023/apr/11/pentagon-leaks-us-seeks-to-mend-ties-after-claims-washington-spied-on-key-allies,5,0.095,0.107,0.799,-0.9218,Guardian,2023-04-11,8
+7,Taiwan: jump in sales for air force badges showing bear punching Winnie-the-Pooh,https://www.theguardian.com/world/2023/apr/11/taiwan-jump-in-sales-for-air-force-badges-showing-bear-punching-winnie-the-pooh,6,0.071,0.042,0.887,0.8915,Guardian,2023-04-11,8
+8,‘We’ve had to stop people fighting and urinating in their seats’: the ugly new side of theatre audiences,https://www.theguardian.com/stage/2023/apr/10/bodyguard-police-fighting-urinating-seats-ugly-new-side-of-theatre-audiences,7,0.148,0.088,0.764,0.9985,Guardian,2023-04-11,8
+9,"Women’s sports kits are over-sexualised and not period proof. If this affected men, it would be fixed by now",https://www.theguardian.com/commentisfree/2023/apr/11/women-sports-kits-period-anxiety-shorts,8,0.112,0.072,0.817,0.9916,Guardian,2023-04-11,8
+10,‘Unreliable splatter’: Vatican exorcists denounce Russell Crowe’s Pope’s Exorcist ,https://www.theguardian.com/film/2023/apr/10/exorcists-denounce-the-popes-exorcist-with-russell-crowe,9,0.072,0.083,0.846,-0.8835,Guardian,2023-04-11,8
