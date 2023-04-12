@@ -2799,3 +2799,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"‘I got up, covered in blood’: Patrick Wolf on surviving addiction, bankruptcy and a hit and run",https://www.theguardian.com/music/2023/apr/11/patrick-wolf-addiction-bankruptcy-hit-and-run-night-safari,7,0.087,0.083,0.83,-0.3665,Guardian,2023-04-11,20
 9,Sainsbury’s begins offering lower prices to Nectar card holders,https://www.theguardian.com/business/2023/apr/11/sainsburys-lower-prices-nectar-card-holders-deals-tesco-clubcard,8,0.106,0.034,0.86,0.9933,Guardian,2023-04-11,20
 10,Pentagon leak traced to video game chat group users arguing over war in Ukraine,https://www.theguardian.com/world/2023/apr/11/pentagon-leak-traced-to-video-game-chat-group-users-arguing-over-war-in-ukraine,9,0.089,0.157,0.754,-0.9972,Guardian,2023-04-11,20
+1,"Western special forces inside Ukraine, leak shows",https://www.bbc.co.uk/news/world-europe-65245065,0,0.113,0.071,0.817,0.9533,BBC,2023-04-12,8
+2,Elizabeth Holmes to go to prison on 27 April,https://www.bbc.co.uk/news/world-us-canada-65241105,1,0.074,0.137,0.789,-0.988,BBC,2023-04-12,8
+3,Trump says court staff 'were crying' at his arrest,https://www.bbc.co.uk/news/world-us-canada-65247635,2,0.086,0.117,0.797,0.2275,BBC,2023-04-12,8
+4,Musk says Twitter a rollercoaster in BBC interview,https://www.bbc.co.uk/news/business-65248196,3,0.051,0.036,0.913,0.9024,BBC,2023-04-12,8
+5,The scammers who will steal your life savings,https://www.bbc.co.uk/news/world-65038949,4,0.064,0.103,0.832,-0.9989,BBC,2023-04-12,8
+6,Russian parliament approves online call-up for war,https://www.bbc.co.uk/news/world-europe-65239093,5,0.032,0.081,0.887,-0.9709,BBC,2023-04-12,8
+7,Charity board resigns over China-linked donation,https://www.bbc.co.uk/news/world-us-canada-65245032,6,0.071,0.059,0.87,0.6705,BBC,2023-04-12,8
+8,Why household name Tupperware could soon be history,https://www.bbc.co.uk/news/business-65243711,7,0.109,0.053,0.838,0.9949,BBC,2023-04-12,8
+9,Key takeaways from leaked Pentagon files,https://www.bbc.co.uk/news/world-us-canada-65238951,8,0.067,0.122,0.811,-0.9946,BBC,2023-04-12,8
+10,Hanging out at the world's best airport,https://www.bbc.co.uk/news/world-asia-65171824,9,0.103,0.018,0.88,0.9979,BBC,2023-04-12,8
+1,"EXCLUSIVE: It's a (blended) family affair! Fox News stars Sean Hannity and Ainsley Earhardt are seen up close and personal in first photos as a couple - as it's revealed they're together in domestic bliss along with her 7-year-old daughter
+",https://www.dailymail.co.uk/news/article-11950689/Intimate-photos-confirm-Sean-Hannity-Ainsley-Earhardts-years-long-secret-relationship.html,0,0.138,0.04,0.822,0.9992,Daily Mail,2023-04-12,8
+2,"Bud Light sales plunge as distributors in the Heartland and the South are 'spooked' by the Dylan Mulvaney backlash - as 'Anheuser-Busch rep' fears he won't be able to feed his family
+",https://www.dailymail.co.uk/news/article-11958283/Bud-Light-distributors-Heartland-South-spooked.html,1,0.056,0.042,0.902,0.7598,Daily Mail,2023-04-12,8
+3,"Target security guard slugs female shopper in the face after she demanded her $1,000 bill be paid by 'reparations' - before telling cops this was her 'Rosa Parks moment'
+",https://www.dailymail.co.uk/news/article-11960697/Target-security-guard-slugs-female-shopper-demanded-1-000-bill-paid-reparations.html,2,0.055,0.074,0.871,-0.8926,Daily Mail,2023-04-12,8
+4,"Fifth victim dies in Louisville bank massacre: Mom-of-two, 57, passes away after multiple surgeries following 25-year-old shooter's rampage - as bank says it has been left 'devastated'
+",https://www.dailymail.co.uk/news/article-11957995/PICTURED-victims-Louisville-bank-shooting-including-executive-Tommy-Elliott-63.html,3,0.09,0.094,0.816,-0.7266,Daily Mail,2023-04-12,8
+5,"Horror on Microsoft Teams: Louisville bank manager tells how she watched as fired employee-turned gunman Connor Sturgeon killed her colleagues - as chilling photo emerges of the shooter smiling next to co-worker who narrowly escaped mass shooting 
+",https://www.dailymail.co.uk/news/article-11959355/Louisville-bank-manager-says-saw-mass-shooting-unfold-Microsoft-Teams-meeting.html,4,0.066,0.136,0.798,-0.997,Daily Mail,2023-04-12,8
+6,"Scientists discover hidden Bible chapter written 1,500 years ago by using UV light - inside the Vatican library 
+",https://www.dailymail.co.uk/sciencetech/article-11961621/Hidden-Bible-chapter-written-1-500-years-ago-using-UV-light.html,5,0.071,0.004,0.925,0.9935,Daily Mail,2023-04-12,8
+7,"Julián Figueroa dies at 27: Mexican entertainer's mother shares her heartache at his shock passing and reveals his cause of death 
+",https://www.dailymail.co.uk/tvshowbiz/article-11958469/Juli-n-Figueroa-died-27-Mexican-entertainer-singer-songwriter-acted-telenovelas.html,6,0.079,0.094,0.827,-0.8599,Daily Mail,2023-04-12,8
+8,"Millie Bobby Brown is engaged! Stranger Things star, 19, reveals she is set to tie the knot with Jon Bon Jovi's son Jake Bongiovi, 20, after he proposes with £250k ring
+",https://www.dailymail.co.uk/tvshowbiz/article-11960129/Millie-Bobby-Brown-engaged-boyfriend-Jake-Bongiovi-20.html,7,0.124,0.014,0.862,0.999,Daily Mail,2023-04-12,8
+9,"Masters fan who went viral after being spotted in the crowd is identified as Texas Tech cheerleader 
+",https://www.dailymail.co.uk/news/article-11960515/Masters-fan-went-viral-spotted-crowd-identified-Texas-Tech-cheerleader.html,8,0.08,0.025,0.895,0.9921,Daily Mail,2023-04-12,8
+10,"South Korean actress and model Jung Chae-yul who starred in Netflix's Zombie Detective is found dead in her home aged 26
+",https://www.dailymail.co.uk/news/article-11960617/South-Korean-actress-star-Netflixs-Zombie-Detective-Jung-Chae-yul-dead-aged-26.html,9,0.155,0.123,0.722,0.895,Daily Mail,2023-04-12,8
+1,Essex pub landlady replaces golliwog doll collection that was seized by police,https://www.theguardian.com/world/2023/apr/11/essex-pub-landlady-benice-ryley-replaces-golliwog-doll-collection-that-was-seized-by-police,0,0.056,0.124,0.82,-0.9968,Guardian,2023-04-12,8
+2,Elizabeth Holmes to begin 11-year prison sentence at end of month ,https://www.theguardian.com/technology/2023/apr/11/elizabeth-holmes-begin-prison-sentence-end-of-month,1,0.114,0.145,0.741,-0.9113,Guardian,2023-04-12,8
+3,"Colin from Accounts review – at last, a female character that’s not a stereotype!",https://www.theguardian.com/tv-and-radio/2023/apr/11/colin-from-accounts-review-at-last-a-female-character-thats-not-a-stereotype,2,0.183,0.051,0.766,0.9991,Guardian,2023-04-12,8
+4,Etihad Airways’ ‘sustainable aviation’ ads banned in UK,https://www.theguardian.com/business/2023/apr/12/etihad-airways-sustainable-aviation-ads-banned-uk,3,0.042,0.056,0.902,-0.8934,Guardian,2023-04-12,8
+5,I was used as a scapegoat when Baby P died – Sunak’s attacks on social workers are dangerous,https://www.theguardian.com/commentisfree/2023/apr/12/scapegoat-baby-p-social-workers,4,0.071,0.182,0.746,-0.9994,Guardian,2023-04-12,8
+6,"After Ivanka Trump’s strategic exit, is Tiffany the new ‘first daughter’?",https://www.theguardian.com/us-news/2023/apr/12/after-ivanka-trumps-strategic-exit-is-tiffany-the-new-first-daughter,5,0.086,0.053,0.861,0.867,Guardian,2023-04-12,8
+7,Liz Truss to say Macron trip to China was sign of weakness,https://www.theguardian.com/politics/2023/apr/11/liz-truss-to-say-macron-trip-to-china-was-sign-of-weakness,6,0.086,0.083,0.831,-0.1531,Guardian,2023-04-12,8
+8,Russia-Ukraine war live: Kremlin says it will not tolerate US pressure over detained journalist,https://www.theguardian.com/world/live/2023/apr/12/russia-ukraine-war-live-russia-risks-becoming-economic-colony-of-china-as-isolation-deepens-says-cia-director,7,0.091,0.122,0.786,-0.9992,Guardian,2023-04-12,8
+9,"The secret lives of grey squirrels: ‘The telly was off the wall, plates were smashed, furniture was ripped’",https://www.theguardian.com/world/2023/apr/12/the-secret-lives-of-grey-squirrels-the-telly-was-off-the-wall-plates-were-smashed-furniture-was-ripped,8,0.127,0.104,0.769,0.9895,Guardian,2023-04-12,8
+10,"Road-building spree will derail UK’s net zero targets, warn campaigners",https://www.theguardian.com/environment/2023/apr/12/road-building-spree-will-derail-uks-net-zero-targets-warn-campaigners,9,0.09,0.05,0.86,0.9787,Guardian,2023-04-12,8
