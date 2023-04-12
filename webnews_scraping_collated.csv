@@ -2839,3 +2839,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Russia-Ukraine war live: Kremlin says it will not tolerate US pressure over detained journalist,https://www.theguardian.com/world/live/2023/apr/12/russia-ukraine-war-live-russia-risks-becoming-economic-colony-of-china-as-isolation-deepens-says-cia-director,7,0.091,0.122,0.786,-0.9992,Guardian,2023-04-12,8
 9,"The secret lives of grey squirrels: ‘The telly was off the wall, plates were smashed, furniture was ripped’",https://www.theguardian.com/world/2023/apr/12/the-secret-lives-of-grey-squirrels-the-telly-was-off-the-wall-plates-were-smashed-furniture-was-ripped,8,0.127,0.104,0.769,0.9895,Guardian,2023-04-12,8
 10,"Road-building spree will derail UK’s net zero targets, warn campaigners",https://www.theguardian.com/environment/2023/apr/12/road-building-spree-will-derail-uks-net-zero-targets-warn-campaigners,9,0.09,0.05,0.86,0.9787,Guardian,2023-04-12,8
+1,Six things we learned from Elon Musk interview,https://www.bbc.co.uk/news/world-us-canada-65251160,0,0.094,0.088,0.817,0.8179,BBC,2023-04-12,20
+2,Disgusted Ukrainian leader condemns beheading video,https://www.bbc.co.uk/news/world-europe-65251204,1,0.033,0.108,0.859,-0.9964,BBC,2023-04-12,20
+3,Prince Harry to attend coronation without Meghan,https://www.bbc.co.uk/news/uk-65255135,2,0.052,0.065,0.883,-0.7964,BBC,2023-04-12,20
+4,Bear hunt after jogger is killed in Italian Alps,https://www.bbc.co.uk/news/world-europe-65249457,3,0.079,0.15,0.771,-0.9923,BBC,2023-04-12,20
+5,Ariana Grande calls for fans to stop body shaming,https://www.bbc.co.uk/news/entertainment-arts-65248558,4,0.147,0.108,0.745,0.9705,BBC,2023-04-12,20
+6,Elon Musk changes BBC Twitter account's label,https://www.bbc.co.uk/news/entertainment-arts-65248554,5,0.056,0.022,0.922,0.9179,BBC,2023-04-12,20
+7,"US sees UN head as soft on Moscow, leaks suggest",https://www.bbc.co.uk/news/world-us-canada-65257957,6,0.081,0.116,0.803,-0.9822,BBC,2023-04-12,20
+8,"Western special forces inside Ukraine, leak shows",https://www.bbc.co.uk/news/world-europe-65245065,7,0.114,0.079,0.807,0.9415,BBC,2023-04-12,20
+9,NPR quits Twitter over 'government-funded' label,https://www.bbc.co.uk/news/world-us-canada-65202978,8,0.059,0.041,0.9,0.928,BBC,2023-04-12,20
+10,Senator Tim Scott eyes 2024 US presidential bid,https://www.bbc.co.uk/news/world-us-canada-65245494,9,0.094,0.052,0.854,0.9269,BBC,2023-04-12,20
+1,"EXCLUSIVE: It's a (blended) family affair! Fox News stars Sean Hannity and Ainsley Earhardt are seen up close and personal in first photos as a couple - as it's revealed they're together in domestic bliss along with her 7-year-old daughter
+",https://www.dailymail.co.uk/news/article-11950689/Intimate-photos-confirm-Sean-Hannity-Ainsley-Earhardts-years-long-secret-relationship.html,0,0.139,0.04,0.821,0.9992,Daily Mail,2023-04-12,20
+2,"EXCLUSIVE: Jessica Simpson steps out looking thinner than ever in tight leather trousers after years of yo-yo dieting.... following claims her loved ones are 'worried' about her drastic weight loss
+",https://www.dailymail.co.uk/tvshowbiz/article-11962939/Jessica-Simpson-steps-looking-thinner-tight-leather-trousers.html,1,0.07,0.038,0.892,0.954,Daily Mail,2023-04-12,20
+3,"Scientists discover hidden Bible chapter written 1,500 years ago by using UV light - inside the Vatican library 
+",https://www.dailymail.co.uk/sciencetech/article-11961621/Hidden-Bible-chapter-written-1-500-years-ago-using-UV-light.html,2,0.071,0.004,0.925,0.9935,Daily Mail,2023-04-12,20
+4,"Target security guard slugs female shopper in the face after she demanded her $1,000 bill be paid by 'reparations' - before telling cops this was her 'Rosa Parks moment'
+",https://www.dailymail.co.uk/news/article-11960697/Target-security-guard-slugs-female-shopper-demanded-1-000-bill-paid-reparations.html,3,0.055,0.074,0.871,-0.8926,Daily Mail,2023-04-12,20
+5,"'They don't understand me!' Trans activist Dylan Mulvaney hits back at critics of Bud Light campaign - as beer giant's parent company Anheuser- Busch suffers $3billion loss
+",https://www.dailymail.co.uk/news/article-11964531/Dylan-Mulvaney-says-Bud-Light-critics-dont-understand-Anheuser-Busch-suffers-3bn-loss.html,4,0.151,0.041,0.807,0.9972,Daily Mail,2023-04-12,20
+6,"Masters fan who went viral after being spotted in the crowd is identified as Texas Tech cheerleader 
+",https://www.dailymail.co.uk/news/article-11960515/Masters-fan-went-viral-spotted-crowd-identified-Texas-Tech-cheerleader.html,5,0.08,0.025,0.895,0.9921,Daily Mail,2023-04-12,20
+7,"Ariana Grande shuts down body shamers in new video after fans commented on her changing appearance: 'There are many different kinds of beautiful'
+",https://www.dailymail.co.uk/tvshowbiz/article-11962381/Ariana-Grande-shuts-body-shamers-new-video-fans-commented-changing-appearance.html,6,0.17,0.107,0.723,0.9969,Daily Mail,2023-04-12,20
+8,"Louisville gunman's family breaks their silence to condemn his 'senseless acts of violence' and reveal he DID have mental health problems - but 'there were never any warning signs' he would commit mass murder
+",https://www.dailymail.co.uk/news/article-11963107/Louisville-gunman-Connor-Sturgeons-family-speak-senseless-acts-violence.html,7,0.07,0.14,0.789,-0.9999,Daily Mail,2023-04-12,20
+9,"Meghan Markle will NOT attend King Charles' Coronation, leaving Harry to go it alone: Prince will appear 'quickly' with royal family for the Westminster Abbey ceremony only as Palace confirms Duchess of Sussex will stay in LA with children 
+",https://www.dailymail.co.uk/news/article-11965087/Prince-Harry-attend-Coronation-Meghan-stay-California.html,8,0.08,0.059,0.861,0.9956,Daily Mail,2023-04-12,20
+10,"'I think he's down, get the officer!' Louisville cops release bodycam footage of 25-year-old shooter's bank rampage in which he killed five co-workers with AR-15-style rifle
+",https://www.dailymail.co.uk/news/article-11962197/Harrowing-bodycam-footage-shows-cops-shootout-Louisville-gunman-hit-rookie-officer.html,9,0.04,0.135,0.825,-0.9995,Daily Mail,2023-04-12,20
+1,World Bank staff were told to give special treatment to son of Trump official,https://www.theguardian.com/business/2023/apr/12/world-bank-staff-son-of-trump-official-david-malpass,0,0.121,0.054,0.825,0.9987,Guardian,2023-04-12,20
+2,Elizabeth Holmes to begin 11-year prison sentence at end of month ,https://www.theguardian.com/technology/2023/apr/11/elizabeth-holmes-begin-prison-sentence-end-of-month,1,0.114,0.145,0.741,-0.9113,Guardian,2023-04-12,20
+3,"Real Madrid v Chelsea: Champions League quarter-final, first leg – live",https://www.theguardian.com/football/live/2023/apr/12/real-madrid-v-chelsea-champions-league-quarter-final-first-leg-live-score-updates,2,0.136,0.078,0.786,0.9995,Guardian,2023-04-12,20
+4,Matt Hancock among three MPs placed under investigation by standards watchdog,https://www.theguardian.com/politics/2023/apr/12/matt-hancock-among-three-mps-being-investigated-by-standards-watchdog,3,0.09,0.079,0.831,0.7698,Guardian,2023-04-12,20
+5,Sunak and Biden’s bilat falls flat as duty briefly calls in Northern Ireland,https://www.theguardian.com/politics/2023/apr/12/sunak-and-bidens-bilat-falls-flat-as-duty-briefly-calls-in-northern-ireland,4,0.108,0.055,0.837,0.9962,Guardian,2023-04-12,20
+6,Prince Harry to attend king’s coronation but Meghan to stay in California ,https://www.theguardian.com/uk-news/2023/apr/12/prince-harry-to-attend-kings-coronation-but-meghan-to-stay-in-california,5,0.086,0.034,0.881,0.9757,Guardian,2023-04-12,20
+7,Online sellers take down ‘offensive’ listings for golliwog dolls ,https://www.theguardian.com/world/2023/apr/12/online-sellers-take-down-golliwog-listings,6,0.072,0.074,0.853,-0.7532,Guardian,2023-04-12,20
+8,The BBC gazed into the yawning chasm of Elon Musk’s sense of humour – and didn’t find much to envy,https://www.theguardian.com/commentisfree/2023/apr/12/bbc-elon-musk-sense-of-humour-twitter,7,0.095,0.084,0.821,0.8476,Guardian,2023-04-12,20
+9,Biden dangles $6bn investment if Northern Ireland power sharing agreed,https://www.theguardian.com/uk-news/2023/apr/12/joe-biden-us-investment-northern-ireland-power-sharing,8,0.168,0.027,0.805,0.9992,Guardian,2023-04-12,20
+10,Arnold Schwarzenegger rebuked for filling LA pothole that was not a pothole,https://www.theguardian.com/us-news/2023/apr/12/arnold-schwarzenegger-california-pothole-los-angeles,9,0.062,0.084,0.855,-0.879,Guardian,2023-04-12,20
