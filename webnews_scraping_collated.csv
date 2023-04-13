@@ -2919,3 +2919,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,The BBC gazed into the yawning chasm of Elon Musk’s sense of humour – and didn’t find much to envy,https://www.theguardian.com/commentisfree/2023/apr/12/bbc-elon-musk-sense-of-humour-twitter,7,0.095,0.084,0.821,0.8476,Guardian,2023-04-13,8
 9,Holiday homes in England to need planning permission under new plans,https://www.theguardian.com/society/2023/apr/12/uk-government-proposes-law-requiring-planning-permission-for-holiday-lets,8,0.138,0.009,0.854,0.9967,Guardian,2023-04-13,8
 10,Revealed: official gifts to Royal family contained in £100m ‘private’ stamp collection,https://www.theguardian.com/uk-news/2023/apr/13/revealed-official-gifts-to-royal-family-contained-in-100m-private-stamp-collection,9,0.095,0.034,0.872,0.9983,Guardian,2023-04-13,8
+1,Leak suspect said to be leader of gamer chat group,https://www.bbc.co.uk/news/world-us-canada-65269975,0,0.082,0.098,0.82,-0.6728,BBC,2023-04-13,20
+2,"18,000 cows killed in Texas dairy farm explosion",https://www.bbc.co.uk/news/world-us-canada-65258108,1,0.05,0.133,0.818,-0.9896,BBC,2023-04-13,20
+3,Dead rodents litter Canada PM's official home,https://www.bbc.co.uk/news/world-us-canada-65208045,2,0.061,0.062,0.876,0.0548,BBC,2023-04-13,20
+4,Police arrest suspect in Cash App founder's death,https://www.bbc.co.uk/news/world-us-canada-65257806,3,0.02,0.186,0.793,-0.9953,BBC,2023-04-13,20
+5,Leaks show Russian infighting over deaths in Ukraine,https://www.bbc.co.uk/news/world-europe-65260672,4,0.067,0.219,0.714,-0.999,BBC,2023-04-13,20
+6,Iran executions surged to 'spread fear' - report,https://www.bbc.co.uk/news/world-middle-east-65262012,5,0.035,0.217,0.749,-0.9985,BBC,2023-04-13,20
+7,The bean that could change the taste of coffee,https://www.bbc.co.uk/news/business-65189695,6,0.066,0.058,0.875,0.9336,BBC,2023-04-13,20
+8,"Drake & Josh star Drake Bell found safe, police say",https://www.bbc.co.uk/news/entertainment-arts-65268428,7,0.045,0.076,0.879,-0.8402,BBC,2023-04-13,20
+9,Norway expels 15 Russians accused of spying,https://www.bbc.co.uk/news/world-europe-65264187,8,0.094,0.167,0.739,-0.9715,BBC,2023-04-13,20
+10,Powerful Cyclone Isla hits Western Australia,https://www.bbc.co.uk/news/world-australia-65259342,9,0.074,0.087,0.839,-0.8488,BBC,2023-04-13,20
+1,"PICTURED: Bay Area tech exec, 38, who's been arrested for stabbing to death Cash App founder Bob Lee after argument in car spilled out onto San Francisco street at 2:30am
+",https://www.dailymail.co.uk/news/article-11969477/San-Francisco-police-arrest-fellow-tech-exec-murder-Cash-App-founder-Bob-Lee.html,0,0.091,0.145,0.764,-0.9926,Daily Mail,2023-04-13,20
+2,"Yellowstone stars Hassie Harrison and Ryan Bingham confirm their relationship with a fiery romantic kiss: 'I love you, cowboy'
+",https://www.dailymail.co.uk/tvshowbiz/article-11966943/Yellowstone-stars-Hassie-Harrison-Ryan-Bingham-confirm-relationship-fiery-kiss.html,1,0.155,0.038,0.807,0.9948,Daily Mail,2023-04-13,20
+3,"'No one at a senior level' was aware Bud Light had made the 'mistake' of partnering with trans influencer Dylan Mulvaney - as parent company Anheuser-Busch loses $6BN in six days
+",https://www.dailymail.co.uk/news/article-11967949/No-one-senior-level-aware-Bud-Light-partnering-trans-influencer-Dylan-Mulvaney.html,2,0.108,0.054,0.838,0.9937,Daily Mail,2023-04-13,20
+4,"EXCLUSIVE: 'It's a terrible tragedy': Business advisor for Drake and other top musicians who was in Miami hotel room with woman found dead in bathtub claims they were working on music together
+",https://www.dailymail.co.uk/news/article-11967293/Music-rep-reveals-woman-dead-bathtub-Miami-Beach-suite-budding-musician.html,3,0.057,0.063,0.88,-0.4507,Daily Mail,2023-04-13,20
+5,"Jamie Foxx showing signs of improvement after he was rushed to HOSPITAL due to mystery medical emergency... after family begged fans to pray for him
+",https://www.dailymail.co.uk/tvshowbiz/article-11967231/Jamie-Foxx-HOSPITALIZED-suffering-medical-emergency-said-improving.html,4,0.083,0.078,0.838,0.8774,Daily Mail,2023-04-13,20
+6,"EXCLUSIVE: Jessica Simpson steps out looking thinner than ever in tight leather trousers after years of yo-yo dieting.... following claims her loved ones are 'worried' about her drastic weight loss
+",https://www.dailymail.co.uk/tvshowbiz/article-11962939/Jessica-Simpson-steps-looking-thinner-tight-leather-trousers.html,5,0.07,0.038,0.892,0.954,Daily Mail,2023-04-13,20
+7,"Bud Light's parent company Anheuser-Busch InBev has lost more than $6 BILLION in market cap in just six days after Dylan Mulvaney partnership sparked backlash 
+",https://www.dailymail.co.uk/news/article-11967335/Bud-Lights-parent-company-Anheuser-Busch-InBev-lost-6-BILLION-market-cap.html,6,0.064,0.037,0.899,0.9471,Daily Mail,2023-04-13,20
+8,"'I need your help, he has a gun': Louisville shooter Connor Sturgeon's mom made frantic 911 phone call warning he was armed and heading to the bank where he massacred five 
+",https://www.dailymail.co.uk/news/article-11966301/Louisville-shooter-Connor-Sturgeons-mother-panicked-911-call-warning-son-gun.html,7,0.08,0.103,0.817,-0.987,Daily Mail,2023-04-13,20
+9,"Disgraced Nickelodeon star Drake Bell is FOUND as police confirm he is 'safe': Actor was reported missing after SeaWorld outing with toddler son just 24 hours earlier
+",https://www.dailymail.co.uk/tvshowbiz/article-11969507/Disgraced-Nickelodeon-star-Drake-Bell-declared-missing-endangered-cops.html,8,0.082,0.105,0.812,-0.9881,Daily Mail,2023-04-13,20
+10,"Masters fan who went viral after being spotted in the crowd is identified as Texas Tech cheerleader 
+",https://www.dailymail.co.uk/news/article-11960515/Masters-fan-went-viral-spotted-crowd-identified-Texas-Tech-cheerleader.html,9,0.08,0.025,0.895,0.9921,Daily Mail,2023-04-13,20
+1,"Pentagon leaks: US air national guardsman, 21, identified as suspect",https://www.theguardian.com/us-news/2023/apr/13/pentagon-leak-suspect-close-to-being-caught-says-joe-biden,0,0.113,0.07,0.817,0.9906,Guardian,2023-04-13,20
+2,Equal parts practical and daring: how Mary Quant created look for a new way of living,https://www.theguardian.com/fashion/2023/apr/13/equal-parts-practical-and-daring-how-mary-quant-created-look-for-a-new-way-of-living,1,0.131,0.052,0.817,0.9965,Guardian,2023-04-13,20
+3,"EU motorist fined almost £11,000 after falling foul of London Ulez rule",https://www.theguardian.com/uk-news/2023/apr/13/eu-motorist-fined-almost-11000-after-visit-to-london-falls-foul-of-ulez-rule-french-hire-car,2,0.035,0.03,0.935,0.6077,Guardian,2023-04-13,20
+4,US arrests suspect behind leak of Pentagon documents,https://www.theguardian.com/us-news/2023/apr/13/pentagon-leaked-documents-suspect-arrested,3,0.097,0.072,0.831,0.9706,Guardian,2023-04-13,20
+5,Body found in search for dog walker missing in north Wales,https://www.theguardian.com/uk-news/2023/apr/13/body-found-in-search-for-dog-walker-missing-in-north-wales,4,0.073,0.062,0.865,0.4785,Guardian,2023-04-13,20
+6,Riders walk down UK’s tallest rollercoaster after it stops in high winds,https://www.theguardian.com/uk-news/2023/apr/13/riders-walk-uk-tallest-rollercoaster-stops-high-winds-blackpool-big-one,5,0.117,0.041,0.842,0.9835,Guardian,2023-04-13,20
+7,‘The stress is overwhelming’: the highs and lows of starting a new life in a static caravan,https://www.theguardian.com/society/2023/apr/13/the-stress-is-overwhelming-the-highs-and-lows-of-starting-a-new-life-in-a-static-caravan,6,0.1,0.089,0.811,0.9781,Guardian,2023-04-13,20
+8,Tara Fitzgerald: ‘People don’t ask me to take my clothes off any more’,https://www.theguardian.com/culture/2023/apr/13/tara-fitzgerald-people-dont-ask-me-to-take-my-clothes-off-any-more,7,0.124,0.036,0.84,0.999,Guardian,2023-04-13,20
+9,Antiques Roadshow expert Judith Miller dies aged 71,https://www.theguardian.com/tv-and-radio/2023/apr/13/antiques-roadshow-expert-judith-miller-dies-aged-71,8,0.135,0.051,0.814,0.9952,Guardian,2023-04-13,20
+10,Grand National 2023: horse-by-horse guide to all the runners,https://www.theguardian.com/sport/2023/apr/13/grand-national-2023-horse-by-horse-guide-to-all-the-runners-horse-racing-tips,9,0.181,0.052,0.767,1.0,Guardian,2023-04-13,20
