@@ -2879,3 +2879,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,The BBC gazed into the yawning chasm of Elon Musk’s sense of humour – and didn’t find much to envy,https://www.theguardian.com/commentisfree/2023/apr/12/bbc-elon-musk-sense-of-humour-twitter,7,0.095,0.084,0.821,0.8476,Guardian,2023-04-12,20
 9,Biden dangles $6bn investment if Northern Ireland power sharing agreed,https://www.theguardian.com/uk-news/2023/apr/12/joe-biden-us-investment-northern-ireland-power-sharing,8,0.168,0.027,0.805,0.9992,Guardian,2023-04-12,20
 10,Arnold Schwarzenegger rebuked for filling LA pothole that was not a pothole,https://www.theguardian.com/us-news/2023/apr/12/arnold-schwarzenegger-california-pothole-los-angeles,9,0.062,0.084,0.855,-0.879,Guardian,2023-04-12,20
+1,Dead rodents litter Canada PM's official home,https://www.bbc.co.uk/news/world-us-canada-65208045,0,0.061,0.062,0.876,0.0548,BBC,2023-04-13,8
+2,North Korea missile launch sparks confusion in Japan,https://www.bbc.co.uk/news/world-asia-65259718,1,0.071,0.124,0.804,-0.9855,BBC,2023-04-13,8
+3,Democrats urge longest-serving female senator to quit,https://www.bbc.co.uk/news/world-us-canada-65259383,2,0.062,0.039,0.898,0.8422,BBC,2023-04-13,8
+4,Leaks suggest US spied on UN chief,https://www.bbc.co.uk/news/world-us-canada-65257957,3,0.094,0.115,0.791,-0.9651,BBC,2023-04-13,8
+5,Prince Harry to attend coronation without Meghan,https://www.bbc.co.uk/news/uk-65255135,4,0.052,0.061,0.887,-0.6652,BBC,2023-04-13,8
+6,Trump sues ex-attorney Michael Cohen for $500m,https://www.bbc.co.uk/news/world-us-canada-65256568,5,0.027,0.193,0.78,-0.9977,BBC,2023-04-13,8
+7,Easter message calls for deportation of refugees,https://www.bbc.co.uk/news/world-middle-east-65258811,6,0.041,0.109,0.851,-0.9685,BBC,2023-04-13,8
+8,Former J-pop idol alleges abuse by famed producer,https://www.bbc.co.uk/news/world-asia-65259427,7,0.071,0.105,0.824,-0.9568,BBC,2023-04-13,8
+9,The bean that could change the taste of coffee,https://www.bbc.co.uk/news/business-65189695,8,0.067,0.059,0.875,0.9336,BBC,2023-04-13,8
+10,Frantic US bank gunman's mum called police mid-attack,https://www.bbc.co.uk/news/world-us-canada-65258107,9,0.063,0.161,0.776,-0.9936,BBC,2023-04-13,8
+1,"EXCLUSIVE: Jessica Simpson steps out looking thinner than ever in tight leather trousers after years of yo-yo dieting.... following claims her loved ones are 'worried' about her drastic weight loss
+",https://www.dailymail.co.uk/tvshowbiz/article-11962939/Jessica-Simpson-steps-looking-thinner-tight-leather-trousers.html,0,0.07,0.038,0.892,0.954,Daily Mail,2023-04-13,8
+2,"'They don't understand me!' Trans activist Dylan Mulvaney hits back at critics of Bud Light campaign - as beer giant's parent company Anheuser- Busch suffers $3billion loss
+",https://www.dailymail.co.uk/news/article-11964531/Dylan-Mulvaney-says-Bud-Light-critics-dont-understand-Anheuser-Busch-suffers-3bn-loss.html,1,0.151,0.041,0.807,0.9972,Daily Mail,2023-04-13,8
+3,"Yellowstone stars Hassie Harrison and Ryan Bingham confirm their relationship with a fiery romantic kiss: 'I love you, cowboy'
+",https://www.dailymail.co.uk/tvshowbiz/article-11966943/Yellowstone-stars-Hassie-Harrison-Ryan-Bingham-confirm-relationship-fiery-kiss.html,2,0.154,0.038,0.808,0.9948,Daily Mail,2023-04-13,8
+4,"Meghan Markle will NOT attend King Charles' Coronation, leaving Harry to go it alone: Prince will appear 'quickly' with royal family for the Westminster Abbey ceremony only as Palace confirms Duchess of Sussex will stay in LA with children 
+",https://www.dailymail.co.uk/news/article-11965087/Prince-Harry-attend-Coronation-Meghan-stay-California.html,3,0.08,0.059,0.861,0.9956,Daily Mail,2023-04-13,8
+5,"Masters fan who went viral after being spotted in the crowd is identified as Texas Tech cheerleader 
+",https://www.dailymail.co.uk/news/article-11960515/Masters-fan-went-viral-spotted-crowd-identified-Texas-Tech-cheerleader.html,4,0.08,0.025,0.895,0.9921,Daily Mail,2023-04-13,8
+6,"Louisville shooter Connor Sturgeon's mother made panicked 911 call warning her son had a gun and was on his way to the bank where he massacred five people: 'I need your help. He's never hurt anyone'  
+",https://www.dailymail.co.uk/news/article-11966301/Louisville-shooter-Connor-Sturgeons-mother-panicked-911-call-warning-son-gun.html,5,0.079,0.104,0.817,-0.9833,Daily Mail,2023-04-13,8
+7,"'Rapidly growing' homeless encampments spring up near LA's celebrity-filled Beverly Hills neighborhood - where the median home price is $3.5M 
+",https://www.dailymail.co.uk/news/article-11963173/Beverley-Hills-awash-rapidly-growing-homeless-encampments.html,6,0.062,0.13,0.809,-0.9966,Daily Mail,2023-04-13,8
+8,"The dark side of the Bon Jovi family: From his sister's drug overdose to his father's mental health battles - is Jake Bongiovi looking for stability by proposing to Millie Bobby Brown?
+",https://www.dailymail.co.uk/tvshowbiz/article-11963785/The-dark-Bon-Jovis-Jake-Bongiovi-looking-stability-Millie-Bobby-Brown.html,7,0.101,0.086,0.813,0.9509,Daily Mail,2023-04-13,8
+9,"Jamie Foxx showing signs of improvement after he was rushed to HOSPITAL due to mystery medical emergency... after family begged fans to pray for him
+",https://www.dailymail.co.uk/tvshowbiz/article-11967231/Jamie-Foxx-HOSPITALIZED-suffering-medical-emergency-said-improving.html,8,0.083,0.078,0.839,0.8774,Daily Mail,2023-04-13,8
+10,"Scientists discover hidden Bible chapter written 1,500 years ago by using UV light - inside the Vatican library 
+",https://www.dailymail.co.uk/sciencetech/article-11961621/Hidden-Bible-chapter-written-1-500-years-ago-using-UV-light.html,9,0.071,0.004,0.925,0.9935,Daily Mail,2023-04-13,8
+1,"UK in ‘rapidly escalating’ diabetes crisis as cases top 5m, report says",https://www.theguardian.com/society/2023/apr/13/uk-in-rapidly-escalating-diabetes-crisis-as-cases-top-5m-report-says,0,0.109,0.119,0.772,-0.8432,Guardian,2023-04-13,8
+2,Unseen Camilla: the five ages of a future queen – from mistress to monarchy,https://www.theguardian.com/uk-news/2023/apr/13/unseen-camilla-the-five-ages-of-a-future-queen-from-mistress-to-monarchy,1,0.109,0.073,0.818,0.998,Guardian,2023-04-13,8
+3,"Golliwog dolls: what are they, and are they illegal to display?",https://www.theguardian.com/uk-news/2023/apr/13/golliwog-dolls-what-are-they-and-are-they-to-display,2,0.023,0.211,0.765,-0.999,Guardian,2023-04-13,8
+4,Gary Lineker among donors to appeal after charity allotment vandalised,https://www.theguardian.com/football/2023/apr/12/gary-lineker-donor-appeal-charity-allotment-vandalised,3,0.066,0.088,0.845,-0.9195,Guardian,2023-04-13,8
+5,Pentagon leaks linked to young gun enthusiast who worked at military base – report,https://www.theguardian.com/us-news/2023/apr/13/pentagon-leaks-og-source-military-base-discord-report,4,0.061,0.125,0.814,-0.9965,Guardian,2023-04-13,8
+6,German band may have been refused UK entry ‘because they have day jobs’,https://www.theguardian.com/politics/2023/apr/13/german-band-may-have-been-refused-uk-entry-because-they-have-day-jobs,5,0.11,0.068,0.822,0.99,Guardian,2023-04-13,8
+7,Three alleged assault victims launch UK civil claim against Andrew Tate,https://www.theguardian.com/news/2023/apr/12/three-alleged-assault-victims-launch-uk-civil-claim-against-andrew-tate,6,0.106,0.199,0.695,-0.9968,Guardian,2023-04-13,8
+8,The BBC gazed into the yawning chasm of Elon Musk’s sense of humour – and didn’t find much to envy,https://www.theguardian.com/commentisfree/2023/apr/12/bbc-elon-musk-sense-of-humour-twitter,7,0.095,0.084,0.821,0.8476,Guardian,2023-04-13,8
+9,Holiday homes in England to need planning permission under new plans,https://www.theguardian.com/society/2023/apr/12/uk-government-proposes-law-requiring-planning-permission-for-holiday-lets,8,0.138,0.009,0.854,0.9967,Guardian,2023-04-13,8
+10,Revealed: official gifts to Royal family contained in £100m ‘private’ stamp collection,https://www.theguardian.com/uk-news/2023/apr/13/revealed-official-gifts-to-royal-family-contained-in-100m-private-stamp-collection,9,0.095,0.034,0.872,0.9983,Guardian,2023-04-13,8
