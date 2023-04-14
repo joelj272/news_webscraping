@@ -2959,3 +2959,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Tara Fitzgerald: ‘People don’t ask me to take my clothes off any more’,https://www.theguardian.com/culture/2023/apr/13/tara-fitzgerald-people-dont-ask-me-to-take-my-clothes-off-any-more,7,0.124,0.036,0.84,0.999,Guardian,2023-04-13,20
 9,Antiques Roadshow expert Judith Miller dies aged 71,https://www.theguardian.com/tv-and-radio/2023/apr/13/antiques-roadshow-expert-judith-miller-dies-aged-71,8,0.135,0.051,0.814,0.9952,Guardian,2023-04-13,20
 10,Grand National 2023: horse-by-horse guide to all the runners,https://www.theguardian.com/sport/2023/apr/13/grand-national-2023-horse-by-horse-guide-to-all-the-runners-horse-racing-tips,9,0.181,0.052,0.767,1.0,Guardian,2023-04-13,20
+1,Dove or dog: China makes peace while baring its teeth,https://www.bbc.co.uk/news/world-asia-china-65247965,0,0.098,0.103,0.799,-0.9563,BBC,2023-04-14,8
+2,"Texas dairy farm explosion kills 18,000 cows",https://www.bbc.co.uk/news/world-us-canada-65258108,1,0.05,0.139,0.811,-0.9905,BBC,2023-04-14,8
+3,"Leak suspect, 21, is a US National Guard airman",https://www.bbc.co.uk/news/world-us-canada-65269975,2,0.069,0.088,0.843,-0.9199,BBC,2023-04-14,8
+4,US airman to appear in court over intelligence leak,https://www.bbc.co.uk/news/world-us-canada-65271302,3,0.077,0.094,0.829,-0.9438,BBC,2023-04-14,8
+5,Dalai Lama defended over tongue-sucking remark,https://www.bbc.co.uk/news/world-asia-india-65272213,4,0.05,0.08,0.87,-0.9287,BBC,2023-04-14,8
+6,What we know about US leak suspect Jack Teixeira,https://www.bbc.co.uk/news/world-us-canada-65271348,5,0.072,0.065,0.863,0.2419,BBC,2023-04-14,8
+7,Thousands get diagnosis after 60 new diseases found,https://www.bbc.co.uk/news/health-65266255,6,0.086,0.041,0.872,0.9762,BBC,2023-04-14,8
+8,America's fastest-growing gun problem,https://www.bbc.co.uk/news/world-us-canada-65170507,7,0.077,0.198,0.725,-0.9995,BBC,2023-04-14,8
+9,Tech worker arrested in Cash App founder's killing,https://www.bbc.co.uk/news/world-us-canada-65257806,8,0.04,0.195,0.765,-0.999,BBC,2023-04-14,8
+10,North Korea tests 'most powerful' missile to date,https://www.bbc.co.uk/news/world-asia-65271835,9,0.095,0.122,0.783,-0.9601,BBC,2023-04-14,8
+1,"PICTURED: Bay Area tech exec, 38, who's been arrested for stabbing to death Cash App founder Bob Lee after argument in car spilled out onto San Francisco street at 2:30am
+",https://www.dailymail.co.uk/news/article-11969477/San-Francisco-police-arrest-fellow-tech-exec-murder-Cash-App-founder-Bob-Lee.html,0,0.091,0.145,0.764,-0.9926,Daily Mail,2023-04-14,8
+2,"Here's Johnny! Jack Nicholson, 85, looks disheveled in his $10 million Beverly Hills compound as he's seen for first time in 18 months - after friends voiced fears reclusive star would die alone
+",https://www.dailymail.co.uk/news/article-11970345/Jack-Nicholson-85-looks-disheveled-LA-balcony-hes-seen-time-TWO-YEARS.html,1,0.115,0.043,0.842,0.9984,Daily Mail,2023-04-14,8
+3,"'No one at a senior level' was aware Bud Light had made the 'mistake' of partnering with trans influencer Dylan Mulvaney - as parent company Anheuser-Busch loses $6BN in six days
+",https://www.dailymail.co.uk/news/article-11967949/No-one-senior-level-aware-Bud-Light-partnering-trans-influencer-Dylan-Mulvaney.html,2,0.108,0.054,0.838,0.9937,Daily Mail,2023-04-14,8
+4,"EXCLUSIVE: 'It's a terrible tragedy': Business advisor for Drake and other top musicians who was in Miami hotel room with woman found dead in bathtub claims they were working on music together
+",https://www.dailymail.co.uk/news/article-11967293/Music-rep-reveals-woman-dead-bathtub-Miami-Beach-suite-budding-musician.html,3,0.057,0.063,0.88,-0.4507,Daily Mail,2023-04-14,8
+5,"Bud Light's parent company Anheuser-Busch InBev has lost more than $6 BILLION in market cap in just six days after Dylan Mulvaney partnership sparked backlash 
+",https://www.dailymail.co.uk/news/article-11967335/Bud-Lights-parent-company-Anheuser-Busch-InBev-lost-6-BILLION-market-cap.html,4,0.064,0.037,0.899,0.9471,Daily Mail,2023-04-14,8
+6,"Air National Guardsman, 21, arrested in Pentagon leak went by Discord name 'Jack the Dripper' - and was leader of anti-government 'Thug Shaker Central' chat room 'that's been posting top secret documents since LAST YEAR' 
+",https://www.dailymail.co.uk/news/article-11969873/Identity-man-responsible-Pentagon-secret-documents-leak.html,5,0.09,0.082,0.828,0.5777,Daily Mail,2023-04-14,8
+7,"Drake Bell 'caused concern' with family before he disappeared: Police found actor 'safe' hours after he was reported missing following trip to SeaWorld with his toddler son 
+",https://www.dailymail.co.uk/tvshowbiz/article-11969507/Disgraced-Nickelodeon-star-Drake-Bell-declared-missing-endangered-cops.html,6,0.081,0.103,0.815,-0.987,Daily Mail,2023-04-14,8
+8,"How Bud Light's Dylan Mulvaney debacle has left Anheuser-Busch paralyzed: Company 'never expected' backlash and is now TRAPPED as it refuses to disavow partnership OR stand up to critics, PR expert says
+",https://www.dailymail.co.uk/news/article-11970683/How-Bud-Lights-Dylan-Mulvaney-debacle-left-Anheuser-Busch-paralyzed.html,7,0.076,0.088,0.836,-0.9735,Daily Mail,2023-04-14,8
+9,"Yellowstone stars Hassie Harrison and Ryan Bingham confirm their relationship with a fiery romantic kiss: 'I love you, cowboy'
+",https://www.dailymail.co.uk/tvshowbiz/article-11966943/Yellowstone-stars-Hassie-Harrison-Ryan-Bingham-confirm-relationship-fiery-kiss.html,8,0.151,0.037,0.812,0.9948,Daily Mail,2023-04-14,8
+10,"Experts on red alert for mega-earthquake off the US coast - after discovering a crack in 600-mile long fault line at the bottom of the Pacific
+",https://www.dailymail.co.uk/sciencetech/article-11970435/Experts-red-alert-mega-earthquake-coast-analyzing-hole-fault-line.html,9,0.06,0.095,0.846,-0.973,Daily Mail,2023-04-14,8
+1,Matthew McConaughey says Woody Harrelson could be his half-brother,https://www.theguardian.com/film/2023/apr/14/matthew-mcconaughey-says-woody-harrelson-could-be-his-half-brother,0,0.056,0.046,0.898,-0.186,Guardian,2023-04-14,8
+2,Senior Conservatives hit out at Suella Braverman’s ‘racist rhetoric’ ,https://www.theguardian.com/world/2023/apr/13/senior-conservatives-hit-out-at-suella-bravermans-racist-rhetoric,1,0.067,0.146,0.787,-0.9989,Guardian,2023-04-14,8
+3,‘The stress is overwhelming’: the highs and lows of starting a new life in a static caravan,https://www.theguardian.com/society/2023/apr/13/the-stress-is-overwhelming-the-highs-and-lows-of-starting-a-new-life-in-a-static-caravan,2,0.1,0.089,0.811,0.9781,Guardian,2023-04-14,8
+4,US arrests suspect behind leak of Pentagon documents,https://www.theguardian.com/us-news/2023/apr/13/pentagon-leaked-documents-suspect-arrested,3,0.097,0.083,0.82,0.9506,Guardian,2023-04-14,8
+5,The Last Thing He Told Me review – Jennifer Garner is as wooden as her fancy salad bowls,https://www.theguardian.com/tv-and-radio/2023/apr/14/the-last-thing-he-told-me-review-jennifer-garner-is-as-wooden-as-her-fancy-salad-bowls,4,0.105,0.056,0.838,0.9911,Guardian,2023-04-14,8
+6,"EU motorist fined almost £11,000 after falling foul of London Ulez rule",https://www.theguardian.com/uk-news/2023/apr/13/eu-motorist-fined-almost-11000-after-visit-to-london-falls-foul-of-ulez-rule-french-hire-car,5,0.035,0.03,0.935,0.6077,Guardian,2023-04-14,8
+7,The biggest new moneymaking scheme for Hollywood stars? Doing nothing,https://www.theguardian.com/tv-and-radio/2023/apr/14/phoebe-waller-bridge-amazon-deal-fleabag,6,0.119,0.057,0.824,0.9951,Guardian,2023-04-14,8
+8,"Hearing aids could help cut the risk of dementia, study finds",https://www.theguardian.com/society/2023/apr/13/hearing-aids-could-help-cut-the-risk-of-dementia-study-finds,7,0.075,0.115,0.81,-0.9618,Guardian,2023-04-14,8
+9,Fast-build modular homes – an answer to the UK housing crisis?,https://www.theguardian.com/business/2023/apr/14/fast-build-modular-homes-an-answer-to-the-uk-housing-crisis,8,0.113,0.036,0.851,0.9987,Guardian,2023-04-14,8
+10,"‘I’m building a patchwork quilt’: Nicholas Hoult on fame, fatherhood and playing Dracula’s wingman",https://www.theguardian.com/film/2023/apr/14/im-building-a-patchwork-quilt-nicholas-hoult-on-fame-fatherhood-and-playing-draculas-wingman,9,0.155,0.068,0.777,0.9995,Guardian,2023-04-14,8
