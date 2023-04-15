@@ -3079,3 +3079,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘A lot of it starts with cushions’: what happened when I let a primpover expert into my home,https://www.theguardian.com/lifeandstyle/2023/apr/15/a-lot-of-it-starts-with-cushions-what-happened-when-i-let-a-primpover-expert-into-my-home,7,0.126,0.054,0.82,0.9993,Guardian,2023-04-15,8
 9,Japan PM evacuated unharmed after explosion following suspected attack,https://www.theguardian.com/world/2023/apr/15/japan-pm-rushed-to-safety-after-object-thrown-at-him-and-blast-heard,8,0.024,0.081,0.896,-0.9589,Guardian,2023-04-15,8
 10,‘Something special’: same-sex couple wed in UK year after fleeing Ukraine,https://www.theguardian.com/society/2023/apr/15/same-sex-couple-wed-uk-year-after-fleeing-ukraine,9,0.141,0.075,0.785,0.9946,Guardian,2023-04-15,8
+1,Power struggle rocks Sudan as rival forces clash,https://www.bbc.co.uk/news/world-africa-65284945,0,0.031,0.084,0.886,-0.9889,BBC,2023-04-15,20
+2,A simple guide to what's going on in Sudan,https://www.bbc.co.uk/news/world-africa-65284948,1,0.043,0.163,0.794,-0.9965,BBC,2023-04-15,20
+3,Man 'eaten alive' by bed bugs in US jail - family,https://www.bbc.co.uk/news/world-us-canada-65267971,2,0.053,0.112,0.835,-0.9883,BBC,2023-04-15,20
+4,Tunisia footballer dies after setting himself on fire,https://www.bbc.co.uk/news/world-africa-65284093,3,0.016,0.248,0.736,-0.9976,BBC,2023-04-15,20
+5,Million-year-old viruses help fight cancer - scientists,https://www.bbc.co.uk/news/health-65266256,4,0.094,0.173,0.733,-0.9969,BBC,2023-04-15,20
+6,The Script guitarist Mark Sheehan dies aged 46,https://www.bbc.co.uk/news/world-europe-65281865,5,0.133,0.043,0.825,0.994,BBC,2023-04-15,20
+7,Australian IT specialist charged with espionage,https://www.bbc.co.uk/news/world-australia-65284522,6,0.057,0.072,0.871,-0.6369,BBC,2023-04-15,20
+8,Japan PM evacuated after apparent smoke bomb blast,https://www.bbc.co.uk/news/world-asia-65284306,7,0.051,0.133,0.816,-0.9867,BBC,2023-04-15,20
+9,'I am watching Notre-Dame being reborn',https://www.bbc.co.uk/news/world-europe-65256801,8,0.047,0.073,0.88,-0.9643,BBC,2023-04-15,20
+10,Montana becomes first US state to pass TikTok ban,https://www.bbc.co.uk/news/world-us-canada-65281881,9,0.05,0.133,0.817,-0.9905,BBC,2023-04-15,20
+1,"Tech exec stabbed Bob Lee in the HEART with a kitchen knife after grilling him over his relationship with his married sister and whether she was taking drugs - as texts reveal how she gushed over 'classy' Cash App founder
+",https://www.dailymail.co.uk/news/article-11973831/Cash-App-exec-Bob-Lees-accused-killer-Nima-Momeni-hearing-postponed.html,0,0.053,0.106,0.841,-0.9938,Daily Mail,2023-04-15,20
+2,"PICTURED: Jackie Brown star Bridget Fonda, 59, looks unrecognizable as she's seen on rare public outing 20 YEARS after she left the limelight to focus on family with Danny Elfman
+",https://www.dailymail.co.uk/tvshowbiz/article-11975433/Jackie-Brown-star-Bridget-Fonda-looks-unrecognizable-steps-rare-outing.html,1,0.055,0.03,0.915,0.7915,Daily Mail,2023-04-15,20
+3,"Anheuser-Busch CEO breaks silence after Bud Light's partnership with trans TikTok star Dylan Mulvaney drew backlash: 'We never intended to be part of a discussion that divides people'
+",https://www.dailymail.co.uk/news/article-11974323/Anheuser-Busch-CEO-breaks-silence-Bud-Lights-Dylan-Mulvaney-controversy.html,2,0.091,0.055,0.854,0.9836,Daily Mail,2023-04-15,20
+4,"Here's Johnny! Jack Nicholson, 85, looks disheveled in his $10 million Beverly Hills compound as he's seen for first time in 18 months - after friends voiced fears reclusive star would die alone
+",https://www.dailymail.co.uk/news/article-11970345/Jack-Nicholson-85-looks-disheveled-LA-balcony-hes-seen-time-TWO-YEARS.html,3,0.115,0.043,0.842,0.9984,Daily Mail,2023-04-15,20
+5,"REVEALED The lethal truth about mass shootings: Never before has America suffered so much carnage, so quickly. Now experts tell DailyMail.com the real reasons why… and the answers will fascinate and appall you
+",https://www.dailymail.co.uk/news/article-11966161/After-Louisville-gun-massacre-mass-shootings-rising-America.html,4,0.079,0.221,0.7,-0.9997,Daily Mail,2023-04-15,20
+6,"Donald Trump Jr. demands END to Bud Light boycott over partnership with trans influencer - and praises them for donating MORE to GOP than to Dems: 'I'm leaving them alone. I think you should probably do the same'
+",https://www.dailymail.co.uk/news/article-11975219/Donald-Trump-Jr-calls-end-Bud-Light-boycott-praises-conservative-credentials.html,5,0.102,0.058,0.839,0.9962,Daily Mail,2023-04-15,20
+7,"Kerry Washington sends 'love and prayers' to her 'movie huzbin' Jamie Foxx as she leads star tributes after he was rushed to the hospital due to a mystery medical emergency
+",https://www.dailymail.co.uk/tvshowbiz/article-11971651/Kerry-Washington-sends-love-prayers-movie-huzbin-Jamie-Foxx-medical-emergency.html,6,0.149,0.035,0.816,0.9948,Daily Mail,2023-04-15,20
+8,"Meghan 'wouldn't want to play second fiddle to Kate': Duchess 'would have gone to the coronation only if she was assured of a prominent position' - and will relaunch her career after the event, royal experts say 
+",https://www.dailymail.co.uk/news/article-11974479/Meghan-relaunch-career-coronation-royal-experts-say.html,7,0.084,0.081,0.835,0.8306,Daily Mail,2023-04-15,20
+9,"Masters fan who went viral after being spotted in the crowd is identified as Texas Tech cheerleader 
+",https://www.dailymail.co.uk/news/article-11960515/Masters-fan-went-viral-spotted-crowd-identified-Texas-Tech-cheerleader.html,8,0.08,0.025,0.895,0.9921,Daily Mail,2023-04-15,20
+10,"Security steps in as Ron DeSantis is rushed by protestors who leap on stage during his New Hampshire speech 
+",https://www.dailymail.co.uk/news/article-11974849/Two-women-rush-stage-protest-Ron-DeSantis-speech.html,9,0.13,0.072,0.799,0.9968,Daily Mail,2023-04-15,20
+1,Orient Express to axe UK section after 41 years due to Brexit,https://www.theguardian.com/travel/2023/apr/15/brexit-orient-express-murder-london-folkestone-leg-route-border-delays,0,0.07,0.089,0.841,-0.9735,Guardian,2023-04-15,20
+2,Grand National 2023: Corach Rambler wins after protesters force race to start late,https://www.theguardian.com/sport/live/2023/apr/15/grand-national-2023-live-news-updates-tips-aintree,1,0.157,0.063,0.78,0.9999,Guardian,2023-04-15,20
+3,Manchester City 3-1 Leicester City: Premier League – as it happened,https://www.theguardian.com/football/live/2023/apr/15/manchester-city-v-leicester-city-premier-league-live-score-updates,2,0.138,0.085,0.777,0.9983,Guardian,2023-04-15,20
+4,Row deepens over Braverman’s ‘rebuke’ to police for golly pub probe,https://www.theguardian.com/politics/2023/apr/15/braverman-rebuke-police-golly-pub-dolls-home-office,3,0.065,0.144,0.791,-0.998,Guardian,2023-04-15,20
+5,Boris Johnson warned against a ‘chicken run’ to a safer seat,https://www.theguardian.com/politics/2023/apr/15/boris-johnson-safer-seat-election,4,0.121,0.027,0.851,0.9961,Guardian,2023-04-15,20
+6,"Buff your taps, rehang your doors: experts on the one bit of DIY advice you need to know",https://www.theguardian.com/lifeandstyle/2023/apr/15/buff-taps-rehang-doors-experts-diy-advice,5,0.133,0.031,0.836,0.9992,Guardian,2023-04-15,20
+7,NHS crisis deepens as nursing union plans ‘mega strike’ in England,https://www.theguardian.com/society/2023/apr/15/nhs-crisis-deepens-as-nursing-union-plans-mega-strike-in-england,6,0.066,0.123,0.81,-0.9964,Guardian,2023-04-15,20
+8,Bromley councillor Shaun Slator expelled from Conservative party over rape tweet,https://www.theguardian.com/politics/2023/apr/15/bromley-councillor-shaun-slator-expelled-from-conservative-party-over-tweet,7,0.071,0.111,0.818,-0.9501,Guardian,2023-04-15,20
+9,Rishi Sunak scraps plans for new smart motorways in England,https://www.theguardian.com/world/2023/apr/15/rishi-sunak-scraps-plans-new-smart-motorways-england,8,0.151,0.13,0.719,0.9446,Guardian,2023-04-15,20
+10,A ‘handmade’ egg sandwich with 32 ingredients? Maybe it is time to change how we eat,https://www.theguardian.com/food/2023/apr/15/a-handmade-egg-sandwich-with-32-ingredients-maybe-it-is-time-to-change-how-we-eat,9,0.109,0.063,0.828,0.988,Guardian,2023-04-15,20
