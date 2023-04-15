@@ -3039,3 +3039,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Chesterfield couple guilty of ‘brutal’ Christmas Day murder of baby son,https://www.theguardian.com/uk-news/2023/apr/14/chesterfield-couple-finley-boden-verdict,7,0.07,0.172,0.757,-0.9983,Guardian,2023-04-14,20
 9,Tory MPs at risk of losing seats allowed to stand in other constituencies,https://www.theguardian.com/politics/2023/apr/14/tory-mps-at-risk-losing-seats-allowed-stand-other-constituencies-next-election,8,0.089,0.028,0.883,0.9926,Guardian,2023-04-14,20
 10,Your perfect jeans do exist – you just need to know what to look for,https://www.theguardian.com/fashion/2023/apr/14/your-perfect-jeans-do-exist-you-just-need-to-know-what-to-look-for,9,0.119,0.039,0.842,0.9971,Guardian,2023-04-14,20
+1,Japan PM evacuated after apparent smoke bomb blast,https://www.bbc.co.uk/news/world-asia-65284306,0,0.051,0.133,0.816,-0.9867,BBC,2023-04-15,8
+2,Man 'eaten alive' by bed bugs in US jail - family,https://www.bbc.co.uk/news/world-us-canada-65267971,1,0.053,0.112,0.835,-0.9883,BBC,2023-04-15,8
+3,Montana becomes first US state to pass TikTok ban,https://www.bbc.co.uk/news/world-us-canada-65281881,2,0.05,0.133,0.817,-0.9905,BBC,2023-04-15,8
+4,Million-year-old viruses help fight cancer - scientists,https://www.bbc.co.uk/news/health-65266256,3,0.094,0.173,0.733,-0.9969,BBC,2023-04-15,8
+5,"In Kyiv, top officials shrug off US documents leak",https://www.bbc.co.uk/news/world-europe-65277838,4,0.077,0.104,0.819,-0.9672,BBC,2023-04-15,8
+6,Jack Teixeira's charges in full and what they tell us,https://www.bbc.co.uk/news/world-us-canada-65279689,5,0.083,0.088,0.829,-0.8459,BBC,2023-04-15,8
+7,The Script guitarist Mark Sheehan dies aged 46,https://www.bbc.co.uk/news/world-europe-65281865,6,0.133,0.043,0.825,0.994,BBC,2023-04-15,8
+8,"US airman, 21, charged over Pentagon documents leak",https://www.bbc.co.uk/news/world-us-canada-65270966,7,0.091,0.103,0.807,-0.373,BBC,2023-04-15,8
+9,Elon Musk's Starship gets flight approval - but what exactly is it?,https://www.bbc.co.uk/news/science-environment-55564448,8,0.089,0.021,0.89,0.9992,BBC,2023-04-15,8
+10,Macron signs pension age rise to 64 into law,https://www.bbc.co.uk/news/world-europe-65279818,9,0.042,0.128,0.83,-0.9972,BBC,2023-04-15,8
+1,"Here's Johnny! Jack Nicholson, 85, looks disheveled in his $10 million Beverly Hills compound as he's seen for first time in 18 months - after friends voiced fears reclusive star would die alone
+",https://www.dailymail.co.uk/news/article-11970345/Jack-Nicholson-85-looks-disheveled-LA-balcony-hes-seen-time-TWO-YEARS.html,0,0.115,0.043,0.842,0.9984,Daily Mail,2023-04-15,8
+2,"Tech exec stabbed Bob Lee in the HEART with a kitchen knife after grilling him over his relationship with his married sister and whether she was taking drugs - as texts reveal how she gushed over 'classy' Cash App founder
+",https://www.dailymail.co.uk/news/article-11973831/Cash-App-exec-Bob-Lees-accused-killer-Nima-Momeni-hearing-postponed.html,1,0.053,0.106,0.841,-0.9938,Daily Mail,2023-04-15,8
+3,"Anheuser-Busch CEO breaks silence after Bud Light's partnership with trans TikTok star Dylan Mulvaney drew backlash: 'We never intended to be part of a discussion that divides people'
+",https://www.dailymail.co.uk/news/article-11974323/Anheuser-Busch-CEO-breaks-silence-Bud-Lights-Dylan-Mulvaney-controversy.html,2,0.091,0.055,0.854,0.9836,Daily Mail,2023-04-15,8
+4,"Tributes pour in for wrestling star James Pasquale - Jimmy the Jester - who has died aged 34 after suffering serious injuries in a car crash
+",https://www.dailymail.co.uk/news/article-11972065/Wrestling-star-James-Pasquale-Jimmy-Jester-died-aged-34-car-crash.html,3,0.16,0.092,0.749,0.9948,Daily Mail,2023-04-15,8
+5,"Experts on red alert for mega-earthquake off the US coast - after discovering a crack in 600-mile long fault line at the bottom of the Pacific
+",https://www.dailymail.co.uk/sciencetech/article-11970435/Experts-red-alert-mega-earthquake-coast-analyzing-hole-fault-line.html,4,0.06,0.095,0.846,-0.973,Daily Mail,2023-04-15,8
+6,"Is THIS the snap that proves Matthew McConaughey and Woody Harrelson are brothers? Actor shares reluctance to get a DNA test after hinting they share the same HITMAN father
+",https://www.dailymail.co.uk/tvshowbiz/article-11972271/Is-snap-proves-Matthew-McConaughey-Woody-Harrelson-brothers.html,5,0.125,0.052,0.823,0.995,Daily Mail,2023-04-15,8
+7,"Local Illinois news anchor, 42, dies after falling ill on vacation in Florida with her husband and two young sons: 'In the eyes of a small community she was a celebrity'
+",https://www.dailymail.co.uk/news/article-11973157/Local-Illinois-news-anchor-42-dies-falling-ill-vacation-Florida.html,6,0.074,0.079,0.847,-0.2866,Daily Mail,2023-04-15,8
+8,"'We will all miss you every day': Ryan Seacrest and Kelly Ripa's emotional farewell on his final Live With Kelly And Ryan episode as his girlfriend Aubrey Paige makes rare appearance to support her beau
+",https://www.dailymail.co.uk/femail/article-11973079/Ryan-Seacrest-emotional-farewell-final-Live-Kelly-Ryan-shock-resignation.html,7,0.199,0.03,0.772,0.9996,Daily Mail,2023-04-15,8
+9,"Vatican academy will probe 'mystical phenomena' around the world including 'weeping' statues of Mary, stigmata and ghost sightings under plans to set up new observatory
+",https://www.dailymail.co.uk/news/article-11972515/Vatican-academy-probe-mystical-phenomena-world.html,8,0.029,0.076,0.895,-0.9876,Daily Mail,2023-04-15,8
+10,"Terrifying moment nurse is bitten by 220lb shark while snorkelling in the Maldives - before cleaning up her gruesome bite-marks and leaping in for a second dip
+",https://www.dailymail.co.uk/news/article-11972297/Terrifying-moment-tourist-bitten-220lb-SHARK-leaving-6ins-wound-Maldives-trip.html,9,0.066,0.072,0.862,-0.7616,Daily Mail,2023-04-15,8
+1,Blind date: ‘We had a civilised peck somewhere between lip and cheek’ ,https://www.theguardian.com/lifeandstyle/2023/apr/15/blind-date-sam-heather,0,0.155,0.028,0.817,0.9984,Guardian,2023-04-15,8
+2,Grand National braced as ‘300-plus’ protesters plan to disrupt big race,https://www.theguardian.com/sport/2023/apr/14/grand-national-braced-as-300-plus-protestors-plan-to-disrupt-racing-biggest-day-aintree,1,0.153,0.07,0.777,0.9975,Guardian,2023-04-15,8
+3,UK families tell of threats and police warnings over children playing in street,https://www.theguardian.com/environment/2023/apr/15/uk-families-threats-police-warnings-children-playing-in-street,2,0.154,0.102,0.744,0.9947,Guardian,2023-04-15,8
+4,Joe Biden breaks down as he meets priest who gave his son the last rites,https://www.theguardian.com/us-news/2023/apr/14/joe-biden-breaks-down-as-he-meets-priest-who-gave-his-son-the-last-rites,3,0.086,0.057,0.857,0.9083,Guardian,2023-04-15,8
+5,"EU driver slapped with London emissions fines totalling £25,000",https://www.theguardian.com/world/2023/apr/15/eu-driver-slapped-with-london-emissions-fines-totalling-25k,4,0.062,0.082,0.855,-0.8831,Guardian,2023-04-15,8
+6,‘It’s about pride’: Louisiana woman sets record for world’s largest afro ,https://www.theguardian.com/world/2023/apr/15/largest-afro-guinness-world-record,5,0.113,0.03,0.857,0.9931,Guardian,2023-04-15,8
+7,UK pensions: how much do you need to retire as the cost of living soars?,https://www.theguardian.com/money/2023/apr/15/uk-pensions-how-much-retire-cost-of-living-inflation-income,6,0.1,0.035,0.865,0.9971,Guardian,2023-04-15,8
+8,‘A lot of it starts with cushions’: what happened when I let a primpover expert into my home,https://www.theguardian.com/lifeandstyle/2023/apr/15/a-lot-of-it-starts-with-cushions-what-happened-when-i-let-a-primpover-expert-into-my-home,7,0.126,0.054,0.82,0.9993,Guardian,2023-04-15,8
+9,Japan PM evacuated unharmed after explosion following suspected attack,https://www.theguardian.com/world/2023/apr/15/japan-pm-rushed-to-safety-after-object-thrown-at-him-and-blast-heard,8,0.024,0.081,0.896,-0.9589,Guardian,2023-04-15,8
+10,‘Something special’: same-sex couple wed in UK year after fleeing Ukraine,https://www.theguardian.com/society/2023/apr/15/same-sex-couple-wed-uk-year-after-fleeing-ukraine,9,0.141,0.075,0.785,0.9946,Guardian,2023-04-15,8
