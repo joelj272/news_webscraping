@@ -3159,3 +3159,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Coronation’s Big Help Out volunteering project at risk from lack of participants,https://www.theguardian.com/society/2023/apr/16/big-help-out-volunteering-crisis-coronation,7,0.152,0.073,0.775,0.9981,Guardian,2023-04-16,8
 9,A ‘handmade’ egg sandwich with 32 ingredients? Maybe it is time to change how we eat,https://www.theguardian.com/food/2023/apr/15/a-handmade-egg-sandwich-with-32-ingredients-maybe-it-is-time-to-change-how-we-eat,8,0.109,0.063,0.828,0.988,Guardian,2023-04-16,8
 10,UK families tell of threats and police warnings over children playing in street,https://www.theguardian.com/environment/2023/apr/15/uk-families-threats-police-warnings-children-playing-in-street,9,0.154,0.102,0.744,0.9947,Guardian,2023-04-16,8
+1,EU rejects Ukraine grain ban by Poland and Hungary,https://www.bbc.co.uk/news/world-europe-65292698,0,0.047,0.067,0.886,-0.8288,BBC,2023-04-16,20
+2,The brazen murder of a mafia don-turned-politician,https://www.bbc.co.uk/news/world-asia-india-65291781,1,0.069,0.19,0.741,-0.9994,BBC,2023-04-16,20
+3,Suspected leaker’s hometown reacts to arrest of 'smart idiot',https://www.bbc.co.uk/news/world-asia-india-65290043,2,0.094,0.125,0.781,-0.98,BBC,2023-04-16,20
+4,Four dead at US 16th birthday party shooting,https://www.bbc.co.uk/news/world-us-canada-65293737,3,0.053,0.119,0.828,-0.9703,BBC,2023-04-16,20
+5,Former Indian MP shot dead live on TV,https://www.bbc.co.uk/news/world-asia-india-65290042,4,0.061,0.179,0.76,-0.9991,BBC,2023-04-16,20
+6,"Shock and anger in Khartoum, a city not used to war",https://www.bbc.co.uk/news/world-africa-65293537,5,0.088,0.135,0.777,-0.9925,BBC,2023-04-16,20
+7,Further fierce fighting in Sudan as clashes spread,https://www.bbc.co.uk/news/world-africa-65293538,6,0.04,0.159,0.8,-0.9964,BBC,2023-04-16,20
+8,Why Russia cares so much about international sport,https://www.bbc.co.uk/news/world-europe-65241285,7,0.135,0.071,0.794,0.9953,BBC,2023-04-16,20
+9,Sixteen dead in fire at Dubai apartment building,https://www.bbc.co.uk/news/world-middle-east-65290956,8,0.109,0.144,0.747,-0.9089,BBC,2023-04-16,20
+10,US savers get savvy ditching and switching banks,https://www.bbc.co.uk/news/business-65180130,9,0.092,0.084,0.824,0.8338,BBC,2023-04-16,20
+1,"PICTURED: High school football star on college scholarship shot dead at his sister's Sweet 16 in Alabama along with three others in a mass shooting - and the pair's mother was among more than 20 people injured 
+",https://www.dailymail.co.uk/news/article-11978385/Police-confirm-fatalities-20-people-injured-shooting-Sweet-16-party.html,0,0.063,0.089,0.848,-0.9885,Daily Mail,2023-04-16,20
+2,"Plus-size influencer demands FAA and airlines give fat flyers as many FREE seats as they need to spread themselves out - and admits other passengers may have to foot the bill 
+",https://www.dailymail.co.uk/news/article-11976173/Plus-size-creator-creates-petition-try-force-airlines-offer-larger-passengers-bigger-seats.html,1,0.099,0.06,0.84,0.983,Daily Mail,2023-04-16,20
+3,"PICTURED: Jackie Brown star Bridget Fonda, 59, looks unrecognizable as she's seen on rare public outing 20 YEARS after she left the limelight to focus on family with Danny Elfman
+",https://www.dailymail.co.uk/tvshowbiz/article-11975433/Jackie-Brown-star-Bridget-Fonda-looks-unrecognizable-steps-rare-outing.html,2,0.055,0.03,0.915,0.7915,Daily Mail,2023-04-16,20
+4,"Keanu Reeves and girlfriend Alexandra Grant share a passionate kiss at the Museum of Contemporary Art gala in LA
+",https://www.dailymail.co.uk/tvshowbiz/article-11977781/Keanu-Reeves-Alexandra-Grant-share-passionate-kiss-Museum-Contemporary-Art-gala.html,3,0.105,0.004,0.891,0.995,Daily Mail,2023-04-16,20
+5,"Here's Johnny! Jack Nicholson, 85, looks disheveled in his $10 million Beverly Hills compound as he's seen for first time in 18 months - after friends voiced fears reclusive star would die alone
+",https://www.dailymail.co.uk/news/article-11970345/Jack-Nicholson-85-looks-disheveled-LA-balcony-hes-seen-time-TWO-YEARS.html,4,0.115,0.043,0.842,0.9984,Daily Mail,2023-04-16,20
+6,"Dramatic moment hero homeowner fights off FOUR carjackers who tried to steal his vehicle from driveway in Connecticut 
+",https://www.dailymail.co.uk/news/article-11977297/Dramatic-moment-hero-homeowner-fights-four-car-jackers.html,5,0.07,0.178,0.752,-0.998,Daily Mail,2023-04-16,20
+7,"Terrifying bodycam footage shows moment New Mexico cops shoot innocent man dead after knocking WRONG house on domestic violence call - before firing at victim's screaming widow
+",https://www.dailymail.co.uk/news/article-11976595/Footage-shows-moment-New-Mexico-cops-shoot-dead-innocent-Robert-Dotson-knocking-WRONG-house.html,6,0.027,0.158,0.814,-0.9984,Daily Mail,2023-04-16,20
+8,"I'm an air steward and here's why you should NEVER wear flip flops or Crocs on a plane 
+",https://www.dailymail.co.uk/travel/article-11972715/Im-air-steward-heres-NEVER-wear-flip-flops-Crocs-plane.html,7,0.084,0.048,0.868,0.9575,Daily Mail,2023-04-16,20
+9,"Kim Kardashian flaunts her bombshell body in a tan bikini... after revealing she 'is more open to dating again'
+",https://www.dailymail.co.uk/tvshowbiz/article-11976367/Kim-Kardashian-flaunts-flawless-figure-tan-bikini-saying-open-dating-again.html,8,0.134,0.038,0.828,0.9969,Daily Mail,2023-04-16,20
+10,"Kerry Washington sends 'love and prayers' to her 'movie huzbin' Jamie Foxx as she leads star tributes after he was rushed to the hospital due to a mystery medical emergency
+",https://www.dailymail.co.uk/tvshowbiz/article-11971651/Kerry-Washington-sends-love-prayers-movie-huzbin-Jamie-Foxx-medical-emergency.html,9,0.149,0.035,0.816,0.9948,Daily Mail,2023-04-16,20
+1,BBC offers voluntary redundancy to top presenters – report,https://www.theguardian.com/media/2023/apr/16/bbc-offers-voluntary-redundancy-to-top-presenters-report,0,0.049,0.064,0.887,-0.7579,Guardian,2023-04-16,20
+2,‘Stop or I’ll fire you’: the driver who defied Uber’s automated HR,https://www.theguardian.com/technology/2023/apr/16/stop-or-ill-fire-you-the-driver-who-defied-ubers-automated-hr,1,0.076,0.103,0.821,-0.9605,Guardian,2023-04-16,20
+3,"Some ‘nicotine-free’ vapes high in addictive substances, tests reveal",https://www.theguardian.com/society/2023/apr/16/some-nicotine-free-vapes-high-addictive-substances-tests-show,2,0.048,0.059,0.893,-0.9508,Guardian,2023-04-16,20
+4,"Dear Keir, the polls are tightening and frankly, people are worried. You have to raise your game",https://www.theguardian.com/commentisfree/2023/apr/16/keir-starmer-polls-tightening-labour-tories,3,0.111,0.119,0.77,-0.8835,Guardian,2023-04-16,20
+5,Nottingham Forest 0-2 Manchester United: Premier League – as it happened,https://www.theguardian.com/football/live/2023/apr/16/nottingham-forest-v-manchester-united-premier-league-live-score-updates,4,0.201,0.066,0.733,0.9999,Guardian,2023-04-16,20
+6,Essex pub that displayed golly dolls seized by police is vandalised,https://www.theguardian.com/uk-news/2023/apr/16/essex-pub-that-displayed-golly-dolls-seized-by-police-is-vandalised,5,0.056,0.095,0.849,-0.9786,Guardian,2023-04-16,20
+7,"Lock up your bunnies: Fatal Attraction is back, and still stuck in the 80s",https://www.theguardian.com/tv-and-radio/2023/apr/16/lock-up-your-bunnies-fatal-attraction-tv-reboot-lizzie-caplan-joshua-jackson,6,0.114,0.125,0.762,-0.9906,Guardian,2023-04-16,20
+8,"Delivery driver who was hit by own van has died, say Cardiff police",https://www.theguardian.com/uk-news/2023/apr/16/delivery-driver-who-was-hit-by-own-van-dies-say-cardiff-police,7,0.166,0.109,0.725,0.9698,Guardian,2023-04-16,20
+9,Britain is a dying nation in need of new curators,https://www.theguardian.com/commentisfree/2023/apr/16/britain-is-a-dying-nation-in-need-of-new-curators,8,0.089,0.095,0.816,-0.4543,Guardian,2023-04-16,20
+10,Labour glitch put voting intentions data of millions at risk,https://www.theguardian.com/politics/2023/apr/16/labour-glitch-put-voting-intentions-data-of-millions-at-risk,9,0.106,0.03,0.864,0.9943,Guardian,2023-04-16,20
