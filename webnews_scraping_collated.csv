@@ -3239,3 +3239,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Opposition urges Tories to cut ties with rightwing group over ‘culture war’ comments,https://www.theguardian.com/politics/2023/apr/17/conservatives-turning-point-uk-labour-lib-dems,7,0.085,0.065,0.849,0.8185,Guardian,2023-04-17,8
 9,Lavish ancient Roman winery found at ruins of Villa of the Quintilii near Rome,https://www.theguardian.com/world/2023/apr/17/ancient-roman-winery-found-ruins-villa-of-quintilii-rome,8,0.08,0.029,0.89,0.9902,Guardian,2023-04-17,8
 10,The Hunt for Raoul Moat review – the heartfelt performances leave you bereft,https://www.theguardian.com/tv-and-radio/2023/apr/16/the-hunt-for-raoul-moat-review-the-heartfelt-performances-leave-you-bereft,9,0.159,0.13,0.711,0.9681,Guardian,2023-04-17,8
+1,What we know about Alabama shooting victims,https://www.bbc.co.uk/news/world-us-canada-65282080,0,0.111,0.052,0.836,0.9898,BBC,2023-04-17,20
+2,Horror as Chinese acrobat falls to her death,https://www.bbc.co.uk/news/world-asia-china-65303102,1,0.063,0.13,0.807,-0.9673,BBC,2023-04-17,20
+3,FBI makes arrests over US Chinese 'police stations',https://www.bbc.co.uk/news/world-us-canada-65305415,2,0.068,0.091,0.841,-0.9325,BBC,2023-04-17,20
+4,Black teen shot after ringing the wrong doorbell,https://www.bbc.co.uk/news/world-us-canada-65299127,3,0.1,0.11,0.79,-0.7088,BBC,2023-04-17,20
+5,Award-winning photo turns out to be AI creation,https://www.bbc.co.uk/news/entertainment-arts-65296763,4,0.161,0.052,0.787,0.9989,BBC,2023-04-17,20
+6,Man jailed for sex assault on Spanish Big Brother,https://www.bbc.co.uk/news/world-europe-65301799,5,0.065,0.152,0.783,-0.9966,BBC,2023-04-17,20
+7,Did the US-Ukraine leaks reveal anything valuable?,https://www.bbc.co.uk/news/world-europe-65300150,6,0.083,0.12,0.798,-0.9841,BBC,2023-04-17,20
+8,Play stopped by protesters at World Snooker Championship,https://www.bbc.co.uk/sport/snooker/65305903,7,0.0,0.0,0.0,0.0,BBC,2023-04-17,20
+9,AI-generated Drake and The Weeknd song goes viral,https://www.bbc.co.uk/news/entertainment-arts-65298834,8,0.104,0.038,0.858,0.9941,BBC,2023-04-17,20
+10,Who didn't make the coronation guest list? Take our quiz,https://www.bbc.co.uk/news/world-us-canada-65295378,9,0.088,0.036,0.876,0.4479,BBC,2023-04-17,20
+1,"Netflix's most terrifying films revealed as horror fans left 'scarred for life, throwing up and suffering panic attacks' - are you brave enough to watch them?
+",https://www.dailymail.co.uk/tvshowbiz/article-11976003/Netflixs-terrifying-films-revealed-fans-left-scarred-life-throwing-up.html,0,0.063,0.202,0.735,-0.9997,Daily Mail,2023-04-17,20
+2,"Mom of YouTube star Piper Rockelle, 15, is sued for $22m by 11 kids from her daughter's 'squad' who claim she encouraged them to have oral sex, bragged she makes kiddie porn and mailed her daughter's underwear to a man who liked to sniff it
+",https://www.dailymail.co.uk/news/article-11979695/Piper-Rockelles-mom-sued-22m-11-kids-daughters-squad-claim-abuse.html,1,0.052,0.088,0.86,-0.9908,Daily Mail,2023-04-17,20
+3,"Hundreds of teens cause fiery chaos in Downtown Chicago as they torch cars in rampage organized on social media: Vastly outnumbered police manage just 15 arrests
+",https://www.dailymail.co.uk/news/article-11979113/More-100-youngsters-descend-Downtown-Chicago-torch-cars-teen-trend-gathering.html,2,0.094,0.121,0.785,-0.9659,Daily Mail,2023-04-17,20
+4,"REVEALED: The ten priciest cities in the US where a $300,000 salary feels like $100,000 - and New York is NOT the worst offender
+",https://www.dailymail.co.uk/news/article-11979069/The-ten-priciest-cities-300-000-salary-feels-like-100-000.html,3,0.071,0.028,0.901,0.9735,Daily Mail,2023-04-17,20
+5,"Fears for Australia's most prolific porn star Angela White as fans beg her to 'give her body a break' after 900 hardcore scenes and 'almost dying' on set - but she has no plans to slow down
+",https://www.dailymail.co.uk/tvshowbiz/article-11979609/Fans-beg-Angela-White-body-break-900-porn-scenes.html,4,0.099,0.101,0.8,-0.4585,Daily Mail,2023-04-17,20
+6,"I'm an air steward and here's why you should NEVER wear flip flops or Crocs on a plane 
+",https://www.dailymail.co.uk/travel/article-11972715/Im-air-steward-heres-NEVER-wear-flip-flops-Crocs-plane.html,5,0.084,0.048,0.868,0.9575,Daily Mail,2023-04-17,20
+7,"Couple decapitate themselves at the same time using home-made guillotine with their heads then rolling into a fire in ritualistic sacrifice in India
+",https://www.dailymail.co.uk/news/article-11980721/Couple-decapitate-time-using-home-guillotine-India.html,6,0.054,0.132,0.814,-0.9735,Daily Mail,2023-04-17,20
+8,"PICTURED: High school football star on college scholarship shot dead at his sister's Sweet 16 in Alabama along with three others in a mass shooting - and the pair's mother was among more than 20 people injured 
+",https://www.dailymail.co.uk/news/article-11978385/Police-confirm-fatalities-20-people-injured-shooting-Sweet-16-party.html,7,0.063,0.089,0.848,-0.9885,Daily Mail,2023-04-17,20
+9,"Miracle as gifted black teenager, 16, is released from hospital four days after white elderly homeowner in his 80s shot him TWICE for mistakenly ringing his doorbell in Missouri: GoFundMe donations hit $1.5M 
+",https://www.dailymail.co.uk/news/article-11981377/Viola-Davis-supports-family-black-teenager-16-shot-white-homeowner.html,8,0.095,0.097,0.808,0.7144,Daily Mail,2023-04-17,20
+10,"Kate was denied a final goodbye with the Queen because she had to stay away from Balmoral to ensure Meghan Markle couldn't come, royal author claims
+",https://www.dailymail.co.uk/femail/article-11981061/Kate-resents-not-having-final-moment-say-goodbye-Queen.html,9,0.053,0.076,0.87,-0.9854,Daily Mail,2023-04-17,20
+1,Photographer admits prize-winning image was AI-generated,https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated,0,0.14,0.05,0.81,0.9958,Guardian,2023-04-17,20
+2,World snooker championship disrupted by Just Stop Oil protesters in Sheffield,https://www.theguardian.com/sport/2023/apr/17/world-snooker-championship-disrupted-just-stop-oil-protestors-crucible-theatre-sheffield,1,0.071,0.088,0.842,-0.753,Guardian,2023-04-17,20
+3,King Charles and Camilla choose coronation quiche as signature dish,https://www.theguardian.com/uk-news/2023/apr/17/king-charles-camilla-coronation-quiche-signature-dish,2,0.069,0.015,0.916,0.9806,Guardian,2023-04-17,20
+4,Margaret Ferrier to appeal against Commons suspension for Covid breach,https://www.theguardian.com/politics/2023/apr/17/margaret-ferrier-to-appeal-against-commons-suspension-for-covid-breach,3,0.084,0.048,0.867,0.9593,Guardian,2023-04-17,20
+5,What prompted my U-turn on LTNs? I realised I was on the same side as Laurence Fox,https://www.theguardian.com/commentisfree/2023/apr/17/what-prompted-u-turn-low-traffic-neighbourhoods-laurence-fox,4,0.092,0.073,0.835,0.8458,Guardian,2023-04-17,20
+6,Leeds United v Liverpool: Premier League – live,https://www.theguardian.com/football/live/2023/apr/17/leeds-united-v-liverpool-premier-league-live,5,0.128,0.066,0.806,0.9992,Guardian,2023-04-17,20
+7,"Lucy Letby: initials of babies noted in diary on dates of alleged attacks, court told",https://www.theguardian.com/uk-news/2023/apr/17/lucy-letby-initials-of-babies-on-dates-of-alleged-attacks-noted-in-diary-court-told,6,0.056,0.092,0.852,-0.941,Guardian,2023-04-17,20
+8,Downing Street enters row over move to ditch English name of Brecon Beacons,https://www.theguardian.com/environment/2023/apr/17/row-english-name-brecon-beacons-wales-downing-street,7,0.055,0.054,0.891,0.1421,Guardian,2023-04-17,20
+9,Parliament watchdog opens investigation into Rishi Sunak,https://www.theguardian.com/politics/2023/apr/17/parliament-watchdog-opens-investigation-into-rishi-sunak,8,0.094,0.052,0.853,0.9868,Guardian,2023-04-17,20
+10,‘More like spinach pie’: Felicity Cloake tests King Charles and Camilla’s coronation quiche ,https://www.theguardian.com/food/2023/apr/17/more-like-spinach-pie-felicity-cloake-tests-king-charles-and-camillas-coronation-quiche,9,0.115,0.031,0.854,0.997,Guardian,2023-04-17,20
