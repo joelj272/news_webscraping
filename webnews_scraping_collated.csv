@@ -3199,3 +3199,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Delivery driver who was hit by own van has died, say Cardiff police",https://www.theguardian.com/uk-news/2023/apr/16/delivery-driver-who-was-hit-by-own-van-dies-say-cardiff-police,7,0.166,0.109,0.725,0.9698,Guardian,2023-04-16,20
 9,Britain is a dying nation in need of new curators,https://www.theguardian.com/commentisfree/2023/apr/16/britain-is-a-dying-nation-in-need-of-new-curators,8,0.089,0.095,0.816,-0.4543,Guardian,2023-04-16,20
 10,Labour glitch put voting intentions data of millions at risk,https://www.theguardian.com/politics/2023/apr/16/labour-glitch-put-voting-intentions-data-of-millions-at-risk,9,0.106,0.03,0.864,0.9943,Guardian,2023-04-16,20
+1,Four dead at 16th birthday party shooting in US,https://www.bbc.co.uk/news/world-us-canada-65293737,0,0.059,0.108,0.833,-0.9904,BBC,2023-04-17,8
+2,Eleven die of heatstroke at Indian award function,https://www.bbc.co.uk/news/world-asia-india-65296164,1,0.062,0.072,0.866,-0.6956,BBC,2023-04-17,8
+3,Sydney loses ranking as Australia's biggest city,https://www.bbc.co.uk/news/world-australia-65261720,2,0.124,0.004,0.872,0.9917,BBC,2023-04-17,8
+4,EU rejects Ukraine grain ban by Poland and Hungary,https://www.bbc.co.uk/news/world-europe-65292698,3,0.047,0.067,0.886,-0.8288,BBC,2023-04-17,8
+5,Suspected leaker’s hometown reacts to arrest of 'smart idiot',https://www.bbc.co.uk/news/world-asia-india-65290043,4,0.095,0.125,0.78,-0.9783,BBC,2023-04-17,8
+6,Papua rebels attack soldiers searching for NZ pilot,https://www.bbc.co.uk/news/world-asia-65295678,5,0.039,0.128,0.833,-0.9876,BBC,2023-04-17,8
+7,'We wish we could go back': Life in a war-torn Myanmar,https://www.bbc.co.uk/news/world-asia-65248242,6,0.066,0.127,0.807,-0.9989,BBC,2023-04-17,8
+8,The brazen murder of a mafia don-turned-politician,https://www.bbc.co.uk/news/world-asia-india-65291781,7,0.069,0.19,0.741,-0.9994,BBC,2023-04-17,8
+9,"Shock and anger in Khartoum, a city not used to war",https://www.bbc.co.uk/news/world-africa-65293537,8,0.088,0.135,0.777,-0.9925,BBC,2023-04-17,8
+10,Sonic the Hedgehog firm agrees to buy Angry Birds,https://www.bbc.co.uk/news/business-65295724,9,0.074,0.029,0.897,0.9127,BBC,2023-04-17,8
+1,"PICTURED: High school football star on college scholarship shot dead at his sister's Sweet 16 in Alabama along with three others in a mass shooting - and the pair's mother was among more than 20 people injured 
+",https://www.dailymail.co.uk/news/article-11978385/Police-confirm-fatalities-20-people-injured-shooting-Sweet-16-party.html,0,0.063,0.089,0.848,-0.9885,Daily Mail,2023-04-17,8
+2,"Netflix's most terrifying films revealed as horror fans left 'scarred for life, throwing up and suffering panic attacks' - are you brave enough to watch them?
+",https://www.dailymail.co.uk/tvshowbiz/article-11976003/Netflixs-terrifying-films-revealed-fans-left-scarred-life-throwing-up.html,1,0.063,0.202,0.735,-0.9997,Daily Mail,2023-04-17,8
+3,"Keanu Reeves and girlfriend Alexandra Grant share a passionate kiss at the Museum of Contemporary Art gala in LA... before actor reunites with his Bill & Ted co-star Alex Winter 
+",https://www.dailymail.co.uk/tvshowbiz/article-11977781/Keanu-Reeves-Alexandra-Grant-share-passionate-kiss-Museum-Contemporary-Art-gala.html,2,0.114,0.004,0.882,0.9959,Daily Mail,2023-04-17,8
+4,"I'm an air steward and here's why you should NEVER wear flip flops or Crocs on a plane 
+",https://www.dailymail.co.uk/travel/article-11972715/Im-air-steward-heres-NEVER-wear-flip-flops-Crocs-plane.html,3,0.084,0.048,0.868,0.9575,Daily Mail,2023-04-17,8
+5,"Hundreds of teens cause fiery chaos in Downtown Chicago as they torch cars in rampage organized on social media: Vastly outnumbered police manage just 15 arrests
+",https://www.dailymail.co.uk/news/article-11979113/More-100-youngsters-descend-Downtown-Chicago-torch-cars-teen-trend-gathering.html,4,0.094,0.121,0.785,-0.9659,Daily Mail,2023-04-17,8
+6,"America's most salacious morning show! After YEARS of gloating about their WILD sex life, Kelly Ripa and Mark Consuelos will now bare it all on live TV as they get set to co-host -  and we have a taste of all the RAUNCHY details you can expect to hear
+",https://www.dailymail.co.uk/femail/article-11974553/Kelly-Ripa-Mark-Consuelos-sexual-relationship-joins-host.html,5,0.126,0.052,0.822,0.9998,Daily Mail,2023-04-17,8
+7,"REVEALED: The ten priciest cities in the US where a $300,000 salary feels like $100,000 - and New York is NOT the worst offender
+",https://www.dailymail.co.uk/news/article-11979069/The-ten-priciest-cities-300-000-salary-feels-like-100-000.html,6,0.071,0.028,0.901,0.9735,Daily Mail,2023-04-17,8
+8,"EXCLUSIVE: Kim Kardashian's daughter North West is brought ON STAGE by Katy Perry during pop star's Las Vegas residency PLAY as the proud mom cheers her on with Paris Hilton and Sia in the audience 
+",https://www.dailymail.co.uk/tvshowbiz/article-11978083/Kim-Kardashians-daughter-North-West-brought-STAGE-Katy-Perry-concert.html,7,0.14,0.019,0.841,0.9992,Daily Mail,2023-04-17,8
+9,"Plus-size influencer demands FAA and airlines give fat flyers as many FREE seats as they need to spread themselves out - and admits other passengers may have to foot the bill 
+",https://www.dailymail.co.uk/news/article-11976173/Plus-size-creator-creates-petition-try-force-airlines-offer-larger-passengers-bigger-seats.html,8,0.099,0.06,0.84,0.983,Daily Mail,2023-04-17,8
+10,"HUGE brawl breaks out at Chicago White Sox baseball game as male and female fans swing punches and tumble down steps... with no security in sight 
+",https://www.dailymail.co.uk/sport/mlb/article-11977491/HUGE-brawl-breaks-Chicago-White-Sox-baseball-game-male-female-fans-swing-punches.html,9,0.103,0.144,0.753,-0.8658,Daily Mail,2023-04-17,8
+1,Essex pub that displayed golly dolls seized by police is vandalised,https://www.theguardian.com/uk-news/2023/apr/16/essex-pub-that-displayed-golly-dolls-seized-by-police-is-vandalised,0,0.056,0.094,0.85,-0.9786,Guardian,2023-04-17,8
+2,Is a British pub racist for displaying golliwogs? Think how that question makes people of colour like me feel,https://www.theguardian.com/commentisfree/2023/apr/17/british-pub-right-golliwogs-rightwing-politicians-press-racism-people-colour,1,0.13,0.107,0.763,0.9746,Guardian,2023-04-17,8
+3,BBC accused of lacking impartiality in royal coverage,https://www.theguardian.com/media/2023/apr/17/bbc-accused-of-lacking-impartiality-in-royal-coverage,2,0.08,0.124,0.796,-0.9631,Guardian,2023-04-17,8
+4,Sudan death toll nears 100 as fighting rages and hospitals run short of supplies,https://www.theguardian.com/world/2023/apr/17/sudan-death-toll-nears-100-as-fighting-rages-and-hospitals-run-short-of-supplies,3,0.065,0.134,0.801,-0.9979,Guardian,2023-04-17,8
+5,Brecon Beacons national park renamed Bannau Brycheiniog in Welsh language move,https://www.theguardian.com/uk-news/2023/apr/17/brecon-beacons-relaunches-with-welsh-name-bannau-brycheiniog-as-picture-of-hope-for-future,4,0.15,0.053,0.797,0.9979,Guardian,2023-04-17,8
+6,"‘Your childhood can haunt you’: Fatima Whitbread on trauma, triggers, therapy – and how sport saved her",https://www.theguardian.com/lifeandstyle/2023/apr/17/your-childhood-can-haunt-you-fatima-whitbread-on-trauma-triggers-therapy-and-how-sport-saved-her,5,0.142,0.09,0.768,0.9994,Guardian,2023-04-17,8
+7,Other police forces have higher rates of sexual misconduct and racism claims than Met,https://www.theguardian.com/uk-news/2023/apr/17/police-forces-sexual-misconduct-racism-claims-higher-than-met,6,0.055,0.12,0.826,-0.9975,Guardian,2023-04-17,8
+8,Opposition urges Tories to cut ties with rightwing group over ‘culture war’ comments,https://www.theguardian.com/politics/2023/apr/17/conservatives-turning-point-uk-labour-lib-dems,7,0.085,0.065,0.849,0.8185,Guardian,2023-04-17,8
+9,Lavish ancient Roman winery found at ruins of Villa of the Quintilii near Rome,https://www.theguardian.com/world/2023/apr/17/ancient-roman-winery-found-ruins-villa-of-quintilii-rome,8,0.08,0.029,0.89,0.9902,Guardian,2023-04-17,8
+10,The Hunt for Raoul Moat review – the heartfelt performances leave you bereft,https://www.theguardian.com/tv-and-radio/2023/apr/16/the-hunt-for-raoul-moat-review-the-heartfelt-performances-leave-you-bereft,9,0.159,0.13,0.711,0.9681,Guardian,2023-04-17,8
