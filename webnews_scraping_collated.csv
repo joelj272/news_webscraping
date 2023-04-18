@@ -3279,3 +3279,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Downing Street enters row over move to ditch English name of Brecon Beacons,https://www.theguardian.com/environment/2023/apr/17/row-english-name-brecon-beacons-wales-downing-street,7,0.055,0.054,0.891,0.1421,Guardian,2023-04-17,20
 9,Parliament watchdog opens investigation into Rishi Sunak,https://www.theguardian.com/politics/2023/apr/17/parliament-watchdog-opens-investigation-into-rishi-sunak,8,0.094,0.052,0.853,0.9868,Guardian,2023-04-17,20
 10,‘More like spinach pie’: Felicity Cloake tests King Charles and Camilla’s coronation quiche ,https://www.theguardian.com/food/2023/apr/17/more-like-spinach-pie-felicity-cloake-tests-king-charles-and-camillas-coronation-quiche,9,0.115,0.031,0.854,0.997,Guardian,2023-04-17,20
+1,Woman shot dead after pulling into wrong driveway,https://www.bbc.co.uk/news/world-us-canada-65307556,0,0.041,0.137,0.822,-0.9746,BBC,2023-04-18,8
+2,Man charged with shooting boy who knocked wrong door,https://www.bbc.co.uk/news/world-us-canada-65307047,1,0.025,0.112,0.862,-0.9915,BBC,2023-04-18,8
+3,Teen died saving sister's life in Alabama shooting,https://www.bbc.co.uk/news/world-us-canada-65275839,2,0.064,0.127,0.808,-0.9945,BBC,2023-04-18,8
+4,"Putin visits occupied Kherson region, Kremlin says",https://www.bbc.co.uk/news/world-europe-65308470,3,0.031,0.024,0.944,0.0897,BBC,2023-04-18,8
+5,'Someone must know': Questions remain in Dadeville,https://www.bbc.co.uk/news/world-us-canada-65306781,4,0.067,0.112,0.821,-0.9722,BBC,2023-04-18,8
+6,US accuses Brazil's Lula of parroting war propaganda,https://www.bbc.co.uk/news/world-latin-america-65307553,5,0.118,0.083,0.8,0.8969,BBC,2023-04-18,8
+7,Award-winning photo turns out to be AI creation,https://www.bbc.co.uk/news/entertainment-arts-65296763,6,0.161,0.052,0.787,0.9989,BBC,2023-04-18,8
+8,FBI makes arrests over US Chinese 'police stations',https://www.bbc.co.uk/news/world-us-canada-65305415,7,0.075,0.087,0.837,-0.8176,BBC,2023-04-18,8
+9,US diplomatic convoy attacked in Sudan - Blinken,https://www.bbc.co.uk/news/world-africa-65306695,8,0.092,0.164,0.745,-0.9955,BBC,2023-04-18,8
+10,DeSantis floats idea of state prison near Disney park,https://www.bbc.co.uk/news/business-65305166,9,0.099,0.076,0.825,0.8625,BBC,2023-04-18,8
+1,"Couple decapitate themselves at the same time using home-made guillotine with their heads then rolling into a fire in ritualistic sacrifice in India
+",https://www.dailymail.co.uk/news/article-11980721/Couple-decapitate-time-using-home-guillotine-India.html,0,0.054,0.132,0.814,-0.9735,Daily Mail,2023-04-18,8
+2,"Miracle as gifted black teenager, 16, is released from hospital four days after white elderly homeowner in his 80s shot him TWICE for mistakenly ringing his doorbell in Missouri: GoFundMe donations hit $1.5M 
+",https://www.dailymail.co.uk/news/article-11981377/Viola-Davis-supports-family-black-teenager-16-shot-white-homeowner.html,1,0.094,0.097,0.809,0.7144,Daily Mail,2023-04-18,8
+3,"I was a hacker for 30 years. These are the scariest things I saw on the dark web
+",https://www.dailymail.co.uk/sciencetech/article-11982783/I-hacker-30-years-scariest-things-saw-dark-web.html,2,0.069,0.119,0.812,-0.9982,Daily Mail,2023-04-18,8
+4,"Kate was denied a final goodbye with the Queen because she had to stay away from Balmoral to ensure Meghan Markle couldn't come, royal author claims
+",https://www.dailymail.co.uk/femail/article-11981061/Kate-resents-not-having-final-moment-say-goodbye-Queen.html,3,0.053,0.076,0.87,-0.9854,Daily Mail,2023-04-18,8
+5,"Mom of YouTube star Piper Rockelle, 15, is sued for $22m by 11 kids from her daughter's 'squad' who claim she encouraged them to have oral sex, bragged she makes kiddie porn and mailed her daughter's underwear to a man who liked to sniff it
+",https://www.dailymail.co.uk/news/article-11979695/Piper-Rockelles-mom-sued-22m-11-kids-daughters-squad-claim-abuse.html,4,0.052,0.088,0.86,-0.9908,Daily Mail,2023-04-18,8
+6,"'Are you kidding me?' Blue Jays pitcher sparks FURIOUS traveling etiquette debate after slamming United Airlines for making his pregnant wife 'pick up their kids' mess' on a flight... so what do YOU think? 
+",https://www.dailymail.co.uk/femail/article-11982709/Blue-Jays-pitcher-slams-United-Airlines-making-pregnant-wife-clean-kids.html,5,0.123,0.085,0.793,0.9683,Daily Mail,2023-04-18,8
+7,"Netflix's most terrifying films revealed as horror fans left 'scarred for life, throwing up and suffering panic attacks' - are you brave enough to watch them?
+",https://www.dailymail.co.uk/tvshowbiz/article-11976003/Netflixs-terrifying-films-revealed-fans-left-scarred-life-throwing-up.html,6,0.063,0.202,0.735,-0.9997,Daily Mail,2023-04-18,8
+8,"Ozzy Osbourne, 74, looks frail as he takes a walk without his cane alongside his carer and stops to smell the flowers in leafy Los Angeles... amid his Parkinson's battle
+",https://www.dailymail.co.uk/tvshowbiz/article-11981421/Ozzy-Osbourne-74-looks-frail-takes-walk-without-cane-amid-Parkinsons-battle.html,7,0.065,0.108,0.827,-0.9957,Daily Mail,2023-04-18,8
+9,"Kansas City man, 85, is charged with first-degree assault and armed criminal action in shooting of 16-year-old who mistakenly knocked on his door: Prosecutor claims there WAS 'racial component' in the case 
+",https://www.dailymail.co.uk/news/article-11983321/Homeowner-85-charged-shooting-16-year-old-Ralph-Yarl.html,8,0.085,0.09,0.825,-0.2674,Daily Mail,2023-04-18,8
+10,"'This just DOESN'T work': Viewers PAN Kelly Ripa and Mark Consuelos' Live co-hosting debut - blasting couple's 'painful fake banter' and slamming her for constantly interrupting her husband
+",https://www.dailymail.co.uk/femail/article-11981625/Viewers-PAN-episode-Live-Kelly-Mark-branding-couples-fake-banter-painful.html,9,0.164,0.054,0.782,0.9987,Daily Mail,2023-04-18,8
+1,West prepares for Putin to use ‘whatever tools he’s got left’ in Ukraine,https://www.theguardian.com/world/2023/apr/18/west-prepares-for-putin-to-use-whatever-tools-hes-got-left-in-ukraine,0,0.077,0.092,0.831,-0.9425,Guardian,2023-04-18,8
+2,Roman gateway rebuilt in ‘exact spot’ at site of invasion of Britain,https://www.theguardian.com/uk-news/2023/apr/18/roman-gateway-rebuilt-exact-spot-invasion-britain,1,0.06,0.01,0.93,0.9509,Guardian,2023-04-18,8
+3,Cost of British food basics increases by up to 80% in a year,https://www.theguardian.com/business/2023/apr/18/cost-of-british-food-basics-increases-by-up-to-80-in-a-year,2,0.061,0.029,0.91,0.94,Guardian,2023-04-18,8
+4,What prompted my U-turn on LTNs? I realised I was on the same side as Laurence Fox,https://www.theguardian.com/commentisfree/2023/apr/17/what-prompted-u-turn-low-traffic-neighbourhoods-laurence-fox,3,0.092,0.073,0.835,0.8458,Guardian,2023-04-18,8
+5,Quarter of hairdressers considering closing or scaling back businesses,https://www.theguardian.com/business/2023/apr/18/quarter-of-hairdressers-considering-closing-or-scaling-back-businesses,4,0.091,0.046,0.863,0.9748,Guardian,2023-04-18,8
+6,MPs condemn failure to tackle ‘glaring’ racial inequalities in UK maternal health,https://www.theguardian.com/politics/2023/apr/18/mps-condemn-failure-to-tackle-glaring-racial-inequalities-in-uk-maternal-health,5,0.104,0.088,0.808,0.978,Guardian,2023-04-18,8
+7,‘More like spinach pie’: Felicity Cloake tests King Charles and Camilla’s coronation quiche ,https://www.theguardian.com/food/2023/apr/17/more-like-spinach-pie-felicity-cloake-tests-king-charles-and-camillas-coronation-quiche,6,0.115,0.031,0.854,0.997,Guardian,2023-04-18,8
+8,King Charles’s private luxury car fleet worth an estimated £6.3m,https://www.theguardian.com/uk-news/2023/apr/18/king-charless-private-luxury-car-fleet-worth-an-estimated-63m,7,0.07,0.022,0.908,0.9941,Guardian,2023-04-18,8
+9,Photographer admits prize-winning image was AI-generated,https://www.theguardian.com/technology/2023/apr/17/photographer-admits-prize-winning-image-was-ai-generated,8,0.14,0.05,0.81,0.9958,Guardian,2023-04-18,8
+10,World snooker championship disrupted by Just Stop Oil protesters in Sheffield,https://www.theguardian.com/sport/2023/apr/17/world-snooker-championship-disrupted-just-stop-oil-protestors-crucible-theatre-sheffield,9,0.092,0.128,0.78,-0.9294,Guardian,2023-04-18,8
