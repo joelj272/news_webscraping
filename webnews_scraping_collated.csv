@@ -3359,3 +3359,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,King Charles renting out Edinburgh property given to mother in role as queen,https://www.theguardian.com/uk-news/2023/apr/18/king-charles-renting-out-edinburgh-property-given-to-mother-in-role-as-queen,7,0.062,0.02,0.919,0.982,Guardian,2023-04-18,20
 9,French publisher arrested in London on terrorism charge,https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret,8,0.03,0.107,0.863,-0.9927,Guardian,2023-04-18,20
 10,Yousaf reverses key Sturgeon policies as he sets out ‘fresh vision’ for Scotland,https://www.theguardian.com/uk-news/2023/apr/18/yousaf-reverses-key-sturgeon-policies-as-he-sets-out-fresh-vision-for-scotland,9,0.089,0.099,0.812,-0.8765,Guardian,2023-04-18,20
+1,The Russian ships accused of North Sea sabotage,https://www.bbc.co.uk/news/world-europe-65309687,0,0.046,0.116,0.838,-0.997,BBC,2023-04-19,8
+2,Driveway shooting suspect shows no remorse - police,https://www.bbc.co.uk/news/world-us-canada-65319833,1,0.095,0.122,0.783,-0.8602,BBC,2023-04-19,8
+3,Aaron Carter accidentally drowned after taking drugs,https://www.bbc.co.uk/news/world-us-canada-65319830,2,0.038,0.091,0.871,-0.9769,BBC,2023-04-19,8
+4,‘I was born from rape - but I won’t let it define me’,https://www.bbc.co.uk/news/uk-65274470,3,0.112,0.156,0.733,-0.9991,BBC,2023-04-19,8
+5,Ultrarunner disqualified for using a car in race,https://www.bbc.co.uk/news/uk-scotland-65314241,4,0.147,0.063,0.79,0.994,BBC,2023-04-19,8
+6,Fox settles Dominion defamation case for $787.5m,https://www.bbc.co.uk/news/world-us-canada-65318654,5,0.052,0.091,0.857,-0.977,BBC,2023-04-19,8
+7,Can Fox News afford the $787.5m Dominion payout?,https://www.bbc.co.uk/news/business-65320001,6,0.039,0.031,0.93,0.5106,BBC,2023-04-19,8
+8,Twelve held after Beijing hospital fire kills dozens,https://www.bbc.co.uk/news/world-asia-china-65320160,7,0.025,0.133,0.842,-0.994,BBC,2023-04-19,8
+9,One dead in NYC multi-storey car park collapse,https://www.bbc.co.uk/news/world-us-canada-65319586,8,0.035,0.156,0.809,-0.9899,BBC,2023-04-19,8
+10,Sacked CBI boss says reputation 'totally destroyed',https://www.bbc.co.uk/news/business-65313822,9,0.071,0.109,0.82,-0.9923,BBC,2023-04-19,8
+1,"Australian actress Maxine Klibingaitis dies 'suddenly and unexpectedly' aged 58: 'Much-loved' star was known for roles in Prisoner and Neighbours
+",https://www.dailymail.co.uk/tvshowbiz/article-11983773/Actress-Maxine-Klibingaitis-star-Neighbours-Prisoner-dies-suddenly-aged-58.html,0,0.087,0.168,0.745,-0.9885,Daily Mail,2023-04-19,8
+2,"Fears of a 'Rainey Street Ripper' serial killer in Austin after EIGHTH body in less than a year is pulled from Lady Bird Lake in the city
+",https://www.dailymail.co.uk/news/article-11986015/Fears-serial-killer-Austin-EIGHTH-body-pulled-Lady-Bird-Lake.html,1,0.043,0.148,0.809,-0.9988,Daily Mail,2023-04-19,8
+3,"Yellowstone 'coming to an end after the second half of its fifth season amid disputes between Kevin Costner and creator Taylor Sheridan,' sources say
+",https://www.dailymail.co.uk/tvshowbiz/article-11983517/Yellowstone-ending-fifth-season-amid-disputes-Kevin-Costner-sources-say.html,2,0.086,0.047,0.867,0.9921,Daily Mail,2023-04-19,8
+4,"Jessie James Decker slams United Airlines for 'humiliating' pregnant sister Sydney... after flight attendant made her get on all fours to clean up her child's popcorn
+",https://www.dailymail.co.uk/tvshowbiz/article-11983791/Jessie-James-Decker-slams-United-Airlines-humiliating-pregnant-sister-Sydney.html,3,0.075,0.051,0.874,0.8885,Daily Mail,2023-04-19,8
+5,"'This is my body': Rachel McAdams, 44, poses with her armpit hair showing after asking magazine to use MINIMAL retouching on revealing shoot 
+",https://www.dailymail.co.uk/tvshowbiz/article-11987287/Rachel-McAdams-poses-armpit-hair-showing-asking-magazine-use-MINIMAL-retouching.html,4,0.141,0.038,0.82,0.995,Daily Mail,2023-04-19,8
+6,"I was a hacker for 30 years. These are the scariest things I saw on the dark web
+",https://www.dailymail.co.uk/sciencetech/article-11982783/I-hacker-30-years-scariest-things-saw-dark-web.html,5,0.069,0.119,0.812,-0.9982,Daily Mail,2023-04-19,8
+7,"Shocking moment group of jeering youngsters attacks woman in Chicago on the same night they torched cars in rampage organized on social media - as outgoing mayor Lori Lightfoot insists carnage WASN'T 'mayhem'
+",https://www.dailymail.co.uk/news/article-11985743/Shocking-moment-group-teens-attack-woman-Chicago-night-torched-cars.html,6,0.068,0.107,0.826,-0.9885,Daily Mail,2023-04-19,8
+8,"At least one dead and five injured in NYC parking garage collapse, as officials warn death and injury toll may 'change rapidly' and order neighboring buildings to evacuate
+",https://www.dailymail.co.uk/news/article-11987439/Parking-garage-collapse-NYC-leaves-dozens-trapped-sparking-huge-emergency-response.html,7,0.069,0.106,0.825,-0.9809,Daily Mail,2023-04-19,8
+9,"'I died on national TV': Damar Hamlin says his cardiac arrest on January 2 was caused by commotio cordis - a direct blow to the chest that disrupts heart rhythm... as the Bills safety, 25, says doctors have cleared NFL return
+",https://www.dailymail.co.uk/sport/nfl/article-11987035/Damar-Hamlins-cardiac-arrest-January-2-caused-commotio-cordis.html,8,0.085,0.078,0.837,0.8039,Daily Mail,2023-04-19,8
+10,"Disney doubles down! California park launches its first ever 'Pride Nite' where Mickey and Minnie Mouse will be dressed in rainbow costumes - amid Bob Iger's ongoing war with Ron DeSantis in Florida
+",https://www.dailymail.co.uk/news/article-11984197/Disneyland-launches-Pride-Nite-amid-Bob-Igers-ongoing-war-Ron-DeSantis-Florida.html,9,0.135,0.081,0.784,0.9797,Daily Mail,2023-04-19,8
+1,The patients who regret laser eye surgery: ‘My life’s stood still since then’,https://www.theguardian.com/us-news/2023/apr/18/lasik-laser-eye-surgery,0,0.078,0.087,0.835,-0.9797,Guardian,2023-04-19,8
+2, Fox and Dominion settle for US$787.5m in defamation lawsuit over election lies,https://www.theguardian.com/us-news/2023/apr/18/fox-dominion-settle-us-defamation-lawsuit,1,0.094,0.099,0.807,-0.3485,Guardian,2023-04-19,8
+3,Hundreds of British people are needlessly going blind. Why? ,https://www.theguardian.com/commentisfree/2023/apr/19/british-people-going-blind-doctors-tory-cuts,2,0.11,0.095,0.795,0.9603,Guardian,2023-04-19,8
+4,Bank of England expected to raise interest rates again after UK inflation only dips to 10.1% – business live,https://www.theguardian.com/business/live/2023/apr/19/uk-inflation-report-march-cost-of-living-crisis-business-live,3,0.092,0.068,0.84,0.9908,Guardian,2023-04-19,8
+5,Abandon ship: does this symbol of slavery shame Manchester and its football clubs?,https://www.theguardian.com/uk-news/2023/apr/19/abandon-ship-does-this-symbol-of-slavery-shame-manchester-and-its-football-clubs,4,0.117,0.091,0.792,0.9951,Guardian,2023-04-19,8
+6,Kendall Roy’s Succession penthouse hits market for $29m,https://www.theguardian.com/us-news/2023/apr/19/kendall-roy-penthouse-succession-apartment-listing,5,0.075,0.011,0.914,0.9711,Guardian,2023-04-19,8
+7,A moment that changed me: my fiance left me on our wedding day – and it led to my dream job and true love,https://www.theguardian.com/lifeandstyle/2023/apr/19/a-moment-that-changed-me-my-fiance-left-me-on-our-wedding-day-and-it-led-to-my-dream-job-and-true-love,6,0.096,0.091,0.812,0.8265,Guardian,2023-04-19,8
+8,Rishi Sunak’s wife’s stake in childcare firm not mentioned in six ministerial registers,https://www.theguardian.com/politics/2023/apr/18/rishi-sunak-wife-stake-childcare-firm-not-mentioned-six-ministerial-registers,7,0.068,0.056,0.876,0.4461,Guardian,2023-04-19,8
+9,Wagner mercenary admits ‘tossing grenades’ at injured Ukrainian PoWs ,https://www.theguardian.com/world/2023/apr/18/wagner-mercenary-admits-tossing-grenades-at-injured-ukrainian-pows,8,0.055,0.186,0.758,-0.9993,Guardian,2023-04-19,8
+10,"Russian hackers want to ‘disrupt or destroy’ UK infrastructure, minister warns",https://www.theguardian.com/technology/2023/apr/19/russian-hackers-want-to-disrupt-or-destroy-uk-infrastructure-minister-warns,9,0.054,0.108,0.838,-0.974,Guardian,2023-04-19,8
