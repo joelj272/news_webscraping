@@ -3479,3 +3479,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,UK to ignore ECHR rulings on small boats ‘after Sunak caves in to Tory right’,https://www.theguardian.com/world/2023/apr/19/uk-to-ignore-echr-rulings-on-small-boats-after-sunak-caves-in-to-tory-right,7,0.096,0.076,0.828,0.9791,Guardian,2023-04-20,8
 9,"The Tough Mudder run ripped up our London park, and residents are paying the price",https://www.theguardian.com/commentisfree/2023/apr/19/tough-mudder-finsbury-park-damage-green-spaces,8,0.135,0.061,0.804,0.9971,Guardian,2023-04-20,8
 10,"Russia-Ukraine war live: Moscow reportedly carrying out ‘overhaul’ of security services over data leaks to Ukraine, says US thinktank",https://www.theguardian.com/world/live/2023/apr/20/russia-ukraine-war-live-moscow-reportedly-carrying-out-overhaul-of-security-services-over-data-leaks-to-ukraine-says-us-thinktank,9,0.081,0.073,0.846,-0.7302,Guardian,2023-04-20,8
+1,Six-year-old shot after ball rolls into man's yard,https://www.bbc.co.uk/news/world-us-canada-65325867,0,0.017,0.174,0.808,-0.9977,BBC,2023-04-20,20
+2,US 'princess' evicted from Rome Caravaggio villa,https://www.bbc.co.uk/news/world-europe-65342996,1,0.099,0.09,0.811,0.7879,BBC,2023-04-20,20
+3,"'Cop City' activist shot 57 times, autopsy says",https://www.bbc.co.uk/news/world-us-canada-65340456,2,0.01,0.164,0.826,-0.9934,BBC,2023-04-20,20
+4,'Extinct' lion spotted in Chad reserve,https://www.bbc.co.uk/news/world-africa-65342010,3,0.086,0.007,0.907,0.9719,BBC,2023-04-20,20
+5,Google to pay man for destructive search result,https://www.bbc.co.uk/news/world-us-canada-65340444,4,0.042,0.076,0.882,-0.9575,BBC,2023-04-20,20
+6,Musk's SpaceX big rocket explodes on test flight,https://www.bbc.co.uk/news/science-environment-65334810,5,0.083,0.041,0.876,0.989,BBC,2023-04-20,20
+7,Facebook $725m settlement fund opens to US claims,https://www.bbc.co.uk/news/technology-65338916,6,0.115,0.029,0.855,0.9817,BBC,2023-04-20,20
+8,BBC reporter: 'I'm drinking water from the Nile',https://www.bbc.co.uk/news/world-africa-65335747,7,0.039,0.135,0.827,-0.9963,BBC,2023-04-20,20
+9,Why Sudan's descent into violence matters,https://www.bbc.co.uk/news/world-africa-65338247,8,0.057,0.096,0.847,-0.9606,BBC,2023-04-20,20
+10,Jailed opposition activist's lawyer flees Russia,https://www.bbc.co.uk/news/world-europe-65341727,9,0.037,0.182,0.782,-0.9966,BBC,2023-04-20,20
+1,"Mum begs for help after 'horrifying' find in bathroom: 'I never even knew this was possible'
+",https://www.dailymail.co.uk/femail/cleaning/article-11992521/Mum-begs-help-horrifying-bathroom-never-knew-possible.html,0,0.07,0.091,0.839,-0.9166,Daily Mail,2023-04-20,20
+2,"EXCLUSIVE: You won't believe who this 70s rocker is!  One of the greatest lead singers of all-time is embracing his new look with open arms - can you guess who this reclusive frontman is?
+",https://www.dailymail.co.uk/tvshowbiz/article-11991323/You-wont-believe-70s-rocker-Lead-singer-embracing-new-look-open-arms.html,1,0.109,0.014,0.877,0.9897,Daily Mail,2023-04-20,20
+3,"Elon Musk's Starship goes up in smoke on 4/20: World's most powerful rocket fails to separate and EXPLODES in $3BN fireball before crashing back down to earth 
+",https://www.dailymail.co.uk/sciencetech/article-11993945/Elon-Musks-Starship-set-launch-today-frozen-valve-thwarted-earlier-attempt.html,2,0.123,0.027,0.849,0.9997,Daily Mail,2023-04-20,20
+4,"Bed Bath & Beyond is filing for bankruptcy in DAYS - following tumultuous few years that saw CFO jump to his death from New York apartment building 
+",https://www.dailymail.co.uk/news/article-11992541/Bed-Bath-filing-bankruptcy-DAYS-following-tumultuous-years.html,3,0.046,0.152,0.803,-0.998,Daily Mail,2023-04-20,20
+5,"EXCLUSIVE: 'No yellow!' Hunter Biden used slur to refer to Asians in 2019 texts with his cousin Caroline who asked if he preferred 'foreign or domestic' women - as he's already been blasted as racist for using the n-word
+",https://www.dailymail.co.uk/news/article-9689809/No-yellow-Hunter-Biden-referred-Asians-slur-2019-texts.html,4,0.074,0.141,0.785,-0.998,Daily Mail,2023-04-20,20
+6,"'I was always scared of him... it doesn't surprise me what happened': Ex-wife of homeowner Andrew Lester, 84, accused of shooting Ralph Yarl, 16, claims he would rage and smash up their house during 14-year marriage
+",https://www.dailymail.co.uk/news/article-11993439/Ex-wife-retired-white-Missouri-man-accused-shooting-16-year-old-black-boy-says-violent.html,5,0.065,0.132,0.802,-0.9985,Daily Mail,2023-04-20,20
+7,"Home Depot worker, 26, is shot and killed trying to stop shoplifting couple from stealing phone charger: Suspects fled the scene with two-year-old child in car
+",https://www.dailymail.co.uk/news/article-11991801/Home-Depot-worker-shot-killed-inside-store-trying-stop-shoplifter.html,6,0.047,0.199,0.754,-0.9984,Daily Mail,2023-04-20,20
+8,"Sore loser! Young wrestler faces charges for sucker punching rival in the FACE during post-game handshake after defeat 
+",https://www.dailymail.co.uk/sport/othersports/article-11988559/Youth-wrestler-sucker-PUNCHES-opponent-suffering-defeat.html,7,0.044,0.132,0.823,-0.9841,Daily Mail,2023-04-20,20
+9,"Monster supercell tornado rips through Midwest killing two and flattening Oklahoma town bringing hail the size of tennis balls and creating a 19,000ft high 'debris ball': 20,000 are still without power 
+",https://www.dailymail.co.uk/news/article-11993029/Terrifying-moment-monster-tornado-rips-tiny-Oklahoma-town-75mph-winds.html,8,0.027,0.173,0.8,-0.9992,Daily Mail,2023-04-20,20
+10,"People can't seem to get over the fact that Keanu Reeves, 58, is dating a mature woman. What is truly shocking is our sexist reaction, says KATE SPICER
+",https://www.dailymail.co.uk/femail/article-11991281/KATE-SPICER-sexist-reaction-Keanu-Reeves-dating-mature-woman-shocking.html,9,0.148,0.098,0.755,0.9949,Daily Mail,2023-04-20,20
+1,Dominic Raab bullying claims: deputy PM refusing to resign after reading report as Sunak accused of dithering – live,https://www.theguardian.com/politics/live/2023/apr/20/dominic-raab-bullying-report-allegations-rishi-sunak-snp-humza-yousaf-illegal-migration-bill-politics-live,0,0.07,0.126,0.804,-0.9988,Guardian,2023-04-20,20
+2,Elon Musk’s SpaceX Starship rocket blows up minutes after launch,https://www.theguardian.com/science/2023/apr/20/elon-musks-spacex-launches-test-flight-for-rocket-that-could-bring-people-to-mars,1,0.083,0.07,0.847,0.8548,Guardian,2023-04-20,20
+3,"Man shoots girl, six, and her parents after ball rolls into his backyard",https://www.theguardian.com/us-news/2023/apr/20/north-carolina-shooting-girl-parents-basketball-yard,2,0.029,0.168,0.804,-0.9982,Guardian,2023-04-20,20
+4,James Cleverly defies Tory right’s push to leave ECHR,https://www.theguardian.com/uk-news/2023/apr/20/james-cleverly-defies-tory-rights-push-to-leave-echr,3,0.084,0.081,0.835,0.4696,Guardian,2023-04-20,20
+5,NHS threatens legal action to block second day of nurses’ strike,https://www.theguardian.com/society/2023/apr/20/nhs-threatens-legal-action-to-block-second-day-of-nurses-strike,4,0.053,0.091,0.856,-0.9674,Guardian,2023-04-20,20
+6,MEPs condemn Suella Braverman over arrest of French publisher,https://www.theguardian.com/politics/2023/apr/20/meps-condemn-suella-braverman-over-arrest-of-french-publisher-ernest-moret,5,0.064,0.101,0.835,-0.9563,Guardian,2023-04-20,20
+7,"Sevilla v Manchester United: Europa League quarter-final, second leg – live",https://www.theguardian.com/football/live/2023/apr/20/sevilla-v-manchester-united-europa-league-quarter-final-second-leg-live,6,0.163,0.084,0.753,0.9996,Guardian,2023-04-20,20
+8, Raab fights for political future as PM ponders ‘stinging’ bullying report,https://www.theguardian.com/politics/2023/apr/20/dominic-raab-fights-for-political-future-as-pm-ponders-stinging-bullying-report,7,0.063,0.118,0.819,-0.9927,Guardian,2023-04-20,20
+9,London charity concert told to pay royalties in ‘embarrassing’ copyright row,https://www.theguardian.com/music/2023/apr/20/london-charity-concert-told-to-pay-1000-in-embarrassing-copyright-row,8,0.142,0.043,0.816,0.9939,Guardian,2023-04-20,20
+10,Sex offences trial of Madeleine McCann suspect cancelled in Germany,https://www.theguardian.com/world/2023/apr/20/sex-offences-trial-madeleine-mccann-suspect-cancelled-germany,9,0.03,0.098,0.872,-0.9893,Guardian,2023-04-20,20
