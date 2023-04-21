@@ -3519,3 +3519,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8, Raab fights for political future as PM ponders ‘stinging’ bullying report,https://www.theguardian.com/politics/2023/apr/20/dominic-raab-fights-for-political-future-as-pm-ponders-stinging-bullying-report,7,0.063,0.118,0.819,-0.9927,Guardian,2023-04-20,20
 9,London charity concert told to pay royalties in ‘embarrassing’ copyright row,https://www.theguardian.com/music/2023/apr/20/london-charity-concert-told-to-pay-1000-in-embarrassing-copyright-row,8,0.142,0.043,0.816,0.9939,Guardian,2023-04-20,20
 10,Sex offences trial of Madeleine McCann suspect cancelled in Germany,https://www.theguardian.com/world/2023/apr/20/sex-offences-trial-madeleine-mccann-suspect-cancelled-germany,9,0.03,0.098,0.872,-0.9893,Guardian,2023-04-20,20
+1,Russian warplane accidentally bombs own city,https://www.bbc.co.uk/news/world-europe-65344370,0,0.04,0.102,0.859,-0.9343,BBC,2023-04-21,8
+2,The homemade submarines smuggling cocaine to Europe,https://www.bbc.co.uk/news/world-europe-65337215,1,0.087,0.09,0.823,-0.9372,BBC,2023-04-21,8
+3,Police probe $15m gold heist at Toronto airport,https://www.bbc.co.uk/news/world-us-canada-65328968,2,0.031,0.055,0.914,-0.7351,BBC,2023-04-21,8
+4,Dalai Lama furore reignites Tibet 'slave' controversy,https://www.bbc.co.uk/news/world-asia-china-65307709,3,0.063,0.121,0.815,-0.9962,BBC,2023-04-21,8
+5,Mini embroiled in China ice cream racism uproar,https://www.bbc.co.uk/news/business-65344836,4,0.05,0.084,0.866,-0.9594,BBC,2023-04-21,8
+6,Hunter Biden tax probe mishandled - whistleblower,https://www.bbc.co.uk/news/world-us-canada-65344338,5,0.059,0.057,0.884,0.0,BBC,2023-04-21,8
+7,Twitter removes Beyoncé and Ronaldo's blue ticks,https://www.bbc.co.uk/news/technology-65344010,6,0.035,0.091,0.874,-0.9854,BBC,2023-04-21,8
+8,Basketball shooting suspect surrenders in Florida,https://www.bbc.co.uk/news/world-us-canada-65325867,7,0.008,0.206,0.786,-0.9986,BBC,2023-04-21,8
+9,Manslaughter charges dropped against Alec Baldwin,https://www.bbc.co.uk/news/entertainment-arts-65343821,8,0.045,0.129,0.825,-0.9946,BBC,2023-04-21,8
+10,US inmate died in insect-infested 'death chamber',https://www.bbc.co.uk/news/world-us-canada-65338593,9,0.022,0.101,0.878,-0.9861,BBC,2023-04-21,8
+1,"Elon Musk's Starship goes up in smoke on 4/20: World's most powerful rocket fails to separate and EXPLODES in $3BN fireball before crashing back down to earth 
+",https://www.dailymail.co.uk/sciencetech/article-11993945/Elon-Musks-Starship-set-launch-today-frozen-valve-thwarted-earlier-attempt.html,0,0.123,0.027,0.849,0.9997,Daily Mail,2023-04-21,8
+2,"Mum begs for help after 'horrifying' find in bathroom: 'I never even knew this was possible'
+",https://www.dailymail.co.uk/femail/cleaning/article-11992521/Mum-begs-help-horrifying-bathroom-never-knew-possible.html,1,0.07,0.091,0.839,-0.9166,Daily Mail,2023-04-21,8
+3,"'I was always scared of him... it doesn't surprise me what happened': Ex-wife of homeowner Andrew Lester, 84, accused of shooting Ralph Yarl, 16, claims he would rage and smash up their house during 14-year marriage
+",https://www.dailymail.co.uk/news/article-11993439/Ex-wife-retired-white-Missouri-man-accused-shooting-16-year-old-black-boy-says-violent.html,2,0.065,0.132,0.802,-0.9985,Daily Mail,2023-04-21,8
+4,"EXCLUSIVE: Former soap opera siren-turned-supernatural TV star looks UNRECOGNIZABLE as she steps out for a grocery run in sporty bicycle gear... so can YOU guess who it is?
+",https://www.dailymail.co.uk/femail/article-11995943/Soap-opera-siren-looks-unrecognizable-heads-celebrity-favorite-Erewhon.html,3,0.152,0.031,0.817,0.9967,Daily Mail,2023-04-21,8
+5,"My boyfriend's cancer battle was ruining my mental health so I left him - now I'm running a marathon in his honour
+",https://www.dailymail.co.uk/femail/article-11994095/My-boyfriends-cancer-ruining-mental-health-left-him.html,4,0.127,0.12,0.753,0.4621,Daily Mail,2023-04-21,8
+6,"'Fourth day of Live and it ISN'T live?' Kelly Ripa and Mark Consuelos are branded a 'joke' by viewers as it's revealed they PRE-RECORD! 
+",https://www.dailymail.co.uk/femail/article-11995215/Kelly-Ripa-Mark-Consuelos-slammed-filming-Live-Kelly-Mark-three-days-week.html,5,0.078,0.089,0.833,-0.7257,Daily Mail,2023-04-21,8
+7,"'Why are you dressed like the bride?' Presidential hopeful Nikki Haley sparks furious backlash after wearing WHITE dress to her daughter's wedding 
+",https://www.dailymail.co.uk/femail/article-11995549/Nikki-Haley-sparks-fierce-debate-white-mother-bride-dress-wore-daughters-wedding.html,6,0.171,0.053,0.776,0.9966,Daily Mail,2023-04-21,8
+8,"William the waiter! Prince of Wales takes a phone booking at an Indian restaurant as an elegant Kate in a pleated £229 Karen Millen dress enjoys a game of darts on visit to Birmingham
+",https://www.dailymail.co.uk/femail/article-11994045/Kate-Middleton-stuns-red-outfit-joins-Prince-William-Birmingham.html,7,0.139,0.007,0.854,0.9998,Daily Mail,2023-04-21,8
+9,"'I owe everything I have to this woman': Alec Baldwin credits his wife Hilaria after involuntary manslaughter charges dropped as new evidence 'shows gun could've been fired WITHOUT him pulling the trigger' - directly contradicting FBI
+",https://www.dailymail.co.uk/news/article-11996531/Involuntary-manslaughter-charges-against-Alec-Baldwin-DROPPED.html,8,0.056,0.149,0.795,-0.9989,Daily Mail,2023-04-21,8
+10,"Madonna's daughter Lourdes Leon sizzles in a skimpy black cut-out catsuit as she leads parade of fashionistas at H&M's Mugler launch event in NYC
+",https://www.dailymail.co.uk/tvshowbiz/article-11992949/Lourdes-Leon-sizzles-skimpy-black-cut-catsuit-H-Ms-Mugler-launch-event.html,9,0.112,0.009,0.879,0.9933,Daily Mail,2023-04-21,8
+1, Raab fights for political future as PM ponders ‘stinging’ bullying report,https://www.theguardian.com/politics/2023/apr/20/dominic-raab-fights-for-political-future-as-pm-ponders-stinging-bullying-report,0,0.063,0.118,0.819,-0.9927,Guardian,2023-04-21,8
+2,Sewage-soaked field stops creation of new woodland in Greater Manchester,https://www.theguardian.com/environment/2023/apr/21/sewage-soaked-field-stops-creation-of-new-woodland-in-greater-manchester,1,0.107,0.112,0.781,-0.823,Guardian,2023-04-21,8
+3,Russia-Ukraine war live: Moscow accidentally bombs own city of Belgorod,https://www.theguardian.com/world/live/2023/apr/21/russia-ukraine-war-live-moscows-accidental-strike-on-belgorod-injures-two-china-says-it-is-not-inflaming-conflict,2,0.073,0.114,0.813,-0.9991,Guardian,2023-04-21,8
+4,Ghosted review – dreadful big star action comedy deserves to be ignored,https://www.theguardian.com/film/2023/apr/20/ghosted-review-dreadful-action-comedy-chris-evans-ana-de-armas,3,0.102,0.117,0.781,-0.9511,Guardian,2023-04-21,8
+5,Second woman claims she was raped by colleagues while working at CBI,https://www.theguardian.com/business/2023/apr/21/second-woman-claims-she-was-raped-by-colleagues-while-working-at-cbi,4,0.061,0.134,0.805,-0.9989,Guardian,2023-04-21,8
+6,McDonald’s offered Met police cheap burgers and free drinks during XR protests,https://www.theguardian.com/uk-news/2023/apr/21/mcdonalds-offered-met-police-cheap-burgers-and-free-drinks-during-xr-protests,5,0.149,0.066,0.785,0.9978,Guardian,2023-04-21,8
+7,How could so many civil servants get Rish!’s dear friend Psycho so wrong?,https://www.theguardian.com/politics/2023/apr/20/how-could-so-many-civil-servants-get-rishi-sunak-dear-friend-dominic-raab-so-wrong,6,0.113,0.15,0.738,-0.991,Guardian,2023-04-21,8
+8,"Raab case shows need for reform of bullying claims handling, union rep says",https://www.theguardian.com/politics/2023/apr/21/dominic-raab-case-bullying-claims-handling-reform,7,0.069,0.087,0.845,-0.8555,Guardian,2023-04-21,8
+9,Maguire’s annus horribilis goes on as Manchester United collapse at Sevilla,https://www.theguardian.com/football/blog/2023/apr/20/harry-maguire-manchester-united-sevilla,8,0.108,0.096,0.796,0.615,Guardian,2023-04-21,8
+10,Costa Rica restored its ravaged land to health. The rich UK has no excuse for such complete failure,https://www.theguardian.com/commentisfree/2023/apr/21/costa-rica-uk-land,9,0.174,0.071,0.755,0.9989,Guardian,2023-04-21,8
