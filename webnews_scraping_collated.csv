@@ -3639,3 +3639,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Neville Lawrence says Met police surrendered to son’s killers,https://www.theguardian.com/uk-news/2023/apr/22/neville-lawrence-says-met-police-surrendered-to-sons-killers,7,0.085,0.159,0.756,-0.9985,Guardian,2023-04-22,8
 9,Couple help to save a girl and her father from drowning: ‘we’re not heroes’,https://www.theguardian.com/us-news/2023/apr/21/couple-help-to-save-a-girl-and-her-father-from-drowning-were-not-heroes,8,0.098,0.07,0.832,0.9502,Guardian,2023-04-22,8
 10,Woman whose search for parrot Chanel went viral charged over 237kg cannabis haul,https://www.theguardian.com/uk-news/2023/apr/21/chanel-parrot-owner-cannabis-importing-charges,9,0.064,0.107,0.828,-0.9432,Guardian,2023-04-22,8
+1,Thousands evacuated over second bomb in Russian city,https://www.bbc.co.uk/news/world-europe-65358070,0,0.017,0.113,0.871,-0.983,BBC,2023-04-22,20
+2,Dame Edna star Barry Humphries dies at 89,https://www.bbc.co.uk/news/entertainment-arts-65328507,1,0.116,0.056,0.828,0.9939,BBC,2023-04-22,20
+3,Killed holding off waves of Russians in Bakhmut,https://www.bbc.co.uk/news/world-europe-65313367,2,0.06,0.168,0.772,-0.9994,BBC,2023-04-22,20
+4,Hollywood stars join fans as Wrexham win promotion,https://www.bbc.co.uk/news/uk-wales-65361433,3,0.147,0.037,0.816,0.9974,BBC,2023-04-22,20
+5,Halyna Hutchins' family to sue Alec Baldwin,https://www.bbc.co.uk/news/entertainment-arts-65355387,4,0.066,0.115,0.819,-0.9577,BBC,2023-04-22,20
+6,Flambé fire kills two in Madrid restaurant,https://www.bbc.co.uk/news/world-europe-65360859,5,0.03,0.168,0.803,-0.9839,BBC,2023-04-22,20
+7,Canada's latest gold heist was far from the first,https://www.bbc.co.uk/news/world-us-canada-65350126,6,0.093,0.108,0.799,-0.9736,BBC,2023-04-22,20
+8,Australia to fast track citizenship for New Zealanders,https://www.bbc.co.uk/news/world-australia-65358066,7,0.07,0.025,0.905,0.9538,BBC,2023-04-22,20
+9,Australia finds wreck of Japanese WW2 disaster ship,https://www.bbc.co.uk/news/world-australia-65356496,8,0.045,0.132,0.823,-0.9955,BBC,2023-04-22,20
+10,Foreign nationals to be evacuated from Sudan - army,https://www.bbc.co.uk/news/uk-65358069,9,0.049,0.125,0.826,-0.9965,BBC,2023-04-22,20
+1,"Bud Light's under-fire marketing VP 'takes LEAVE OF ABSENCE' after Dylan Mulvaney controversy - and 'is replaced by Budweiser executive'
+",https://www.dailymail.co.uk/news/article-12001387/Bud-Lights-fire-marketing-VP-takes-LEAVE-ABSENCE-Dylan-Mulvaney-controversy.html,0,0.154,0.038,0.808,0.9996,Daily Mail,2023-04-22,20
+2,"Sofia Richie gets ready to tie the knot! Lionel's daughter stuns in a beaded ivory gown as she kisses fiancé Elliot Grainge ahead of lavish ceremony in the French Riviera
+",https://www.dailymail.co.uk/tvshowbiz/article-12000379/Sofia-Richie-married-model-looks-sensational-alongside-husband-Elliot-Grainge.html,1,0.119,0.009,0.872,0.9988,Daily Mail,2023-04-22,20
+3,"Meghan Markle wrote to Charles AFTER her Oprah interview naming royal who made 'skin colour' comment about Archie and accusing monarchy of 'unconscious bias' - and isn't attending the Coronation because she was unhappy with the response, sources say
+",https://www.dailymail.co.uk/news/article-12001035/Meghan-Markle-wrote-King-Charles-unconscious-bias-Royal-Family-Oprah-interview.html,2,0.059,0.065,0.876,-0.2684,Daily Mail,2023-04-22,20
+4,"EXCLUSIVE: Socialite mom, 45, is arrested in child porn sting at Virginia hotel where she allegedly planned to sexually abuse eight-year-old girl. Now federal judge ex-husband launches court battle to win full custody of their daughters - aged 10 and 12
+",https://www.dailymail.co.uk/news/article-11981565/High-society-child-sex-abuser.html,3,0.046,0.08,0.874,-0.9964,Daily Mail,2023-04-22,20
+5,"Caitlyn Jenner's mother dead at 96: Keeping Up With The Kardashians vet announces mom Esther has passed... after they worked together on I Am Cait
+",https://www.dailymail.co.uk/tvshowbiz/article-11999691/Caitlyn-Jenners-mother-dead-96.html,4,0.095,0.065,0.841,0.9474,Daily Mail,2023-04-22,20
+6,"Could the man jailed for John Lennon's murder be INNOCENT? New documentary says a SECOND gunman could have fired fatal shots and questions whether killer Mark Chapman was brainwashed by CIA 
+",https://www.dailymail.co.uk/news/article-11995191/The-man-jailed-John-Lennons-murder-INNOCENT-claims-bombsehll-documentary.html,5,0.035,0.123,0.842,-0.9996,Daily Mail,2023-04-22,20
+7,"Savannah Chrisley reveals she was 'thrown off' a Southwest flight for being an 'unruly passenger' as she details the 'awful' experience in Instagram rant
+",https://www.dailymail.co.uk/tvshowbiz/article-12000547/Savannah-Chrisley-reveals-thrown-Southwest-flight-unruly-passenger.html,6,0.097,0.079,0.825,0.9198,Daily Mail,2023-04-22,20
+8,"Shannen Doherty, 52, officially files for DIVORCE from husband Kurt Iswarienko after 11 years of marriage due to actress being 'left with no other option'
+",https://www.dailymail.co.uk/tvshowbiz/article-12001243/Shannen-Doherty-officially-files-DIVORCE-husband-Kurt-Iswarienko-11-years-marriage.html,7,0.124,0.108,0.768,0.9377,Daily Mail,2023-04-22,20
+9,"Child friends aged five and six are found murdered with genitals, nose and lips hacked off after they were abducted while playing in the street 
+",https://www.dailymail.co.uk/news/article-11999475/Child-friends-aged-five-six-murdered-genitals-nose-lips-hacked-off.html,8,0.045,0.22,0.736,-0.999,Daily Mail,2023-04-22,20
+10,"Why Meghan isn't coming to the Coronation revealed: Duchess of Sussex 'was unhappy that letter to her from King Charles did not answer her complaints that royal neglect left her suicidal and how bullying probe had been launched against her'
+",https://www.dailymail.co.uk/news/article-12001873/Why-Meghan-isnt-coming-Coronation-Letter-Charles-did-not-address-suicidal-feelings.html,9,0.072,0.081,0.847,-0.8759,Daily Mail,2023-04-22,20
+1,‘I am the führer. I’m the king’: new book lifts lid on life inside Boris Johnson’s chaotic No 10,https://www.theguardian.com/politics/2023/apr/22/i-am-the-fuhrer-im-the-king-new-book-lifts-lid-on-life-inside-boris-johnsons-chaotic-no-10,0,0.049,0.101,0.85,-0.9816,Guardian,2023-04-22,20
+2,‘Men my age aren’t good on their own. They’re needy’: Lesley Manville on being happily single and her big problem with Hollywood ,https://www.theguardian.com/culture/2023/apr/22/lesley-manville-hollywood-gary-oldman-citadel-amazon-prime,1,0.123,0.07,0.807,0.9994,Guardian,2023-04-22,20
+3,"Murder, alcohol and prostitutes: Wagner convicts pardoned by Putin return to terrorise home towns",https://www.theguardian.com/world/2023/apr/22/alcohol-and-prostitutes-wagner-convicts-pardoned-by-putin-return-to-terrorise-home-towns,2,0.103,0.202,0.695,-0.9994,Guardian,2023-04-22,20
+4,Woman who miscarried fined by NHS for claiming free prescription while pregnant,https://www.theguardian.com/society/2023/apr/22/woman-who-miscarried-fined-by-nhs-for-claiming-free-prescription-while-pregnant,3,0.075,0.131,0.794,-0.9914,Guardian,2023-04-22,20
+5,Manchester City 3-0 Sheffield United: FA Cup semi-final – as it happened,https://www.theguardian.com/football/live/2023/apr/22/manchester-city-v-sheffield-united-fa-cup-semi-final-live-score-updates,4,0.169,0.086,0.745,0.9997,Guardian,2023-04-22,20
+6,Frustration at Labour and Lib Dem HQs as local parties ‘go rogue’ to create progressive alliance,https://www.theguardian.com/politics/2023/apr/22/frustration-at-labour-and-lib-dem-hqs-as-local-parties-go-rogue-to-create-progressive-alliance,5,0.171,0.073,0.757,0.9986,Guardian,2023-04-22,20
+7,Care homes in England using ‘revenge evictions’ to stifle complaints from residents,https://www.theguardian.com/society/2023/apr/22/care-homes-in-england-using-revenge-evictions-to-stifle-complaints-from-residents,6,0.098,0.105,0.797,0.1414,Guardian,2023-04-22,20
+8,"‘I took one of me in the bath – can’t go wrong with the bath, right?’: my most memorable sexting disaster",https://www.theguardian.com/lifeandstyle/2023/apr/22/my-most-memorable-sexting-disaster,7,0.115,0.075,0.811,0.9978,Guardian,2023-04-22,20
+9,‘Flambéed pizza’ leads to deadly fire at Madrid restaurant,https://www.theguardian.com/world/2023/apr/22/flambeed-pizza-leads-to-deadly-fire-at-madrid-restaurant,8,0.028,0.138,0.835,-0.9831,Guardian,2023-04-22,20
+10,Paul Rudd joins football fans for a pint in Wrexham before match,https://www.theguardian.com/football/2023/apr/22/paul-rudd-joins-football-fans-for-a-pint-in-wrexham-before-match,9,0.106,0.01,0.885,0.9873,Guardian,2023-04-22,20
