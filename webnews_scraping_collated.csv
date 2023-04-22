@@ -3599,3 +3599,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘Deeply sorry’ CBI suspends policy and membership activity until June after firms quit following second rape allegation – business live,https://www.theguardian.com/business/live/2023/apr/21/uk-retail-sales-bad-weather-inflation-twitter-legacy-blue-ticks-elon-musk-business-live,7,0.077,0.094,0.829,-0.9954,Guardian,2023-04-21,20
 9,Where does Dominic Raab go from here?,https://www.theguardian.com/politics/2023/apr/21/where-does-dominic-raab-go-from-here,8,0.096,0.076,0.827,0.9242,Guardian,2023-04-21,20
 10,Ronnie O’Sullivan takes commanding lead after Vafaei’s ‘disrespectful’ break,https://www.theguardian.com/sport/2023/apr/21/ronnie-o-sullivan-lead-hossein-vafaei-world-snooker-championship,9,0.16,0.095,0.745,0.9867,Guardian,2023-04-21,20
+1,Killed holding off waves of Russians in Bakhmut,https://www.bbc.co.uk/news/world-europe-65313367,0,0.06,0.168,0.772,-0.9994,BBC,2023-04-22,8
+2,Australia finds wreck of Japanese WW2 disaster ship,https://www.bbc.co.uk/news/world-australia-65356496,1,0.045,0.132,0.823,-0.9955,BBC,2023-04-22,8
+3,US Supreme Court preserves abortion drug access,https://www.bbc.co.uk/news/world-us-canada-65356390,2,0.134,0.067,0.799,0.9966,BBC,2023-04-22,8
+4,Halyna Hutchins' family to sue Alec Baldwin,https://www.bbc.co.uk/news/entertainment-arts-65355387,3,0.066,0.115,0.819,-0.9577,BBC,2023-04-22,8
+5,Canada's latest gold heist was far from the first,https://www.bbc.co.uk/news/world-us-canada-65350126,4,0.093,0.108,0.799,-0.9736,BBC,2023-04-22,8
+6,Family's heartbreak at Putin critic's 25-year jail term,https://www.bbc.co.uk/news/world-europe-65352245,5,0.122,0.13,0.747,-0.9558,BBC,2023-04-22,8
+7,The $5m 'Prove Mike Wrong' challenge that backfired,https://www.bbc.co.uk/news/world-us-canada-65350125,6,0.063,0.047,0.89,0.8172,BBC,2023-04-22,8
+8,Dominic Raab hits out at 'activist civil servants',https://www.bbc.co.uk/news/uk-politics-65349192,7,0.079,0.161,0.759,-0.9984,BBC,2023-04-22,8
+9,Paris synagogue bomber convicted after 43 years,https://www.bbc.co.uk/news/world-europe-65347584,8,0.071,0.149,0.78,-0.9982,BBC,2023-04-22,8
+10,Gold stolen in C$20m heist at Toronto airport,https://www.bbc.co.uk/news/world-us-canada-65328968,9,0.071,0.063,0.866,0.1979,BBC,2023-04-22,8
+1,"Caitlyn Jenner's mother dead at 96: Keeping Up With The Kardashians vet announces mom Esther has passed... after they worked together on I Am Cait
+",https://www.dailymail.co.uk/tvshowbiz/article-11999691/Caitlyn-Jenners-mother-dead-96.html,0,0.095,0.065,0.841,0.9474,Daily Mail,2023-04-22,8
+2,"Sofia Richie gets ready to tie the knot! Lionel's daughter stuns in a beaded ivory gown as she kisses fiancé Elliot Grainge ahead of lavish ceremony in the French Riviera
+",https://www.dailymail.co.uk/tvshowbiz/article-12000379/Sofia-Richie-married-model-looks-sensational-alongside-husband-Elliot-Grainge.html,1,0.119,0.009,0.872,0.9988,Daily Mail,2023-04-22,8
+3,"EXCLUSIVE: Socialite mom, 45, is arrested in child porn sting at Virginia hotel where she allegedly planned to sexually abuse eight-year-old girl. Now federal judge ex-husband launches court battle to win full custody of their daughters - aged 10 and 12
+",https://www.dailymail.co.uk/news/article-11981565/High-society-child-sex-abuser.html,2,0.046,0.08,0.874,-0.9964,Daily Mail,2023-04-22,8
+4,"Ex-acting CIA director reveals he had 50 spies sign a letter saying Hunter Biden laptop scandal was Russian disinformation to HELP Joe 'win the presidential election'
+",https://www.dailymail.co.uk/news/article-11997959/Ex-CIA-chief-spills-got-spies-write-false-Hunter-Biden-laptop-letter-help-Biden.html,3,0.075,0.031,0.894,0.9826,Daily Mail,2023-04-22,8
+5,"EXCLUSIVE: Yellowstone creator Taylor Sheridan 'developed a God complex' that caused his fallout with Kevin Costner - who was told he should just 'stick to acting' when he raised concerns about the 'direction the show was heading'
+",https://www.dailymail.co.uk/tvshowbiz/article-11991051/Yellowstone-creator-Taylor-Sheridan-developed-god-complex-created-tension-set-tension.html,4,0.067,0.051,0.882,0.9313,Daily Mail,2023-04-22,8
+6,"EXCLUSIVE: She's just like us! Jackie O's look-a-like granddaughter Rose Kennedy Schlossberg, 34, busses tables and serves coffee as she helps out at wife's trendy California restaurant 
+",https://www.dailymail.co.uk/news/article-11987155/Rose-Kennedy-Schlossberg-34-busses-tables-wifes-trendy-California-restaurant.html,5,0.06,0.003,0.937,0.9678,Daily Mail,2023-04-22,8
+7,"Meghan Markle wrote to Charles AFTER her Oprah interview naming royal who made 'skin colour' comment about Archie and accusing monarchy of 'unconscious bias' - and isn't attending the Coronation because she was unhappy with the response, sources say
+",https://www.dailymail.co.uk/news/article-12001035/Meghan-Markle-wrote-King-Charles-unconscious-bias-Royal-Family-Oprah-interview.html,6,0.057,0.068,0.876,-0.7375,Daily Mail,2023-04-22,8
+8,"Ben Affleck and new wife Jennifer Lopez join his ex Jennifer Garner during outing with their children Maximilian and Samuel in sunny Santa Monica
+",https://www.dailymail.co.uk/tvshowbiz/article-11997575/Ben-Affleck-new-wife-Jennifer-Lopez-join-ex-Jennifer-Garner-outing-kids.html,7,0.124,0.001,0.875,0.998,Daily Mail,2023-04-22,8
+9,"Child friends aged five and six are found murdered with genitals, nose and lips hacked off after they were abducted while playing in the street 
+",https://www.dailymail.co.uk/news/article-11999475/Child-friends-aged-five-six-murdered-genitals-nose-lips-hacked-off.html,8,0.045,0.22,0.736,-0.999,Daily Mail,2023-04-22,8
+10,"Savannah Chrisley reveals she was 'thrown off' a Southwest flight for being an 'unruly passenger' as she details the 'awful' experience in Instagram rant
+",https://www.dailymail.co.uk/tvshowbiz/article-12000547/Savannah-Chrisley-reveals-thrown-Southwest-flight-unruly-passenger.html,9,0.097,0.079,0.825,0.9198,Daily Mail,2023-04-22,8
+1,"Share a bath, play the three-minute game and don’t catastrophise! How to have better sex",https://www.theguardian.com/lifeandstyle/2023/apr/22/how-to-have-better-sex,0,0.154,0.038,0.808,0.9997,Guardian,2023-04-22,8
+2,Blind date: ‘We’re already planning his trip to visit me in France’,https://www.theguardian.com/lifeandstyle/2023/apr/22/blind-date-deborah-graham,1,0.136,0.053,0.811,0.998,Guardian,2023-04-22,8
+3,"Belgium crushes 2,000 cans of Miller High Life over ‘champagne of beers’ slogan",https://www.theguardian.com/food/2023/apr/21/miller-high-life-champagne-problems,2,0.159,0.04,0.801,0.9952,Guardian,2023-04-22,8
+4,‘Raab goes down swinging’: what the papers say as deputy PM resigns,https://www.theguardian.com/media/2023/apr/22/raab-goes-down-swinging-what-the-papers-say-as-deputy-pm-resigns,3,0.047,0.155,0.798,-0.9939,Guardian,2023-04-22,8
+5,Suspect in shooting of six-year-old over stray basketball arrested in Florida,https://www.theguardian.com/us-news/2023/apr/21/north-carolina-shooting-robert-singletary-basketball,4,0.013,0.161,0.827,-0.9984,Guardian,2023-04-22,8
+6,US supreme court blocks ruling limiting access to abortion pill ,https://www.theguardian.com/world/2023/apr/21/abortion-pill-ruling-latest-news-supreme-court-decision,5,0.112,0.102,0.786,0.783,Guardian,2023-04-22,8
+7,‘Men my age aren’t good on their own. They’re needy’: Lesley Manville on being happily single and her big problem with Hollywood ,https://www.theguardian.com/culture/2023/apr/22/lesley-manville-hollywood-gary-oldman-citadel-amazon-prime,6,0.124,0.071,0.806,0.9994,Guardian,2023-04-22,8
+8,Neville Lawrence says Met police surrendered to son’s killers,https://www.theguardian.com/uk-news/2023/apr/22/neville-lawrence-says-met-police-surrendered-to-sons-killers,7,0.085,0.159,0.756,-0.9985,Guardian,2023-04-22,8
+9,Couple help to save a girl and her father from drowning: ‘we’re not heroes’,https://www.theguardian.com/us-news/2023/apr/21/couple-help-to-save-a-girl-and-her-father-from-drowning-were-not-heroes,8,0.098,0.07,0.832,0.9502,Guardian,2023-04-22,8
+10,Woman whose search for parrot Chanel went viral charged over 237kg cannabis haul,https://www.theguardian.com/uk-news/2023/apr/21/chanel-parrot-owner-cannabis-importing-charges,9,0.064,0.107,0.828,-0.9432,Guardian,2023-04-22,8
