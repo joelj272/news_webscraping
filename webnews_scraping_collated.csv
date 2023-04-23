@@ -3719,3 +3719,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Chris Packham calls for ‘every last person who cares’ to join XR,https://www.theguardian.com/environment/2023/apr/22/chris-packham-calls-for-every-last-person-who-cares-to-join-xr,7,0.086,0.1,0.815,-0.8892,Guardian,2023-04-23,8
 9,London Marathon 2023: ‘very wet’ rainy weather forecast,https://www.theguardian.com/sport/2023/apr/23/london-marathon-2023-very-wet-rainy-weather-forecast,8,0.052,0.035,0.914,0.775,Guardian,2023-04-23,8
 10,Nurses’ leader blasts Steve Barclay over ‘disgraceful’ use of legal action to stop strike,https://www.theguardian.com/society/2023/apr/22/nurses-leader-blasts-disgraceful-use-of-legal-action-to-stop-strike,9,0.089,0.122,0.79,-0.9814,Guardian,2023-04-23,8
+1,Diplomats and foreign nationals evacuated from Sudan,https://www.bbc.co.uk/news/world-africa-65363586,0,0.054,0.131,0.815,-0.9904,BBC,2023-04-23,20
+2,Kenya finds 47 bodies in 'starvation cult' probe,https://www.bbc.co.uk/news/world-africa-65363585,1,0.026,0.164,0.81,-0.9925,BBC,2023-04-23,20
+3,Wheelbarrow photo marks Prince Louis' fifth birthday,https://www.bbc.co.uk/news/uk-65362733,2,0.027,0.022,0.95,0.1027,BBC,2023-04-23,20
+4,Body used in South African prison break identified,https://www.bbc.co.uk/news/world-africa-65365540,3,0.049,0.218,0.733,-0.9988,BBC,2023-04-23,20
+5,Amazon investigates 'cat food' order swaps,https://www.bbc.co.uk/news/uk-england-wiltshire-65310418,4,0.061,0.096,0.843,-0.9794,BBC,2023-04-23,20
+6,Your full guide to how coronation day will unfold,https://www.bbc.co.uk/news/uk-65342840,5,0.054,0.022,0.924,0.9955,BBC,2023-04-23,20
+7,Twitter restores blue tick to high profile accounts,https://www.bbc.co.uk/news/technology-65365366,6,0.047,0.077,0.877,-0.9506,BBC,2023-04-23,20
+8,Magazine editor sacked over Schumacher AI 'interview',https://www.bbc.co.uk/sport/formula1/65361193,7,0.0,0.0,0.0,0.0,BBC,2023-04-23,20
+9,Thousands evacuated over second bomb in Russian city,https://www.bbc.co.uk/news/world-europe-65358070,8,0.017,0.113,0.871,-0.983,BBC,2023-04-23,20
+10,British diplomats airlifted from Sudan as violence goes on,https://www.bbc.co.uk/news/uk-65367019,9,0.093,0.079,0.828,0.7734,BBC,2023-04-23,20
+1,"Here comes the bride! Sofia Richie is walked down the aisle by father Lionel during lavish wedding ceremony to music executive Elliot Grainge in France as they continue the festivities that will surely have them dancing all night long
+",https://www.dailymail.co.uk/tvshowbiz/article-12002963/Sofia-Richie-dazzles-Chanel-gown-confirmed-Elliot-Grainge-tied-knot.html,0,0.127,0.007,0.866,0.999,Daily Mail,2023-04-23,20
+2,"'I do!': Simone Biles looks every inch the blushing bride in a plunging white tulle gown while marrying NFL star Jonathan Owens in Texas
+",https://www.dailymail.co.uk/tvshowbiz/article-12002747/Simone-Biles-inch-blushing-bride-marrying-NFL-star-Jonathan-Owens-Texas.html,1,0.13,0.004,0.866,0.9973,Daily Mail,2023-04-23,20
+3,"Meghan says it's 'frankly ridiculous' that she's missing the coronation because of a letter she sent Charles over royal racism and 'unconscious bias' - after reports said she was unhappy with King Charles' response
+",https://www.dailymail.co.uk/news/article-12003541/Meghan-says-ridiculous-shes-missing-coronation-letter-sent-Charles.html,2,0.048,0.077,0.875,-0.9834,Daily Mail,2023-04-23,20
+4,"The Prince of Wheels! Kate rolls out the barrow for her beaming birthday boy Louis as the royal couple release delightful new photographs to celebrate their youngest son turning five 
+",https://www.dailymail.co.uk/news/article-12003005/Kate-rolls-barrow-Louis-royal-couple-release-photographs-celebrate-son.html,3,0.125,0.017,0.858,0.9988,Daily Mail,2023-04-23,20
+5,"Could the man jailed for John Lennon's murder be INNOCENT? New documentary says a SECOND gunman could have fired fatal shots and questions whether killer Mark Chapman was brainwashed by CIA 
+",https://www.dailymail.co.uk/news/article-11995191/The-man-jailed-John-Lennons-murder-INNOCENT-claims-bombsehll-documentary.html,4,0.035,0.123,0.842,-0.9996,Daily Mail,2023-04-23,20
+6,"There's a dirty little X-rated secret a lot of men have that they're not telling you, writes JANA HOCKING, and most women aren't going to like it
+",https://www.dailymail.co.uk/femail/article-11993347/Jana-Hocking-Theres-dirty-X-rated-little-secret-lot-men-theyre-not-telling-you.html,5,0.129,0.056,0.816,0.9971,Daily Mail,2023-04-23,20
+7,"Up to 30,000 jobs at stake as Bed Bath & Beyond files for Chapter 11 bankruptcy and announces all 360 stores nationwide will eventually close - after last ditch bid to stay afloat failed 
+",https://www.dailymail.co.uk/news/article-12004291/Bed-Bath-files-Chapter-11-bankruptcy.html,6,0.107,0.078,0.815,0.987,Daily Mail,2023-04-23,20
+8,"An endless love! Sofia Richie shares a kiss with her new husband Elliot Grainge after being walked down the aisle by father Lionel during lavish wedding ceremony to the music executive in France
+",https://www.dailymail.co.uk/tvshowbiz/article-12004313/Sofia-Richie-shares-kiss-new-husband-Elliot-Grainge-lavish-wedding-ceremony.html,7,0.138,0.007,0.855,0.9994,Daily Mail,2023-04-23,20
+9,"EXCLUSIVE: I was sexually abused by male passenger sitting next to me throughout ten-hour Air Europa flight - but cabin crew shouted and hurled abuse at ME and my husband
+",https://www.dailymail.co.uk/news/article-11984775/I-sexually-abused-male-passenger-sitting-ten-hour-Air-Europa-flight.html,8,0.048,0.113,0.839,-0.9981,Daily Mail,2023-04-23,20
+10,"The Young And The Restless star Eric Braeden, 82, reveals cancer diagnosis and undergoing treatment
+",https://www.dailymail.co.uk/tvshowbiz/article-12003597/The-Young-Restless-star-Eric-Braeden-82-reveals-cancer-diagnosis-undergoing-treatment.html,9,0.128,0.122,0.75,0.1622,Daily Mail,2023-04-23,20
+1,Brighton 0-0 Man Utd (6-7 on pens): FA Cup semi-final – as it happened,https://www.theguardian.com/football/live/2023/apr/23/brighton-v-manchester-united-fa-cup-semi-final-live,0,0.151,0.13,0.72,0.9893,Guardian,2023-04-23,20
+2,UK emergency alert test: Three looking into why users failed to get text,https://www.theguardian.com/society/2023/apr/23/uk-emergency-alert-test-three-looking-into-why-users-failed-to-get-text,1,0.1,0.083,0.817,0.8833,Guardian,2023-04-23,20
+3,I saw the UK through the eyes of my French in-laws - and it was deeply embarrassing,https://www.theguardian.com/commentisfree/2023/apr/23/saw-the-uk-through-the-eyes-of-my-french-in-laws-and-it-was-deeply-embarrassing,2,0.111,0.123,0.766,-0.7347,Guardian,2023-04-23,20
+4,Emergency alert test UK: phone alarm sounds early for some users but others don’t receive it – as it happened,https://www.theguardian.com/society/live/2023/apr/23/emergency-alert-test-uk-phone-alarms-sound-live-updates,3,0.114,0.08,0.806,0.9882,Guardian,2023-04-23,20
+5,London Marathon: Sifan Hassan stops twice and dodges bike in dramatic win,https://www.theguardian.com/sport/2023/apr/23/london-marathon-sifan-hassan-kelvin-kiptum-race-report-athletics,4,0.084,0.054,0.862,0.9891,Guardian,2023-04-23,20
+6,Labour suspends Diane Abbott in attempt to stifle fresh antisemitism row,https://www.theguardian.com/politics/2023/apr/23/diane-abbott-suspended-by-labour-after-saying-jewish-people-not-subject-to-racism,5,0.093,0.152,0.755,-0.9977,Guardian,2023-04-23,20
+7,Wagatha Christie play faces plot twist after Rebekah Vardy trademark move ,https://www.theguardian.com/uk-news/2023/apr/23/wagatha-christie-play-faces-plot-twist-after-rebekah-vardy-trademark-move,6,0.114,0.075,0.811,0.9709,Guardian,2023-04-23,20
+8,‘It’s traumatic’: new travellers’ Dorset home challenged by Martin Clunes,https://www.theguardian.com/uk-news/2023/apr/23/its-traumatic-new-travellers-dorset-home-challenged-by-martin-clunes,7,0.068,0.112,0.82,-0.9935,Guardian,2023-04-23,20
+9,Which professions offer the best pay for the least amount of effort?,https://www.theguardian.com/lifeandstyle/2023/apr/23/which-professions-offer-the-best-pay-for-the-least-amount-of-effort,8,0.115,0.038,0.847,0.5859,Guardian,2023-04-23,20
+10,"‘Four-time loser’ Trump may not be nominee for 2024, Republican insists",https://www.theguardian.com/us-news/2023/apr/23/trump-chris-sununu-republican-primary-2024,9,0.085,0.079,0.836,0.495,Guardian,2023-04-23,20
