@@ -3679,3 +3679,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"‘I took one of me in the bath – can’t go wrong with the bath, right?’: my most memorable sexting disaster",https://www.theguardian.com/lifeandstyle/2023/apr/22/my-most-memorable-sexting-disaster,7,0.115,0.075,0.811,0.9978,Guardian,2023-04-22,20
 9,‘Flambéed pizza’ leads to deadly fire at Madrid restaurant,https://www.theguardian.com/world/2023/apr/22/flambeed-pizza-leads-to-deadly-fire-at-madrid-restaurant,8,0.028,0.138,0.835,-0.9831,Guardian,2023-04-22,20
 10,Paul Rudd joins football fans for a pint in Wrexham before match,https://www.theguardian.com/football/2023/apr/22/paul-rudd-joins-football-fans-for-a-pint-in-wrexham-before-match,9,0.106,0.01,0.885,0.9873,Guardian,2023-04-22,20
+1,Sikh separatist arrested after weeks on the run,https://www.bbc.co.uk/news/world-asia-india-65063620,0,0.072,0.113,0.816,-0.9822,BBC,2023-04-23,8
+2,Wheelbarrow photo marks Prince Louis' fifth birthday,https://www.bbc.co.uk/news/uk-65362733,1,0.027,0.022,0.95,0.1027,BBC,2023-04-23,8
+3,Special forces airlift US diplomats from Sudan,https://www.bbc.co.uk/news/world-africa-65363586,2,0.064,0.127,0.81,-0.9972,BBC,2023-04-23,8
+4,Hollywood stars join fans as Wrexham win promotion,https://www.bbc.co.uk/news/uk-wales-65361433,3,0.16,0.038,0.802,0.9996,BBC,2023-04-23,8
+5,Want to be famous in Russia? Back Putin and his war,https://www.bbc.co.uk/news/world-europe-65347833,4,0.128,0.113,0.758,0.9611,BBC,2023-04-23,8
+6,Thousands evacuated over second bomb in Russian city,https://www.bbc.co.uk/news/world-europe-65358070,5,0.017,0.113,0.871,-0.983,BBC,2023-04-23,8
+7,Kenya finds 21 bodies in 'starvation cult' probe,https://www.bbc.co.uk/news/world-africa-65363585,6,0.027,0.16,0.813,-0.9904,BBC,2023-04-23,8
+8,Magazine editor sacked over Schumacher AI 'interview',https://www.bbc.co.uk/sport/formula1/65361193,7,0.0,0.0,0.0,0.0,BBC,2023-04-23,8
+9,Your full guide to how coronation day will unfold,https://www.bbc.co.uk/news/uk-65342840,8,0.054,0.022,0.924,0.9955,BBC,2023-04-23,8
+10,Australia to fast track citizenship for New Zealanders,https://www.bbc.co.uk/news/world-australia-65358066,9,0.07,0.025,0.905,0.9538,BBC,2023-04-23,8
+1,"Here comes the bride! Sofia Richie is walked down the aisle by father Lionel during lavish wedding ceremony to music executive Elliot Grainge in France as they continue the festivities that will surely have them dancing all night long
+",https://www.dailymail.co.uk/tvshowbiz/article-12002963/Sofia-Richie-dazzles-Chanel-gown-confirmed-Elliot-Grainge-tied-knot.html,0,0.127,0.007,0.866,0.999,Daily Mail,2023-04-23,8
+2,"Could the man jailed for John Lennon's murder be INNOCENT? New documentary says a SECOND gunman could have fired fatal shots and questions whether killer Mark Chapman was brainwashed by CIA 
+",https://www.dailymail.co.uk/news/article-11995191/The-man-jailed-John-Lennons-murder-INNOCENT-claims-bombsehll-documentary.html,1,0.035,0.123,0.842,-0.9996,Daily Mail,2023-04-23,8
+3,"'I do!': Simone Biles looks every inch the blushing bride in a plunging white tulle gown while marrying NFL star Jonathan Owens in Texas
+",https://www.dailymail.co.uk/tvshowbiz/article-12002747/Simone-Biles-inch-blushing-bride-marrying-NFL-star-Jonathan-Owens-Texas.html,2,0.13,0.004,0.866,0.9973,Daily Mail,2023-04-23,8
+4,"Bud Light's under-fire marketing VP 'takes LEAVE OF ABSENCE' after Dylan Mulvaney controversy - and 'is replaced by Budweiser executive'
+",https://www.dailymail.co.uk/news/article-12001387/Bud-Lights-fire-marketing-VP-takes-LEAVE-ABSENCE-Dylan-Mulvaney-controversy.html,3,0.154,0.038,0.808,0.9996,Daily Mail,2023-04-23,8
+5,"Why Meghan isn't coming to the Coronation revealed: Duchess of Sussex 'was unhappy that letter to her from King Charles did not answer her complaints that royal neglect left her suicidal and how bullying probe had been launched against her'
+",https://www.dailymail.co.uk/news/article-12001873/Why-Meghan-isnt-coming-Coronation-Letter-Charles-did-not-address-suicidal-feelings.html,4,0.072,0.081,0.847,-0.8759,Daily Mail,2023-04-23,8
+6,"Shocking moment a woman in her 20s is kidnapped off a NYC street by a man and bundled into the back of a Toyota minivan 
+",https://www.dailymail.co.uk/news/article-12002299/Shocking-moment-woman-abducted-streets-NYC.html,5,0.02,0.098,0.882,-0.9928,Daily Mail,2023-04-23,8
+7,"As disgraced Theranos fraudster Elizabeth Holmes faces her last weekend of freedom before starting her 11-year jail sentence, DailyMail.com charts her sensational downfall
+",https://www.dailymail.co.uk/news/article-11994961/Elizabeth-Holmes-prison-theranos.html,6,0.115,0.1,0.785,0.9903,Daily Mail,2023-04-23,8
+8,"The Prince of Wheels! Kate rolls out the barrow for her beaming birthday boy Louis as the royal couple release delightful new photographs to celebrate their youngest son turning five 
+",https://www.dailymail.co.uk/news/article-12003005/Kate-rolls-barrow-Louis-royal-couple-release-photographs-celebrate-son.html,7,0.125,0.017,0.858,0.9988,Daily Mail,2023-04-23,8
+9,"Sizzling at 60! As Demi Moore flaunts her fab figure in a bikini snap, FEMAIL lays bare her roller coaster health routine - revealing how she QUIT workouts for four years after punishing her body for decades... before finally achieving the perfect regimen
+",https://www.dailymail.co.uk/femail/article-11999359/Demi-Moores-strict-diet-fitness-regimen-shows-amazing-bikini-body-age-60.html,8,0.111,0.073,0.817,0.9962,Daily Mail,2023-04-23,8
+10,"Wrexham in dreamland! Welsh side's A-list owners Ryan Reynolds and Rob McElhenney weep tears of joy as team is PROMOTED to the football league in Hollywood happy ending to the season - after Ant-Man's Paul Rudd joined 10,000 fans screaming them to 3-1 win
+",https://www.dailymail.co.uk/tvshowbiz/article-12002579/Paul-Rudd-Wrexham-pal-Ryan-Reynolds-team-make-Football-League.html,9,0.187,0.032,0.782,0.9999,Daily Mail,2023-04-23,8
+1,How the UK emergency alert system test has been years in the making,https://www.theguardian.com/technology/2023/apr/21/how-the-uk-emergency-alert-system-test-has-been-years-in-the-making,0,0.073,0.149,0.778,-0.9982,Guardian,2023-04-23,8
+2,UK public assured they can ‘swipe away’ emergency alert test,https://www.theguardian.com/society/2023/apr/23/uk-public-assured-they-can-swipe-away-emergency-alert-test,1,0.104,0.105,0.791,0.1791,Guardian,2023-04-23,8
+3,Larger-bodied airline passengers forced to pay for two seats prompts call for clearer anti-discrimination laws,https://www.theguardian.com/business/2023/apr/23/larger-bodied-airline-passengers-forced-to-pay-for-two-seats-prompts-calls-for-clearer-anti-discrimination-laws,2,0.098,0.073,0.829,0.9939,Guardian,2023-04-23,8
+4,"Cavo, London: ‘The emptiest of empty vessels’ – restaurant review",https://www.theguardian.com/food/2023/apr/23/jay-rayner-restaurant-review-cavo-london-the-emptiest-of-empty-vessels,3,0.1,0.062,0.838,0.9954,Guardian,2023-04-23,8
+5,‘I am the führer. I’m the king’: new book lifts lid on life inside Boris Johnson’s chaotic No 10,https://www.theguardian.com/politics/2023/apr/22/i-am-the-fuhrer-im-the-king-new-book-lifts-lid-on-life-inside-boris-johnsons-chaotic-no-10,4,0.048,0.101,0.851,-0.9816,Guardian,2023-04-23,8
+6,Tories consider controversial plan to politicise civil service after Raab scandal,https://www.theguardian.com/politics/2023/apr/22/tories-consider-controversial-plan-to-politicise-civil-service-after-raab-scandal,5,0.08,0.102,0.818,-0.9773,Guardian,2023-04-23,8
+7,‘We slept in separate bedrooms for the last three years’: ex-couples on what went right – and wrong – in their sex life,https://www.theguardian.com/lifeandstyle/2023/apr/23/ex-couples-on-what-went-right-and-wrong-in-their-sex-lives,6,0.203,0.054,0.743,0.9998,Guardian,2023-04-23,8
+8,Chris Packham calls for ‘every last person who cares’ to join XR,https://www.theguardian.com/environment/2023/apr/22/chris-packham-calls-for-every-last-person-who-cares-to-join-xr,7,0.086,0.1,0.815,-0.8892,Guardian,2023-04-23,8
+9,London Marathon 2023: ‘very wet’ rainy weather forecast,https://www.theguardian.com/sport/2023/apr/23/london-marathon-2023-very-wet-rainy-weather-forecast,8,0.052,0.035,0.914,0.775,Guardian,2023-04-23,8
+10,Nurses’ leader blasts Steve Barclay over ‘disgraceful’ use of legal action to stop strike,https://www.theguardian.com/society/2023/apr/22/nurses-leader-blasts-disgraceful-use-of-legal-action-to-stop-strike,9,0.089,0.122,0.79,-0.9814,Guardian,2023-04-23,8
