@@ -3839,3 +3839,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,The hell of somniphobia: ‘On a bad night I get zero to two hours’ sleep’,https://www.theguardian.com/lifeandstyle/2023/apr/24/somniphobia-fear-of-falling-asleep-causes-treatments,7,0.064,0.141,0.795,-0.9992,Guardian,2023-04-24,12
 9,"‘We all want to be Steve McQueen’: Gary Lineker on his MotD style, baggy jeans and who’ll win the league ",https://www.theguardian.com/fashion/2023/apr/24/we-all-want-to-be-steve-mcqueen-gary-lineker-on-his-motd-style-baggy-jeans-and-wholl-win-the-league,8,0.164,0.041,0.795,0.9995,Guardian,2023-04-24,12
 10,Premier League and FA Cup: 10 talking points from the weekend action,https://www.theguardian.com/football/2023/apr/24/premier-league-fa-cup-10-talking-points-from-the-weekend-action,9,0.123,0.098,0.779,0.9918,Guardian,2023-04-24,12
+1,CNN anchor furious after being sacked,https://www.bbc.co.uk/news/world-us-canada-65380349,0,0.051,0.051,0.897,0.2723,BBC,2023-04-24,20
+2,Tucker Carlson leaves Fox News,https://www.bbc.co.uk/news/world-us-canada-65379340,1,0.057,0.07,0.873,-0.9167,BBC,2023-04-24,20
+3,Ukraine sets up positions across river in Kherson,https://www.bbc.co.uk/news/world-europe-65379229,2,0.071,0.072,0.856,-0.128,BBC,2023-04-24,20
+4,Wrexham's Ryan Reynolds fulfils fan's dying wish,https://www.bbc.co.uk/news/uk-wales-65365433,3,0.117,0.093,0.79,0.8873,BBC,2023-04-24,20
+5,Comedian Richard Lewis shares Parkinson's diagnosis,https://www.bbc.co.uk/news/world-us-canada-65380581,4,0.159,0.029,0.812,0.9942,BBC,2023-04-24,20
+6,Nine wounded in Texas shooting at prom after-party,https://www.bbc.co.uk/news/world-us-canada-65372526,5,0.08,0.093,0.827,-0.7311,BBC,2023-04-24,20
+7,Matthew Perry to remove Keanu Reeves from memoir,https://www.bbc.co.uk/news/entertainment-arts-65372635,6,0.129,0.105,0.767,0.5006,BBC,2023-04-24,20
+8,What to know about Biden's 2024 campaign manager,https://www.bbc.co.uk/news/world-us-canada-65372527,7,0.084,0.046,0.87,0.9802,BBC,2023-04-24,20
+9,"Ukraine independence not in question, China says",https://www.bbc.co.uk/news/world-europe-65373191,8,0.062,0.071,0.867,-0.8062,BBC,2023-04-24,20
+10,Mass graves of starvation cult exposed in Kenya,https://www.bbc.co.uk/news/world-africa-65374093,9,0.056,0.111,0.833,-0.9925,BBC,2023-04-24,20
+1,"Tucker Carlson 'blindsided by Fox News firing that was a direct order from Rupert Murdoch after Jan 6 conspiracy claims and producer's lawsuit alleging bullying, sexism and anti-Semitism'
+",https://www.dailymail.co.uk/news/article-12008059/Tucker-Carlson-leave-Fox-News.html,0,0.055,0.088,0.856,-0.9928,Daily Mail,2023-04-24,20
+2,"Transgender activist warns women who try to stop her using their bathroom that 'it will be the last mistake you ever make' in chilling video urging LGBTQ people to buy guns
+",https://www.dailymail.co.uk/news/article-12005947/Trans-activist-warns-women-blocking-bathroom-mistake-make.html,1,0.076,0.109,0.816,-0.9956,Daily Mail,2023-04-24,20
+3,"This is how much you really need to earn to be considered middle class in America: Households in Cleveland, Ohio need to make at least $23,827 while in Fremont, California that threshold rises to $104,499 
+",https://www.dailymail.co.uk/news/article-11996499/This-really-need-earn-considered-middle-class-America.html,2,0.055,0.028,0.917,0.8675,Daily Mail,2023-04-24,20
+4,"Emmerdale and The Hunt for Raoul Moat star Dale Meeks dies age 47: Ant McPartlin and Declan Donnelly lead the tributes for 'loved and respected' actor whose career began in Byker Grove 
+",https://www.dailymail.co.uk/tvshowbiz/article-12005111/Emmerdale-star-Dale-Meeks-dies-age-47-tributes-pour-actor.html,3,0.135,0.07,0.795,0.992,Daily Mail,2023-04-24,20
+5,"Prince Harry will 'sit 10 rows back' from other royals at King Charles' coronation and will 'not hang around', expert claims
+",https://www.dailymail.co.uk/news/article-12005209/Prince-Harry-sit-10-rows-royals-King-Charles-coronation-expert-claims.html,4,0.035,0.084,0.881,-0.9925,Daily Mail,2023-04-24,20
+6,"Hidden detail in Bluey's theme song shocks Aussie parents: 'My kids are horrified I never noticed until now'
+",https://www.dailymail.co.uk/tvshowbiz/article-12005405/Hidden-Bluey-theme-song-shocks-Aussies.html,5,0.121,0.029,0.85,0.9879,Daily Mail,2023-04-24,20
+7,"CNN says Don Lemon's bitter statement after being fired is 'inaccurate' and claims they offered to meet him but HE chose not to - as the sexist anchor's behavior catches up to him 
+",https://www.dailymail.co.uk/news/article-12008221/Don-Lemon-FIRED-CNN.html,6,0.061,0.106,0.832,-0.9989,Daily Mail,2023-04-24,20
+8,"Up to 30,000 jobs at stake as Bed Bath & Beyond files for Chapter 11 bankruptcy and announces all 360 stores nationwide will eventually close - after last ditch bid to stay afloat failed 
+",https://www.dailymail.co.uk/news/article-12004291/Bed-Bath-files-Chapter-11-bankruptcy.html,7,0.107,0.078,0.815,0.987,Daily Mail,2023-04-24,20
+9,"Nicole Richie shares sweet snap of younger sister Sofia on her wedding day and pens a touching message: 'I love you more than anything'
+",https://www.dailymail.co.uk/tvshowbiz/article-12005073/Nicole-Richie-shares-sweet-photo-little-sister-Sofia-looking-gorgeous-lavish-wedding-day.html,8,0.153,0.011,0.837,0.9963,Daily Mail,2023-04-24,20
+10,"I'm a cellphone repair expert. These are the common mistakes that drain your battery - for iPhone, Android and Google handsets 
+",https://www.dailymail.co.uk/sciencetech/article-11998881/Im-cellphone-repair-expert-heres-big-charging-mistake-makes.html,9,0.11,0.1,0.79,0.9372,Daily Mail,2023-04-24,20
+1,"Tucker Carlson fired on Murdoch’s orders over discrimination lawsuit, report says – live",https://www.theguardian.com/us-news/live/2023/apr/24/biden-2024-election-debt-limit-trump-politics-live-updates,0,0.054,0.067,0.879,-0.9595,Guardian,2023-04-24,20
+2,Young people are wising up to the Great British student rip-off – and they’re voting with their feet,https://www.theguardian.com/commentisfree/2023/apr/24/young-people-british-student-universities-exams,1,0.077,0.067,0.856,0.9006,Guardian,2023-04-24,20
+3,Tucker Carlson leaves Fox News in surprise announcement,https://www.theguardian.com/media/2023/apr/24/tucker-carlson-leaving-fox-news,2,0.059,0.112,0.829,-0.9955,Guardian,2023-04-24,20
+4,Tottenham sack Stellini after Newcastle humiliation and turn to Mason,https://www.theguardian.com/football/2023/apr/24/tottenham-cristian-stellini-sacking-newcastle,3,0.076,0.084,0.84,-0.785,Guardian,2023-04-24,20
+5,British supermarkets report shortages of peppers as Morrisons rations sales,https://www.theguardian.com/business/2023/apr/24/british-supermarkets-shortages-peppers-morrisons-rations-sales,4,0.06,0.058,0.882,0.4369,Guardian,2023-04-24,20
+6,Which professions offer the best pay for the least amount of effort?,https://www.theguardian.com/lifeandstyle/2023/apr/23/which-professions-offer-the-best-pay-for-the-least-amount-of-effort,5,0.115,0.038,0.847,0.5859,Guardian,2023-04-24,20
+7,No more home makeovers! The horror show of renting in Britain finally comes to TV,https://www.theguardian.com/tv-and-radio/2023/apr/24/renting-britain-tv-evicted-help-my-home-is-disgusting,6,0.115,0.08,0.805,0.9936,Guardian,2023-04-24,20
+8,Far-right Britain First party given Twitter gold tick,https://www.theguardian.com/technology/2023/apr/24/far-right-britain-first-twitter-gold-tick,7,0.055,0.098,0.847,-0.9784,Guardian,2023-04-24,20
+9,Family of woman Levi Bellfield claims to have murdered say Met failed them,https://www.theguardian.com/uk-news/2023/apr/24/family-of-woman-levi-bellfield-claims-to-have-murdered-say-met-failed-them,8,0.043,0.14,0.817,-0.9989,Guardian,2023-04-24,20
+10,Bottom-fondling audacity: how did Lavinia Fontana get away with it?,https://www.theguardian.com/artanddesign/2023/apr/24/bottom-fondling-audacity-lavinia-fontana-nude,9,0.139,0.028,0.833,0.9995,Guardian,2023-04-24,20
