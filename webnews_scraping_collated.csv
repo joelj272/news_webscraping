@@ -3759,3 +3759,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘It’s traumatic’: new travellers’ Dorset home challenged by Martin Clunes,https://www.theguardian.com/uk-news/2023/apr/23/its-traumatic-new-travellers-dorset-home-challenged-by-martin-clunes,7,0.068,0.112,0.82,-0.9935,Guardian,2023-04-23,20
 9,Which professions offer the best pay for the least amount of effort?,https://www.theguardian.com/lifeandstyle/2023/apr/23/which-professions-offer-the-best-pay-for-the-least-amount-of-effort,8,0.115,0.038,0.847,0.5859,Guardian,2023-04-23,20
 10,"‘Four-time loser’ Trump may not be nominee for 2024, Republican insists",https://www.theguardian.com/us-news/2023/apr/23/trump-chris-sununu-republican-primary-2024,9,0.085,0.079,0.836,0.495,Guardian,2023-04-23,20
+1,£55bn withdrawn from Credit Suisse before rescue,https://www.bbc.co.uk/news/business-65370751,0,0.135,0.122,0.743,0.4783,BBC,2023-04-24,8
+2,Putin spokesman's son 'joined Wagner in Ukraine',https://www.bbc.co.uk/news/world-europe-65370222,1,0.077,0.072,0.851,0.6307,BBC,2023-04-24,8
+3,Dragon catches fire during Disneyland show,https://www.bbc.co.uk/news/world-us-canada-65370042,2,0.049,0.144,0.806,-0.9649,BBC,2023-04-24,8
+4,Wrexham's Ryan Reynolds fulfils fan's dying wish,https://www.bbc.co.uk/news/uk-wales-65365433,3,0.117,0.093,0.79,0.8873,BBC,2023-04-24,8
+5,Wrestlers seek chief's arrest over sexual abuse claims,https://www.bbc.co.uk/news/world-asia-india-65370658,4,0.039,0.154,0.807,-0.9928,BBC,2023-04-24,8
+6,NBCUniversal boss ousted after investigation,https://www.bbc.co.uk/news/business-65370382,5,0.062,0.046,0.892,0.57,BBC,2023-04-24,8
+7,Diplomats and foreign nationals evacuated from Sudan,https://www.bbc.co.uk/news/world-africa-65363586,6,0.051,0.108,0.841,-0.9893,BBC,2023-04-24,8
+8,Spain to exhume fascist leader Primo de Rivera,https://www.bbc.co.uk/news/world-europe-65370223,7,0.056,0.174,0.77,-0.9865,BBC,2023-04-24,8
+9,Australia buying more missiles to counter China,https://www.bbc.co.uk/news/world-australia-65370284,8,0.107,0.058,0.834,0.985,BBC,2023-04-24,8
+10,Activity snacking may help with blood sugar - study,https://www.bbc.co.uk/news/health-65349089,9,0.078,0.062,0.86,0.8564,BBC,2023-04-24,8
+1,"Up to 30,000 jobs at stake as Bed Bath & Beyond files for Chapter 11 bankruptcy and announces all 360 stores nationwide will eventually close - after last ditch bid to stay afloat failed 
+",https://www.dailymail.co.uk/news/article-12004291/Bed-Bath-files-Chapter-11-bankruptcy.html,0,0.107,0.078,0.815,0.987,Daily Mail,2023-04-24,8
+2,"An endless love! Sofia Richie shares a kiss with her new husband Elliot Grainge after being walked down the aisle by father Lionel during lavish wedding ceremony to the music executive in France
+",https://www.dailymail.co.uk/tvshowbiz/article-12004313/Sofia-Richie-shares-kiss-new-husband-Elliot-Grainge-lavish-wedding-ceremony.html,1,0.138,0.007,0.855,0.9994,Daily Mail,2023-04-24,8
+3,"This is how much you really need to earn to be considered middle class in America: Households in Cleveland, Ohio need to make at least $23,827 while in Fremont, California that threshold rises to $104,499 
+",https://www.dailymail.co.uk/news/article-11996499/This-really-need-earn-considered-middle-class-America.html,2,0.055,0.028,0.917,0.8675,Daily Mail,2023-04-24,8
+4,"EXCLUSIVE: I was sexually abused by male passenger sitting next to me throughout ten-hour Air Europa flight - but cabin crew shouted and hurled abuse at ME and my husband
+",https://www.dailymail.co.uk/news/article-11984775/I-sexually-abused-male-passenger-sitting-ten-hour-Air-Europa-flight.html,3,0.048,0.113,0.839,-0.9981,Daily Mail,2023-04-24,8
+5,"DEAR JANE: My selfish children are SUING me over their inheritance... I'm disgusted by their behavior but fear it's easier to give in? Top author Jane Green gives shrewd advice to a 70-year-old mother stuck in a horrible family feud 
+",https://www.dailymail.co.uk/femail/article-11994727/My-selfish-children-trying-SUE-inheritance.html,4,0.129,0.122,0.748,0.7538,Daily Mail,2023-04-24,8
+6,"Here comes the bride! Sofia Richie is walked down the aisle by father Lionel during lavish wedding ceremony to music executive Elliot Grainge in France as they continue the festivities that will surely have them dancing all night long
+",https://www.dailymail.co.uk/tvshowbiz/article-12002963/Sofia-Richie-dazzles-Chanel-gown-confirmed-Elliot-Grainge-tied-knot.html,5,0.127,0.007,0.866,0.999,Daily Mail,2023-04-24,8
+7,"Moment two new Utah houses with combined value of $2m slide down a CLIFF after being built on unstable ground, as sex therapist owner of one property sobs on seeing the ruins
+",https://www.dailymail.co.uk/news/article-12004655/Moment-two-Utah-houses-worth-combined-2m-slide-CLIFF-build-unstable-ground.html,6,0.061,0.111,0.828,-0.9804,Daily Mail,2023-04-24,8
+8,"Meghan says it's 'frankly ridiculous' that she's missing the coronation because of a letter she sent Charles over royal racism and 'unconscious bias' - after reports said she was unhappy with King Charles' response
+",https://www.dailymail.co.uk/news/article-12003541/Meghan-says-ridiculous-shes-missing-coronation-letter-sent-Charles.html,7,0.048,0.077,0.875,-0.9834,Daily Mail,2023-04-24,8
+9,"EXCLUSIVE: Face masks may raise risk of stillbirths, testicular dysfunction and cognitive decline due to build-up of carbon dioxide, study warns
+",https://www.dailymail.co.uk/health/article-11982039/Face-masks-raise-risk-stillbirths-testicular-issues-cognitive-decline-study-says.html,8,0.048,0.084,0.868,-0.9822,Daily Mail,2023-04-24,8
+10,"I'm a cellphone repair expert. These are the common mistakes that drain your battery - for iPhone, Android and Google handsets 
+",https://www.dailymail.co.uk/sciencetech/article-11998881/Im-cellphone-repair-expert-heres-big-charging-mistake-makes.html,9,0.11,0.1,0.79,0.9372,Daily Mail,2023-04-24,8
+1,CPS includes ‘love-bombing’ in guidance on abusive partners prosecution,https://www.theguardian.com/law/2023/apr/24/cps-includes-love-bombing-in-guidance-on-abusive-partners-prosecution,0,0.097,0.179,0.725,-0.988,Guardian,2023-04-24,8
+2,Which professions offer the best pay for the least amount of effort?,https://www.theguardian.com/lifeandstyle/2023/apr/23/which-professions-offer-the-best-pay-for-the-least-amount-of-effort,1,0.115,0.038,0.847,0.5859,Guardian,2023-04-24,8
+3,Emmerdale actor Dale Meeks dies aged 47,https://www.theguardian.com/tv-and-radio/2023/apr/23/emmerdale-actor-dale-meeks-dies-aged-47,2,0.134,0.087,0.78,0.9588,Guardian,2023-04-24,8
+4,I saw the UK through the eyes of my French in-laws - and it was deeply embarrassing,https://www.theguardian.com/commentisfree/2023/apr/23/saw-the-uk-through-the-eyes-of-my-french-in-laws-and-it-was-deeply-embarrassing,3,0.111,0.123,0.766,-0.7347,Guardian,2023-04-24,8
+5,‘I was projected as the sweet American girl next door. It wasn’t me’: Molly Ringwald bites back,https://www.theguardian.com/lifeandstyle/2023/apr/24/i-was-projected-as-the-sweet-american-girl-next-door-it-wasnt-me-molly-ringwald-bites-back,4,0.112,0.061,0.827,0.9988,Guardian,2023-04-24,8
+6,Descendants of UK slave owners call on government to apologise,https://www.theguardian.com/world/2023/apr/24/descendants-of-uk-slave-owners-call-on-government-to-apologise,5,0.103,0.08,0.817,0.7086,Guardian,2023-04-24,8
+7,UK medical bodies ‘gravely concerned’ over Rwanda deportation scheme,https://www.theguardian.com/politics/2023/apr/24/uk-medical-bodies-gravely-concerned-over-rwanda-deportation-scheme,6,0.075,0.048,0.877,0.9081,Guardian,2023-04-24,8
+8,Is this the way the world ends – or what passes for a nation coming together?,https://www.theguardian.com/politics/2023/apr/23/is-this-the-way-the-world-ends-or-what-passes-for-a-nation-coming-together,7,0.092,0.119,0.789,-0.9671,Guardian,2023-04-24,8
+9,BP facing green rebellion at annual shareholder meeting,https://www.theguardian.com/business/2023/apr/24/bp-facing-green-rebellion-annual-shareholder-meeting,8,0.092,0.045,0.863,0.9853,Guardian,2023-04-24,8
+10,‘It’s traumatic’: new travellers’ Dorset home challenged by Martin Clunes,https://www.theguardian.com/uk-news/2023/apr/23/its-traumatic-new-travellers-dorset-home-challenged-by-martin-clunes,9,0.068,0.112,0.82,-0.9935,Guardian,2023-04-24,8
