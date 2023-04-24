@@ -3799,3 +3799,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Is this the way the world ends – or what passes for a nation coming together?,https://www.theguardian.com/politics/2023/apr/23/is-this-the-way-the-world-ends-or-what-passes-for-a-nation-coming-together,7,0.092,0.119,0.789,-0.9671,Guardian,2023-04-24,8
 9,BP facing green rebellion at annual shareholder meeting,https://www.theguardian.com/business/2023/apr/24/bp-facing-green-rebellion-annual-shareholder-meeting,8,0.092,0.045,0.863,0.9853,Guardian,2023-04-24,8
 10,‘It’s traumatic’: new travellers’ Dorset home challenged by Martin Clunes,https://www.theguardian.com/uk-news/2023/apr/23/its-traumatic-new-travellers-dorset-home-challenged-by-martin-clunes,9,0.068,0.112,0.82,-0.9935,Guardian,2023-04-24,8
+1,Wrexham's Ryan Reynolds fulfils fan's dying wish,https://www.bbc.co.uk/news/uk-wales-65365433,0,0.117,0.093,0.79,0.8873,BBC,2023-04-24,12
+2,Ex-Strictly head judge Len Goodman dies at 78,https://www.bbc.co.uk/news/entertainment-arts-65373373,1,0.128,0.035,0.837,0.9966,BBC,2023-04-24,12
+3,£55bn withdrawn from Credit Suisse before rescue,https://www.bbc.co.uk/news/business-65370751,2,0.135,0.122,0.743,0.4783,BBC,2023-04-24,12
+4,Nine wounded in Texas shooting at prom after-party,https://www.bbc.co.uk/news/world-us-canada-65372526,3,0.08,0.093,0.827,-0.7311,BBC,2023-04-24,12
+5,Putin spokesman's son 'joined Wagner in Ukraine',https://www.bbc.co.uk/news/world-europe-65370222,4,0.077,0.072,0.851,0.6307,BBC,2023-04-24,12
+6,Wrestlers seek chief's arrest over sexual abuse claims,https://www.bbc.co.uk/news/world-asia-india-65370658,5,0.039,0.154,0.807,-0.9928,BBC,2023-04-24,12
+7,Spain to exhume fascist leader Primo de Rivera,https://www.bbc.co.uk/news/world-europe-65370223,6,0.056,0.174,0.77,-0.9865,BBC,2023-04-24,12
+8,Dragon catches fire during Disneyland show,https://www.bbc.co.uk/news/world-us-canada-65370042,7,0.049,0.144,0.806,-0.9649,BBC,2023-04-24,12
+9,Fifa no more? EA Sports rebrands its biggest game,https://www.bbc.co.uk/news/entertainment-arts-65244351,8,0.14,0.014,0.846,0.999,BBC,2023-04-24,12
+10,Second cheetah brought to India from Africa dies,https://www.bbc.co.uk/news/world-asia-india-65370700,9,0.032,0.057,0.911,-0.8674,BBC,2023-04-24,12
+1,"Up to 30,000 jobs at stake as Bed Bath & Beyond files for Chapter 11 bankruptcy and announces all 360 stores nationwide will eventually close - after last ditch bid to stay afloat failed 
+",https://www.dailymail.co.uk/news/article-12004291/Bed-Bath-files-Chapter-11-bankruptcy.html,0,0.107,0.078,0.815,0.987,Daily Mail,2023-04-24,12
+2,"An endless love! Sofia Richie shares a kiss with her new husband Elliot Grainge after being walked down the aisle by father Lionel during lavish wedding ceremony to the music executive in France
+",https://www.dailymail.co.uk/tvshowbiz/article-12004313/Sofia-Richie-shares-kiss-new-husband-Elliot-Grainge-lavish-wedding-ceremony.html,1,0.138,0.007,0.855,0.9994,Daily Mail,2023-04-24,12
+3,"This is how much you really need to earn to be considered middle class in America: Households in Cleveland, Ohio need to make at least $23,827 while in Fremont, California that threshold rises to $104,499 
+",https://www.dailymail.co.uk/news/article-11996499/This-really-need-earn-considered-middle-class-America.html,2,0.055,0.028,0.917,0.8675,Daily Mail,2023-04-24,12
+4,"EXCLUSIVE: I was sexually abused by male passenger sitting next to me throughout ten-hour Air Europa flight - but cabin crew shouted and hurled abuse at ME and my husband
+",https://www.dailymail.co.uk/news/article-11984775/I-sexually-abused-male-passenger-sitting-ten-hour-Air-Europa-flight.html,3,0.048,0.113,0.839,-0.9981,Daily Mail,2023-04-24,12
+5,"DEAR JANE: My selfish children are SUING me over their inheritance... I'm disgusted by their behavior but fear it's easier to give in? Top author Jane Green gives shrewd advice to a 70-year-old mother stuck in a horrible family feud 
+",https://www.dailymail.co.uk/femail/article-11994727/My-selfish-children-trying-SUE-inheritance.html,4,0.129,0.122,0.748,0.7538,Daily Mail,2023-04-24,12
+6,"Moment two new Utah houses with combined value of $2m slide down a CLIFF after being built on unstable ground, as sex therapist owner of one property sobs on seeing the ruins
+",https://www.dailymail.co.uk/news/article-12004655/Moment-two-Utah-houses-worth-combined-2m-slide-CLIFF-build-unstable-ground.html,5,0.061,0.111,0.828,-0.9804,Daily Mail,2023-04-24,12
+7,"Emmerdale and The Hunt for Raoul Moat star Dale Meeks dies age 47: Ant McPartlin and Declan Donnelly lead the tributes for 'loved and respected' actor whose career began in Byker Grove 
+",https://www.dailymail.co.uk/tvshowbiz/article-12005111/Emmerdale-star-Dale-Meeks-dies-age-47-tributes-pour-actor.html,6,0.135,0.07,0.795,0.992,Daily Mail,2023-04-24,12
+8,"I'm a cellphone repair expert. These are the common mistakes that drain your battery - for iPhone, Android and Google handsets 
+",https://www.dailymail.co.uk/sciencetech/article-11998881/Im-cellphone-repair-expert-heres-big-charging-mistake-makes.html,7,0.11,0.1,0.79,0.9372,Daily Mail,2023-04-24,12
+9,"EXCLUSIVE: Face masks may raise risk of stillbirths, testicular dysfunction and cognitive decline due to build-up of carbon dioxide, study warns
+",https://www.dailymail.co.uk/health/article-11982039/Face-masks-raise-risk-stillbirths-testicular-issues-cognitive-decline-study-says.html,8,0.048,0.084,0.868,-0.9822,Daily Mail,2023-04-24,12
+10,"Prince Harry will 'sit 10 rows back' from other royals at King Charles' coronation and will 'not hang around', expert claims
+",https://www.dailymail.co.uk/news/article-12005209/Prince-Harry-sit-10-rows-royals-King-Charles-coronation-expert-claims.html,9,0.035,0.084,0.881,-0.9925,Daily Mail,2023-04-24,12
+1,Former Strictly Come Dancing judge Len Goodman dies aged 78,https://www.theguardian.com/tv-and-radio/2023/apr/24/len-goodman-former-strictly-come-dancing-judge-dies,0,0.205,0.058,0.737,0.999,Guardian,2023-04-24,12
+2,Descendants of UK slave owners call on government to apologise,https://www.theguardian.com/world/2023/apr/24/descendants-of-uk-slave-owners-call-on-government-to-apologise,1,0.1,0.078,0.823,0.7086,Guardian,2023-04-24,12
+3,"Labour officials will decide on Diane Abbott’s future, says shadow minister",https://www.theguardian.com/politics/2023/apr/24/labour-officials-will-decide-on-diane-abbott-future-says-shadow-minister-letter,2,0.107,0.109,0.784,-0.8058,Guardian,2023-04-24,12
+4,Which professions offer the best pay for the least amount of effort?,https://www.theguardian.com/lifeandstyle/2023/apr/23/which-professions-offer-the-best-pay-for-the-least-amount-of-effort,3,0.115,0.038,0.847,0.5859,Guardian,2023-04-24,12
+5,"Starmer condemns Diane Abbott comments, saying they were antisemitic and ‘hierarchy of racism’ never acceptable – UK politics live",https://www.theguardian.com/politics/live/2023/apr/24/rishi-sunak-keir-starmer-james-cleverly-diane-abbott-huma-yousaf-uk-politics-live-latest,4,0.093,0.072,0.835,0.9942,Guardian,2023-04-24,12
+6,Proclaimers song removed from king’s coronation playlist over anti-royal views,https://www.theguardian.com/uk-news/2023/apr/24/the-proclaimers-song-im-gonna-be-removed-coronation-playlist-anti-royal-views,5,0.099,0.079,0.822,0.8689,Guardian,2023-04-24,12
+7,Boba Fett actor’s Star Wars memorabilia goes up for auction,https://www.theguardian.com/film/2023/apr/24/boba-fett-actor-star-wars-memorabilia-auction,6,0.044,0.061,0.895,-0.8834,Guardian,2023-04-24,12
+8,The hell of somniphobia: ‘On a bad night I get zero to two hours’ sleep’,https://www.theguardian.com/lifeandstyle/2023/apr/24/somniphobia-fear-of-falling-asleep-causes-treatments,7,0.064,0.141,0.795,-0.9992,Guardian,2023-04-24,12
+9,"‘We all want to be Steve McQueen’: Gary Lineker on his MotD style, baggy jeans and who’ll win the league ",https://www.theguardian.com/fashion/2023/apr/24/we-all-want-to-be-steve-mcqueen-gary-lineker-on-his-motd-style-baggy-jeans-and-wholl-win-the-league,8,0.164,0.041,0.795,0.9995,Guardian,2023-04-24,12
+10,Premier League and FA Cup: 10 talking points from the weekend action,https://www.theguardian.com/football/2023/apr/24/premier-league-fa-cup-10-talking-points-from-the-weekend-action,9,0.123,0.098,0.779,0.9918,Guardian,2023-04-24,12
