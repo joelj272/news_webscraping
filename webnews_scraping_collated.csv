@@ -3879,3 +3879,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Far-right Britain First party given Twitter gold tick,https://www.theguardian.com/technology/2023/apr/24/far-right-britain-first-twitter-gold-tick,7,0.055,0.098,0.847,-0.9784,Guardian,2023-04-24,20
 9,Family of woman Levi Bellfield claims to have murdered say Met failed them,https://www.theguardian.com/uk-news/2023/apr/24/family-of-woman-levi-bellfield-claims-to-have-murdered-say-met-failed-them,8,0.043,0.14,0.817,-0.9989,Guardian,2023-04-24,20
 10,Bottom-fondling audacity: how did Lavinia Fontana get away with it?,https://www.theguardian.com/artanddesign/2023/apr/24/bottom-fondling-audacity-lavinia-fontana-nude,9,0.139,0.028,0.833,0.9995,Guardian,2023-04-24,20
+1,CNN anchor furious after being sacked,https://www.bbc.co.uk/news/world-us-canada-65380349,0,0.073,0.066,0.861,0.8674,BBC,2023-04-25,8
+2,Trump faces trial for advice columnist's rape claim,https://www.bbc.co.uk/news/world-us-canada-65381515,1,0.046,0.115,0.839,-0.9949,BBC,2023-04-25,8
+3,Unexplained ocean warming alarms scientists,https://www.bbc.co.uk/news/science-environment-65339934,2,0.094,0.05,0.856,0.9888,BBC,2023-04-25,8
+4,Mob burns suspected gang members to death in Haiti,https://www.bbc.co.uk/news/world-latin-america-65381624,3,0.038,0.144,0.818,-0.9815,BBC,2023-04-25,8
+5,Tucker Carlson leaves Fox News,https://www.bbc.co.uk/news/world-us-canada-65379340,4,0.085,0.07,0.845,0.9402,BBC,2023-04-25,8
+6,First Republic Bank reveals over $100bn withdrawn,https://www.bbc.co.uk/news/business-65382231,5,0.062,0.094,0.844,-0.9256,BBC,2023-04-25,8
+7,Singapore to execute man over cannabis charge,https://www.bbc.co.uk/news/world-asia-65345240,6,0.072,0.111,0.817,-0.9775,BBC,2023-04-25,8
+8,Secret Iran body 'punished dissenting celebrities',https://www.bbc.co.uk/news/world-middle-east-65373847,7,0.076,0.086,0.838,-0.6124,BBC,2023-04-25,8
+9,Ukraine sets up positions across river in Kherson,https://www.bbc.co.uk/news/world-europe-65379229,8,0.071,0.072,0.856,-0.128,BBC,2023-04-25,8
+10,Warring sides agree to ceasefire in Sudan,https://www.bbc.co.uk/news/world-africa-65380154,9,0.04,0.137,0.822,-0.9978,BBC,2023-04-25,8
+1,"Tucker Carlson 'blindsided by Fox News firing that was a direct order from Rupert Murdoch after Jan 6 conspiracy claims and producer's lawsuit alleging bullying, sexism and anti-Semitism' - and his exit erases $500M in value
+",https://www.dailymail.co.uk/news/article-12008059/Tucker-Carlson-leave-Fox-News.html,0,0.056,0.088,0.856,-0.9928,Daily Mail,2023-04-25,8
+2,"American fugitive Nicholas Rossi who faked his own death and fled to UK to avoid rape charge steams his glasses up with rage, as he tells Dateline he can't walk while insisting he's Brit called Arthur Knight
+",https://www.dailymail.co.uk/news/article-11999255/Rhode-Island-fugitive-Nicholas-Rossi-steams-glasses-furious-Dateline-interview.html,1,0.036,0.173,0.791,-0.9998,Daily Mail,2023-04-25,8
+3,"EXCLUSIVE: Canadian actor, 22, dies after spending $220,000 on TWELVE plastic surgeries to play BTS's KPOP star Jimin for upcoming US drama
+",https://www.dailymail.co.uk/news/article-12007677/Canadian-actor-dies-spending-220-000-TWELVE-plastic-surgeries-play-BTSs-KPOP-Jimin.html,2,0.05,0.069,0.881,-0.7454,Daily Mail,2023-04-25,8
+4,"CNN says Don Lemon's bitter statement after being fired is 'inaccurate' and claims they offered to meet him but HE chose not to - as the sexist anchor's behavior catches up to him 
+",https://www.dailymail.co.uk/news/article-12008221/Don-Lemon-FIRED-CNN.html,3,0.061,0.106,0.832,-0.9989,Daily Mail,2023-04-25,8
+5,"Boss of Bud Light marketing exec is ALSO placed on leave after backlash over partnership with trans influencer Dylan Mulvaney
+",https://www.dailymail.co.uk/news/article-12007579/Second-Bud-Light-marketing-executive-placed-leave-Dylan-Mulvaney-debacle.html,4,0.122,0.052,0.826,0.9971,Daily Mail,2023-04-25,8
+6,"Tucker Carlson RECAP: Fox host's role in Dominion lawsuit was 'pivotal' to his demise - as he lawyers up and 'hires fierce entertainment attorney'
+",https://www.dailymail.co.uk/news/article-12008093/TUCKER-CARLSON-LIVEBLOG-updates.html,5,0.069,0.048,0.883,0.8815,Daily Mail,2023-04-25,8
+7,"EXCLUSIVE: Demi Moore's final glam shot before her G.I. Jane buzzcut, Sharon Stone with fake ice and Kim Kardashian's unretouched snaps: Playboy photographer Stephen Wayda lifts the lid on stories behind his most iconic shoots
+",https://www.dailymail.co.uk/news/article-11996669/Stephen-Wayda-lifts-lid-iconic-Playboy-shoots.html,6,0.105,0.051,0.844,0.9986,Daily Mail,2023-04-25,8
+8,"Transgender activist warns women who try to stop her using their bathroom that 'it will be the last mistake you ever make' in chilling video urging LGBTQ people to buy guns
+",https://www.dailymail.co.uk/news/article-12005947/Trans-activist-warns-women-blocking-bathroom-mistake-make.html,7,0.076,0.109,0.816,-0.9956,Daily Mail,2023-04-25,8
+9,"Meghan breaks cover after insisting she has moved on amid Coronation row: Duchess of Sussex pays tribute to photographer friend Misan Harriman saying he has 'captured many meaningful milestones for me and my family' 
+",https://www.dailymail.co.uk/news/article-12006323/Meghan-Markle-emerges-friends-insist-moved-race-row.html,8,0.05,0.081,0.869,-0.9929,Daily Mail,2023-04-25,8
+10,"'You should call the show RECORDED with Kelly and Mark!' 'Lazy' Kelly Ripa and Mark Consuelos face MORE fury from Live viewers as they air THIRD pre-recorded episode in a row - ending their first week with five-day weekend
+",https://www.dailymail.co.uk/femail/article-12007565/Live-Kelly-Mark-viewers-SLAM-new-hosts-air-pre-recorded-episode-row.html,9,0.042,0.073,0.885,-0.969,Daily Mail,2023-04-25,8
+1,I was the sole survivor of a plane crash. This is what I learned in eight days alone in the jungle,https://www.theguardian.com/lifeandstyle/2023/apr/25/how-we-survive-i-was-the-sole-survivor-of-a-plane-crash,0,0.084,0.111,0.805,-0.9971,Guardian,2023-04-25,8
+2,Young people are wising up to the Great British student rip-off – and they’re voting with their feet,https://www.theguardian.com/commentisfree/2023/apr/24/young-people-british-student-universities-exams,1,0.077,0.067,0.856,0.9006,Guardian,2023-04-25,8
+3,Use of antibiotics in farming ‘endangering human immune system’,https://www.theguardian.com/society/2023/apr/25/use-of-antibiotics-in-farming-endangering-human-immune-system,2,0.076,0.096,0.828,-0.9752,Guardian,2023-04-25,8
+4,Traffic congestion and rail closures to disrupt UK bank holiday travel,https://www.theguardian.com/uk-news/2023/apr/25/traffic-congestion-and-rail-closures-to-disrupt-uk-bank-holiday-travel,3,0.088,0.047,0.865,0.9722,Guardian,2023-04-25,8
+5,Tucker Carlson leaves Fox News – reportedly fired by Rupert Murdoch,https://www.theguardian.com/media/2023/apr/24/tucker-carlson-leaving-fox-news,4,0.058,0.109,0.833,-0.9954,Guardian,2023-04-25,8
+6,Sunak urged to condemn ‘invective against civil service’ unleashed by Raab ,https://www.theguardian.com/politics/2023/apr/25/rishi-sunak-urged-to-condemn-invective-against-civil-service-unleashed-by-dominic-raab,5,0.048,0.103,0.849,-0.9926,Guardian,2023-04-25,8
+7,No more home makeovers! The horror show of renting in Britain finally comes to TV,https://www.theguardian.com/tv-and-radio/2023/apr/24/renting-britain-tv-evicted-help-my-home-is-disgusting,6,0.115,0.08,0.805,0.9936,Guardian,2023-04-25,8
+8,"Russia-Ukraine war live: Russia’s casualty rate falling as it prepares for Ukrainian offensive, says UK",https://www.theguardian.com/world/live/2023/apr/25/russia-ukraine-war-live-risk-of-conflict-between-major-powers-at-historic-high-says-un-chief,7,0.078,0.154,0.768,-0.9998,Guardian,2023-04-25,8
+9,Labour to use tactic that finished off Truss to force Tories into sewage vote,https://www.theguardian.com/politics/2023/apr/24/labour-to-use-tactic-that-finished-off-truss-to-force-tories-into-sewage-vote,8,0.072,0.076,0.852,-0.2846,Guardian,2023-04-25,8
+10,"Election greeters mean voter ID impact may not be known, Labour says",https://www.theguardian.com/politics/2023/apr/25/election-greeters-mean-voter-id-impact-may-not-be-known-labour-says,9,0.033,0.045,0.923,-0.7272,Guardian,2023-04-25,8
