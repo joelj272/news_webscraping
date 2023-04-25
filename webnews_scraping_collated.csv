@@ -3919,3 +3919,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Russia-Ukraine war live: Russia’s casualty rate falling as it prepares for Ukrainian offensive, says UK",https://www.theguardian.com/world/live/2023/apr/25/russia-ukraine-war-live-risk-of-conflict-between-major-powers-at-historic-high-says-un-chief,7,0.078,0.154,0.768,-0.9998,Guardian,2023-04-25,8
 9,Labour to use tactic that finished off Truss to force Tories into sewage vote,https://www.theguardian.com/politics/2023/apr/24/labour-to-use-tactic-that-finished-off-truss-to-force-tories-into-sewage-vote,8,0.072,0.076,0.852,-0.2846,Guardian,2023-04-25,8
 10,"Election greeters mean voter ID impact may not be known, Labour says",https://www.theguardian.com/politics/2023/apr/25/election-greeters-mean-voter-id-impact-may-not-be-known-labour-says,9,0.033,0.045,0.923,-0.7272,Guardian,2023-04-25,8
+1,US woman arrested in Sydney airport with golden gun,https://www.bbc.co.uk/news/world-australia-65389727,0,0.041,0.11,0.849,-0.9664,BBC,2023-04-25,20
+2,"King tried to stop Harry's hacking claim, court hears",https://www.bbc.co.uk/news/uk-65387663,1,0.069,0.084,0.847,-0.9075,BBC,2023-04-25,20
+3,Barbie with Down's syndrome on sale after criticism,https://www.bbc.co.uk/news/business-65388131,2,0.08,0.022,0.898,0.9782,BBC,2023-04-25,20
+4,Tobacco giant to pay $635m for selling to North Korea,https://www.bbc.co.uk/news/world-us-canada-65393223,3,0.066,0.091,0.843,-0.8934,BBC,2023-04-25,20
+5,Unexplained ocean warming alarms scientists,https://www.bbc.co.uk/news/science-environment-65339934,4,0.09,0.052,0.858,0.9863,BBC,2023-04-25,20
+6,Biden v Trump: The sequel few Americans want to see,https://www.bbc.co.uk/news/world-us-canada-65389136,5,0.11,0.081,0.81,0.9793,BBC,2023-04-25,20
+7,Wagner deserter admits Norway bar brawl,https://www.bbc.co.uk/news/world-europe-65389729,6,0.042,0.235,0.723,-0.9992,BBC,2023-04-25,20
+8,CNN anchor furious after being sacked,https://www.bbc.co.uk/news/world-us-canada-65380349,7,0.072,0.059,0.869,0.911,BBC,2023-04-25,20
+9,Pioneering singer and campaigner Belafonte dies aged 96,https://www.bbc.co.uk/news/entertainment-arts-65390525,8,0.158,0.055,0.786,0.9994,BBC,2023-04-25,20
+10,How Tucker Carlson rode a wave of populist outrage,https://www.bbc.co.uk/news/world-us-canada-65381815,9,0.089,0.122,0.789,-0.9929,BBC,2023-04-25,20
+1,"American fugitive Nicholas Rossi who faked his own death and fled to UK to avoid rape charge steams his glasses up with rage, as he tells Dateline he can't walk while insisting he's Brit called Arthur Knight
+",https://www.dailymail.co.uk/news/article-11999255/Rhode-Island-fugitive-Nicholas-Rossi-steams-glasses-furious-Dateline-interview.html,0,0.036,0.173,0.791,-0.9998,Daily Mail,2023-04-25,20
+2,"Tucker Carlson 'blindsided by Fox News firing that was a direct order from Rupert Murdoch after Jan 6 conspiracy claims and producer's lawsuit alleging bullying, sexism and anti-Semitism' - and his exit erases $500M in value
+",https://www.dailymail.co.uk/news/article-12008059/Tucker-Carlson-leave-Fox-News.html,1,0.056,0.088,0.856,-0.9928,Daily Mail,2023-04-25,20
+3,"EXCLUSIVE: Canadian actor, 22, dies after spending $220,000 on TWELVE plastic surgeries to play BTS's KPOP star Jimin for upcoming US drama
+",https://www.dailymail.co.uk/news/article-12007677/Canadian-actor-dies-spending-220-000-TWELVE-plastic-surgeries-play-BTSs-KPOP-Jimin.html,2,0.05,0.069,0.881,-0.7454,Daily Mail,2023-04-25,20
+4,"Moment 'gang members' beg for mercy before vigilante lynch mob stones them and burns them alive among petrol-soaked tyres in the streets in Haiti
+",https://www.dailymail.co.uk/news/article-12011009/Haiti-Gang-members-beg-mercy-vigilante-lynch-mob-stones-burns-alive.html,3,0.061,0.152,0.788,-0.9993,Daily Mail,2023-04-25,20
+5,"Moment giggling Meghan swerves Prince Harry's advances as he leans in for a kiss then grimaces as pair flash up on big screen at LA basketball game
+",https://www.dailymail.co.uk/news/article-12010109/Prince-Harry-Meghan-Markle-laugh-smile-awkwardly-theyre-spotted-LA-basketball-game.html,4,0.076,0.081,0.844,-0.6598,Daily Mail,2023-04-25,20
+6,"'You should call the show RECORDED with Kelly and Mark!' 'Lazy' Kelly Ripa and Mark Consuelos face MORE fury from Live viewers as they air THIRD pre-recorded episode in a row - ending their first week with five-day weekend
+",https://www.dailymail.co.uk/femail/article-12007565/Live-Kelly-Mark-viewers-SLAM-new-hosts-air-pre-recorded-episode-row.html,5,0.042,0.073,0.885,-0.969,Daily Mail,2023-04-25,20
+7,"The final straw? Don Lemon left CNN execs 'exasperated' after opinionated interview with presidential candidate Vivek Ramaswamy and insiders fear his antics on social media about 'larger issues at play' indicate he will SUE
+",https://www.dailymail.co.uk/news/article-12009093/Don-Lemon-left-CNN-execs-exasperated-opinionated-interview-insiders-fear-hell-SUE.html,6,0.062,0.142,0.796,-0.9991,Daily Mail,2023-04-25,20
+8,"Tucker Carlson RECAP: Fox host's role in Dominion lawsuit was 'pivotal' to his demise - as he lawyers up and 'hires fierce entertainment attorney'
+",https://www.dailymail.co.uk/news/article-12008093/TUCKER-CARLSON-LIVEBLOG-updates.html,7,0.069,0.048,0.883,0.8815,Daily Mail,2023-04-25,20
+9,"'Blindsided' Tucker Carlson 'still has been given NO reason why he was FIRED' and speculation is rife Rupert Murdoch wants to SELL Fox News but would find it 'harder with firebrand host as the network's main star'
+",https://www.dailymail.co.uk/news/article-12009417/Blindsided-Tucker-Carlson-given-NO-reason-FIRED.html,8,0.069,0.121,0.811,-0.9983,Daily Mail,2023-04-25,20
+10,"San Francisco Target store locks its entire product range behind security glass as crime spirals out of control
+",https://www.dailymail.co.uk/news/article-12006729/San-Francisco-Target-store-locks-entire-product-range-security-glass.html,9,0.058,0.149,0.792,-0.9995,Daily Mail,2023-04-25,20
+1,"Britons ‘need to accept’ they’re poorer, says Bank of England economist",https://www.theguardian.com/business/2023/apr/25/britons-need-to-accept-theyre-poorer-says-bank-of-england-economist,0,0.061,0.09,0.849,-0.9806,Guardian,2023-04-25,20
+2,‘Thrown under the bus’: Melanie Sykes says she quit TV after bad treatment by industry,https://www.theguardian.com/tv-and-radio/2023/apr/25/how-melanie-sykes-quit-tv-after-bad-treatment-by-men,1,0.089,0.117,0.794,-0.9898,Guardian,2023-04-25,20
+3,Murdoch firm ‘paid secret phone-hacking settlement to Prince William’,https://www.theguardian.com/uk-news/2023/apr/25/prince-william-murdoch-phone-hacking-claims-court-filings-prince-harry,2,0.055,0.12,0.824,-0.9976,Guardian,2023-04-25,20
+4,"Charles undermined late queen’s plan to sue News UK, Prince Harry tells court",https://www.theguardian.com/uk-news/2023/apr/25/charles-undermined-late-queens-plan-to-sue-news-uk-murdoch-sun-prince-harry-tells-court,3,0.063,0.08,0.857,-0.9839,Guardian,2023-04-25,20
+5,Coffey muddies the waters as Tories wash their hands of sewage scandal,https://www.theguardian.com/politics/2023/apr/25/coffey-muddies-the-waters-as-tories-wash-their-hands-of-sewage-scandal,4,0.107,0.097,0.795,0.9018,Guardian,2023-04-25,20
+6,Poland has changed beyond recognition – and so has its place in Europe’s pecking order,https://www.theguardian.com/commentisfree/2023/apr/25/poland-change-europe-high-achievers-country,5,0.105,0.067,0.828,0.9965,Guardian,2023-04-25,20
+7,‘Look the monster in the eye!’ 11 things I learned from Matthew McConaughey last night,https://www.theguardian.com/lifeandstyle/2023/apr/25/look-the-monster-in-the-eye-11-things-i-learned-from-matthew-mcconaughey-last-night,6,0.136,0.085,0.78,0.9987,Guardian,2023-04-25,20
+8,Civil service boss attempts to delay Sue Gray’s start as Labour chief of staff,https://www.theguardian.com/politics/2023/apr/25/civil-service-boss-attempts-to-delay-sue-grays-start-as-labour-chief-of-staff,7,0.039,0.074,0.888,-0.9829,Guardian,2023-04-25,20
+9,"Harry Belafonte, singer, actor and tireless activist, dies aged 96",https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist,8,0.098,0.069,0.834,0.9889,Guardian,2023-04-25,20
+10,Leeds United v Leicester City: Premier League – live,https://www.theguardian.com/football/live/2023/apr/25/leeds-united-v-leicester-city-premier-league-live-score-updates,9,0.138,0.059,0.803,0.9997,Guardian,2023-04-25,20
