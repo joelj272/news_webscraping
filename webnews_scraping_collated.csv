@@ -3959,3 +3959,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Civil service boss attempts to delay Sue Gray’s start as Labour chief of staff,https://www.theguardian.com/politics/2023/apr/25/civil-service-boss-attempts-to-delay-sue-grays-start-as-labour-chief-of-staff,7,0.039,0.074,0.888,-0.9829,Guardian,2023-04-25,20
 9,"Harry Belafonte, singer, actor and tireless activist, dies aged 96",https://www.theguardian.com/music/2023/apr/25/harry-belafonte-singer-dies-actor-singer-activist,8,0.098,0.069,0.834,0.9889,Guardian,2023-04-25,20
 10,Leeds United v Leicester City: Premier League – live,https://www.theguardian.com/football/live/2023/apr/25/leeds-united-v-leicester-city-premier-league-live-score-updates,9,0.138,0.059,0.803,0.9997,Guardian,2023-04-25,20
+1,Biden aide gaffe leads to campaign clarification,https://www.bbc.co.uk/news/world-us-canada-65394456,0,0.027,0.07,0.903,-0.9623,BBC,2023-04-26,8
+2,Taliban kill IS leader behind Kabul airport bombing,https://www.bbc.co.uk/news/world-us-canada-65382277,1,0.066,0.204,0.73,-0.9991,BBC,2023-04-26,8
+3,Singapore executes man for supplying cannabis,https://www.bbc.co.uk/news/world-asia-65395390,2,0.077,0.208,0.715,-0.9993,BBC,2023-04-26,8
+4,Norway chastises Sweden after rocket goes awry,https://www.bbc.co.uk/news/world-europe-65394912,3,0.04,0.082,0.878,-0.9493,BBC,2023-04-26,8
+5,Freddie Mercury's personal possessions to be auctioned,https://www.bbc.co.uk/news/entertainment-arts-65375583,4,0.091,0.038,0.871,0.9913,BBC,2023-04-26,8
+6,Ukraine rapidly expanding its 'Army of Drones',https://www.bbc.co.uk/news/technology-65389215,5,0.078,0.065,0.857,0.6956,BBC,2023-04-26,8
+7,India anger over 'racist' German magazine cartoon,https://www.bbc.co.uk/news/world-asia-india-65395860,6,0.037,0.114,0.849,-0.9726,BBC,2023-04-26,8
+8,Ed Sheeran appears in court for copyright trial,https://www.bbc.co.uk/news/world-us-canada-65394202,7,0.055,0.058,0.887,0.5006,BBC,2023-04-26,8
+9,Tobacco giant to pay $635m for selling to North Korea,https://www.bbc.co.uk/news/world-us-canada-65393223,8,0.066,0.091,0.843,-0.8934,BBC,2023-04-26,8
+10,Unexplained ocean warming alarms scientists,https://www.bbc.co.uk/news/science-environment-65339934,9,0.09,0.052,0.858,0.9863,BBC,2023-04-26,8
+1,"A new Barbie Girl! Mattel releases its first ever doll with Down's syndrome
+",https://www.dailymail.co.uk/femail/article-12010727/Mattel-releases-Barbie-Downs-syndrome.html,0,0.117,0.017,0.866,0.9979,Daily Mail,2023-04-26,8
+2,"Moment 'gang members' beg for mercy before vigilante lynch mob stones them and burns them alive among petrol-soaked tyres in the streets in Haiti
+",https://www.dailymail.co.uk/news/article-12011009/Haiti-Gang-members-beg-mercy-vigilante-lynch-mob-stones-burns-alive.html,1,0.061,0.152,0.788,-0.9993,Daily Mail,2023-04-26,8
+3,"EXCLUSIVE: Knives out for Nick and Vanessa. Netflix courts married Love is Blind couple Lauren Speed and Cameron Hamilton to host the show after viewers slammed the Lacheys for their 'cringy' reunion performance
+",https://www.dailymail.co.uk/news/article-12007847/Netflix-courts-Love-Blind-couple-Lauren-Speed-Cameron-Hamilton-replace-Lacheys-show.html,2,0.15,0.051,0.799,0.9992,Daily Mail,2023-04-26,8
+4,"American fugitive Nicholas Rossi who faked his own death and fled to UK to avoid rape charge steams his glasses up with rage, as he tells Dateline he can't walk while insisting he's Brit called Arthur Knight
+",https://www.dailymail.co.uk/news/article-11999255/Rhode-Island-fugitive-Nicholas-Rossi-steams-glasses-furious-Dateline-interview.html,3,0.036,0.173,0.791,-0.9998,Daily Mail,2023-04-26,8
+5,"EXCLUSIVE: Prison-bound fraudster Elizabeth Holmes is seen on a stroll with her fiancé, son, and newborn daughter Invicta, as she spends her last days of freedom at $9million San Diego beachside mansion before starting 11-year sentence
+",https://www.dailymail.co.uk/news/article-11999945/Elizabeth-Holmes-seen-fianc-son-newborn-daughter-Invicta-ahead-prison-sentence.html,4,0.08,0.111,0.809,-0.9949,Daily Mail,2023-04-26,8
+6,"Lip readers reveal words exchanged between Meghan and Harry at LA basketball game before cameras caught the moment she swerved Duke's advances
+",https://www.dailymail.co.uk/news/article-12011633/Lip-readers-reveals-words-exchanged-Meghan-Harry-LA-basketball-game.html,5,0.081,0.039,0.88,0.9921,Daily Mail,2023-04-26,8
+7,"Putin sends his 'invisible' T-14 Armata tanks into battle in Ukraine for the first time after Britain said using 'poor condition' fleet was 'high risk' for Russia 
+",https://www.dailymail.co.uk/news/article-12010121/Russias-new-T-14-Armata-battle-tank-debuts-Ukraine-RIA.html,6,0.049,0.109,0.842,-0.99,Daily Mail,2023-04-26,8
+8,"United flight turns back to NYC after three hours when passenger got into screaming match with crew because he wanted to sit on seat for air stewards
+",https://www.dailymail.co.uk/news/article-12011511/United-Airlines-flight-Israel-turns-three-hours-flight.html,7,0.063,0.079,0.858,-0.866,Daily Mail,2023-04-26,8
+9,"Moment giggling Meghan swerves Prince Harry's advances as he leans in for a kiss then grimaces as pair flash up on big screen at LA basketball game
+",https://www.dailymail.co.uk/news/article-12010109/Prince-Harry-Meghan-Markle-laugh-smile-awkwardly-theyre-spotted-LA-basketball-game.html,8,0.076,0.081,0.844,-0.6598,Daily Mail,2023-04-26,8
+10,"EXCLUSIVE: Canadian actor, 22, dies after spending $220,000 on TWELVE plastic surgeries to play BTS's KPOP star Jimin for upcoming US drama
+",https://www.dailymail.co.uk/news/article-12007677/Canadian-actor-dies-spending-220-000-TWELVE-plastic-surgeries-play-BTSs-KPOP-Jimin.html,9,0.05,0.069,0.881,-0.7454,Daily Mail,2023-04-26,8
+1,‘Thrown under the bus’: Melanie Sykes says she quit TV after bad treatment by industry,https://www.theguardian.com/tv-and-radio/2023/apr/25/how-melanie-sykes-quit-tv-after-bad-treatment-by-men,0,0.089,0.117,0.794,-0.9898,Guardian,2023-04-26,8
+2,"The rise of voluntary celibacy: ‘Most of the sex I’ve had, I wish I hadn’t bothered’",https://www.theguardian.com/lifeandstyle/2023/apr/26/the-rise-of-voluntary-celibacy-most-of-the-sex-ive-had-i-wish-i-hadnt-bothered,1,0.096,0.066,0.838,0.9979,Guardian,2023-04-26,8
+3,Reality is Sunak’s enemy in this endless Tory campaign to defy political gravity,https://www.theguardian.com/commentisfree/2023/apr/26/rishi-sunak-tory-political-leader-power,2,0.09,0.112,0.797,-0.9681,Guardian,2023-04-26,8
+4,"UK government funding anti-LGBTQ+ organisation in Uganda, says report",https://www.theguardian.com/global-development/2023/apr/26/uk-government-funding-anti-lgbtq-organisation-in-uganda-says-report,3,0.043,0.046,0.911,-0.7569,Guardian,2023-04-26,8
+5,Matthew Perry apologised to Keanu Reeves – but something still seems left unsaid,https://www.theguardian.com/commentisfree/2023/apr/26/matthew-perry-apologised-to-keanu-reeves-but-something-still-seems-left-unsaid,4,0.148,0.073,0.778,0.9748,Guardian,2023-04-26,8
+6,The morning routine backlash: you can get up at 5am – but it won’t make you popular,https://www.theguardian.com/lifeandstyle/2023/apr/25/the-morning-routine-backlash-you-can-get-up-at-5am-but-it-wont-make-you-popular,5,0.102,0.065,0.832,0.9576,Guardian,2023-04-26,8
+7,Coffey muddies the waters as Tories wash their hands of sewage scandal,https://www.theguardian.com/politics/2023/apr/25/coffey-muddies-the-waters-as-tories-wash-their-hands-of-sewage-scandal,6,0.107,0.097,0.795,0.9018,Guardian,2023-04-26,8
+8,"Russia-Ukraine war live: Russian military aircraft intercepted in international airspace, says Germany",https://www.theguardian.com/world/live/2023/apr/26/russia-ukraine-war-live-lavrov-blames-west-for-deadlock-over-grain-deal-two-killed-in-kharkiv-museum-attack,7,0.06,0.106,0.833,-0.9979,Guardian,2023-04-26,8
+9,"Charles undermined late queen’s plan to sue News UK, Prince Harry tells court",https://www.theguardian.com/uk-news/2023/apr/25/charles-undermined-late-queens-plan-to-sue-news-uk-murdoch-sun-prince-harry-tells-court,8,0.063,0.08,0.857,-0.9839,Guardian,2023-04-26,8
+10,‘Beware of negative people’: Yusuf Islam writes manifesto for King Charles III,https://www.theguardian.com/uk-news/2023/apr/26/beware-of-negative-people-yusuf-islam-writes-manifesto-for-king-charles-iii,9,0.133,0.058,0.809,0.995,Guardian,2023-04-26,8
