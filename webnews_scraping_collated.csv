@@ -3999,3 +3999,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Russia-Ukraine war live: Russian military aircraft intercepted in international airspace, says Germany",https://www.theguardian.com/world/live/2023/apr/26/russia-ukraine-war-live-lavrov-blames-west-for-deadlock-over-grain-deal-two-killed-in-kharkiv-museum-attack,7,0.06,0.106,0.833,-0.9979,Guardian,2023-04-26,8
 9,"Charles undermined late queen’s plan to sue News UK, Prince Harry tells court",https://www.theguardian.com/uk-news/2023/apr/25/charles-undermined-late-queens-plan-to-sue-news-uk-murdoch-sun-prince-harry-tells-court,8,0.063,0.08,0.857,-0.9839,Guardian,2023-04-26,8
 10,‘Beware of negative people’: Yusuf Islam writes manifesto for King Charles III,https://www.theguardian.com/uk-news/2023/apr/26/beware-of-negative-people-yusuf-islam-writes-manifesto-for-king-charles-iii,9,0.133,0.058,0.809,0.995,Guardian,2023-04-26,8
+1,Disney sues Florida governor Ron DeSantis,https://www.bbc.co.uk/news/world-us-canada-65405312,0,0.081,0.123,0.796,-0.9808,BBC,2023-04-26,20
+2,Sniper kills fixer and hits Italian reporter in Ukraine,https://www.bbc.co.uk/news/world-europe-65401492,1,0.034,0.093,0.873,-0.9793,BBC,2023-04-26,20
+3,Socialite pleads guilty in death of police officer,https://www.bbc.co.uk/news/world-us-canada-65406556,2,0.045,0.123,0.832,-0.9803,BBC,2023-04-26,20
+4,Freddie Mercury's close friend sells his treasures,https://www.bbc.co.uk/news/entertainment-arts-65375583,3,0.091,0.038,0.871,0.9913,BBC,2023-04-26,20
+5,Oldest convicted Nazi criminal dies at 102,https://www.bbc.co.uk/news/world-europe-65402024,4,0.062,0.25,0.688,-0.9983,BBC,2023-04-26,20
+6,Police hunt for four escaped inmates from US jail,https://www.bbc.co.uk/news/world-us-canada-65401807,5,0.022,0.156,0.822,-0.9968,BBC,2023-04-26,20
+7,Harvard academic gets house arrest over China ties,https://www.bbc.co.uk/news/world-us-canada-65402979,6,0.067,0.125,0.809,-0.9757,BBC,2023-04-26,20
+8,US teen earns more than $9m in scholarship offers,https://www.bbc.co.uk/news/world-us-canada-65399334,7,0.056,0.037,0.906,0.72,BBC,2023-04-26,20
+9,UK accused of delaying Germany's evacuation efforts,https://www.bbc.co.uk/news/world-europe-65401494,8,0.114,0.098,0.787,0.4833,BBC,2023-04-26,20
+10,Zelensky holds first war phone call with China's Xi,https://www.bbc.co.uk/news/world-europe-65396613,9,0.134,0.097,0.769,0.9806,BBC,2023-04-26,20
+1,"EXCLUSIVE: 'Appetizers plus entrée!' Looks like Tucker Carlson doesn't give two Fox about his ouster from network - gleefully telling DailyMail.com his future plans while tooling off to a romantic date night with wife Susan
+",https://www.dailymail.co.uk/news/article-12015801/Gleeful-Tucker-Carlson-tells-DailyMail-com-future-plans.html,0,0.103,0.094,0.803,0.92,Daily Mail,2023-04-26,20
+2,"Tucker Carlson breaks silence for the first time since his shock firing from Fox News as he responds to claims Pentagon officials are celebrating his departure after he tore into military top brass
+",https://www.dailymail.co.uk/news/article-12015171/Tucker-Carlson-breaks-silence-firing-Fox-News-military-officials-celebrate-departure.html,1,0.056,0.073,0.871,-0.9281,Daily Mail,2023-04-26,20
+3,"A new Barbie Girl! Mattel releases its first ever doll with Down's syndrome
+",https://www.dailymail.co.uk/femail/article-12010727/Mattel-releases-Barbie-Downs-syndrome.html,2,0.117,0.017,0.866,0.9979,Daily Mail,2023-04-26,20
+4,"Life's a beach! Tucker Carlson's wife appears carefree as she's seen walking her dogs close to their $8.4 million Florida estate the day after Fox News host was ousted
+",https://www.dailymail.co.uk/news/article-12014153/Tucker-Carlsons-wife-appears-carefree-day-Fox-host-ousted.html,3,0.032,0.069,0.899,-0.9895,Daily Mail,2023-04-26,20
+5,"'Neon energy': Jessica Simpson displays her toned and tanned body in a sexy lime green SKIMS bikini... as she maintains her incredible weight loss
+",https://www.dailymail.co.uk/tvshowbiz/article-12013599/Jessica-Simpson-displays-toned-tanned-body-sexy-lime-green-SKIMS-bikini.html,4,0.172,0.035,0.793,0.9979,Daily Mail,2023-04-26,20
+6,"Blac Chyna showcases her new natural look in a grey crop top and matching jeans as she attends LA Lakers game 
+",https://www.dailymail.co.uk/tvshowbiz/article-12010411/Blac-Chyna-showcases-new-natural-look-attends-LA-Lakers-game.html,5,0.066,0.047,0.887,0.6704,Daily Mail,2023-04-26,20
+7,"EXCLUSIVE: Knives out for Nick and Vanessa. Netflix courts married Love is Blind couple Lauren Speed and Cameron Hamilton to host the show after viewers slammed the Lacheys for their 'cringy' reunion performance
+",https://www.dailymail.co.uk/news/article-12007847/Netflix-courts-Love-Blind-couple-Lauren-Speed-Cameron-Hamilton-replace-Lacheys-show.html,6,0.15,0.051,0.799,0.9992,Daily Mail,2023-04-26,20
+8,"EXCLUSIVE: Republicans write letter to Biden administration threatening to REPEAL new mortgage rule that would 'tax' homeowners with good credit to benefit Americans who don't pay bills on time
+",https://www.dailymail.co.uk/news/article-12013491/Republicans-threaten-REPEAL-new-mortgage-rule-tax-borrowers-good-credit.html,7,0.103,0.077,0.819,0.9604,Daily Mail,2023-04-26,20
+9,"Putin sends his 'invisible' T-14 Armata tanks into battle in Ukraine for the first time after Britain said using 'poor condition' fleet was 'high risk' for Russia 
+",https://www.dailymail.co.uk/news/article-12010121/Russias-new-T-14-Armata-battle-tank-debuts-Ukraine-RIA.html,8,0.049,0.109,0.842,-0.99,Daily Mail,2023-04-26,20
+10,"EXCLUSIVE: Prison-bound fraudster Elizabeth Holmes is seen on a stroll with her fiancé, son, and newborn daughter Invicta, as she spends her last days of freedom at $9million San Diego beachside mansion before starting 11-year sentence
+",https://www.dailymail.co.uk/news/article-11999945/Elizabeth-Holmes-seen-fianc-son-newborn-daughter-Invicta-ahead-prison-sentence.html,9,0.08,0.111,0.809,-0.9949,Daily Mail,2023-04-26,20
+1,Manchester City v Arsenal: Premier League – live,https://www.theguardian.com/football/live/2023/apr/26/manchester-city-v-arsenal-premier-league-live-score-updates,0,0.13,0.053,0.817,0.9998,Guardian,2023-04-26,20
+2,Health department officials ‘raised concerns’ about Steve Barclay’s behaviour,https://www.theguardian.com/politics/2023/apr/26/health-department-officials-raised-concerns-about-steve-barclays-behaviour,1,0.033,0.168,0.799,-0.9991,Guardian,2023-04-26,20
+3,Activision Blizzard calls UK ‘closed for business’ after Microsoft takeover veto,https://www.theguardian.com/technology/2023/apr/26/microsoft-bid-for-activision-blizzard-blocked-by-uk-competition-regulator,2,0.129,0.048,0.823,0.996,Guardian,2023-04-26,20
+4,Met chief clashes with senior Tory amid furious scenes in Commons,https://www.theguardian.com/uk-news/2023/apr/26/met-chief-mark-rowley-clashes-with-senior-tory-lee-anderson-in-furious-scenes-in-commons,3,0.089,0.114,0.797,-0.9382,Guardian,2023-04-26,20
+5,MPs vote to support the Illegal Migration Bill by 289 to 230 – as it happened,https://www.theguardian.com/politics/live/2023/apr/26/suella-braverman-illegal-migration-bill-small-boats-rishi-sunak-keir-starmer-pmqs-uk-politics-live,4,0.073,0.115,0.813,-0.9985,Guardian,2023-04-26,20
+6,"Piers Morgan encouraged illegal targeting of Diana, says Prince Harry",https://www.theguardian.com/media/2023/apr/26/piers-morgan-encouraged-targeting-of-diana-says-prince-harry,5,0.037,0.083,0.88,-0.9937,Guardian,2023-04-26,20
+7,Former Tory MP Andrew Bridgen expelled permanently from party,https://www.theguardian.com/politics/2023/apr/26/former-tory-mp-andrew-bridgen-expelled-permanently-from-party,6,0.088,0.105,0.807,-0.8957,Guardian,2023-04-26,20
+8,Judge rebukes Trump for ‘entirely inappropriate’ post before E Jean Carroll testimony,https://www.theguardian.com/us-news/2023/apr/26/trump-rape-trial-e-jean-carroll-testify,7,0.044,0.135,0.821,-0.9975,Guardian,2023-04-26,20
+9,"Chelsea v Brentford, West Ham v Liverpool, and more: clockwatch – live",https://www.theguardian.com/football/live/2023/apr/26/chelsea-v-brentford-west-ham-v-liverpool-and-more-clockwatch-live,8,0.139,0.058,0.802,0.9982,Guardian,2023-04-26,20
+10,"Donald Trump raped me, writer E Jean Carroll testifies in New York court",https://www.theguardian.com/us-news/2023/apr/26/trump-e-jean-carroll-civil-rape-trial-new-york,9,0.065,0.141,0.794,-0.9974,Guardian,2023-04-26,20
