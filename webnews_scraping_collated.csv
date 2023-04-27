@@ -4039,3 +4039,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Judge rebukes Trump for ‘entirely inappropriate’ post before E Jean Carroll testimony,https://www.theguardian.com/us-news/2023/apr/26/trump-rape-trial-e-jean-carroll-testify,7,0.044,0.135,0.821,-0.9975,Guardian,2023-04-26,20
 9,"Chelsea v Brentford, West Ham v Liverpool, and more: clockwatch – live",https://www.theguardian.com/football/live/2023/apr/26/chelsea-v-brentford-west-ham-v-liverpool-and-more-clockwatch-live,8,0.139,0.058,0.802,0.9982,Guardian,2023-04-26,20
 10,"Donald Trump raped me, writer E Jean Carroll testifies in New York court",https://www.theguardian.com/us-news/2023/apr/26/trump-e-jean-carroll-civil-rape-trial-new-york,9,0.065,0.141,0.794,-0.9974,Guardian,2023-04-26,20
+1,Tucker Carlson breaks silence after Fox News exit,https://www.bbc.co.uk/news/world-us-canada-65408073,0,0.078,0.071,0.851,0.594,BBC,2023-04-27,8
+2,'We're running out of weapons' on Ukraine front line,https://www.bbc.co.uk/news/world-europe-65347835,1,0.068,0.128,0.804,-0.9959,BBC,2023-04-27,8
+3,Elizabeth Holmes delays start of prison sentence,https://www.bbc.co.uk/news/world-us-canada-65406910,2,0.082,0.154,0.764,-0.9888,BBC,2023-04-27,8
+4,The paradise islands caught in the US-China crosshairs,https://www.bbc.co.uk/news/world-asia-65370413,3,0.093,0.069,0.837,0.9959,BBC,2023-04-27,8
+5,One prisoner dead as Mississippi manhunt continues,https://www.bbc.co.uk/news/world-us-canada-65401807,4,0.026,0.135,0.839,-0.9962,BBC,2023-04-27,8
+6,Disney sues Florida governor Ron DeSantis,https://www.bbc.co.uk/news/world-us-canada-65405312,5,0.085,0.112,0.804,-0.9739,BBC,2023-04-27,8
+7,China police question staff at US firm Bain & Company,https://www.bbc.co.uk/news/business-65408021,6,0.022,0.053,0.925,-0.8979,BBC,2023-04-27,8
+8,Socialite pleads guilty in death of police officer,https://www.bbc.co.uk/news/world-us-canada-65406556,7,0.045,0.123,0.832,-0.9803,BBC,2023-04-27,8
+9,Pope gives women historic right to vote at meeting,https://www.bbc.co.uk/news/world-europe-65407553,8,0.064,0.0,0.936,0.9136,BBC,2023-04-27,8
+10,US and South Korea agree key nuclear weapons deal,https://www.bbc.co.uk/news/world-us-canada-65404805,9,0.107,0.104,0.789,-0.309,BBC,2023-04-27,8
+1,"EXCLUSIVE: 'Appetizers plus entrée!' Looks like Tucker Carlson doesn't give two Fox about his ouster from network - gleefully telling DailyMail.com his future plans while tooling off to a romantic date night with wife Susan
+",https://www.dailymail.co.uk/news/article-12015801/Gleeful-Tucker-Carlson-tells-DailyMail-com-future-plans.html,0,0.103,0.094,0.803,0.92,Daily Mail,2023-04-27,8
+2,"Tucker Carlson breaks silence for the first time since his shock firing from Fox News as he responds to claims Pentagon officials are celebrating his departure after he tore into military top brass
+",https://www.dailymail.co.uk/news/article-12015171/Tucker-Carlson-breaks-silence-firing-Fox-News-military-officials-celebrate-departure.html,1,0.056,0.073,0.871,-0.9281,Daily Mail,2023-04-27,8
+3,"Life's a beach! Tucker Carlson's wife appears carefree as she's seen walking her dogs close to their $8.4 million Florida estate the day after Fox News host was ousted
+",https://www.dailymail.co.uk/news/article-12014153/Tucker-Carlsons-wife-appears-carefree-day-Fox-host-ousted.html,2,0.032,0.069,0.899,-0.9895,Daily Mail,2023-04-27,8
+4,"'Neon energy': Jessica Simpson displays her toned and tanned body in a sexy lime green SKIMS bikini... as she maintains her incredible weight loss
+",https://www.dailymail.co.uk/tvshowbiz/article-12013599/Jessica-Simpson-displays-toned-tanned-body-sexy-lime-green-SKIMS-bikini.html,3,0.172,0.035,0.793,0.9979,Daily Mail,2023-04-27,8
+5,"CNN insiders say this is the REAL reason Don Lemon was FINALLY squeezed out the door - and it's no wonder network staff can't stop celebrating his ousting
+",https://www.dailymail.co.uk/news/article-12016569/The-REAL-reason-Don-Lemon-fired-CNN-staff-stop-celebrating-ousting.html,4,0.056,0.143,0.801,-0.9994,Daily Mail,2023-04-27,8
+6,"Blac Chyna showcases her new natural look in a grey crop top and matching jeans as she attends LA Lakers game 
+",https://www.dailymail.co.uk/tvshowbiz/article-12010411/Blac-Chyna-showcases-new-natural-look-attends-LA-Lakers-game.html,5,0.066,0.047,0.887,0.6704,Daily Mail,2023-04-27,8
+7,"Tucker Carlson hits out at 'liars trying to silence honest people' and powerbrokers who are 'hysterical and afraid' in blistering video following his shock firing from Fox News 
+",https://www.dailymail.co.uk/news/article-12018697/Tucker-Carlson-hits-liars-trying-silence-honest-people-blistering-video.html,6,0.156,0.088,0.755,0.9989,Daily Mail,2023-04-27,8
+8,"22-year-old conjoined twin sisters who are attached at the torso and share a reproductive system open up about their DATING lives - revealing how one sibling found love with a boyfriend of two years while the other identifies as asexual
+",https://www.dailymail.co.uk/femail/article-12012117/Were-22-year-old-conjoined-twin-sisters-attached-torso-heres-manage-dating.html,7,0.109,0.05,0.841,0.996,Daily Mail,2023-04-27,8
+9,"EXCLUSIVE: Six whistleblowers who claim they worked on military UFO programs retrieving and analyzing crash material have come forward to spill their secrets to senior members of congress
+",https://www.dailymail.co.uk/news/article-11996773/Six-whistleblowers-spill-UFO-secrets-congress.html,8,0.078,0.043,0.879,0.9987,Daily Mail,2023-04-27,8
+10,"OnlyFans model and Kim Kardashian lookalike, 34, dies of cardiac arrest after plastic surgery procedure - as her heartbroken family asks for donations to fund her funeral
+",https://www.dailymail.co.uk/tvshowbiz/article-12014645/OnlyFans-model-Kim-Kardashian-lookalike-dies-cardiac-arrest-plastic-surgery-procedure.html,9,0.032,0.19,0.778,-0.9937,Daily Mail,2023-04-27,8
+1,Tucker Carlson breaks silence after abrupt departure from Fox News,https://www.theguardian.com/media/2023/apr/27/tucker-carlson-breaks-silence-fox-news-firing-video-twitter,0,0.074,0.078,0.849,0.1054,Guardian,2023-04-27,8
+2,‘Set up for failure’: the wild story behind the car crash interview which destroyed Prince Andrew ,https://www.theguardian.com/tv-and-radio/2023/apr/27/set-up-for-failure-the-wild-story-behind-the-car-crash-interview-which-destroyed-prince-andrew,1,0.101,0.079,0.821,0.9908,Guardian,2023-04-27,8
+3,Scientists to examine health fears at west London luxury development,https://www.theguardian.com/business/2023/apr/27/scientists-to-investigate-health-fears-southall-west-london-development-green-quarter,2,0.054,0.073,0.872,-0.8855,Guardian,2023-04-27,8
+4,"Etsy sellers offering fake ‘handmade’ products at ripoff prices, says Which?",https://www.theguardian.com/money/2023/apr/27/etsy-sellers-handmade-products-prices-which,3,0.047,0.042,0.911,0.2755,Guardian,2023-04-27,8
+5,Former partner of Lord Ashcroft son pleads guilty in Belize over shooting of police officer,https://www.theguardian.com/world/2023/apr/27/former-partner-of-lord-ashcroft-son-pleads-guilty-in-belize-over-shooting-of-police-officer,4,0.07,0.052,0.878,0.3203,Guardian,2023-04-27,8
+6,Bali influencer backlash intensifies as island cracks down on problem tourists,https://www.theguardian.com/world/2023/apr/27/bali-influencer-backlash-intensifies-as-island-cracks-down-on-problem-tourists,5,0.112,0.075,0.813,0.9756,Guardian,2023-04-27,8
+7,The real Rish! has been hiding in plain sight – don’t look for Mr Nice Guy within,https://www.theguardian.com/politics/2023/apr/26/rishi-sunak-keir-starmer-pmqs-sloganeering,6,0.138,0.124,0.738,0.9611,Guardian,2023-04-27,8
+8,"Direct ancestors of King Charles owned slave plantations, documents reveal",https://www.theguardian.com/uk-news/2023/apr/27/direct-ancestors-of-king-charles-owned-slave-plantations-documents-reveal,7,0.082,0.067,0.851,0.8402,Guardian,2023-04-27,8
+9,‘Next three games will dictate a lot’: Guardiola urges caution after City win,https://www.theguardian.com/football/2023/apr/26/next-three-games-will-dictate-a-lot-guardiola-targets-title-after-city-win,8,0.15,0.054,0.796,0.9929,Guardian,2023-04-27,8
+10,"Jess Cartner-Morley’s forever fashion: ‘I’ve had this dress 21 years. When I say “this old thing”, I mean it’",https://www.theguardian.com/fashion/2023/apr/27/jess-cartner-morleys-forever-fashion-ive-had-this-dress-21-years-when-i-say-this-old-thing-i-mean-it,9,0.11,0.043,0.847,0.9907,Guardian,2023-04-27,8
