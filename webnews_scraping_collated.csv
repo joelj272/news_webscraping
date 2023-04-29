@@ -4239,3 +4239,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Sensitive files about Royal Navy submarine reportedly found in pub toilet,https://www.theguardian.com/uk-news/2023/apr/29/sensitive-files-about-royal-navy-submarine-reportedly-found-in-pub-toilet,7,0.055,0.059,0.886,-0.228,Guardian,2023-04-29,8
 9,Tim Dowling: how can I make my blood pressure normal in a hurry? ,https://www.theguardian.com/lifeandstyle/2023/apr/29/tim-dowling-how-can-i-make-my-blood-pressure-normal-in-a-hurry,8,0.062,0.07,0.868,0.6916,Guardian,2023-04-29,8
 10,Michigan boy hailed as hero for preventing bus crash after driver fainted,https://www.theguardian.com/us-news/2023/apr/29/michigan-seventh-grade-boy-dillon-reeves-bus-crash,9,0.087,0.079,0.834,0.4936,Guardian,2023-04-29,8
+1,"Gunman kills five, including child, at Texas home",https://www.bbc.co.uk/news/world-us-canada-65437185,0,0.051,0.101,0.848,-0.9587,BBC,2023-04-29,20
+2,US principal visits David sculpture after nudity row,https://www.bbc.co.uk/news/world-us-canada-65433304,1,0.121,0.066,0.813,0.9721,BBC,2023-04-29,20
+3,Obama and friends surprise Barcelona restaurant,https://www.bbc.co.uk/news/world-europe-65435879,2,0.085,0.013,0.902,0.9548,BBC,2023-04-29,20
+4,Crimea oil tank set ablaze by reported drone,https://www.bbc.co.uk/news/world-europe-65434772,3,0.026,0.181,0.793,-0.9959,BBC,2023-04-29,20
+5,Why US presidents skip British coronations,https://www.bbc.co.uk/news/world-us-canada-65419766,4,0.077,0.057,0.866,0.9191,BBC,2023-04-29,20
+6,Sudan crisis a nightmare for the world - ex-PM,https://www.bbc.co.uk/news/world-africa-65436815,5,0.083,0.157,0.76,-0.9969,BBC,2023-04-29,20
+7,Fight not flight for Harry as he prepares to take stand,https://www.bbc.co.uk/news/uk-65425215,6,0.057,0.096,0.848,-0.993,BBC,2023-04-29,20
+8,Sperm donor who fathered 550 children told to stop,https://www.bbc.co.uk/news/world-europe-65429936,7,0.032,0.069,0.899,-0.9497,BBC,2023-04-29,20
+9,US Army grounds its aircraft after fatal crashes,https://www.bbc.co.uk/news/world-us-canada-65433660,8,0.047,0.094,0.859,-0.9509,BBC,2023-04-29,20
+10,N Korea threatens arms race after US-S Korea deal,https://www.bbc.co.uk/news/world-asia-65433286,9,0.076,0.101,0.822,-0.8875,BBC,2023-04-29,20
+1,"Former fitness model Loni Willison, 39, is seen rummaging through LA dumpster for food after becoming homeless addict in wake of split from Baywatch star Jeremy Jackson
+",https://www.dailymail.co.uk/news/article-12023019/Former-fitness-model-Loni-Willison-rummaging-LA-dumpster-food-homeless.html,0,0.088,0.138,0.775,-0.9913,Daily Mail,2023-04-29,20
+2,"'Broken marriages are ugly and in them people do ugly things': Political commentator Steven Crowder DOUBLES DOWN as he claims wife leaked EDITED video of his verbal abuse - and now vows to release sealed mental health history
+",https://www.dailymail.co.uk/news/article-12026889/Steven-Crowder-takes-stab-wife-video-verbally-abusing-press.html,1,0.118,0.094,0.788,0.9922,Daily Mail,2023-04-29,20
+3,"Photo Meghan 'never wanted the world to see': Unseen snap of younger Duchess is shared ahead of 'explosive' interview with her estranged father and siblings 
+",https://www.dailymail.co.uk/femail/article-12026091/Photo-Meghan-never-wanted-world-see.html,2,0.105,0.012,0.882,0.997,Daily Mail,2023-04-29,20
+4,"'I'm going to hit the roof with excitement!': James Bond fans convinced they know who is set to play next 007 after Hollywood actors drop MAJOR hint
+",https://www.dailymail.co.uk/tvshowbiz/article-12026437/James-Bond-fans-convinced-know-set-play-007-Hollywood-actors-drop-hint.html,3,0.079,0.048,0.874,0.9308,Daily Mail,2023-04-29,20
+5,"Celebrated BLM activist ruthlessly destroyed white student's life by accusing her of saying racial justice protesters would 'make good speed bumps' - only to later admit she may have MISHEARD
+",https://www.dailymail.co.uk/news/article-12027497/BLM-activist-ruined-white-students-life-claiming-heard-threaten-kill-protesters.html,4,0.067,0.119,0.813,-0.9988,Daily Mail,2023-04-29,20
+6,"British man who survived 1986 Pan Am hijacking when terrorists slaughtered 21 finally confronts man who held him at gunpoint - and is stunned to learn 36 years later why he spared his life
+",https://www.dailymail.co.uk/news/article-12021619/British-man-survived-1986-Pam-hijacking-confronts-man-held-gunpoint.html,5,0.074,0.177,0.75,-0.9994,Daily Mail,2023-04-29,20
+7,"Thought you knew every OMG detail of Johnny Depp and Amber Heard's marriage from hell? A new fly-on-the-wall account will change your mind, writes JAN MOIR
+",https://www.dailymail.co.uk/tvshowbiz/article-12026993/Thought-knew-OMG-Johnny-Depp-Amber-Heards-marriage-hell.html,6,0.113,0.117,0.77,0.311,Daily Mail,2023-04-29,20
+8,"Terms of Endearment: Hollywood recluse Jack Nicholson, 85, exchanges warm words and hug with LeBron James during rare outing to see Lakers with lookalike son Ray
+",https://www.dailymail.co.uk/news/article-12027767/Hollywood-recluse-Jack-Nicholson-85-exchanges-words-hug-LeBron-James-LA-Lakers-game.html,7,0.154,0.039,0.806,0.9985,Daily Mail,2023-04-29,20
+9,"Kate makes incredibly rare comments about Diana during visit to Wales - revealing details about the late Princess's engagement ring and telling how William's family miss woman who would have been 'a brilliant grandmother' every day
+",https://www.dailymail.co.uk/femail/article-12025533/Kate-makes-incredibly-rare-comments-Diana-visit-Wales.html,8,0.149,0.086,0.765,0.9983,Daily Mail,2023-04-29,20
+10,"Inside the devastating decline of Loni Willison: FEMAIL reveals how once-stunning model spiraled into addiction and homelessness - after suffering a 'torturous' mental breakdown in the wake of bitter split from Baywatch star Jeremy Jackson
+",https://www.dailymail.co.uk/femail/article-12025215/Inside-Loni-Willisons-downfall-went-model-homeless-recluse.html,9,0.099,0.133,0.768,-0.9967,Daily Mail,2023-04-29,20
+1,UK coastguard ‘left Channel migrants adrift’ in lead-up to mass drowning,https://www.theguardian.com/world/2023/apr/29/uk-coastguard-left-channel-migrants-adrift-in-lead-up-to-mass-drowning,0,0.068,0.1,0.832,-0.9812,Guardian,2023-04-29,20
+2,‘I was in tears’: Briton with valid passport barred from flight over Brexit rules,https://www.theguardian.com/money/2023/apr/29/briton-valid-passport-barred-from-flight-brexit-rules-eu,1,0.033,0.037,0.93,0.175,Guardian,2023-04-29,20
+3,"‘The crowd were saying, “Kill him, kick him to death”’: what happened to the people who protested against King Charles?",https://www.theguardian.com/uk-news/2023/apr/29/the-crowd-were-saying-kill-him-kick-him-to-death-what-happened-to-the-people-who-protested-against-king-charles,2,0.104,0.124,0.773,-0.9988,Guardian,2023-04-29,20
+4,"If Robbie Williams has given up on sex in marriage, what hope do any of us have?",https://www.theguardian.com/lifeandstyle/2023/apr/29/robbie-williams-sex-marriage-tangerine-relationships,3,0.106,0.084,0.81,0.9855,Guardian,2023-04-29,20
+5,Ministers set to impose NHS pay deal on staff despite opposition of unions,https://www.theguardian.com/society/2023/apr/29/ministers-impose-nhs-pay-deal-doctors-nurses-srikes-unions,4,0.031,0.092,0.877,-0.9265,Guardian,2023-04-29,20
+6,"Don’t talk to pupils about misogynist Andrew Tate, government urges teachers in England",https://www.theguardian.com/news/2023/apr/29/talk-pupils-misogynist-andrew-tate-teachers-schools-england,5,0.091,0.103,0.805,-0.9453,Guardian,2023-04-29,20
+7,Sudanese army blocks Britons from boarding last rescue flights,https://www.theguardian.com/world/2023/apr/29/sudanese-army-blocks-britons-from-boarding-last-rescue-flights,6,0.042,0.085,0.873,-0.9852,Guardian,2023-04-29,20
+8,Stella Creasy says police ‘green lighting’ trolls to target politicians’ children,https://www.theguardian.com/politics/2023/apr/29/stella-creasy-targeted-by-troll-who-tried-to-have-her-children-removed-report,7,0.087,0.127,0.786,-0.9927,Guardian,2023-04-29,20
+9,Vulnerable UK women forced into ‘sex for rent’ by cost of living crisis,https://www.theguardian.com/society/2023/apr/29/vulnerable-uk-women-forced-into-survival-sex-by-cost-of-living-crisis,8,0.073,0.214,0.714,-0.9988,Guardian,2023-04-29,20
+10, ‘Brexit has been an utter disaster’: the royal heritage firm that can’t sell its wares abroad,https://www.theguardian.com/politics/2023/apr/29/brexit-disaster-royal-heritage-firm-buckingham-palace-playing-cards,9,0.046,0.061,0.893,-0.9018,Guardian,2023-04-29,20
