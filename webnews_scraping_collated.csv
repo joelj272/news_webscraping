@@ -4279,3 +4279,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Stella Creasy says police ‘green lighting’ trolls to target politicians’ children,https://www.theguardian.com/politics/2023/apr/29/stella-creasy-targeted-by-troll-who-tried-to-have-her-children-removed-report,7,0.087,0.127,0.786,-0.9927,Guardian,2023-04-29,20
 9,Vulnerable UK women forced into ‘sex for rent’ by cost of living crisis,https://www.theguardian.com/society/2023/apr/29/vulnerable-uk-women-forced-into-survival-sex-by-cost-of-living-crisis,8,0.073,0.214,0.714,-0.9988,Guardian,2023-04-29,20
 10, ‘Brexit has been an utter disaster’: the royal heritage firm that can’t sell its wares abroad,https://www.theguardian.com/politics/2023/apr/29/brexit-disaster-royal-heritage-firm-buckingham-palace-playing-cards,9,0.046,0.061,0.893,-0.9018,Guardian,2023-04-29,20
+1,US principal visits David sculpture after nudity row,https://www.bbc.co.uk/news/world-us-canada-65433304,0,0.121,0.066,0.813,0.9721,BBC,2023-04-30,8
+2,Walrus Freya killed by Norway gets Oslo sculpture,https://www.bbc.co.uk/news/world-europe-65439294,1,0.115,0.1,0.785,0.8035,BBC,2023-04-30,8
+3,Public asked to swear allegiance during Coronation,https://www.bbc.co.uk/news/uk-65435426,2,0.137,0.017,0.847,0.9989,BBC,2023-04-30,8
+4,Obama and friends surprise Barcelona restaurant,https://www.bbc.co.uk/news/world-europe-65435879,3,0.085,0.013,0.902,0.9548,BBC,2023-04-30,8
+5,Sudan crisis a nightmare for the world - ex-PM,https://www.bbc.co.uk/news/world-africa-65436815,4,0.082,0.134,0.784,-0.9941,BBC,2023-04-30,8
+6,"Gunman kills five, including child, at Texas home",https://www.bbc.co.uk/news/world-us-canada-65437185,5,0.046,0.107,0.847,-0.9735,BBC,2023-04-30,8
+7,What Europe's royals could teach King Charles,https://www.bbc.co.uk/news/world-europe-65409971,6,0.087,0.103,0.81,-0.9858,BBC,2023-04-30,8
+8,Watch: Crimea oil tank set ablaze by reported drone,https://www.bbc.co.uk/news/world-europe-65434772,7,0.026,0.181,0.793,-0.9959,BBC,2023-04-30,8
+9,Guardian apologises over cartoon of BBC chairman,https://www.bbc.co.uk/news/uk-65438581,8,0.077,0.063,0.86,0.7502,BBC,2023-04-30,8
+10,Why US presidents skip British coronations,https://www.bbc.co.uk/news/world-us-canada-65419766,9,0.077,0.057,0.866,0.9191,BBC,2023-04-30,8
+1,"Where it all went wrong for Kate and Harry: How pair's close bond survived bridesmaids dress row as she played 'peacemaker' between brothers - but crumbled when Duke's media bombshells 'deeply wounded' her 
+",https://www.dailymail.co.uk/femail/article-12016977/Where-went-wrong-Kate-Middleton-Prince-Harry.html,0,0.112,0.068,0.82,0.9998,Daily Mail,2023-04-30,8
+2,"Lawrence Jones is named as Tucker Carlson's next rotating replacement - as a rival channel pulls out all the stops to woo fired Fox News anchor and 'will give him total programing control'
+",https://www.dailymail.co.uk/news/article-12028409/Lawrence-Jones-named-Tucker-Carlsons-rotating-replacement.html,1,0.051,0.052,0.897,-0.6419,Daily Mail,2023-04-30,8
+3,"British man who survived 1986 Pan Am hijacking when terrorists slaughtered 21 finally confronts man who held him at gunpoint - and is stunned to learn 36 years later why he spared his life
+",https://www.dailymail.co.uk/news/article-12021619/British-man-survived-1986-Pam-hijacking-confronts-man-held-gunpoint.html,2,0.074,0.177,0.75,-0.9994,Daily Mail,2023-04-30,8
+4,"People are in shock after finding out the age of Catherine O'Hara when she played Kevin McCallister's busy mom of FIVE in iconic Home Alone role
+",https://www.dailymail.co.uk/news/article-12026757/People-shock-finding-age-Home-actress-played-Kevins-mom.html,3,0.127,0.082,0.79,0.9744,Daily Mail,2023-04-30,8
+5,"Terms of Endearment: Hollywood recluse Jack Nicholson, 85, exchanges warm words and hug with LeBron James during rare outing to see Lakers with lookalike son Ray
+",https://www.dailymail.co.uk/news/article-12027767/Hollywood-recluse-Jack-Nicholson-85-exchanges-words-hug-LeBron-James-LA-Lakers-game.html,4,0.154,0.039,0.806,0.9985,Daily Mail,2023-04-30,8
+6,"EXCLUSIVE: Celebrity bodyguard who has worked with Kendall Jenner, Taylor Swift AND Gigi and Bella Hadid reveals what it's REALLY like to protect the world's biggest stars - as he lifts the lid on the most ABSURD demands he's faced from A-list clients
+",https://www.dailymail.co.uk/tvshowbiz/article-12013279/Celebrity-bodyguard-reveals-really-like-work-Gigi-Bella-Hadid.html,5,0.122,0.024,0.854,0.9984,Daily Mail,2023-04-30,8
+7,"Texas man massacres FIVE neighbors including an eight-year-old boy after they asked him to stop shooting his gun at 11.30pm because they were trying to get a baby to sleep
+",https://www.dailymail.co.uk/news/article-12028291/Five-killed-Texas-shooting-intoxicated-gunman-run-AR-15.html,6,0.025,0.129,0.846,-0.9625,Daily Mail,2023-04-30,8
+8,"Former fitness model Loni Willison, 39, is seen rummaging through LA dumpster for food after becoming homeless addict in wake of split from Baywatch star Jeremy Jackson
+",https://www.dailymail.co.uk/news/article-12023019/Former-fitness-model-Loni-Willison-rummaging-LA-dumpster-food-homeless.html,7,0.088,0.138,0.775,-0.9913,Daily Mail,2023-04-30,8
+9,"Celebrated BLM activist ruthlessly destroyed white student's life by accusing her of saying racial justice protesters would 'make good speed bumps' - only to later admit she may have MISHEARD
+",https://www.dailymail.co.uk/news/article-12027497/BLM-activist-ruined-white-students-life-claiming-heard-threaten-kill-protesters.html,8,0.067,0.119,0.813,-0.9988,Daily Mail,2023-04-30,8
+10,"Washington high school sophomore, 16, dies after being impaled through the eye by goal post in gym class in tragic freak accident
+",https://www.dailymail.co.uk/news/article-12029117/Washington-high-school-sophomore-dies-impaled-eye-goal-post.html,9,0.173,0.159,0.668,0.875,Daily Mail,2023-04-30,8
+1,‘I was in tears’: Briton with valid passport barred from flight over Brexit rules,https://www.theguardian.com/money/2023/apr/29/briton-valid-passport-barred-from-flight-brexit-rules-eu,0,0.033,0.037,0.93,0.175,Guardian,2023-04-30,8
+2,My husband won’t lift a finger to help me. Should I stay or go?,https://www.theguardian.com/lifeandstyle/2023/apr/30/my-husband-wont-lift-a-finger-to-help-me-should-i-stay-or-go,1,0.09,0.089,0.82,-0.4288,Guardian,2023-04-30,8
+3,"April’s cold weather shows its time to fill our gardens with hardier plants, say experts",https://www.theguardian.com/lifeandstyle/2023/apr/30/april-cold-weather-gardens-hardier-plants-extremes-heat-cold,2,0.105,0.049,0.846,0.9966,Guardian,2023-04-30,8
+4,"Rishi Sunak has ‘killed dream of home ownership’, says Keir Starmer",https://www.theguardian.com/politics/2023/apr/29/keir-starmer-bolder-blair-labour-leader-government,3,0.148,0.043,0.808,0.998,Guardian,2023-04-30,8
+5,"If Robbie Williams has given up on sex in marriage, what hope do any of us have?",https://www.theguardian.com/lifeandstyle/2023/apr/29/robbie-williams-sex-marriage-tangerine-relationships,4,0.106,0.084,0.81,0.9855,Guardian,2023-04-30,8
+6,Public invited to swear their allegiance as king is crowned,https://www.theguardian.com/uk-news/2023/apr/29/public-invited-to-swear-their-allegiance-as-king-is-crowned,5,0.112,0.02,0.868,0.9971,Guardian,2023-04-30,8
+7,TV tonight: Frankie Boyle’s fist-bitingly funny swipe at the royal family ,https://www.theguardian.com/tv-and-radio/2023/apr/30/tv-tonight-frankie-boyles-fist-bitingly-funny-swipe-at-the-royal-family,6,0.12,0.088,0.793,0.9538,Guardian,2023-04-30,8
+8,‘We’ll show just how weak they are’: Ukraine primed for crucial offensive,https://www.theguardian.com/world/2023/apr/30/ukraine-primed-for-crucial-offensive,7,0.078,0.117,0.805,-0.9975,Guardian,2023-04-30,8
+9,"Russia-Ukraine war live: Russian soldiers likely placed in ‘holes in the ground’ for misdemeanours, says UK",https://www.theguardian.com/world/live/2023/apr/30/russia-ukraine-war-live-russian-soldiers-likely-placed-in-holes-in-the-ground-for-misdemeanours-says-uk,8,0.06,0.139,0.802,-0.9996,Guardian,2023-04-30,8
+10,"‘The crowd were saying, “Kill him, kick him to death”’: what happened to the people who protested against King Charles?",https://www.theguardian.com/uk-news/2023/apr/29/the-crowd-were-saying-kill-him-kick-him-to-death-what-happened-to-the-people-who-protested-against-king-charles,9,0.104,0.124,0.773,-0.9988,Guardian,2023-04-30,8
