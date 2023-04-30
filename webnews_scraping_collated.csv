@@ -4319,3 +4319,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘We’ll show just how weak they are’: Ukraine primed for crucial offensive,https://www.theguardian.com/world/2023/apr/30/ukraine-primed-for-crucial-offensive,7,0.078,0.117,0.805,-0.9975,Guardian,2023-04-30,8
 9,"Russia-Ukraine war live: Russian soldiers likely placed in ‘holes in the ground’ for misdemeanours, says UK",https://www.theguardian.com/world/live/2023/apr/30/russia-ukraine-war-live-russian-soldiers-likely-placed-in-holes-in-the-ground-for-misdemeanours-says-uk,8,0.06,0.139,0.802,-0.9996,Guardian,2023-04-30,8
 10,"‘The crowd were saying, “Kill him, kick him to death”’: what happened to the people who protested against King Charles?",https://www.theguardian.com/uk-news/2023/apr/29/the-crowd-were-saying-kill-him-kick-him-to-death-what-happened-to-the-people-who-protested-against-king-charles,9,0.104,0.124,0.773,-0.9988,Guardian,2023-04-30,8
+1,FBI hunt 'armed and dangerous' shooting suspect,https://www.bbc.co.uk/news/world-us-canada-65444276,0,0.038,0.131,0.831,-0.9901,BBC,2023-04-30,20
+2,Adidas sued by investors over Kanye West deal,https://www.bbc.co.uk/news/business-65441303,1,0.053,0.108,0.839,-0.9756,BBC,2023-04-30,20
+3,US principal visits David sculpture after nudity row,https://www.bbc.co.uk/news/world-us-canada-65433304,2,0.121,0.066,0.813,0.9721,BBC,2023-04-30,20
+4,Four dead after suspected pigeon racer dispute,https://www.bbc.co.uk/news/world-europe-65443495,3,0.01,0.157,0.833,-0.9607,BBC,2023-04-30,20
+5,What Europe's royals could teach King Charles,https://www.bbc.co.uk/news/world-europe-65409971,4,0.087,0.104,0.809,-0.9858,BBC,2023-04-30,20
+6,US bank makes last ditch bid to find rescuer,https://www.bbc.co.uk/news/business-65441302,5,0.078,0.059,0.863,0.6122,BBC,2023-04-30,20
+7,Cuba cancels May Day parade because of fuel crisis,https://www.bbc.co.uk/news/world-latin-america-65442845,6,0.047,0.119,0.834,-0.9571,BBC,2023-04-30,20
+8,Liz Truss contests bill over use of country house,https://www.bbc.co.uk/news/uk-politics-65441189,7,0.085,0.04,0.876,0.9746,BBC,2023-04-30,20
+9,Air strikes pound Sudan capital as truce extended,https://www.bbc.co.uk/news/world-africa-65440528,8,0.056,0.101,0.842,-0.9829,BBC,2023-04-30,20
+10,Obama and friends surprise Barcelona restaurant,https://www.bbc.co.uk/news/world-europe-65435879,9,0.085,0.013,0.902,0.9548,BBC,2023-04-30,20
+1,"Brutal twister picks up car and hurls it across road - as the tornado cuts devastating swathe through Palm Beach in Florida
+",https://www.dailymail.co.uk/news/article-12029675/Brutal-tornado-tosses-car-blows-path-lashes-Palm-Beach.html,0,0.053,0.101,0.846,-0.961,Daily Mail,2023-04-30,20
+2,"Washington high school sophomore, 16, dies after being impaled through the eye by goal post in gym class in tragic freak accident
+",https://www.dailymail.co.uk/news/article-12029117/Washington-high-school-sophomore-dies-impaled-eye-goal-post.html,1,0.173,0.159,0.668,0.875,Daily Mail,2023-04-30,20
+3,"Former fitness model Loni Willison, 39, is seen rummaging through LA dumpster for food after becoming homeless addict in wake of split from Baywatch star Jeremy Jackson
+",https://www.dailymail.co.uk/news/article-12023019/Former-fitness-model-Loni-Willison-rummaging-LA-dumpster-food-homeless.html,2,0.088,0.138,0.775,-0.9913,Daily Mail,2023-04-30,20
+4,"Where it all went wrong for Kate and Harry: How pair's close bond survived bridesmaids dress row as she played 'peacemaker' between brothers - but crumbled when Duke's media bombshells 'deeply wounded' her 
+",https://www.dailymail.co.uk/femail/article-12016977/Where-went-wrong-Kate-Middleton-Prince-Harry.html,3,0.112,0.068,0.82,0.9998,Daily Mail,2023-04-30,20
+5,"EXCLUSIVE: Sydney Sweeney puts on a united front with fiancé Jonathan Davino... after ditching her $150K engagement ring amid affair rumors with Top Gun star Glenn Powell amid his split from girlfriend
+",https://www.dailymail.co.uk/tvshowbiz/article-12029345/Sydney-Sweeney-puts-united-fiance-Jonathan-Davino-ditching-engagement-ring.html,4,0.162,0.023,0.815,0.9988,Daily Mail,2023-04-30,20
+6,"'I knew the risks': Whistleblower executive who handed feds 150,000 docs about Trump's Truth Social now works as Starbucks barista for $16 an hour
+",https://www.dailymail.co.uk/news/article-12029913/Whistleblower-handed-feds-150000-docs-Trump-Truth-Social-works-Starbucks-barista-16-hour.html,5,0.112,0.098,0.789,0.8215,Daily Mail,2023-04-30,20
+7,"Lawrence Jones is named as Tucker Carlson's next rotating replacement - as a rival channel pulls out all the stops to woo fired Fox News anchor and 'will give him total programing control'
+",https://www.dailymail.co.uk/news/article-12028409/Lawrence-Jones-named-Tucker-Carlsons-rotating-replacement.html,6,0.051,0.052,0.897,-0.6419,Daily Mail,2023-04-30,20
+8,"Kendall Jenner puts on sultry display in a sheer cropped top and VERY short miniskirt with rumored boyfriend Bad Bunny as they enjoy a dinner date at Carbone in New York City
+",https://www.dailymail.co.uk/tvshowbiz/article-12030309/Kendall-Jenner-puts-sultry-display-rumored-boyfriend-Bad-Bunny-dinner-date-NYC.html,7,0.119,0.026,0.855,0.9979,Daily Mail,2023-04-30,20
+9,"'How can I fix this?' Meghan Markle's father says he is 'open to any kind of conversation' to repair his relationship with the Duchess who he claims had 'killed him and then mourned him'
+",https://www.dailymail.co.uk/news/article-12030517/Meghan-teenage-homecoming-queen-Unseen-footage-duchess-shared-estranged-family.html,8,0.1,0.083,0.817,0.9728,Daily Mail,2023-04-30,20
+10,"King Charles has secretly gifted the late Queen's dresser Angela Kelly a new home to honour a promise made by his mother
+",https://www.dailymail.co.uk/femail/article-12029437/King-Charles-secretly-gifted-late-Queens-dresser-Angela-Kelly-new-home.html,9,0.147,0.087,0.765,0.9931,Daily Mail,2023-04-30,20
+1,Minister defends ‘offensive’ coronation-day oath to King Charles,https://www.theguardian.com/uk-news/2023/apr/30/minister-defends-offensive-coronation-day-oath-to-king-charles,0,0.072,0.067,0.861,0.9061,Guardian,2023-04-30,20
+2,Liverpool 4-3 Tottenham: Premier League – as it happened,https://www.theguardian.com/football/live/2023/apr/30/liverpool-v-tottenham-premier-league-live-score-updates,1,0.142,0.069,0.789,0.9994,Guardian,2023-04-30,20
+3,Plans approved for Britain’s first women’s-only tower block,https://www.theguardian.com/society/2023/apr/28/plans-approved-for-britains-first-womens-only-tower-block,2,0.088,0.113,0.8,-0.9665,Guardian,2023-04-30,20
+4,"Anthony Seldon on Boris Johnson: ‘At his heart, he is extraordinarily empty’",https://www.theguardian.com/books/2023/apr/30/anthony-seldon-boris-johnson-at-10-biography-interview,3,0.085,0.126,0.789,-0.9991,Guardian,2023-04-30,20
+5,New artificial intelligence tool can accurately identify cancer,https://www.theguardian.com/society/2023/apr/30/artificial-intelligence-tool-identify-cancer-ai,4,0.085,0.1,0.815,-0.9741,Guardian,2023-04-30,20
+6,"Liz Truss disputing £12,000 bill relating to use of Chevening grace-and-favour house",https://www.theguardian.com/politics/2023/apr/30/liz-truss-disputing-12000-bill-relating-to-use-of-chevening-grace-and-favour-house,5,0.078,0.057,0.866,0.9432,Guardian,2023-04-30,20
+7,Why Britain has become the top destination for US ‘bleisure’ invasion,https://www.theguardian.com/travel/2023/apr/30/why-britain-has-become-the-top-destination-for-us-bleisure-invasion,6,0.115,0.024,0.861,0.998,Guardian,2023-04-30,20
+8,"At 48, I should be inspired by Gwyneth Paltrow and her abs. But they make me want to throw things",https://www.theguardian.com/commentisfree/2023/apr/30/at-48-i-should-be-inspired-by-gwyneth-paltrow-and-her-abs-but-they-make-me-want-to-throw-things,7,0.128,0.074,0.798,0.9869,Guardian,2023-04-30,20
+9,Man dead and seven injured after stabbings near Cornwall nightclub,https://www.theguardian.com/uk-news/2023/apr/30/man-dead-after-stabbing-near-bodmin-cornwall-nightclub,8,0.027,0.109,0.864,-0.9818,Guardian,2023-04-30,20
+10,‘She is looking worse for wear’: visitors take a toll on the Lady of the North,https://www.theguardian.com/uk-news/2023/apr/30/northumberlandia-visitors-take-a-toll-on-the-lady-of-the-north,9,0.107,0.057,0.836,0.9906,Guardian,2023-04-30,20
