@@ -4359,3 +4359,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"At 48, I should be inspired by Gwyneth Paltrow and her abs. But they make me want to throw things",https://www.theguardian.com/commentisfree/2023/apr/30/at-48-i-should-be-inspired-by-gwyneth-paltrow-and-her-abs-but-they-make-me-want-to-throw-things,7,0.128,0.074,0.798,0.9869,Guardian,2023-04-30,20
 9,Man dead and seven injured after stabbings near Cornwall nightclub,https://www.theguardian.com/uk-news/2023/apr/30/man-dead-after-stabbing-near-bodmin-cornwall-nightclub,8,0.027,0.109,0.864,-0.9818,Guardian,2023-04-30,20
 10,‘She is looking worse for wear’: visitors take a toll on the Lady of the North,https://www.theguardian.com/uk-news/2023/apr/30/northumberlandia-visitors-take-a-toll-on-the-lady-of-the-north,9,0.107,0.057,0.836,0.9906,Guardian,2023-04-30,20
+1,MasterChef Australia host Jock Zonfrillo dies,https://www.bbc.co.uk/news/world-australia-65446351,0,0.061,0.078,0.861,-0.8518,BBC,2023-05-01,8
+2,Russia launches pre-dawn missile attack on Ukraine,https://www.bbc.co.uk/news/world-europe-65446525,1,0.024,0.107,0.869,-0.976,BBC,2023-05-01,8
+3,Four dead after suspected pigeon racer dispute,https://www.bbc.co.uk/news/world-europe-65443495,2,0.01,0.157,0.833,-0.9607,BBC,2023-05-01,8
+4,US principal visits David sculpture after nudity row,https://www.bbc.co.uk/news/world-us-canada-65433304,3,0.121,0.066,0.813,0.9721,BBC,2023-05-01,8
+5,UK chip giant Arm files for blockbuster share sale,https://www.bbc.co.uk/news/business-65445428,4,0.079,0.026,0.895,0.9709,BBC,2023-05-01,8
+6,Adidas sued by investors over Kanye West deal,https://www.bbc.co.uk/news/business-65441303,5,0.053,0.108,0.839,-0.9756,BBC,2023-05-01,8
+7,"Suspected IS chief killed in Syria, Turkey says",https://www.bbc.co.uk/news/world-middle-east-65445007,6,0.022,0.141,0.837,-0.9897,BBC,2023-05-01,8
+8,Chaos at port as thousands rush to leave Sudan,https://www.bbc.co.uk/news/world-africa-65444282,7,0.101,0.12,0.779,-0.9809,BBC,2023-05-01,8
+9,Did this woman die because her genitals were cut?,https://www.bbc.co.uk/news/world-africa-65423644,8,0.069,0.095,0.836,-0.9895,BBC,2023-05-01,8
+10,Cuba cancels May Day parade because of fuel crisis,https://www.bbc.co.uk/news/world-latin-america-65442845,9,0.047,0.119,0.834,-0.9571,BBC,2023-05-01,8
+1,"Tom Brady sends his love to former Tampa Bay Buccaneers teammate Shaq Barrett whose two-year-old daughter drowned in swimming pool at home 
+",https://www.dailymail.co.uk/sport/nfl/article-12031701/Shaq-Barretts-two-year-old-daughter-drowned-home-swimming-pool.html,0,0.212,0.092,0.695,0.998,Daily Mail,2023-05-01,8
+2,"Come back bud! Indiana bar pleads for customers to return after telling them they were not welcome for speaking out against trans Dylan Mulvaney Bud Light partnership
+",https://www.dailymail.co.uk/news/article-12031387/Indiana-bar-asks-customers-return-banning-criticism-Dylan-Mulvaney-Bud-Light-partnership.html,1,0.076,0.096,0.827,-0.9669,Daily Mail,2023-05-01,8
+3,"Millie Bobby Brown can't keep her eyes off her fiancé Jake Bongiovi as they arrive in Milan... before she attempts a hilarious disguise 
+",https://www.dailymail.co.uk/tvshowbiz/article-12027109/Millie-Bobby-Brown-cuts-casual-figure-tracksuit-steps-Jake-Bongiovi-Milan.html,2,0.119,0.004,0.877,0.9956,Daily Mail,2023-05-01,8
+4,"'How can I fix this?' Meghan Markle's father says he is 'open to any kind of conversation' to repair his relationship with the Duchess who he claims had 'killed him and then mourned him'
+",https://www.dailymail.co.uk/news/article-12030517/Meghan-teenage-homecoming-queen-Unseen-footage-duchess-shared-estranged-family.html,3,0.099,0.079,0.822,0.9808,Daily Mail,2023-05-01,8
+5,"Bud Light is now accused of 'cowardice' for turning off YouTube comments on new 'countrified' commercial - and is slammed for 'pandering' to customers lost during Dylan Mulvaney fiasco
+",https://www.dailymail.co.uk/news/article-12030891/Bud-Light-accused-cowardice-turning-YouTube-comments-new-commercial-set-heartlands.html,4,0.106,0.107,0.787,0.3965,Daily Mail,2023-05-01,8
+6,"Kendall Jenner puts on sultry display in a sheer cropped top and VERY short miniskirt with new love Bad Bunny as they enjoy a dinner date at Carbone in New York City
+",https://www.dailymail.co.uk/tvshowbiz/article-12030309/Kendall-Jenner-puts-sultry-display-rumored-boyfriend-Bad-Bunny-dinner-date-NYC.html,5,0.119,0.026,0.855,0.9979,Daily Mail,2023-05-01,8
+7,"Child actor who played minor role in Titanic when he was just 5 reveals he STILL gets royalty cheques for his part in the classic 1998 film 
+",https://www.dailymail.co.uk/tvshowbiz/article-12030643/Child-actor-played-minor-role-Titanic-gets-royalty-cheques.html,6,0.097,0.063,0.84,0.9163,Daily Mail,2023-05-01,8
+8,"Brutal twister picks up car and hurls it across road - as the tornado cuts devastating swathe through Palm Beach in Florida
+",https://www.dailymail.co.uk/news/article-12029675/Brutal-tornado-tosses-car-blows-path-lashes-Palm-Beach.html,7,0.053,0.101,0.846,-0.961,Daily Mail,2023-05-01,8
+9,"'I knew the risks': Whistleblower executive who handed feds 150,000 docs about Trump's Truth Social now works as Starbucks barista for $16 an hour
+",https://www.dailymail.co.uk/news/article-12029913/Whistleblower-handed-feds-150000-docs-Trump-Truth-Social-works-Starbucks-barista-16-hour.html,8,0.112,0.098,0.789,0.8215,Daily Mail,2023-05-01,8
+10,"Tim Bachman dead at 71: Bachman-Turner Overdrive guitarist passes following complications with cancer... three months after brother Robbie
+",https://www.dailymail.co.uk/tvshowbiz/article-12031821/Tim-Bachman-Bachman-Turner-Overdrive-dead-71-following-complications-cancer.html,9,0.109,0.055,0.835,0.9763,Daily Mail,2023-05-01,8
+1,UK households missing out on £19bn a year in unclaimed welfare benefits,https://www.theguardian.com/society/2023/apr/30/uk-households-missing-out-on-19bn-a-year-in-unclaimed-welfare-benefits,0,0.196,0.097,0.707,0.9994,Guardian,2023-05-01,8
+2, ‘Find this man!’: Rita Ora blown away by Australian trade consul’s viral ‘worm’ dance moves,https://www.theguardian.com/australia-news/2023/may/01/natasha-stott-despojas-husband-goes-viral-with-the-worm-dance-moves-at-rita-ora-event,1,0.169,0.01,0.821,0.9966,Guardian,2023-05-01,8
+3,Frankie Boyle’s Farewell to the Monarchy review – looks like he’s blown his chance of an OBE,https://www.theguardian.com/tv-and-radio/2023/apr/30/frankie-boyles-farewell-to-the-monarchy-review-looks-like-hes-blown-his-chance-of-an-obe,2,0.084,0.05,0.866,0.9861,Guardian,2023-05-01,8
+4,"Jock Zonfrillo, MasterChef Australia judge and chef, dies aged 46",https://www.theguardian.com/tv-and-radio/2023/may/01/jock-zonfrillo-death-masterchef-australia-judge-chef-dies-aged-46,3,0.123,0.11,0.767,0.9711,Guardian,2023-05-01,8
+5,Teachers asked to chip in £1 each for legal case against Ofsted,https://www.theguardian.com/education/2023/may/01/teachers-asked-to-chip-in-1-each-for-legal-case-against-ofsted,4,0.062,0.112,0.826,-0.9933,Guardian,2023-05-01,8
+6,TV tonight: a powerful end to one of the best new cop shows in ages,https://www.theguardian.com/tv-and-radio/2023/may/01/tv-tonight-a-powerful-end-to-one-of-the-best-new-cop-shows-in-ages,5,0.125,0.031,0.844,0.9936,Guardian,2023-05-01,8
+7,Adidas shareholders launch class action lawsuit over Kanye West brand Yeezy,https://www.theguardian.com/music/2023/may/01/adidas-shareholders-launch-class-action-lawsuit-over-kanye-west-brand-yeezy-shoes,6,0.068,0.137,0.794,-0.9926,Guardian,2023-05-01,8
+8,"Anthony Seldon on Boris Johnson: ‘At his heart, he is extraordinarily empty’",https://www.theguardian.com/books/2023/apr/30/anthony-seldon-boris-johnson-at-10-biography-interview,7,0.085,0.126,0.789,-0.9991,Guardian,2023-05-01,8
+9,Russia-Ukraine war live: Ukraine’s air defences shoot down 15 Russian missiles during wave of early morning strikes,https://www.theguardian.com/world/live/2023/may/01/russia-ukraine-war-live-air-raid-sirens-in-kyiv-and-across-ukraine-as-officials-warn-of-missile-threat,8,0.083,0.087,0.83,-0.942,Guardian,2023-05-01,8
+10,A new start after 60: we planned a quiet retirement – but ended up fighting food poverty,https://www.theguardian.com/lifeandstyle/2023/may/01/a-new-start-after-60-we-planned-a-quiet-retirement-but-ended-up-fighting-food-poverty,9,0.142,0.068,0.791,0.9977,Guardian,2023-05-01,8
