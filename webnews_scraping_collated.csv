@@ -4479,3 +4479,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Serena Williams announces pregnancy on Met Gala red carpet,https://www.theguardian.com/sport/2023/may/02/serena-williams-announces-pregnancy-on-met-gala-red-carpet,7,0.104,0.012,0.885,0.9695,Guardian,2023-05-02,8
 9,Woman stabbed to death in broad daylight in Brixton ,https://www.theguardian.com/uk-news/2023/may/01/woman-stabbed-to-death-in-brixton,8,0.046,0.098,0.856,-0.9694,Guardian,2023-05-02,8
 10,Andrew: The Problem Prince review – a deliciously vicious reminder of the dire state of the monarchy,https://www.theguardian.com/tv-and-radio/2023/may/01/andrew-the-problem-prince-review-a-deliciously-vicious-reminder-of-the-dire-state-of-the-monarchy,9,0.128,0.051,0.821,0.9969,Guardian,2023-05-02,8
+1,Seven bodies found in US search for missing teens,https://www.bbc.co.uk/news/world-us-canada-65455526,0,0.047,0.13,0.823,-0.9899,BBC,2023-05-02,20
+2,"1,500 US troops to be deployed to US-Mexico border",https://www.bbc.co.uk/news/world-us-canada-65461821,1,0.073,0.044,0.884,0.8315,BBC,2023-05-02,20
+3,The 17 most eye-catching looks at the Met Gala,https://www.bbc.co.uk/news/entertainment-arts-65413976,2,0.121,0.021,0.858,0.9996,BBC,2023-05-02,20
+4,Second train derailment in Russian border region,https://www.bbc.co.uk/news/world-europe-65458847,3,0.008,0.106,0.887,-0.9451,BBC,2023-05-02,20
+5,'Nothing we can do but watch babies die': Desperation in Afghan hospitals,https://www.bbc.co.uk/news/world-asia-65449259,4,0.041,0.133,0.826,-0.9994,BBC,2023-05-02,20
+6,Messi suspended by PSG over Saudi Arabia trip,https://www.bbc.co.uk/sport/football/65461978,5,0.0,0.0,0.0,0.0,BBC,2023-05-02,20
+7,US lawmaker goes viral after shirtless Zoom meeting,https://www.bbc.co.uk/news/world-us-canada-65433096,6,0.037,0.054,0.91,-0.5831,BBC,2023-05-02,20
+8,Loneliness as dangerous as smoking - US official,https://www.bbc.co.uk/news/world-us-canada-65461723,7,0.044,0.142,0.814,-0.9863,BBC,2023-05-02,20
+9,Covid whistleblower returns home to Wuhan after jail,https://www.bbc.co.uk/news/world-asia-china-65454824,8,0.087,0.105,0.808,-0.9203,BBC,2023-05-02,20
+10,AI chatbots 'may soon be more intelligent than us',https://www.bbc.co.uk/news/world-us-canada-65452940,9,0.106,0.068,0.826,0.9935,BBC,2023-05-02,20
+1,"Heartbreaking final picture shows newlywed bride beaming alongside husband just minutes before she was killed when drunk driver crashed into golf cart she left wedding reception in: Groom is in critical condition
+",https://www.dailymail.co.uk/news/article-12034245/Final-picture-shows-newlywed-bride-groom-just-minutes-killed-drunk-driver.html,0,0.075,0.135,0.79,-0.9906,Daily Mail,2023-05-02,20
+2,"The Met Gala's heavenly bodies! Kim Kardashian wears jaw-dropping pearl dress as she joins pregnant Rihanna, angelic Gisele and bombshell Emily Ratajkowski on the red carpet for fashion's biggest night to honor the late Karl Lagerfeld
+",https://www.dailymail.co.uk/tvshowbiz/article-12034877/Met-Gala-2023-Best-dressed-stars-hit-red-carpet.html,1,0.094,0.045,0.861,0.9979,Daily Mail,2023-05-02,20
+3,"Kendall Jenner frees the nipple in a VERY revealing bodysuit to party with new beau Bad Bunny as braless Olivia Wilde, Rita Ora and Emily Ratajkowski don their raciest looks yet for the star-studded Met Gala bash
+",https://www.dailymail.co.uk/tvshowbiz/article-12036215/Kendall-Jenner-sizzles-sheer-bodysuit-new-beau-Bad-Bunny-head-Met-Gala-party.html,2,0.1,0.014,0.886,0.9994,Daily Mail,2023-05-02,20
+4,"Baring it all! Janelle Monáe leads the worst-dressed list at the 2023 Met Gala in BIZARRE nearly-naked frock - while Lil Nas opts for bold spray-painted look 
+",https://www.dailymail.co.uk/femail/article-12034815/Met-Gala-2023-worst-dressed-celebrities.html,3,0.043,0.066,0.89,-0.8921,Daily Mail,2023-05-02,20
+5,"Inside the Met Gala 2023: Kim Kardashian's ex Pete Davidson looks giddy as they REUNITE at A-list party while wild cat Jared Leto paws up to Kendall and Kylie Jenner 
+",https://www.dailymail.co.uk/tvshowbiz/article-12035949/Inside-Met-Gala-2023-Kim-Kardashian-BDE-ex-Pete-Davidson-REUNITE.html,4,0.119,0.022,0.859,0.9974,Daily Mail,2023-05-02,20
+6,"Hunter Biden and his lawyers are ripped into by Arkansas judge for 'sealing and redacting' his financial information - as he faces his baby mama in court over payments for four-year-old daughter 
+",https://www.dailymail.co.uk/news/article-12035297/Hunter-Biden-ripped-Arkansas-judge-sealing-redacting-financial-info.html,5,0.068,0.071,0.861,-0.3877,Daily Mail,2023-05-02,20
+7,"Shocking moment mob of ninth-grade students viciously attack female assistant principal after she tried to break up a fight in the hallway, leaving her hospitalized with head injuries and unable to talk
+",https://www.dailymail.co.uk/news/article-12034345/Shocking-moment-mob-ninth-grade-students-viciously-attack-female-assistant-principal.html,6,0.042,0.131,0.826,-0.993,Daily Mail,2023-05-02,20
+8,"Serena Williams is pregnant again! Tennis legend, 41, debuts her new baby bump as she and husband Alexis Ohanian stun at the Met Gala
+",https://www.dailymail.co.uk/tvshowbiz/article-12035531/Met-Gala-2023-Serena-Williams-debuts-pregnancy-number-two-husband-Alexis-Ohanian.html,7,0.095,0.013,0.892,0.997,Daily Mail,2023-05-02,20
+9,"Chocolate lovers delight after learning the secret drama behind M&M's - and what the name actually stands for
+",https://www.dailymail.co.uk/femail/article-12036687/Chocolate-lovers-delight-learning-M-Ms-got-name.html,8,0.142,0.048,0.811,0.9938,Daily Mail,2023-05-02,20
+10,"Drunk driver, 25, who crashed into newlyweds killing the bride the night of her wedding REFUSED sobriety test and told cops she only had TWO drinks - but said she was an eight out of 10 on the 'impairment scale' 
+",https://www.dailymail.co.uk/news/article-12035667/Drunk-driver-crashed-SC-newlyweds-wedding-night-said-two-drinks.html,9,0.075,0.163,0.762,-0.9988,Daily Mail,2023-05-02,20
+1,Putin claims he’s cancelling public celebrations over safety fears. The truth is more humiliating,https://www.theguardian.com/commentisfree/2023/may/02/putin-cancelling-public-celebrations-safety-fears-ukraine-war,0,0.065,0.228,0.707,-0.9996,Guardian,2023-05-02,20
+2,Findings on Sue Gray departure held up after her refusal to cooperate,https://www.theguardian.com/politics/2023/may/02/government-puts-inquiry-into-sue-gray-departure-on-hold,1,0.041,0.052,0.906,-0.7783,Guardian,2023-05-02,20
+3,‘The bedrock of my life’: Michael Palin announces the death of his wife Helen,https://www.theguardian.com/culture/2023/may/02/the-bedrock-of-my-life-michael-palin-announces-the-death-of-his-wife-helen,2,0.068,0.054,0.879,0.7257,Guardian,2023-05-02,20
+4,Anti-monarchists receive ‘intimidatory’ Home Office letter on new protest laws,https://www.theguardian.com/politics/2023/may/02/anti-monarchists-receive-intimidatory-home-office-letter-on-new-protest-laws-coronation,3,0.089,0.14,0.771,-0.9899,Guardian,2023-05-02,20
+5,Arsenal v Chelsea: Premier League – live,https://www.theguardian.com/football/live/2023/may/02/arsenal-v-chelsea-premier-league-live-score-updates,4,0.136,0.074,0.789,0.9995,Guardian,2023-05-02,20
+6,"Alfie Steele, nine, ‘endured a life no child should lead’, murder trial told",https://www.theguardian.com/uk-news/2023/may/02/alfie-steele-nine-endured-a-life-no-child-should-lead-trial-told,5,0.025,0.181,0.794,-0.9988,Guardian,2023-05-02,20
+7,Starmer goes quantum with Schrödinger’s tuition fees,https://www.theguardian.com/politics/2023/may/02/keir-starmer-labour-tuition-fees-politics-sketch,6,0.099,0.114,0.787,-0.9775,Guardian,2023-05-02,20
+8,French minister’s steamy novel turns up heat on Macron,https://www.theguardian.com/world/2023/may/02/french-minister-bruno-le-maire-steamy-novel-turns-up-heat-on-macron,7,0.074,0.062,0.863,0.8496,Guardian,2023-05-02,20
+9,Suffering of gassed pigs laid bare in undercover footage from UK abattoir,https://www.theguardian.com/environment/2023/may/02/suffering-of-gassed-pigs-laid-bare-in-undercover-footage-from-uk-abattoir,8,0.115,0.092,0.794,0.971,Guardian,2023-05-02,20
+10,Lucy Letby trial: nurse ‘devastated’ to hear she was accused of murdering babies,https://www.theguardian.com/uk-news/2023/may/02/lucy-letby-trial-nurse-devastated-to-hear-she-was-accused-of-murdering-babies,9,0.051,0.107,0.842,-0.991,Guardian,2023-05-02,20
