@@ -4439,3 +4439,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Leicester City v Everton: Premier League – live,https://www.theguardian.com/football/live/2023/may/01/leicester-city-v-everton-premier-league-live,7,0.158,0.062,0.78,0.9997,Guardian,2023-05-01,20
 9,‘Cost of eating’ crisis: price of school lunches up by a third in parts of England,https://www.theguardian.com/education/2023/may/01/cost-of-eating-crisis-price-of-school-lunches-rise-by-third-in-parts-of-england-since-2019,8,0.114,0.048,0.837,0.9906,Guardian,2023-05-01,20
 10,"Arsenal 2-3 Wolfsburg (aet; 4-5 on agg): Women’s Champions League semi-final, second leg – as it happened",https://www.theguardian.com/football/live/2023/may/01/arsenal-v-wolfsburg-women-champions-league-semi-final-second-leg-live,9,0.229,0.068,0.703,0.9998,Guardian,2023-05-01,20
+1,AI chatbots 'may soon be more intelligent than us',https://www.bbc.co.uk/news/world-us-canada-65452940,0,0.104,0.1,0.796,0.8048,BBC,2023-05-02,8
+2,The 17 most eye-catching looks at the Met Gala,https://www.bbc.co.uk/news/entertainment-arts-65413976,1,0.125,0.022,0.853,0.9996,BBC,2023-05-02,8
+3,Serena Williams announces pregnancy at Met Gala,https://www.bbc.co.uk/news/world-us-canada-65454210,2,0.093,0.02,0.886,0.9507,BBC,2023-05-02,8
+4,Why YouTube is mad at Canada,https://www.bbc.co.uk/news/world-us-canada-65420133,3,0.103,0.051,0.847,0.9965,BBC,2023-05-02,8
+5,Shooting suspect was deported four times - US media,https://www.bbc.co.uk/news/world-us-canada-65447378,4,0.071,0.121,0.808,-0.9902,BBC,2023-05-02,8
+6,Met Gala 2023: Stars celebrate Karl Lagerfeld,https://www.bbc.co.uk/news/world-us-canada-65452442,5,0.066,0.034,0.899,0.9657,BBC,2023-05-02,8
+7,New record as 4.56m Indians take flights in a day,https://www.bbc.co.uk/news/world-asia-india-65334390,6,0.05,0.03,0.92,0.1176,BBC,2023-05-02,8
+8,"Russia troop deaths hit 20,000 in five months - US",https://www.bbc.co.uk/news/world-europe-65451487,7,0.055,0.188,0.757,-0.9982,BBC,2023-05-02,8
+9,Japan to ban upskirting in stronger sex crime laws,https://www.bbc.co.uk/news/world-asia-pacific-65453384,8,0.071,0.124,0.805,-0.984,BBC,2023-05-02,8
+10,Palestinian hunger striker dies in Israel prison,https://www.bbc.co.uk/news/world-middle-east-65452946,9,0.033,0.317,0.649,-0.9973,BBC,2023-05-02,8
+1,"Heartbreaking final picture shows newlywed bride beaming alongside husband just minutes before she was killed when drunk driver crashed into golf cart she left wedding reception in: Groom is in critical condition
+",https://www.dailymail.co.uk/news/article-12034245/Final-picture-shows-newlywed-bride-groom-just-minutes-killed-drunk-driver.html,0,0.075,0.135,0.79,-0.9906,Daily Mail,2023-05-02,8
+2,"The Met Gala's heavenly bodies! Kim Kardashian wears jaw-dropping pearl dress as she joins pregnant Rihanna, angelic Gisele and bombshell Emily Ratajkowski on the red carpet for fashion's biggest night to honor the late Karl Lagerfeld
+",https://www.dailymail.co.uk/tvshowbiz/article-12034877/Met-Gala-2023-Best-dressed-stars-hit-red-carpet.html,1,0.094,0.045,0.861,0.9979,Daily Mail,2023-05-02,8
+3,"A musical climax! Mystery scream during packed Tchaikovsky concert in LA was female audience member experiencing 'full body orgasm' 
+",https://www.dailymail.co.uk/news/article-12032383/Moment-concertgoer-lets-body-orgasm-listening-Tchaikovskys-symphony-performance.html,2,0.104,0.046,0.849,0.9934,Daily Mail,2023-05-02,8
+4,"Baring it all! Janelle Monáe leads the worst-dressed list at the 2023 Met Gala in BIZARRE nearly-naked frock - while Cara Delevingne opts for VERY low-cut gown
+",https://www.dailymail.co.uk/femail/article-12034815/Met-Gala-2023-worst-dressed-celebrities.html,3,0.041,0.061,0.898,-0.8688,Daily Mail,2023-05-02,8
+5,"'I'm no deadbeat dad!' Hunter Biden claims he's paid Lunden Roberts $750k - $20,000 a month - in child support as the former lovers face off in Arkansas court over payments for four-year-old daughter
+",https://www.dailymail.co.uk/news/article-12033555/Hunter-Biden-arrives-Arkansas-court-face-baby-mama-Lunden-Roberts.html,4,0.077,0.069,0.853,0.7069,Daily Mail,2023-05-02,8
+6,"Top $76,000-a-year New Jersey boarding school admits 'more should have been done' to stop bullying of boy, 17, who took his own life after being falsely accused of rape for a year by cruel peers 
+",https://www.dailymail.co.uk/news/article-12032195/76-000-New-Jersey-boarding-school-admits-extraordinary-admission-failure-boy-kills-himself.html,5,0.115,0.161,0.724,-0.9991,Daily Mail,2023-05-02,8
+7,"Bud Light is now accused of 'cowardice' for turning off YouTube comments on new 'countrified' commercial - and is slammed for 'pandering' to customers lost during Dylan Mulvaney fiasco
+",https://www.dailymail.co.uk/news/article-12030891/Bud-Light-accused-cowardice-turning-YouTube-comments-new-commercial-set-heartlands.html,6,0.106,0.107,0.787,0.3965,Daily Mail,2023-05-02,8
+8,"Serena Williams is pregnant again! Tennis legend, 41, debuts her new baby bump as she and husband Alexis Ohanian stun at the Met Gala
+",https://www.dailymail.co.uk/tvshowbiz/article-12035531/Met-Gala-2023-Serena-Williams-debuts-pregnancy-number-two-husband-Alexis-Ohanian.html,7,0.095,0.013,0.892,0.997,Daily Mail,2023-05-02,8
+9,"Met Gala 2023 recap: Rihanna, Dua Lipa and Margot Robbie party the night away after stars stunned on the red carpet - in honor of Karl Lagerfeld 
+",https://www.dailymail.co.uk/news/live/article-12034499/Met-Gala-2023-live-latest-updates-biggest-night-fashion.html,8,0.08,0.037,0.883,0.9977,Daily Mail,2023-05-02,8
+10,"'Truly inhumane': Family of six-year-old girl strangled, stuffed in chorine drum and dumped on mom's lawn 'by dad's girlfriend' say 'senseless and heinous act has forever destroyed us' 
+",https://www.dailymail.co.uk/news/article-12031975/Louisiana-girl-6-dead-stuffed-inside-bucket-left-mothers-lawn.html,9,0.075,0.089,0.835,-0.739,Daily Mail,2023-05-02,8
+1,‘Godfather of AI’ Geoffrey Hinton quits Google and warns over dangers of misinformation,https://www.theguardian.com/technology/2023/may/02/geoffrey-hinton-godfather-of-ai-quits-google-warns-dangers-of-machine-learning,0,0.083,0.053,0.863,0.9656,Guardian,2023-05-02,8
+2,‘My body felt like it was giving up’: Busted’s Matt Willis on the addictions that nearly destroyed him,https://www.theguardian.com/music/2023/may/02/my-body-felt-like-it-was-giving-up-busteds-matt-willis-on-the-addictions-that-nearly-destroyed-him,1,0.112,0.087,0.8,0.9981,Guardian,2023-05-02,8
+3,"Russia-Ukraine war live: 100,000 Russian troops killed or injured in eastern offensive failures, says US",https://www.theguardian.com/world/live/2023/may/02/russia-ukraine-war-live-100000-russian-troops-killed-or-injured-in-eastern-offensive-failures-says-us,2,0.054,0.149,0.797,-0.9996,Guardian,2023-05-02,8
+4,"Gove and Hunt, beware: true-blue Surrey is ready to turf out the Tories – and you’re next ",https://www.theguardian.com/commentisfree/2023/may/02/gove-hunt-beware-surrey-turf-out-tories-conservatives,3,0.084,0.093,0.824,-0.8987,Guardian,2023-05-02,8
+5,Man dies after getting stuck in cave at indoor climbing centre in Lake District,https://www.theguardian.com/uk-news/2023/may/01/carl-okeeffe-dies-cave-at-kong-adventure-centre-lake-district,4,0.109,0.065,0.826,0.9387,Guardian,2023-05-02,8
+6,Met Gala 2023 red carpet: celebrating Karl Lagerfeld – in pictures,https://www.theguardian.com/fashion/gallery/2023/may/02/met-gala-2023-red-carpet-celebrating-karl-lagerfield-in-pictures,5,0.0,0.0,0.0,0.0,Guardian,2023-05-02,8
+7,Bride killed moments after wedding by alleged drunk driver who hit golf cart,https://www.theguardian.com/us-news/2023/may/01/bride-killed-alleged-drunk-driver-moments-after-wedding,6,0.019,0.144,0.837,-0.9895,Guardian,2023-05-02,8
+8,Serena Williams announces pregnancy on Met Gala red carpet,https://www.theguardian.com/sport/2023/may/02/serena-williams-announces-pregnancy-on-met-gala-red-carpet,7,0.104,0.012,0.885,0.9695,Guardian,2023-05-02,8
+9,Woman stabbed to death in broad daylight in Brixton ,https://www.theguardian.com/uk-news/2023/may/01/woman-stabbed-to-death-in-brixton,8,0.046,0.098,0.856,-0.9694,Guardian,2023-05-02,8
+10,Andrew: The Problem Prince review – a deliciously vicious reminder of the dire state of the monarchy,https://www.theguardian.com/tv-and-radio/2023/may/01/andrew-the-problem-prince-review-a-deliciously-vicious-reminder-of-the-dire-state-of-the-monarchy,9,0.128,0.051,0.821,0.9969,Guardian,2023-05-02,8
