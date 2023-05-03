@@ -4559,3 +4559,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Oligarch funded Everton football club while barred from UK,https://www.theguardian.com/business/2023/may/03/oligarch-funded-everton-football-club-while-barred-from-uk-alisher-usmanov,7,0.075,0.062,0.863,0.8831,Guardian,2023-05-03,8
 9,Anti-monarchists receive ‘intimidatory’ Home Office letter on new protest laws,https://www.theguardian.com/politics/2023/may/02/anti-monarchists-receive-intimidatory-home-office-letter-on-new-protest-laws-coronation,8,0.089,0.14,0.771,-0.9899,Guardian,2023-05-03,8
 10,"Collapse at Arsenal sums up Chelsea’s deathly, pointless celebrity product",https://www.theguardian.com/football/2023/may/03/chelsea-frank-lampard-arsenal-premier-league,9,0.1,0.139,0.761,-0.9945,Guardian,2023-05-03,8
+1,US raises interest rates to highest in 16 years,https://www.bbc.co.uk/news/business-65474456,0,0.065,0.046,0.889,0.8847,BBC,2023-05-03,20
+2,Zelensky denies Ukraine attacked Putin or Moscow,https://www.bbc.co.uk/news/world-europe-65471904,1,0.049,0.129,0.821,-0.997,BBC,2023-05-03,20
+3,Man dies after being put in chokehold on NYC subway,https://www.bbc.co.uk/news/world-us-canada-65472810,2,0.024,0.073,0.903,-0.9341,BBC,2023-05-03,20
+4,Canadian man charged over selling lethal substance,https://www.bbc.co.uk/news/world-us-canada-65472806,3,0.017,0.13,0.854,-0.995,BBC,2023-05-03,20
+5,Relaxed-looking King joins Coronation rehearsal,https://www.bbc.co.uk/news/in-pictures-65474812,4,0.119,0.0,0.881,0.9427,BBC,2023-05-03,20
+6,New Alzheimer's drug slows disease by a third,https://www.bbc.co.uk/news/health-65471914,5,0.094,0.072,0.833,0.9306,BBC,2023-05-03,20
+7,Teen made 'kill list' for Serbia school attack,https://www.bbc.co.uk/news/world-europe-65468404,6,0.045,0.174,0.78,-0.9981,BBC,2023-05-03,20
+8,The WW1 tech helping Ukraine trick Russian forces,https://www.bbc.co.uk/news/world-europe-65458263,7,0.059,0.147,0.794,-0.9977,BBC,2023-05-03,20
+9,Row over Met Gala's Karl Lagerfeld tribute,https://www.bbc.co.uk/news/entertainment-arts-65469466,8,0.103,0.071,0.826,0.9835,BBC,2023-05-03,20
+10,Putin assassination claim: Embarrassing failure for Moscow?,https://www.bbc.co.uk/news/world-europe-65476085,9,0.041,0.162,0.797,-0.9972,BBC,2023-05-03,20
+1,"Yellowstone star Kevin Costner left heartbroken as his second wife Christine files for DIVORCE after 18 years of marriage and three children citing 'irreconcilable differences' 
+",https://www.dailymail.co.uk/tvshowbiz/article-12039841/Kevin-Costners-wife-Christine-Baumgartner-files-DIVORCE-18-years-marriage.html,0,0.081,0.061,0.857,0.9939,Daily Mail,2023-05-03,20
+2,"Two children aged TEN are discovered working unpaid shifts at Kentucky McDonald's, where one illegally used deep fryer and both prepared meals while serving customers 
+",https://www.dailymail.co.uk/news/article-12039417/Hundreds-children-discovered-Kentucky-McDonalds-chain-faces-federal-fines.html,1,0.081,0.057,0.861,0.9739,Daily Mail,2023-05-03,20
+3,"EXCLUSIVE: Drunk driver, 25, who mowed down and killed bride hours after wedding is pictured dressed as 'BUD LIGHTYEAR', as it's claimed she is now on suicide watch in South Carolina jail
+",https://www.dailymail.co.uk/news/article-12038751/Drunk-driver-killed-bride-hours-wedding-pictured-dressed-BUD-LIGHT.html,2,0.054,0.148,0.798,-0.9974,Daily Mail,2023-05-03,20
+4,"American Idol judge shake-up: Two very popular singers (one British and one Canadian) to temporarily replace Katy Perry and Lionel Richie as they complete their Coronation duties - can you guess who?
+",https://www.dailymail.co.uk/tvshowbiz/article-12038049/American-Idol-judge-shake-Two-popular-singers-temporarily-replace-Katy-Perry-Lionel-Richie.html,3,0.074,0.004,0.921,0.9894,Daily Mail,2023-05-03,20
+5,"'People who pretend to be happy have some of the saddest souls': Family of US track and field star Tori Bowie share their grief after she was found dead at Florida home aged 32
+",https://www.dailymail.co.uk/sport/othersports/article-12041989/Tori-Bowie-track-field-athlete-dies-aged-32.html,4,0.158,0.073,0.77,0.9986,Daily Mail,2023-05-03,20
+6,"Gwyneth Paltrow spills the beans on her A-lister exes Brad Pitt and Ben Affleck revealing who was 'better in bed' and who was the 'best kisser'
+",https://www.dailymail.co.uk/tvshowbiz/article-12041267/Gwyneth-Paltrow-compares-lister-exes-Brad-Pitt-Ben-Affleck-bed.html,5,0.226,0.05,0.724,0.9989,Daily Mail,2023-05-03,20
+7,"Kevin Costner wears wedding ring as he cuddles women in Vegas just one day before his wife filed for divorce - after she told him to QUIT Yellowstone because he worked too much... but actor took on new Western project and may still star in hit show 
+",https://www.dailymail.co.uk/news/article-12039929/Kevin-Costners-wife-filed-divorce-just-months-telling-QUIT-Yellowstone.html,6,0.119,0.036,0.845,0.9994,Daily Mail,2023-05-03,20
+8,"Nordstrom shuts down BOTH stores in crime-ridden San Francisco - as Target locks entire product range behind security glass and Whole Foods store is shuttered
+",https://www.dailymail.co.uk/news/article-12040365/Nordstrom-shuts-stores-San-Francisco-bosses-blame-changing-city-dynamics.html,7,0.063,0.104,0.833,-0.9909,Daily Mail,2023-05-03,20
+9,"Is this the Navy's Dylan Mulvaney moment? Drag performer Harpy Daniels is Navy's new 'digital ambassador' in bid to boost recruitment that's set to fall short by 8,000
+",https://www.dailymail.co.uk/news/article-12039863/U-S-Navy-turning-drag-performer-Harpy-Daniels-digital-ambassador.html,8,0.09,0.061,0.849,0.9746,Daily Mail,2023-05-03,20
+10,"Thongs, fakery and haute-couture filth... The Met is now just desperate Z-listers peddling flesh - and Wintour's reign of terror is dead: MAUREEN CALLAHAN's wickedly barbed takedown
+",https://www.dailymail.co.uk/news/article-12038933/CALLAHAN-Met-just-desperate-Z-listers-peddling-flesh-Wintours-reign-terror-dead.html,9,0.079,0.133,0.787,-0.998,Daily Mail,2023-05-03,20
+1,Essex pub that displayed racist dolls closes after boycott by suppliers,https://www.theguardian.com/uk-news/2023/may/03/essex-pub-that-displayed-racist-dolls-closes-after-boycott-by-suppliers,0,0.047,0.121,0.832,-0.994,Guardian,2023-05-03,20
+2,"Revealed: senior Tory MP was paid £2,000 a month by lobbying firm",https://www.theguardian.com/politics/2023/may/03/revealed-bim-afolami-tory-mp-was-paid-2000-a-month-by-lobbying-firm,1,0.129,0.025,0.846,0.9986,Guardian,2023-05-03,20
+3,God save us all: Britain is about to get the king it deserves,https://www.theguardian.com/uk-news/2023/may/03/king-charles-iii-coronation-canada-britain,2,0.129,0.072,0.799,0.9999,Guardian,2023-05-03,20
+4,"New Alzheimer’s drug slows cognitive decline by 35%, trial results show",https://www.theguardian.com/society/2023/may/03/new-alzheimers-drug-slows-cognitive-decline-by-35-trial-results-show,3,0.079,0.029,0.892,0.9864,Guardian,2023-05-03,20
+5,Italian historian claims to have identified bridge in Mona Lisa backdrop,https://www.theguardian.com/artanddesign/2023/may/03/italian-historian-claims-to-have-identified-bridge-in-mona-lisa-backdrop,4,0.051,0.024,0.925,0.945,Guardian,2023-05-03,20
+6,Former world and Olympic sprint champion Tori Bowie dies at 32,https://www.theguardian.com/sport/2023/may/03/tori-bowie-dies-age-32-olympic-world-athletics-championships-100m-champion,5,0.125,0.025,0.85,0.9915,Guardian,2023-05-03,20
+7,"An image that should never have been published, and lessons that must be learned",https://www.theguardian.com/commentisfree/2023/may/03/image-published-bbc-richard-sharp-guardian-cartoon-martin-rowson,6,0.078,0.105,0.817,-0.9904,Guardian,2023-05-03,20
+8,Elite UK schools’ financial links to slavery revealed,https://www.theguardian.com/world/2023/may/03/elite-uk-schools-financial-links-to-slavery-revealed,7,0.064,0.106,0.83,-0.995,Guardian,2023-05-03,20
+9,‘Are the police too PC?’ How daytime TV became a hotbed of rightwing politics,https://www.theguardian.com/tv-and-radio/2023/may/03/police-pc-daytime-tv-hotbed-right-wing-politics-culture-war,8,0.082,0.106,0.812,-0.9851,Guardian,2023-05-03,20
+10,Rishi Sunak sends MPs away with a flurry of fibs at PMQs,https://www.theguardian.com/politics/2023/may/03/rish-marks-new-government-drive-with-flurry-of-fibs-at-pmqs,9,0.113,0.065,0.822,0.9936,Guardian,2023-05-03,20
