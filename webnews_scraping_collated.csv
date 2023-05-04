@@ -4639,3 +4639,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Former world and Olympic sprint champion Tori Bowie dies at 32,https://www.theguardian.com/sport/2023/may/03/tori-bowie-dies-age-32-olympic-world-athletics-championships-100m-champion,7,0.125,0.025,0.85,0.9915,Guardian,2023-05-04,8
 9,Awaken your senses! How to bring your body back to life,https://www.theguardian.com/lifeandstyle/2023/may/04/awaken-your-senses-how-to-bring-your-body-back-to-life,8,0.194,0.059,0.748,0.9999,Guardian,2023-05-04,8
 10,Essex pub that displayed racist dolls closes after boycott by suppliers,https://www.theguardian.com/uk-news/2023/may/03/essex-pub-that-displayed-racist-dolls-closes-after-boycott-by-suppliers,9,0.047,0.121,0.832,-0.994,Guardian,2023-05-04,8
+1,Ed Sheeran wins Thinking Out Loud copyright case,https://www.bbc.co.uk/news/entertainment-arts-65480293,0,0.121,0.068,0.811,0.9891,BBC,2023-05-04,20
+2,Top US judge under fresh scrutiny over school fees,https://www.bbc.co.uk/news/world-us-canada-65472812,1,0.163,0.042,0.795,0.9979,BBC,2023-05-04,20
+3,Four Proud Boys guilty of seditious conspiracy,https://www.bbc.co.uk/news/world-us-canada-65307770,2,0.068,0.227,0.706,-0.9997,BBC,2023-05-04,20
+4,Prince William and Kate drop into a Soho pub,https://www.bbc.co.uk/news/uk-65481184,3,0.068,0.052,0.88,0.9041,BBC,2023-05-04,20
+5,Trump denies ever knowing rape accuser,https://www.bbc.co.uk/news/world-us-canada-65486437,4,0.035,0.132,0.833,-0.9902,BBC,2023-05-04,20
+6,US denies masterminding Moscow drone attack,https://www.bbc.co.uk/news/world-europe-65485960,5,0.049,0.203,0.747,-0.9982,BBC,2023-05-04,20
+7,Italian uproar at French 'insults' on migration,https://www.bbc.co.uk/news/world-asia-pacific-65486270,6,0.062,0.067,0.871,-0.6552,BBC,2023-05-04,20
+8,New York subway chokehold death sparks protests,https://www.bbc.co.uk/news/world-us-canada-65477564,7,0.039,0.113,0.848,-0.9879,BBC,2023-05-04,20
+9,Carrie Fisher family row eclipses Hollywood honour,https://www.bbc.co.uk/news/entertainment-arts-65480084,8,0.079,0.15,0.771,-0.9938,BBC,2023-05-04,20
+10,Judge throws out Trump's lawsuit against NY Times,https://www.bbc.co.uk/news/world-us-canada-65480768,9,0.081,0.065,0.855,0.603,BBC,2023-05-04,20
+1,"Swiftly moving on... to ANOTHER Brit! Pop megastar Taylor 'is madly in love' with The 1975 frontman Matty Healy and the pair are ready to go 'public'... weeks after her split with Joe Alwyn 
+",https://www.dailymail.co.uk/tvshowbiz/article-12044001/Taylor-Swift-madly-love-1975-frontman-Matty-Healy-weeks-split-Joe-Alwyn.html,0,0.15,0.07,0.78,0.9999,Daily Mail,2023-05-04,20
+2,"Meg Ryan, 61, looks unrecognisable as she makes first public outing in six months to support pal Michael J. Fox at his documentary screening
+",https://www.dailymail.co.uk/tvshowbiz/article-12046713/Meg-Ryan-61-looks-unrecognisable-public-outing-six-months.html,1,0.071,0.018,0.911,0.9845,Daily Mail,2023-05-04,20
+3,"'I can't believe I fought for this bulls**t': Navy SEAL who helped kill Osama Bin Laden fumes over Navy's decision to use drag queen for their recruitment program 
+",https://www.dailymail.co.uk/news/article-12044159/Navy-SEAL-killed-Bin-Laden-angry-Pentagon-using-drag-queen-recruitment-program.html,2,0.083,0.101,0.816,-0.9215,Daily Mail,2023-05-04,20
+4,"American Idol judge shake-up: Two very popular singers (one British and one Canadian) to temporarily replace Katy Perry and Lionel Richie as they complete their Coronation duties - can you guess who?
+",https://www.dailymail.co.uk/tvshowbiz/article-12038049/American-Idol-judge-shake-Two-popular-singers-temporarily-replace-Katy-Perry-Lionel-Richie.html,3,0.074,0.004,0.921,0.9894,Daily Mail,2023-05-04,20
+5,"Priyanka Chopra gets candid about botched face surgery which led to her being called 'Plastic Chopra' in early 2000s: 'I went into a deep, deep depression'
+",https://www.dailymail.co.uk/tvshowbiz/article-12042849/Priyanka-Chopra-gets-candid-botched-early-2000s-surgery-led-Plastic-Chopra-nickname.html,4,0.155,0.059,0.786,0.9979,Daily Mail,2023-05-04,20
+6,"Anheuser-Busch CEO FINALLY disavows Dylan Mulvaney Bud Light partnership and says 'it was not a campaign' after firm sent letter to retailers blaming an outside ad agency for approving it 'without management awareness' as sales crash 26%
+",https://www.dailymail.co.uk/news/article-12046587/Anheuser-Busch-DISAVOWS-entire-Dylan-Mulvaney-Bud-Light-campaign-letter-retailers.html,5,0.064,0.042,0.894,0.995,Daily Mail,2023-05-04,20
+7,"EXCLUSIVE: Kevin Costner's wife Christine Baumgartner pictured WITHOUT her wedding ring amid shock divorce as 'blindsided' Yellowstone star denies he CHEATED on her 
+",https://www.dailymail.co.uk/tvshowbiz/article-12044435/Kevin-Costners-wife-Christine-Baumgartner-pictured-WITHOUT-wedding-ring-divorce-news.html,6,0.065,0.075,0.86,-0.9835,Daily Mail,2023-05-04,20
+8,"Eric Adams slams AOC for calling Marine who put homeless Jordan Neely in fatal chokehold on subway a 'murderer' - as it's revealed Michael Jackson impersonator victim had breakdown after mom was killed
+",https://www.dailymail.co.uk/news/article-12045021/Eric-Adams-starts-war-words-AOC-Jordan-Neely-death.html,7,0.06,0.16,0.78,-0.9997,Daily Mail,2023-05-04,20
+9,"Journalist cries as she testifies how Trump kissed and pushed her against Mar-a-Lago wall while pregnant Melania was getting dressed in another room: Promised steak and 'best sex you'll ever have'
+",https://www.dailymail.co.uk/news/article-12043241/Journalist-cries-testifies-Trump-sexually-assaulted-Melania-nearby.html,8,0.054,0.109,0.837,-0.9981,Daily Mail,2023-05-04,20
+10,"Ed Sheeran broke down in tears following verdict says co-writer as star struck juror admits watching him perform live on the stand was key to ruling he did NOT copy Marvin Gaye's 'Let's Get it On'
+",https://www.dailymail.co.uk/news/article-12047699/Ed-Sheeran-CLEARED-allegations-hit-Thinking-Loud-copied-Marvin-Gayes-Lets-On.html,9,0.111,0.067,0.822,0.994,Daily Mail,2023-05-04,20
+1,Hunt and Braverman among five in cabinet earning thousands as landlords,https://www.theguardian.com/politics/2023/may/04/hunt-and-braverman-among-five-in-cabinet-earning-thousands-as-landlords,0,0.09,0.051,0.859,0.9746,Guardian,2023-05-04,20
+2,Local elections in England live: polling station in Southampton closes after death of candidate,https://www.theguardian.com/politics/live/2023/may/04/england-local-elections-2023-voter-id-conservatives-labour-rishi-sunak-uk-politics-latest,1,0.07,0.098,0.832,-0.9967,Guardian,2023-05-04,20
+3,Ed Sheeran cleared of infringing copyright in Marvin Gaye lawsuit,https://www.theguardian.com/music/2023/may/04/ed-sheeran-verdict-not-liable-copyright-lawsuit-marvin-gaye,2,0.09,0.073,0.837,0.9158,Guardian,2023-05-04,20
+4,Metal detectorists jailed for conspiring to sell rare Anglo-Saxon coins,https://www.theguardian.com/uk-news/2023/may/04/metal-detectorists-jailed-for-conspiring-to-sell-rare-anglo-saxon-coins,3,0.154,0.095,0.751,0.9932,Guardian,2023-05-04,20
+5,Proud Boys leader and three others convicted of seditious conspiracy for January 6 attack – live,https://www.theguardian.com/us-news/live/2023/may/04/clarence-thomas-tuition-harlan-crow-trump-politics-live-updates,4,0.122,0.123,0.755,-0.9769,Guardian,2023-05-04,20
+6,US denies involvement in Kremlin drone attack and says Moscow lacks strength to mount large attacks – as it happened,https://www.theguardian.com/world/live/2023/may/04/russia-ukraine-war-live-air-raid-sirens-in-kyiv-and-eastern-regions-zelenskiy-denies-responsibility-for-kremlin-drone-attack,5,0.077,0.137,0.786,-0.9997,Guardian,2023-05-04,20
+7,Brighton v Manchester United: Premier League – live,https://www.theguardian.com/football/live/2023/may/04/brighton-v-manchester-united-premier-league-live-score-updates,6,0.175,0.05,0.774,0.9999,Guardian,2023-05-04,20
+8,"My boyfriend of seven years always wanted kids. Now we’re 35, I’m ready – and he’s changed his mind",https://www.theguardian.com/lifeandstyle/2023/may/04/my-boyfriend-of-seven-years-always-wanted-kids-now-were-35-im-ready-and-hes-changed-his-mind,7,0.164,0.063,0.773,0.998,Guardian,2023-05-04,20
+9,Singing in court to a dramatic collapse: key moments from the Ed Sheeran trial,https://www.theguardian.com/music/2023/may/04/ed-sheeran-trial-marvin-gaye-key-moments,8,0.078,0.055,0.868,0.9521,Guardian,2023-05-04,20
+10,Donald Trump goes on attack against rape case while on Irish trip,https://www.theguardian.com/us-news/2023/may/04/donald-trump-goes-on-attack-against-rape-case-while-on-irish-trip,9,0.091,0.128,0.781,-0.9925,Guardian,2023-05-04,20
