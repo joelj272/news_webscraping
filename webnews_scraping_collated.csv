@@ -4679,3 +4679,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"My boyfriend of seven years always wanted kids. Now we’re 35, I’m ready – and he’s changed his mind",https://www.theguardian.com/lifeandstyle/2023/may/04/my-boyfriend-of-seven-years-always-wanted-kids-now-were-35-im-ready-and-hes-changed-his-mind,7,0.164,0.063,0.773,0.998,Guardian,2023-05-04,20
 9,Singing in court to a dramatic collapse: key moments from the Ed Sheeran trial,https://www.theguardian.com/music/2023/may/04/ed-sheeran-trial-marvin-gaye-key-moments,8,0.078,0.055,0.868,0.9521,Guardian,2023-05-04,20
 10,Donald Trump goes on attack against rape case while on Irish trip,https://www.theguardian.com/us-news/2023/may/04/donald-trump-goes-on-attack-against-rape-case-while-on-irish-trip,9,0.091,0.128,0.781,-0.9925,Guardian,2023-05-04,20
+1,Man arrested after second mass shooting in Serbia,https://www.bbc.co.uk/news/world-europe-65490418,0,0.046,0.157,0.797,-0.9955,BBC,2023-05-05,8
+2,"Trump mistook rape accuser for ex-wife, trial told",https://www.bbc.co.uk/news/world-us-canada-65486437,1,0.027,0.113,0.86,-0.9918,BBC,2023-05-05,8
+3,Canada summons China diplomat for targeting MP,https://www.bbc.co.uk/news/world-us-canada-65487195,2,0.042,0.087,0.871,-0.9485,BBC,2023-05-05,8
+4,Top US judge under fresh scrutiny over school fees,https://www.bbc.co.uk/news/world-us-canada-65472812,3,0.16,0.041,0.799,0.9985,BBC,2023-05-05,8
+5,"Kanye West Yeezy loss is hurting us, admits Adidas",https://www.bbc.co.uk/news/business-65492142,4,0.051,0.102,0.847,-0.9466,BBC,2023-05-05,8
+6,Ukraine shoots down own drone over central Kyiv,https://www.bbc.co.uk/news/world-europe-65489566,5,0.033,0.184,0.782,-0.9954,BBC,2023-05-05,8
+7,Autopsy shows Tyre Nichols died of blunt force,https://www.bbc.co.uk/news/world-us-canada-65490318,6,0.032,0.209,0.759,-0.9974,BBC,2023-05-05,8
+8,Buckingham Palace balcony guessing game goes on,https://www.bbc.co.uk/news/uk-65481186,7,0.05,0.021,0.929,0.9679,BBC,2023-05-05,8
+9,TikTok tracked UK journalist via her cat's account,https://www.bbc.co.uk/news/technology-65126056,8,0.082,0.069,0.849,0.449,BBC,2023-05-05,8
+10,Carrie Fisher family row eclipses Hollywood honour,https://www.bbc.co.uk/news/entertainment-arts-65480084,9,0.115,0.131,0.753,-0.9237,BBC,2023-05-05,8
+1,"Meg Ryan, 61, looks unrecognisable as she makes first public outing in six months to support pal Michael J. Fox at his documentary screening
+",https://www.dailymail.co.uk/tvshowbiz/article-12046713/Meg-Ryan-61-looks-unrecognisable-public-outing-six-months.html,0,0.071,0.018,0.911,0.9845,Daily Mail,2023-05-05,8
+2,"Burger King will close up to 400 stores by the end of the year - with two franchises already declaring bankruptcy - as fast food giant fails to keep up with fast-casual competition
+",https://www.dailymail.co.uk/news/article-12047999/Burger-King-close-400-stores-end-2023-giant-fails-competition.html,1,0.05,0.054,0.896,-0.4419,Daily Mail,2023-05-05,8
+3,"Anheuser-Busch CEO FINALLY disavows Dylan Mulvaney Bud Light partnership and says 'it was not a campaign' after firm sent letter to retailers blaming an outside ad agency for approving it 'without management awareness' as sales crash 26%
+",https://www.dailymail.co.uk/news/article-12046587/Anheuser-Busch-DISAVOWS-entire-Dylan-Mulvaney-Bud-Light-campaign-letter-retailers.html,2,0.064,0.042,0.894,0.995,Daily Mail,2023-05-05,8
+4,"Ed Sheeran breaks down in tears as New York court rules he did NOT copy Marvin Gaye's 'Let's Get it On' (and star-struck juror admits watching him perform live on the witness stand was key to verdict)
+",https://www.dailymail.co.uk/news/article-12047699/Ed-Sheeran-CLEARED-allegations-hit-Thinking-Loud-copied-Marvin-Gayes-Lets-On.html,3,0.107,0.076,0.817,0.9962,Daily Mail,2023-05-05,8
+5,"American Idol judge shake-up: Two very popular singers (one British and one Canadian) to temporarily replace Katy Perry and Lionel Richie as they complete their Coronation duties - can you guess who?
+",https://www.dailymail.co.uk/tvshowbiz/article-12038049/American-Idol-judge-shake-Two-popular-singers-temporarily-replace-Katy-Perry-Lionel-Richie.html,4,0.074,0.004,0.921,0.9894,Daily Mail,2023-05-05,8
+6,"Khloe Kardashian has 'named her son Tatum Robert'... 10 months after he was born via surrogate to the star and her ex Tristan Thompson
+",https://www.dailymail.co.uk/tvshowbiz/article-12047783/Khloe-Kardashian-named-son-Tatum-Robert-10-months-born.html,5,0.181,0.021,0.799,0.9989,Daily Mail,2023-05-05,8
+7,"'I can't believe I fought for this bulls**t': Navy SEAL who helped kill Osama Bin Laden fumes over Navy's decision to use drag queen for their recruitment program 
+",https://www.dailymail.co.uk/news/article-12044159/Navy-SEAL-killed-Bin-Laden-angry-Pentagon-using-drag-queen-recruitment-program.html,6,0.083,0.101,0.816,-0.9215,Daily Mail,2023-05-05,8
+8,"'Somebody knows this person': Distraught parents of Arizona esthetician, 29, found murdered on desert hiking trail after being 'attacked from behind' call for help identifying 'heinous' suspect - after cops release clip of mystery man running 
+",https://www.dailymail.co.uk/news/article-12047129/Arizona-esthetician-29-murdered-hiking-trail-close-lived.html,7,0.151,0.102,0.747,0.9978,Daily Mail,2023-05-05,8
+9,"EXCLUSIVE: Tori Bowie was 'seven to eight-months PREGNANT' and had history of erratic behavior - pelting eggs across street, shouting in the night, and was once seen screaming at boyfriend while clutching a knife, neighbors reveal 
+",https://www.dailymail.co.uk/news/article-12047781/Olympic-gold-medalist-Tori-Bowie-pregnant-dead-home-neighbors-say.html,8,0.136,0.083,0.781,0.9979,Daily Mail,2023-05-05,8
+10,"Kyle Richards responds to fears about her weight loss after exposing her ribcage in shock new photo - following her denials about Ozempic use
+",https://www.dailymail.co.uk/tvshowbiz/article-12048169/Kyle-Richards-sparks-concern-weight-loss-shows-ribs-new-photo.html,9,0.038,0.081,0.88,-0.9805,Daily Mail,2023-05-05,8
+1,Labour claims English local election gains put it ‘on course for government’,https://www.theguardian.com/politics/2023/may/05/local-elections-labour-captures-key-target-of-plymouth-city-council,0,0.114,0.099,0.787,0.8647,Guardian,2023-05-05,8
+2,Local elections 2023: ‘disappointing’ night for Tories as Labour makes big gains in key England councils – live,https://www.theguardian.com/politics/live/2023/may/04/local-elections-2023-latest-results-reactions-polls-close-england-conservatives-labour-rishi-sunak-keir-starmer-lib-dems-greens-live-updates,1,0.142,0.089,0.769,0.9987,Guardian,2023-05-05,8
+3,Local elections 2023: live council results for England,https://www.theguardian.com/politics/ng-interactive/2023/may/04/elections-2023-results-live-local-council-england,2,0.058,0.045,0.897,0.5652,Guardian,2023-05-05,8
+4,"‘God, life is so strange’: Diane Keaton on dogs, doors, wine and why she’s ‘really fancy’",https://www.theguardian.com/film/2023/may/05/diane-keaton-big-cars-wine-rocks-curious-hobby,3,0.152,0.076,0.772,0.9998,Guardian,2023-05-05,8
+5,"Russia-Ukraine war live: no ‘self-respecting country’ should speak to Zelenskiy after Kremlin drone incident, Lavrov says ",https://www.theguardian.com/world/live/2023/may/05/russia-ukraine-war-live-kyiv-shoots-down-own-drone-over-capital-zelenskiy-speaks-at-the-hague,4,0.066,0.105,0.829,-0.9992,Guardian,2023-05-05,8
+6,‘I was denied my right’: voter ID rules a barrier for some in England,https://www.theguardian.com/politics/2023/may/04/i-was-denied-my-right-voter-id-rules-a-barrier-for-some-in-england,5,0.021,0.053,0.926,-0.9598,Guardian,2023-05-05,8
+7,Bluey: scene removed from Exercise episode after complaints about fat-shaming,https://www.theguardian.com/tv-and-radio/2023/may/05/scene-cut-bluey-episode-exercise-complaints-body-image-fat-shaming,6,0.109,0.031,0.86,0.9927,Guardian,2023-05-05,8
+8,"Serbia: eight killed in second mass shooting in days, with attacker on the run",https://www.theguardian.com/world/2023/may/05/serbia-eight-killed-in-second-mass-shooting-in-days-with-attacker-on-the-run,7,0.031,0.182,0.787,-0.9987,Guardian,2023-05-05,8
+9,UK ministers urged to unseal files on Falklands attack that killed 56,https://www.theguardian.com/uk-news/2023/may/05/uk-ministers-urged-to-unseal-files-on-falklands-attack-that-killed-56,8,0.061,0.092,0.847,-0.9768,Guardian,2023-05-05,8
+10,Tories heading for another drubbing in the local elections,https://www.theguardian.com/politics/2023/may/05/tories-local-elections-conservative-england,9,0.115,0.107,0.778,0.7274,Guardian,2023-05-05,8
