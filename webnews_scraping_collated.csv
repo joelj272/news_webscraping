@@ -4799,3 +4799,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Head of UK’s leading anti-monarchy group arrested at coronation protest,https://www.theguardian.com/uk-news/2023/may/06/head-of-uks-leading-anti-monarchy-group-arrested-at-coronation-protest,7,0.062,0.098,0.84,-0.9771,Guardian,2023-05-06,8
 9,I had the time of my life backpacking in Sydney in the 90s. I never want my children to do anything like it,https://www.theguardian.com/lifeandstyle/2023/may/06/i-had-the-time-of-my-life-backpacking-in-sydney-in-the-90s-i-never-want-my-children-to-do-anything-like-it,8,0.129,0.065,0.807,0.9966,Guardian,2023-05-06,8
 10,King Charles’s coronation: order of service for the ceremony,https://www.theguardian.com/uk-news/2023/may/06/king-charless-coronation-order-of-service-for-the-ceremony,9,0.133,0.0,0.867,0.8074,Guardian,2023-05-06,8
+1,Prince Harry leaves alone after Coronation,https://www.bbc.co.uk/news/uk-65507002,0,0.02,0.062,0.918,-0.9426,BBC,2023-05-06,20
+2,Charles and Camilla crowned in historic Coronation,https://www.bbc.co.uk/news/uk-65502234,1,0.089,0.057,0.854,0.9883,BBC,2023-05-06,20
+3,What Kate and Camilla wore to the coronation,https://www.bbc.co.uk/news/uk-65507923,2,0.09,0.012,0.898,0.9949,BBC,2023-05-06,20
+4,Russia accused of dropping phosphorus bombs,https://www.bbc.co.uk/news/world-europe-65506993,3,0.05,0.161,0.788,-0.9982,BBC,2023-05-06,20
+5,What it was really like inside the Abbey,https://www.bbc.co.uk/news/uk-65512932,4,0.097,0.034,0.869,0.9962,BBC,2023-05-06,20
+6,"Katy Perry, Nick Cave... who was at the Coronation?",https://www.bbc.co.uk/news/uk-65507599,5,0.066,0.002,0.932,0.9916,BBC,2023-05-06,20
+7,Penny Mordaunt's sword-wielding - and other top moments,https://www.bbc.co.uk/news/uk-65510506,6,0.11,0.047,0.843,0.9953,BBC,2023-05-06,20
+8,Must see pictures from the King's Coronation,https://www.bbc.co.uk/news/uk-65506969,7,0.024,0.0,0.976,0.4404,BBC,2023-05-06,20
+9,Their plane went down - how this WW2 crew survived,https://www.bbc.co.uk/news/world-us-canada-65410429,8,0.085,0.106,0.809,-0.9947,BBC,2023-05-06,20
+10,Ex-Marine defends NYC subway chokehold,https://www.bbc.co.uk/news/world-us-canada-65506075,9,0.068,0.142,0.79,-0.9888,BBC,2023-05-06,20
+1,"EXCLUSIVE: Shocking images show the TWO MILE long vehicle encampment - made up of people living in RVs, trucks and trailers - along Highway 101 north of San Francisco as low income people are pushed out of the housing market
+",https://www.dailymail.co.uk/news/article-12050937/Shocking-images-TWO-MILE-long-encampment-people-living-RVs-trucks-trailers.html,0,0.067,0.045,0.888,0.8191,Daily Mail,2023-05-06,20
+2,"How to watch the Flower Moon lunar eclipse TONIGHT - best time to see the moon change colour revealed
+",https://www.dailymail.co.uk/sciencetech/article-12049907/Look-tonight-moon-change-COLOUR-billions-people-world.html,1,0.082,0.019,0.899,0.992,Daily Mail,2023-05-06,20
+3,"A dazzling Princess: Kate is radiant in an ivory Alexander McQueen dress featuring flowers from the four nations as she pays tribute to Diana with her jewels as she joins Prince William at the King's Coronation
+",https://www.dailymail.co.uk/femail/article-12053535/Kate-Middleton-looks-regal-ivory-Alexander-McQueen-dress-attends-Coronation.html,2,0.092,0.011,0.898,0.9966,Daily Mail,2023-05-06,20
+4,"Revealed: Prince Harry jetted into UK for the coronation on commercial American Airlines flight yesterday morning, amid gobsmacked passengers
+",https://www.dailymail.co.uk/news/article-12052487/Prince-Harry-jetted-UK-coronation-commercial-American-Airlines-flight-morning.html,3,0.048,0.028,0.924,0.8687,Daily Mail,2023-05-06,20
+5,"Kate shines as she joins party in the palace with foreign royals and world leaders ahead of Charles' coronation... but where was Camilla?
+",https://www.dailymail.co.uk/news/article-12051697/An-evening-Palace-Charles-big-day.html,4,0.146,0.044,0.811,0.9998,Daily Mail,2023-05-06,20
+6,"The new Firm assembles: Newly crowned King Charles and Queen Camilla take centre-stage on balcony between heir to the throne Prince William, the Princess of Wales and their children as adoring crowds below cheer the slimmed-down monarchy 
+",https://www.dailymail.co.uk/news/article-12054267/Newly-crowned-King-Charles-Queen-Camilla-Buckingham-Palace-balcony.html,5,0.134,0.015,0.851,1.0,Daily Mail,2023-05-06,20
+7,"Emotional Charles murmurs 'thank you, William' as son and heir Prince of Wales tenderly kisses his cheek and touches his crown during historic Coronation - as Queen Camilla takes her throne 
+",https://www.dailymail.co.uk/news/article-12053831/King-Charles-begins-historic-procession-Monarch-leaves-Buckingham-Palace.html,6,0.135,0.015,0.849,1.0,Daily Mail,2023-05-06,20
+8,"Burger King will close up to 400 stores by the end of the year - with two franchises already declaring bankruptcy - as fast food giant fails to keep up with fast-casual competition
+",https://www.dailymail.co.uk/news/article-12047999/Burger-King-close-400-stores-end-2023-giant-fails-competition.html,7,0.05,0.054,0.896,-0.4419,Daily Mail,2023-05-06,20
+9,"Brothers still worlds apart: Prince Harry looks on awkwardly from the third row at Coronation while wearing a painful grin and joking with minor Royals... while William and Kate take centre stage 
+",https://www.dailymail.co.uk/news/article-12053765/Prince-Harry-arrives-Westminster-Abbey-puts-royal-family-feud-aside-fathers-Coronation.html,8,0.063,0.036,0.901,0.9949,Daily Mail,2023-05-06,20
+10,"Lady Louise steals the show! Sophie and Edward's daughter, 19, is the picture of elegance as she arrives with the Duke and Duchess of Edinburgh and brother James, Viscount Severn 
+",https://www.dailymail.co.uk/femail/article-12053511/Lady-Louise-steals-Coronation.html,9,0.083,0.01,0.907,0.9958,Daily Mail,2023-05-06,20
+1,Pippa Middleton of the coronation: Penny Mordaunt steals the show,https://www.theguardian.com/uk-news/2023/may/06/pippa-middleton-of-the-coronation-penny-mordaunt-steals-the-show,0,0.085,0.069,0.846,0.5255,Guardian,2023-05-06,20
+2,Coronation live: King Charles and Queen Camilla crowned amid protests and celebrations,https://www.theguardian.com/uk-news/live/2023/may/06/coronation-king-charles-westminster-abbey-queen-camilla-william-harry-live-updates,1,0.096,0.057,0.847,0.9979,Guardian,2023-05-06,20
+3,Princess Anne’s ‘panto’ hat and more become Twitter’s coronation stars ,https://www.theguardian.com/uk-news/2023/may/06/sword-wielding-penny-mordaunt-and-princess-annes-panto-hat-become-twitters-coronation-stars,2,0.123,0.034,0.843,0.997,Guardian,2023-05-06,20
+4,Coronation fashion sprang few surprises – but all eyes were on Penny Mordaunt,https://www.theguardian.com/uk-news/2023/may/06/coronation-fashion-sprang-few-surprises-but-all-eyes-were-on-penny-mordaunt,3,0.04,0.017,0.943,0.9501,Guardian,2023-05-06,20
+5,Strong bladders required for interminable faffing of King Charles’s coronation,https://www.theguardian.com/uk-news/2023/may/06/strong-bladders-required-for-interminable-faffing-of-king-charles-coronation,4,0.133,0.06,0.807,0.9983,Guardian,2023-05-06,20
+6,Prince Louis once again in the limelight with animated response to coronation,https://www.theguardian.com/uk-news/2023/may/06/prince-louis-is-once-again-centre-of-attention-at-a-major-royal-event,5,0.042,0.035,0.923,-0.0843,Guardian,2023-05-06,20
+7,Liverpool 1-0 Brentford: Premier League – as it happened,https://www.theguardian.com/football/live/2023/may/06/liverpool-v-brentford-premier-league-live,6,0.172,0.074,0.754,0.9998,Guardian,2023-05-06,20
+8,"Oh no, it happened again: a famous woman didn’t follow the rules of ageing",https://www.theguardian.com/commentisfree/2023/may/06/meg-ryan-famous-women-ageing,7,0.107,0.095,0.798,0.9096,Guardian,2023-05-06,20
+9,Tory vice-chair Lee Anderson says anti-monarchists should leave UK,https://www.theguardian.com/uk-news/2023/may/06/tory-vice-chair-lee-anderson-says-anti-monarchists-should-leave-uk,8,0.085,0.148,0.768,-0.9918,Guardian,2023-05-06,20
+10,Revealed: Labour won back swathes of Brexit voters in the local elections,https://www.theguardian.com/politics/2023/may/06/revealed-labour-won-back-swathes-of-brexit-voters-in-the-local-elections,9,0.091,0.073,0.836,0.8658,Guardian,2023-05-06,20
