@@ -4759,3 +4759,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,What do the disastrous Tory local election results mean for Rishi Sunak?,https://www.theguardian.com/politics/2023/may/05/what-do-disastrous-tory-local-election-results-mean-for-rishi-sunak,7,0.112,0.085,0.803,0.9713,Guardian,2023-05-05,20
 9,Keir Starmer: Labour on track to win general election after local results,https://www.theguardian.com/politics/2023/may/05/local-elections-labour-captures-key-target-of-plymouth-city-council,8,0.12,0.097,0.783,0.9703,Guardian,2023-05-05,20
 10,Boris Johnson records election clip inside moving car without seatbelt on,https://www.theguardian.com/politics/2023/may/05/boris-johnson-records-election-clip-inside-moving-car-without-seatbelt-on,9,0.032,0.074,0.894,-0.9542,Guardian,2023-05-05,20
+1,Your full guide to how Coronation day will unfold,https://www.bbc.co.uk/news/uk-65342840,0,0.053,0.019,0.928,0.9963,BBC,2023-05-06,8
+2,Man arrested for opening hard drugs store in Canada,https://www.bbc.co.uk/news/world-us-canada-65487199,1,0.056,0.101,0.843,-0.9801,BBC,2023-05-06,8
+3,Guests arrive for King Charles' historic Coronation,https://www.bbc.co.uk/news/uk-65502234,2,0.063,0.042,0.895,0.9654,BBC,2023-05-06,8
+4,Mexico claims proof of Chinese fentanyl smuggling,https://www.bbc.co.uk/news/world-latin-america-65506087,3,0.039,0.074,0.887,-0.9519,BBC,2023-05-06,8
+5,Jonny Dymond: The curtain rises on the strangest show in town,https://www.bbc.co.uk/news/uk-65495690,4,0.105,0.028,0.867,0.9954,BBC,2023-05-06,8
+6,Trump deposition video in rape trial released,https://www.bbc.co.uk/news/world-us-canada-65504435,5,0.036,0.092,0.872,-0.9859,BBC,2023-05-06,8
+7,Ex-Marine defends NYC subway chokehold,https://www.bbc.co.uk/news/world-us-canada-65506075,6,0.065,0.144,0.791,-0.9895,BBC,2023-05-06,8
+8,US Supreme Court halts Oklahoma man's execution,https://www.bbc.co.uk/news/world-us-canada-65505067,7,0.043,0.089,0.868,-0.9707,BBC,2023-05-06,8
+9,How to watch the King's coronation,https://www.bbc.co.uk/news/uk-65461957,8,0.028,0.01,0.962,0.8885,BBC,2023-05-06,8
+10,Their plane went down - how this WW2 crew survived,https://www.bbc.co.uk/news/world-us-canada-65410429,9,0.085,0.106,0.809,-0.9947,BBC,2023-05-06,8
+1,"Burger King will close up to 400 stores by the end of the year - with two franchises already declaring bankruptcy - as fast food giant fails to keep up with fast-casual competition
+",https://www.dailymail.co.uk/news/article-12047999/Burger-King-close-400-stores-end-2023-giant-fails-competition.html,0,0.05,0.054,0.896,-0.4419,Daily Mail,2023-05-06,8
+2,"How to watch the Flower Moon lunar eclipse TONIGHT - best time to see the moon change colour revealed
+",https://www.dailymail.co.uk/sciencetech/article-12049907/Look-tonight-moon-change-COLOUR-billions-people-world.html,1,0.082,0.019,0.899,0.992,Daily Mail,2023-05-06,8
+3,"EXCLUSIVE: Shocking images show the TWO MILE long vehicle encampment - made up of people living in RVs, trucks and trailers - along Highway 101 north of San Francisco as low income people are pushed out of the housing market
+",https://www.dailymail.co.uk/news/article-12050937/Shocking-images-TWO-MILE-long-encampment-people-living-RVs-trucks-trailers.html,2,0.067,0.045,0.888,0.8191,Daily Mail,2023-05-06,8
+4,"Jennifer Lopez breaks her silence for first time since Gwyneth Paltrow's shock comments about her husband Ben Affleck's 'excellent' skills in the bedroom
+",https://www.dailymail.co.uk/tvshowbiz/article-12050037/Jennifer-Lopez-breaks-silence-time-Gwyneth-Paltrows-shock-comments.html,3,0.179,0.04,0.781,0.9993,Daily Mail,2023-05-06,8
+5,"Revealed: Prince Harry jetted into UK for the coronation on commercial American Airlines flight yesterday morning, amid gobsmacked passengers
+",https://www.dailymail.co.uk/news/article-12052487/Prince-Harry-jetted-UK-coronation-commercial-American-Airlines-flight-morning.html,4,0.048,0.028,0.924,0.8687,Daily Mail,2023-05-06,8
+6,"Boston Red Sox fans are ditching Bud Light at Fenway Park as Dylan Mulvaney backlash leaves line for signature blue cans empty 
+",https://www.dailymail.co.uk/news/article-12049101/Boston-Red-Sox-fans-ditching-Bud-Light-Fenway-Park-Dylan-Mulvaney-backlash-leaves-line-empty.html,5,0.076,0.04,0.884,0.9968,Daily Mail,2023-05-06,8
+7,"Kate shines as she joins party in the palace with foreign royals and world leaders ahead of Charles' coronation... but where was Camilla?
+",https://www.dailymail.co.uk/news/article-12051697/An-evening-Palace-Charles-big-day.html,6,0.146,0.044,0.811,0.9998,Daily Mail,2023-05-06,8
+8,"Meg Ryan, 61, looks unrecognisable as she makes first public outing in six months to support pal Michael J. Fox at his documentary screening
+",https://www.dailymail.co.uk/tvshowbiz/article-12046713/Meg-Ryan-61-looks-unrecognisable-public-outing-six-months.html,7,0.071,0.018,0.911,0.9845,Daily Mail,2023-05-06,8
+9,"Arizona esthetician, 29, was 'stabbed multiple times' on desert hiking trail after being 'attacked from behind' as police arrest suspect whose 'DNA was found at scene' 
+",https://www.dailymail.co.uk/news/article-12049391/Suspect-nabbed-killing-Arizona-esthetician-29-murdered-desert-hiking-trail.html,8,0.136,0.105,0.759,0.997,Daily Mail,2023-05-06,8
+10,"Insane doorbell camera footage captures moment man guns down his estranged brother on his doorstep before torching his house and then dying in hail of police bullets
+",https://www.dailymail.co.uk/news/article-12050935/Man-guns-estranged-brother-doorstep-dies-shootout-cops.html,9,0.051,0.127,0.822,-0.9941,Daily Mail,2023-05-06,8
+1,Sunak under pressure after dire Tory losses and leadership gripes,https://www.theguardian.com/politics/2023/may/05/rishi-sunak-under-pressure-dire-tory-losses-leadership-threats,0,0.143,0.084,0.773,0.9973,Guardian,2023-05-06,8
+2,Welsh town cancels coronation party after no one donates to costs,https://www.theguardian.com/uk-news/2023/may/05/caldicot-wales-cancels-coronation-party-money-costs,1,0.088,0.09,0.822,-0.3091,Guardian,2023-05-06,8
+3,Local elections 2023: live council results for England,https://www.theguardian.com/politics/ng-interactive/2023/may/05/local-elections-2023-results-live-council-england,2,0.06,0.044,0.896,0.5932,Guardian,2023-05-06,8
+4,The ‘Kate effect’: how the Princess of Wales became the royals’ not-so-secret weapon,https://www.theguardian.com/uk-news/2023/may/06/the-kate-effect-how-the-princess-of-wales-became-the-royals-not-so-secret-weapon,3,0.122,0.062,0.815,0.9996,Guardian,2023-05-06,8
+5,Video of Trump confusing E Jean Carroll with ex-wife in deposition is released,https://www.theguardian.com/us-news/2023/may/05/donald-trump-e-jean-carroll-trial-video-deposition,4,0.075,0.072,0.853,0.2855,Guardian,2023-05-06,8
+6,Coronation live: arrests at anti-monarchy protests as crowds gather to see King Charles crowned,https://www.theguardian.com/uk-news/live/2023/may/06/coronation-king-charles-westminster-abbey-queen-camilla-william-harry-live-updates,5,0.107,0.085,0.808,0.9945,Guardian,2023-05-06,8
+7,Clapham Common: passengers smash windows to escape tube train amid fire alert,https://www.theguardian.com/uk-news/2023/may/05/passengers-smash-windows-to-escape-tube-amid-fire-alert,6,0.024,0.161,0.815,-0.9916,Guardian,2023-05-06,8
+8,Head of UK’s leading anti-monarchy group arrested at coronation protest,https://www.theguardian.com/uk-news/2023/may/06/head-of-uks-leading-anti-monarchy-group-arrested-at-coronation-protest,7,0.062,0.098,0.84,-0.9771,Guardian,2023-05-06,8
+9,I had the time of my life backpacking in Sydney in the 90s. I never want my children to do anything like it,https://www.theguardian.com/lifeandstyle/2023/may/06/i-had-the-time-of-my-life-backpacking-in-sydney-in-the-90s-i-never-want-my-children-to-do-anything-like-it,8,0.129,0.065,0.807,0.9966,Guardian,2023-05-06,8
+10,King Charles’s coronation: order of service for the ceremony,https://www.theguardian.com/uk-news/2023/may/06/king-charless-coronation-order-of-service-for-the-ceremony,9,0.133,0.0,0.867,0.8074,Guardian,2023-05-06,8
