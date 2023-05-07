@@ -4839,3 +4839,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Oh no, it happened again: a famous woman didn’t follow the rules of ageing",https://www.theguardian.com/commentisfree/2023/may/06/meg-ryan-famous-women-ageing,7,0.107,0.095,0.798,0.9096,Guardian,2023-05-06,20
 9,Tory vice-chair Lee Anderson says anti-monarchists should leave UK,https://www.theguardian.com/uk-news/2023/may/06/tory-vice-chair-lee-anderson-says-anti-monarchists-should-leave-uk,8,0.085,0.148,0.768,-0.9918,Guardian,2023-05-06,20
 10,Revealed: Labour won back swathes of Brexit voters in the local elections,https://www.theguardian.com/politics/2023/may/06/revealed-labour-won-back-swathes-of-brexit-voters-in-the-local-elections,9,0.091,0.073,0.836,0.8658,Guardian,2023-05-06,20
+1,Eight killed by gunman in Texas mall shooting,https://www.bbc.co.uk/news/world-us-canada-65515915,0,0.051,0.143,0.807,-0.9945,BBC,2023-05-07,8
+2,Prince Harry leaves alone after Coronation,https://www.bbc.co.uk/news/uk-65507002,1,0.019,0.059,0.923,-0.9426,BBC,2023-05-07,8
+3,Canadian province declares wildfire emergency,https://www.bbc.co.uk/news/world-us-canada-65515446,2,0.02,0.051,0.929,-0.6757,BBC,2023-05-07,8
+4,Royals to drop in on Coronation lunch parties,https://www.bbc.co.uk/news/uk-65516031,3,0.07,0.057,0.873,0.8681,BBC,2023-05-07,8
+5,Penny Mordaunt's sword-wielding - and other top moments,https://www.bbc.co.uk/news/uk-65510506,4,0.11,0.047,0.843,0.9953,BBC,2023-05-07,8
+6,'Mad panic' as Russia evacuates nuclear plant town,https://www.bbc.co.uk/news/world-europe-65515443,5,0.027,0.088,0.886,-0.9764,BBC,2023-05-07,8
+7,Stars gear up to perform at Coronation concert,https://www.bbc.co.uk/news/entertainment-arts-65480420,6,0.067,0.02,0.914,0.976,BBC,2023-05-07,8
+8,Russian pro-war blogger injured in car bombing,https://www.bbc.co.uk/news/world-europe-65509809,7,0.058,0.181,0.761,-0.998,BBC,2023-05-07,8
+9,Russia accused of dropping phosphorus bombs,https://www.bbc.co.uk/news/world-europe-65506993,8,0.05,0.161,0.788,-0.9982,BBC,2023-05-07,8
+10,Butterfly named after Lord of the Rings villain,https://www.bbc.co.uk/news/science-environment-65515790,9,0.046,0.009,0.945,0.7932,BBC,2023-05-07,8
+1,"First person on scene of Texas mall massacre - in which eight were killed - reveals he felt for little girl's pulse before realizing she had no face and pulled boy out alive from underneath his dead mom who saved his life: Gunman killed by cops
+",https://www.dailymail.co.uk/news/article-12055177/Multiple-victims-reported-shot-active-shooter-Allen-Premium-Outlets.html,0,0.056,0.126,0.818,-0.9998,Daily Mail,2023-05-07,8
+2,"A dazzling Princess: Kate is radiant in an ivory Alexander McQueen dress featuring flowers from the four nations as she pays tribute to Diana with her jewels as she joins Prince William at the King's Coronation
+",https://www.dailymail.co.uk/femail/article-12053535/Kate-Middleton-looks-regal-ivory-Alexander-McQueen-dress-attends-Coronation.html,1,0.092,0.011,0.898,0.9966,Daily Mail,2023-05-07,8
+3,"The King and Queen, behind the scenes: Buckingham Palace releases intimate pictures of the royals revealing extraordinary detail of Charles' Coronation (and Camilla's touching embroidery tribute to her beloved Jack Russells)
+",https://www.dailymail.co.uk/news/article-12054601/Stunning-official-photographs-newly-crowned-King-Charles-Queen-Camilla-wave-crowds.html,2,0.132,0.015,0.853,1.0,Daily Mail,2023-05-07,8
+4,"Prince Harry grins at Heathrow after racing from his blink and you'll miss it appearance at his father's Coronation - just hours after being relegated to the third row at ceremony
+",https://www.dailymail.co.uk/news/article-12054403/So-long-Britain-Prince-grins-Heathrow-Airport-races-away-King-Charless-Coronation.html,3,0.093,0.043,0.864,0.9994,Daily Mail,2023-05-07,8
+5,"DAN WOOTTON: As the glorious Coronation of King Charles secures the future of the British monarchy, Harry's arrogant façade hid a cruel reality - the isolated Prince knows he's lost the most important role of his life
+",https://www.dailymail.co.uk/news/article-12054211/DAN-WOOTTON-Harrys-arrogant-fa-ade-Coronation-hid-cruel-reality-hes-lost.html,4,0.157,0.122,0.721,0.9906,Daily Mail,2023-05-07,8
+6,"Lady Louise steals the show! Sophie and Edward's daughter, 19, is the picture of elegance as she arrives with the Duke and Duchess of Edinburgh and brother James, Viscount Severn 
+",https://www.dailymail.co.uk/femail/article-12053511/Lady-Louise-steals-Coronation.html,5,0.083,0.01,0.907,0.9958,Daily Mail,2023-05-07,8
+7,"The new Firm assembles: Newly crowned King Charles and Queen Camilla take centre-stage on balcony between heir to the throne Prince William, the Princess of Wales and their children as adoring crowds below cheer the slimmed-down monarchy 
+",https://www.dailymail.co.uk/news/article-12054267/Newly-crowned-King-Charles-Queen-Camilla-Buckingham-Palace-balcony.html,6,0.134,0.015,0.851,1.0,Daily Mail,2023-05-07,8
+8,"Emotional Charles murmurs 'thank you, William' as son and heir Prince of Wales tenderly kisses his cheek and touches his crown during historic Coronation - as Queen Camilla takes her throne 
+",https://www.dailymail.co.uk/news/article-12053831/King-Charles-begins-historic-procession-Monarch-leaves-Buckingham-Palace.html,7,0.135,0.015,0.849,1.0,Daily Mail,2023-05-07,8
+9,"EXCLUSIVE: Shocking images show the TWO MILE long vehicle encampment - made up of people living in RVs, trucks and trailers - along Highway 101 north of San Francisco as low income people are pushed out of the housing market
+",https://www.dailymail.co.uk/news/article-12050937/Shocking-images-TWO-MILE-long-encampment-people-living-RVs-trucks-trailers.html,8,0.067,0.045,0.888,0.8191,Daily Mail,2023-05-07,8
+10,"Brothers still worlds apart: Prince Harry looks on awkwardly from the third row at Coronation while wearing a painful grin and joking with minor Royals... while William and Kate take centre stage 
+",https://www.dailymail.co.uk/news/article-12053765/Prince-Harry-arrives-Westminster-Abbey-puts-royal-family-feud-aside-fathers-Coronation.html,9,0.063,0.036,0.901,0.9949,Daily Mail,2023-05-07,8
+1,Anti-Tory coalition leaves party reeling and ministers at risk after polls disaster,https://www.theguardian.com/politics/2023/may/07/anti-tory-coalition-leaves-party-reeling-and-ministers-at-risk-after-polls-disaster,0,0.145,0.094,0.762,0.9977,Guardian,2023-05-07,8
+2,Princess Anne’s ‘panto’ hat and more become Twitter’s coronation stars ,https://www.theguardian.com/uk-news/2023/may/06/sword-wielding-penny-mordaunt-and-princess-annes-panto-hat-become-twitters-coronation-stars,1,0.123,0.034,0.843,0.997,Guardian,2023-05-07,8
+3,Pippa Middleton of the coronation: Penny Mordaunt steals the show,https://www.theguardian.com/uk-news/2023/may/06/pippa-middleton-of-the-coronation-penny-mordaunt-steals-the-show,2,0.085,0.069,0.846,0.5255,Guardian,2023-05-07,8
+4,Revealed: Labour won back swathes of Brexit voters in the local elections,https://www.theguardian.com/politics/2023/may/06/revealed-labour-won-back-swathes-of-brexit-voters-in-the-local-elections,3,0.091,0.073,0.836,0.8658,Guardian,2023-05-07,8
+5,Coronation fashion sprang few surprises – but all eyes were on Penny Mordaunt,https://www.theguardian.com/uk-news/2023/may/06/coronation-fashion-sprang-few-surprises-but-all-eyes-were-on-penny-mordaunt,4,0.04,0.017,0.943,0.9501,Guardian,2023-05-07,8
+6,"Oh no, it happened again: a famous woman didn’t follow the rules of ageing",https://www.theguardian.com/commentisfree/2023/may/06/meg-ryan-famous-women-ageing,5,0.107,0.095,0.798,0.9096,Guardian,2023-05-07,8
+7,Prince Louis once again in the limelight with animated response to coronation,https://www.theguardian.com/uk-news/2023/may/06/prince-louis-is-once-again-centre-of-attention-at-a-major-royal-event,6,0.042,0.035,0.923,-0.0843,Guardian,2023-05-07,8
+8,Three people stabbed to death in east London in less than eight hours,https://www.theguardian.com/uk-news/2023/may/06/three-people-stabbed-to-death-in-east-london-in-less-than-eight-hours,7,0.05,0.218,0.732,-0.9981,Guardian,2023-05-07,8
+9,Nine dead including gunman after shooting at mall outside Dallas,https://www.theguardian.com/us-news/2023/may/06/police-respond-to-shooting-in-dallas-mall,8,0.052,0.136,0.811,-0.9984,Guardian,2023-05-07,8
+10,A ‘nervousness never seen before’ hits Moscow before Victory Day parades,https://www.theguardian.com/world/2023/may/07/a-nervousness-never-seen-before-hits-moscow-before-victory-day-parades,9,0.08,0.139,0.781,-0.9974,Guardian,2023-05-07,8
