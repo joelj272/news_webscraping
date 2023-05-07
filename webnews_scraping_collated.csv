@@ -4879,3 +4879,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Three people stabbed to death in east London in less than eight hours,https://www.theguardian.com/uk-news/2023/may/06/three-people-stabbed-to-death-in-east-london-in-less-than-eight-hours,7,0.05,0.218,0.732,-0.9981,Guardian,2023-05-07,8
 9,Nine dead including gunman after shooting at mall outside Dallas,https://www.theguardian.com/us-news/2023/may/06/police-respond-to-shooting-in-dallas-mall,8,0.052,0.136,0.811,-0.9984,Guardian,2023-05-07,8
 10,A ‘nervousness never seen before’ hits Moscow before Victory Day parades,https://www.theguardian.com/world/2023/may/07/a-nervousness-never-seen-before-hits-moscow-before-victory-day-parades,9,0.08,0.139,0.781,-0.9974,Guardian,2023-05-07,8
+1,Seven dead as car strikes people in Texas border town,https://www.bbc.co.uk/news/world-us-canada-65521233,0,0.014,0.107,0.878,-0.9818,BBC,2023-05-07,20
+2,'Mad panic' as Russia evacuates nuclear plant town,https://www.bbc.co.uk/news/world-europe-65515443,1,0.031,0.102,0.868,-0.9893,BBC,2023-05-07,20
+3,Gunman kills eight people in Texas mall,https://www.bbc.co.uk/news/world-us-canada-65515915,2,0.051,0.153,0.796,-0.9969,BBC,2023-05-07,20
+4,Stars gear up to perform at Coronation concert,https://www.bbc.co.uk/news/entertainment-arts-65480420,3,0.065,0.019,0.916,0.976,BBC,2023-05-07,20
+5,What time is the Coronation concert?,https://www.bbc.co.uk/news/uk-65461957,4,0.065,0.0,0.935,0.9731,BBC,2023-05-07,20
+6,Wagner 'promised ammunition' after retreat threat,https://www.bbc.co.uk/news/world-europe-65516633,5,0.061,0.132,0.806,-0.9868,BBC,2023-05-07,20
+7,Prince Harry leaves alone after Coronation,https://www.bbc.co.uk/news/uk-65507002,6,0.019,0.059,0.923,-0.9426,BBC,2023-05-07,20
+8,Penny Mordaunt's sword-wielding - and other top moments,https://www.bbc.co.uk/news/uk-65510506,7,0.11,0.047,0.843,0.9953,BBC,2023-05-07,20
+9,Vietnam records highest-ever temperature of 44.1C,https://www.bbc.co.uk/news/world-asia-65518528,8,0.036,0.039,0.925,-0.2846,BBC,2023-05-07,20
+10,Canadian province declares wildfire emergency,https://www.bbc.co.uk/news/world-us-canada-65515446,9,0.02,0.051,0.929,-0.6757,BBC,2023-05-07,20
+1,"First person on scene of Texas mall massacre - in which eight were killed - reveals he felt for little girl's pulse before realizing she had no face and pulled boy out alive from underneath his dead mom who saved his life: Gunman killed by cops
+",https://www.dailymail.co.uk/news/article-12055177/Multiple-victims-reported-shot-active-shooter-Allen-Premium-Outlets.html,0,0.056,0.126,0.818,-0.9998,Daily Mail,2023-05-07,20
+2,"The King and Queen, behind the scenes: Buckingham Palace releases intimate pictures of the royals revealing extraordinary detail of Charles' Coronation (and Camilla's touching embroidery tribute to her beloved Jack Russells)
+",https://www.dailymail.co.uk/news/article-12054601/Stunning-official-photographs-newly-crowned-King-Charles-Queen-Camilla-wave-crowds.html,1,0.132,0.015,0.853,1.0,Daily Mail,2023-05-07,20
+3,"California panel approves reparations proposal of up to $1.2 million EACH for black residents... but activists demand more than $200 million at heated public meeting 
+",https://www.dailymail.co.uk/news/article-12055465/California-panel-approves-reparations-proposal-life-long-black-residents-1-2million.html,2,0.065,0.105,0.831,-0.9962,Daily Mail,2023-05-07,20
+4,"'I need everybody I got': Hero cop who took down Texas mall shooter made frantic call for backup moments before shooting dead AR-15 armed gunman who killed eight - including children - as FBI raid suspect's home
+",https://www.dailymail.co.uk/news/article-12056461/Hero-cop-took-Texas-mall-shooter-call-backup-shot-dead-gunman.html,3,0.075,0.145,0.781,-0.9989,Daily Mail,2023-05-07,20
+5,"'What. A. Day.' Prince and Princess of Wales share slick behind-the-scenes clip from King's Coronation as they 'thank everyone who made it happen'
+",https://www.dailymail.co.uk/femail/article-12054829/Prince-Princess-Wales-share-slick-scenes-clip-Kings-coronation.html,4,0.082,0.012,0.906,0.9984,Daily Mail,2023-05-07,20
+6,"Prince Harry grins at Heathrow after racing from his blink and you'll miss it appearance at his father's Coronation - just hours after being relegated to the third row at ceremony
+",https://www.dailymail.co.uk/news/article-12054403/So-long-Britain-Prince-grins-Heathrow-Airport-races-away-King-Charless-Coronation.html,5,0.093,0.043,0.864,0.9994,Daily Mail,2023-05-07,20
+7,"EXCLUSIVE: Taylor Swift's rumored boyfriend Matty Healy is seen grabbing a coffee at Starbucks and seemingly CONFIRMS romance after spending time at her Nashville condo
+",https://www.dailymail.co.uk/tvshowbiz/article-12055427/Taylor-Swifts-rumored-boyfriend-Matty-Healy-seen-spending-time-Nashville-condo.html,6,0.091,0.025,0.884,0.9966,Daily Mail,2023-05-07,20
+8,"DAN WOOTTON: As the glorious Coronation of King Charles secures the future of the British monarchy, Harry's arrogant façade hid a cruel reality - the isolated Prince knows he's lost the most important role of his life
+",https://www.dailymail.co.uk/news/article-12054211/DAN-WOOTTON-Harrys-arrogant-fa-ade-Coronation-hid-cruel-reality-hes-lost.html,7,0.157,0.122,0.721,0.9906,Daily Mail,2023-05-07,20
+9,"TV superstar worth £380million looks UNRECOGNISABLE with long hair and moustache in throwback snap - but can YOU guess who it is?
+",https://www.dailymail.co.uk/tvshowbiz/article-12055541/TV-superstar-looks-UNRECOGNISABLE-long-hair-moustache-guess-is.html,8,0.115,0.073,0.812,0.9815,Daily Mail,2023-05-07,20
+10,"MAUREEN CALLAHAN: Meghan - and America - could have been at the heart of this joyous spectacle. But the Duchess of Narcissism burned her bridges… and you could hear the glassware crashing in Montecito
+",https://www.dailymail.co.uk/news/article-12054583/MAUREEN-CALLAHAN-Meghan-America-heart-joyous-coronation.html,9,0.159,0.065,0.776,0.9991,Daily Mail,2023-05-07,20
+1,West Ham v Manchester United: Premier League – live,https://www.theguardian.com/football/live/2023/may/07/west-ham-v-manchester-united-premier-league-live,0,0.155,0.08,0.764,0.9993,Guardian,2023-05-07,20
+2,‘The burn was extreme’: re-creating Penny Mordaunt’s sword-wielding feat,https://www.theguardian.com/uk-news/2023/may/07/the-burn-was-extreme-recreating-penny-mordaunts-sword-wielding-feat-with-the-jug-of-state,1,0.089,0.046,0.865,0.9794,Guardian,2023-05-07,20
+3,Newcastle 0-2 Arsenal: Premier League – as it happened,https://www.theguardian.com/football/live/2023/may/07/newcastle-v-arsenal-premier-league-live,2,0.16,0.057,0.783,0.9999,Guardian,2023-05-07,20
+4,"Coronation Concert: Katy Perry, Take That and more perform to celebrate King Charles III – live",https://www.theguardian.com/music/live/2023/may/07/coronation-concert-king-charles-iii-katy-perry-take-that-lionel-richie-paloma-faith-andrea-bocelli-live,3,0.143,0.06,0.797,0.9961,Guardian,2023-05-07,20
+5,Prince Harry makes swift exit from King Charles’s coronation to return to LA,https://www.theguardian.com/uk-news/2023/may/07/prince-harry-makes-swift-exit-from-king-charless-coronation-to-return-to-la,4,0.045,0.052,0.904,-0.5023,Guardian,2023-05-07,20
+6,Should I worry about skipping breakfast?,https://www.theguardian.com/lifeandstyle/2023/may/07/should-i-worry-about-skipping-breakfast,5,0.099,0.089,0.812,0.7868,Guardian,2023-05-07,20
+7,Brilliant Floella Benjamin and a not-very-gospel coronation choir. Is this as ‘diverse’ as Britain gets?,https://www.theguardian.com/commentisfree/2023/may/07/floella-benjamin-gospel-coronation-choir-diverse-britain-equality,6,0.127,0.075,0.798,0.9945,Guardian,2023-05-07,20
+8,Anti-coronation protest leader hits out at police over arrests,https://www.theguardian.com/uk-news/2023/may/07/police-right-to-arrest-coronation-protesters-as-uk-on-global-stage-says-minister,7,0.103,0.103,0.794,0.8955,Guardian,2023-05-07,20
+9,"Voters ‘frustrated and angry’ at Tories, admits minister after local election losses",https://www.theguardian.com/politics/2023/may/07/voters-frustrated-and-angry-at-tories-admits-minister-after-local-election-losses-rishi-sunak,8,0.13,0.074,0.796,0.9901,Guardian,2023-05-07,20
+10,A ‘nervousness never seen before’ hits Moscow before Victory Day parades,https://www.theguardian.com/world/2023/may/07/a-nervousness-never-seen-before-hits-moscow-before-victory-day-parades,9,0.08,0.139,0.781,-0.9974,Guardian,2023-05-07,20
