@@ -4919,3 +4919,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Anti-coronation protest leader hits out at police over arrests,https://www.theguardian.com/uk-news/2023/may/07/police-right-to-arrest-coronation-protesters-as-uk-on-global-stage-says-minister,7,0.103,0.103,0.794,0.8955,Guardian,2023-05-07,20
 9,"Voters ‘frustrated and angry’ at Tories, admits minister after local election losses",https://www.theguardian.com/politics/2023/may/07/voters-frustrated-and-angry-at-tories-admits-minister-after-local-election-losses-rishi-sunak,8,0.13,0.074,0.796,0.9901,Guardian,2023-05-07,20
 10,A ‘nervousness never seen before’ hits Moscow before Victory Day parades,https://www.theguardian.com/world/2023/may/07/a-nervousness-never-seen-before-hits-moscow-before-victory-day-parades,9,0.08,0.139,0.781,-0.9974,Guardian,2023-05-07,20
+1,Officials looking into Texas mall gunman's ideology,https://www.bbc.co.uk/news/world-us-canada-65521656,0,0.049,0.125,0.826,-0.9937,BBC,2023-05-08,8
+2,Her illness fooled celebs. The truth may be even darker,https://www.bbc.co.uk/news/uk-65428918,1,0.118,0.102,0.78,0.993,BBC,2023-05-08,8
+3,"Pa, we are all so proud of you, says William",https://www.bbc.co.uk/news/entertainment-arts-65480420,2,0.11,0.021,0.869,0.9985,BBC,2023-05-08,8
+4,'Mad panic' as Russia evacuates nuclear plant town,https://www.bbc.co.uk/news/world-europe-65515443,3,0.031,0.102,0.867,-0.9893,BBC,2023-05-08,8
+5,Eight dead as car hits people in Texas border town,https://www.bbc.co.uk/news/world-us-canada-65521233,4,0.018,0.075,0.907,-0.969,BBC,2023-05-08,8
+6,St Kitts is 'not totally free' under the King - PM,https://www.bbc.co.uk/news/world-latin-america-65425416,5,0.081,0.095,0.824,-0.9836,BBC,2023-05-08,8
+7,Mortgage refused 'for hosting Ukrainian refugees',https://www.bbc.co.uk/news/business-65424719,6,0.069,0.061,0.87,0.6968,BBC,2023-05-08,8
+8,Yellen warns of debt ceiling 'catastrophe',https://www.bbc.co.uk/news/business-65522169,7,0.073,0.178,0.749,-0.994,BBC,2023-05-08,8
+9,Bolivian general who captured Che Guevara dies,https://www.bbc.co.uk/news/world-latin-america-65522061,8,0.081,0.084,0.835,-0.2285,BBC,2023-05-08,8
+10,At least 22 dead as boat capsizes in south India,https://www.bbc.co.uk/news/world-asia-india-65522435,9,0.065,0.071,0.864,0.0021,BBC,2023-05-08,8
+1,"First person on scene of Texas mall massacre - in which eight were killed - reveals he felt for little girl's pulse before realizing she had no face and pulled boy out alive from underneath his dead mom who saved his life: Gunman killed by cops
+",https://www.dailymail.co.uk/news/article-12055177/Multiple-victims-reported-shot-active-shooter-Allen-Premium-Outlets.html,0,0.056,0.126,0.818,-0.9998,Daily Mail,2023-05-08,8
+2,"California panel approves reparations proposal of up to $1.2 million EACH for black residents... but activists demand more than $200 million at heated public meeting 
+",https://www.dailymail.co.uk/news/article-12055465/California-panel-approves-reparations-proposal-life-long-black-residents-1-2million.html,1,0.065,0.105,0.831,-0.9962,Daily Mail,2023-05-08,8
+3,"Texas mall massacre gunman 'had neo-Nazi beliefs': Mauricio Garcia, 33, worked as security guard before firing AR-15 more than 100 times, killing eight people, including children 
+",https://www.dailymail.co.uk/news/article-12057123/Texas-mall-massacre-suspect-named-33-year-old-Mauricio-Garcia.html,2,0.05,0.138,0.812,-0.9982,Daily Mail,2023-05-08,8
+4,"Missing the big party: Meghan Markle hikes without Prince Harry near $14M Montecito mansion as she is seen for the first time since skipping King Charles' coronation for Archie's birthday
+",https://www.dailymail.co.uk/news/article-12057431/Meghan-Markle-seen-time-Archies-birthday-King-Charles-coronation.html,3,0.098,0.005,0.898,0.9972,Daily Mail,2023-05-08,8
+5,"'I need everybody I got': Hero cop who took down Texas mall shooter made frantic call for backup moments before shooting dead AR-15 armed gunman who killed eight - including children - as FBI raid suspect's home
+",https://www.dailymail.co.uk/news/article-12056461/Hero-cop-took-Texas-mall-shooter-call-backup-shot-dead-gunman.html,4,0.075,0.145,0.781,-0.9989,Daily Mail,2023-05-08,8
+6,"TV superstar worth £380million looks UNRECOGNISABLE with long hair and moustache in throwback snap - but can YOU guess who it is?
+",https://www.dailymail.co.uk/tvshowbiz/article-12055541/TV-superstar-looks-UNRECOGNISABLE-long-hair-moustache-guess-is.html,5,0.115,0.073,0.812,0.9815,Daily Mail,2023-05-08,8
+7,"Harry rushed home to LA to make it in time for Archie's birthday with his and Meghan's celebrity friends- as duchess tells friends it would've been 'inauthentic' of her to go to Coronation and miss son's birthday
+",https://www.dailymail.co.uk/news/article-12056717/Inside-Archies-fourth-birthday-Sussexes-11m-Californian-home.html,6,0.057,0.017,0.925,0.9616,Daily Mail,2023-05-08,8
+8,"EXCLUSIVE: Charles's sorrow at Harry's disappearing act: How 'genuinely disappointed' King raised poignant toast to grandson Archie 'wherever you are' at post-Coronation buffet - despite Prince having already left
+",https://www.dailymail.co.uk/news/article-12056711/King-Charles-sorrow-Prince-Harry-disappearing-act-Archie-birthday.html,7,0.125,0.008,0.866,0.9981,Daily Mail,2023-05-08,8
+9,"EXCLUSIVE: Taylor Swift and rumored beau Matty Healy pictured for the FIRST TIME TOGETHER as they head to her condo following her Eras show - after splitting from Joe Alwyn following six years of dating
+",https://www.dailymail.co.uk/tvshowbiz/article-12057353/Taylor-Swift-Matty-Healy-pictured-TIME-arrive-apartment.html,8,0.128,0.032,0.841,0.9986,Daily Mail,2023-05-08,8
+10,"Stealing the show! Prince George and Charlotte dance and jig along to the Coronation Concert... but the Princess isn't too sure about Pete Tong's 'Ibiza classics'
+",https://www.dailymail.co.uk/femail/article-12057067/Prince-George-Princess-Charlotte-star-studded-Coronation-concert-Windsor.html,9,0.072,0.009,0.919,0.9941,Daily Mail,2023-05-08,8
+1,Coronation Concert review – a cobbled-together bunch of B-listers,https://www.theguardian.com/music/2023/may/07/coronation-concert-review-a-cobbled-together-bunch-of-b-listers,0,0.119,0.072,0.81,0.9908,Guardian,2023-05-08,8
+2,Blood test for sleepy drivers could pave way for prosecutions,https://www.theguardian.com/science/2023/may/08/blood-test-for-sleepy-drivers-could-pave-way-for-prosecutions,1,0.098,0.083,0.819,0.959,Guardian,2023-05-08,8
+3,Russia launches mass strikes across Ukraine injuring five in Kyiv,https://www.theguardian.com/world/2023/may/08/russia-launches-mass-strikes-across-ukraine-injuring-five-in-kyiv,2,0.041,0.156,0.802,-0.9936,Guardian,2023-05-08,8
+4,"WhatsApp could disappear from UK over privacy concerns, ministers told",https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told,3,0.104,0.072,0.824,0.9928,Guardian,2023-05-08,8
+5,Met stands by officers after man Tasered and two dogs shot dead in London,https://www.theguardian.com/uk-news/2023/may/07/met-stands-by-officers-man-tasered-two-dogs-shot-dead-london,4,0.006,0.126,0.868,-0.967,Guardian,2023-05-08,8
+6,‘The burn was extreme’: re-creating Penny Mordaunt’s sword-wielding feat,https://www.theguardian.com/uk-news/2023/may/07/the-burn-was-extreme-recreating-penny-mordaunts-sword-wielding-feat-with-the-jug-of-state,5,0.089,0.046,0.865,0.9794,Guardian,2023-05-08,8
+7,"The coronation pulled a screen across a desperate, polarised nation – just as intended",https://www.theguardian.com/commentisfree/2023/may/08/coronation-desperate-nation-rotten-system,6,0.144,0.084,0.771,0.9981,Guardian,2023-05-08,8
+8,"King Charles complained ‘we can never be on time’ at coronation, lip reader claims",https://www.theguardian.com/uk-news/2023/may/07/king-charles-we-can-never-be-on-time-coronation-lip-reader,7,0.044,0.093,0.863,-0.9606,Guardian,2023-05-08,8
+9,Headstrong horses and cumbersome crowns: the coronation’s lighter side,https://www.theguardian.com/uk-news/2023/may/07/headstrong-horses-and-cumbersome-crowns-the-coronations-lighter-side,8,0.106,0.077,0.816,0.9765,Guardian,2023-05-08,8
+10,Russia-Ukraine war live: Russia launches fresh wave of strikes on Ukraine as Moscow counts down to Victory Day,https://www.theguardian.com/world/live/2023/may/08/russia-ukraine-war-live-five-injured-in-kyiv-drone-strikes-as-air-raid-sirens-sound-across-ukraine,9,0.051,0.135,0.814,-0.9995,Guardian,2023-05-08,8
