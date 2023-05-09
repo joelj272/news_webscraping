@@ -5039,3 +5039,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Russia-Ukraine war live: Moscow marks Victory Day with parade after wave of strikes across Ukraine,https://www.theguardian.com/world/live/2023/may/09/russia-ukraine-war-live-15-missiles-shot-down-over-kyiv-as-victory-day-begins-in-russia,7,0.066,0.118,0.816,-0.9991,Guardian,2023-05-09,8
 9,‘I was 300 sheets to the wind’: Katrina and the Waves’ 1997 Eurovision win,https://www.theguardian.com/tv-and-radio/2023/may/09/300-sheets-to-the-wind-katrina-and-the-waves-1997-eurovision-win,8,0.108,0.025,0.868,0.9915,Guardian,2023-05-09,8
 10,EU leaders set out hopes for post-Brexit relations with Britain,https://www.theguardian.com/politics/2023/may/08/eu-leaders-set-out-hopes-for-post-brexit-relations-with-britain,9,0.113,0.037,0.85,0.9911,Guardian,2023-05-09,8
+1,US girl shot in head while playing hide-and-seek,https://www.bbc.co.uk/news/world-us-canada-65539174,0,0.015,0.134,0.851,-0.9758,BBC,2023-05-09,20
+2,US bereavement author charged with husband's murder,https://www.bbc.co.uk/news/world-us-canada-65536506,1,0.058,0.106,0.836,-0.9575,BBC,2023-05-09,20
+3,Swiss villagers told to flee monster rockslide,https://www.bbc.co.uk/news/world-europe-65533681,2,0.041,0.101,0.858,-0.9868,BBC,2023-05-09,20
+4,Jury finds Trump sexually abused writer in NY store,https://www.bbc.co.uk/news/world-us-canada-65531098,3,0.093,0.179,0.728,-0.9963,BBC,2023-05-09,20
+5,Russia's future rests on Ukraine war - Putin,https://www.bbc.co.uk/news/world-europe-65532088,4,0.068,0.149,0.783,-0.9963,BBC,2023-05-09,20
+6,Mass protests across Pakistan after ex-PM arrest,https://www.bbc.co.uk/news/world-asia-65531648,5,0.072,0.131,0.797,-0.9945,BBC,2023-05-09,20
+7,Goldman Sachs to pay $215m in sex discrimination case,https://www.bbc.co.uk/news/business-65538014,6,0.103,0.065,0.832,0.9314,BBC,2023-05-09,20
+8,Meet Melanie and Chayse: The disabled woman and her sex worker,https://www.bbc.co.uk/news/disability-65422489,7,0.123,0.058,0.818,0.9987,BBC,2023-05-09,20
+9,Duelling with Russian jets in the skies over Ukraine,https://www.bbc.co.uk/news/world-europe-65461405,8,0.082,0.122,0.795,-0.9966,BBC,2023-05-09,20
+10,China expels Canadian diplomat in tit-for-tat move,https://www.bbc.co.uk/news/world-us-canada-65529185,9,0.057,0.115,0.828,-0.9806,BBC,2023-05-09,20
+1,"Mormon mom accused of poisoning husband with fentanyl-laced Moscow Mule is seen promoting her kids' bereavement book a MONTH before she was arrested for his murder: He told friends if 'anything happened to him it would be her'
+",https://www.dailymail.co.uk/news/article-12061621/Utah-author-book-grieving-death-charged-murder.html,0,0.171,0.098,0.731,0.9995,Daily Mail,2023-05-09,20
+2,"EXCLUSIVE: Man, 30, who insists he is Jay-Z's illegitimate son accuses rapper of abusing legal system for 10 YEARS to avoid taking a paternity test - as he files new Supreme Court motion to UNSEAL decade-long case: 'I will win... the law is on my side'
+",https://www.dailymail.co.uk/tvshowbiz/article-11969945/Jay-Zs-alleged-son-Rymir-Satterthwaite-files-motion-Supreme-Court-amid-10-year-paternity.html,1,0.066,0.069,0.865,-0.969,Daily Mail,2023-05-09,20
+3,"'I just had a baby!': Robert De Niro, 79, reveals he has recently welcomed his SEVENTH child
+",https://www.dailymail.co.uk/tvshowbiz/article-12063885/Robert-Niro-79-reveals-recently-welcomed-new-baby-making-father-SEVEN.html,2,0.098,0.058,0.845,0.9943,Daily Mail,2023-05-09,20
+4,"Official Coronation portraits show Charles is 'a King who knows his own mind' who has surrounded himself with a slimmed down monarchy of people he can depend on - and sister Anne being at his right hand is 'no accident', royal expert reveals
+",https://www.dailymail.co.uk/news/article-12059773/Its-official-Charles-slimmed-monarchy-unveiled-official-Coronation-portraits.html,3,0.111,0.016,0.873,0.9999,Daily Mail,2023-05-09,20
+5,"'I was exasperated': Prince Harry's ghostwriter J.R Moehringer tells of tensions between them while working on Spare and reveals their relationship became so fraught that he shouted at the royal in row at 2am
+",https://www.dailymail.co.uk/news/article-12060033/I-exasperated-Prince-Harrys-Spare-ghostwriter-J-R-Moehringer-tells-tensions-them.html,4,0.088,0.081,0.832,0.8974,Daily Mail,2023-05-09,20
+6,"Did Harry REALLY 'pop into' Buckingham Palace after Coronation? Insider claims Duke went to royal residence for 'logistical reasons' during his 45-minute dash from Westminster Abbey to Heathrow 
+",https://www.dailymail.co.uk/news/article-12061613/Duke-Sussex-spent-30-minutes-Royal-residence-fathers-coronation.html,5,0.101,0.026,0.873,0.9986,Daily Mail,2023-05-09,20
+7,"Kim Zolciak files for DIVORCE from husband Kroy Biermann after 11 years and four children - amid money woes with the couple owing $1.1MILLION to the IRS in unpaid taxes
+",https://www.dailymail.co.uk/tvshowbiz/article-12060441/Kim-Zolciak-files-divorce-husband-Kroy-Biermann-11-years-marriage.html,6,0.069,0.028,0.903,0.9884,Daily Mail,2023-05-09,20
+8,"Doctor 'pulls baby's head off during childbirth while horrified father watches' 
+",https://www.dailymail.co.uk/news/article-12059171/Doctor-pulls-babys-head-childbirth-horrified-father-watches.html,7,0.028,0.088,0.884,-0.9843,Daily Mail,2023-05-09,20
+9,"Meghan Markle's biographer Omid Scobie claims George, Charlotte and Louis 'were to blame' for Kate and William being late to the Coronation
+",https://www.dailymail.co.uk/femail/article-12062497/George-Charlotte-Louis-blame-Kate-William-late-Coronation-Omid-Scobie-says.html,8,0.102,0.033,0.865,0.9933,Daily Mail,2023-05-09,20
+10,"'Is that a tummy flattener?' Meghan Markle baffles fans after sporting a mysterious accessory UNDER her shirt during LA hike - as social media speculates it's a weight loss aid or even a HERNIA belt
+",https://www.dailymail.co.uk/femail/article-12059407/Meghan-Markle-fans-baffled-strange-belt-hike-speculate-weight-loss-aid.html,9,0.1,0.048,0.852,0.9877,Daily Mail,2023-05-09,20
+1,Jury finds Donald Trump sexually abused columnist E Jean Carroll ,https://www.theguardian.com/us-news/2023/may/09/e-jean-carroll-wins-trump-trial-verdict,0,0.083,0.157,0.76,-0.9987,Guardian,2023-05-09,20
+2,Donald Trump claims sexual abuse verdict a disgrace after being told to pay E Jean Carroll $5m in damages - live,https://www.theguardian.com/us-news/live/2023/may/09/donald-trump-rape-trial-e-jean-carroll-joe-biden-debt-ceiling-politics-live-updates,1,0.098,0.18,0.722,-0.9982,Guardian,2023-05-09,20
+3,First UK baby with DNA from three people born after new IVF procedure,https://www.theguardian.com/science/2023/may/09/first-uk-baby-with-dna-from-three-people-born-after-new-ivf-procedure,2,0.102,0.054,0.844,0.9932,Guardian,2023-05-09,20
+4,"David Miranda, campaigner and former Brazilian congressman, dies aged 37",https://www.theguardian.com/world/2023/may/09/david-miranda-dead-brazil-campaigner-congressman,3,0.172,0.075,0.753,0.9944,Guardian,2023-05-09,20
+5,"Real Madrid v Manchester City: Champions League semi-final, first leg – live",https://www.theguardian.com/football/live/2023/may/09/real-madrid-v-manchester-city-champions-league-semi-final-first-leg-live,4,0.131,0.08,0.789,0.9993,Guardian,2023-05-09,20
+6,Sunak uses helicopter for trip that would have taken just over an hour by train,https://www.theguardian.com/politics/2023/may/09/sunak-helicopter-train-southampton-prime-minister-rail,5,0.048,0.038,0.914,0.7311,Guardian,2023-05-09,20
+7,Tory MPs condemn use of new laws to detain coronation protesters,https://www.theguardian.com/uk-news/2023/may/09/tory-mps-condemn-use-of-new-laws-to-detain-coronation-protesters,6,0.077,0.107,0.815,-0.9494,Guardian,2023-05-09,20
+8,BBC to repair HQ sculpture by paedophile Eric Gill,https://www.theguardian.com/artanddesign/2023/may/09/bbc-to-repair-hq-sculpture-by-paedophile-child-sexual-abuser-eric-gill,7,0.068,0.097,0.835,-0.9606,Guardian,2023-05-09,20
+9,Will The Little Mermaid be the most horrifying film since Cats?,https://www.theguardian.com/film/2023/may/09/little-mermaid-live-action-horror-cats,8,0.091,0.123,0.786,-0.9873,Guardian,2023-05-09,20
+10,Nicola Bulley: police will not face action over release of information,https://www.theguardian.com/uk-news/2023/may/09/nicola-bulley-police-will-not-face-action-over-release-of-information,9,0.072,0.079,0.849,-0.8014,Guardian,2023-05-09,20
