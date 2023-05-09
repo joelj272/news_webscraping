@@ -4999,3 +4999,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Breakfast pie: the British delicacy that doesn’t exist – but absolutely should,https://www.theguardian.com/lifeandstyle/2023/may/08/breakfast-pie-the-british-delicacy-that-doesnt-exist-but-absolutely-should,7,0.108,0.048,0.845,0.9718,Guardian,2023-05-08,20
 9,Frankie Goes to Hollywood’s Eurovision reunion leaves fans elated – and confused,https://www.theguardian.com/tv-and-radio/2023/may/08/frankie-goes-to-hollywood-eurovision-reunion-leaves-fans-elated-and-confused,8,0.16,0.077,0.762,0.9932,Guardian,2023-05-08,20
 10,King Charles and Queen Camilla make surprise cameo on American Idol,https://www.theguardian.com/uk-news/2023/may/08/king-charles-queen-camilla-surprise-cameo-american-idol,9,0.121,0.008,0.871,0.9928,Guardian,2023-05-08,20
+1,China expels Canadian diplomat in tit-for-tat move,https://www.bbc.co.uk/news/world-us-canada-65529185,0,0.039,0.104,0.857,-0.9781,BBC,2023-05-09,8
+2,Ukraine says it downed Russian cruise missiles,https://www.bbc.co.uk/news/world-europe-65529511,1,0.036,0.174,0.79,-0.9828,BBC,2023-05-09,8
+3,Meet Melanie and Chayse: The disabled woman and her sex worker,https://www.bbc.co.uk/news/disability-65422489,2,0.123,0.058,0.818,0.9987,BBC,2023-05-09,8
+4,Harry’s ghostwriter recounts frenzy around memoir,https://www.bbc.co.uk/news/uk-65529055,3,0.039,0.102,0.859,-0.9854,BBC,2023-05-09,8
+5,Israel kills top Gaza militants in waves of attacks,https://www.bbc.co.uk/news/world-middle-east-65529490,4,0.039,0.172,0.789,-0.9977,BBC,2023-05-09,8
+6,Duelling with Russian jets in the skies over Ukraine,https://www.bbc.co.uk/news/world-europe-65461405,5,0.082,0.122,0.795,-0.9966,BBC,2023-05-09,8
+7,Tom Hanks says he is not always Mr Nice Guy,https://www.bbc.co.uk/news/entertainment-arts-65404525,6,0.122,0.075,0.803,0.9925,BBC,2023-05-09,8
+8,Alberta asks for military help to battle wildfires,https://www.bbc.co.uk/news/world-us-canada-65529437,7,0.049,0.086,0.866,-0.9159,BBC,2023-05-09,8
+9,Jury hears closing remarks in Trump civil rape case,https://www.bbc.co.uk/news/world-us-canada-65499719,8,0.043,0.123,0.834,-0.993,BBC,2023-05-09,8
+10,Three children among victims of Texas mall shooting,https://www.bbc.co.uk/news/world-us-canada-65527487,9,0.075,0.217,0.708,-0.9993,BBC,2023-05-09,8
+1,"Doctor 'pulls baby's head off during childbirth while horrified father watches' 
+",https://www.dailymail.co.uk/news/article-12059171/Doctor-pulls-babys-head-childbirth-horrified-father-watches.html,0,0.028,0.088,0.884,-0.9843,Daily Mail,2023-05-09,8
+2,"EXCLUSIVE: Man, 30, who insists he is Jay-Z's illegitimate son accuses rapper of abusing legal system for 10 YEARS to avoid taking a paternity test - as he files new Supreme Court motion to UNSEAL decade-long case: 'I will win... the law is on my side'
+",https://www.dailymail.co.uk/tvshowbiz/article-11969945/Jay-Zs-alleged-son-Rymir-Satterthwaite-files-motion-Supreme-Court-amid-10-year-paternity.html,1,0.066,0.069,0.865,-0.969,Daily Mail,2023-05-09,8
+3,"Kim Zolciak files for DIVORCE from husband Kroy Biermann after 11 years and four children - amid money woes with the couple owing $1.1MILLION to the IRS in unpaid taxes
+",https://www.dailymail.co.uk/tvshowbiz/article-12060441/Kim-Zolciak-files-divorce-husband-Kroy-Biermann-11-years-marriage.html,2,0.069,0.028,0.903,0.9884,Daily Mail,2023-05-09,8
+4,"'I was exasperated': Prince Harry's ghostwriter J.R Moehringer tells of tensions between them while working on Spare and reveals their relationship became so fraught that he shouted at the royal in row at 2am
+",https://www.dailymail.co.uk/news/article-12060033/I-exasperated-Prince-Harrys-Spare-ghostwriter-J-R-Moehringer-tells-tensions-them.html,3,0.088,0.081,0.832,0.8974,Daily Mail,2023-05-09,8
+5,"Official Coronation portraits show Charles is 'a King who knows his own mind' who has surrounded himself with a slimmed down monarchy of people he can depend on - and sister Anne being at his right hand is 'no accident', royal expert reveals
+",https://www.dailymail.co.uk/news/article-12059773/Its-official-Charles-slimmed-monarchy-unveiled-official-Coronation-portraits.html,4,0.111,0.016,0.873,0.9999,Daily Mail,2023-05-09,8
+6,"Ray Liotta's cause of death is revealed as acute heart failure and fluid in the lungs one year after his sudden passing at 67
+",https://www.dailymail.co.uk/tvshowbiz/article-12058999/Ray-Liottas-cause-death-revealed-acute-heart-failure.html,5,0.092,0.086,0.822,0.8554,Daily Mail,2023-05-09,8
+7,"Tom Cruise mingles with stunning Shakira at the 2023 Miami Formula One Grand Prix... after her bitter split from Gerard Pique
+",https://www.dailymail.co.uk/tvshowbiz/article-12058585/Tom-Cruise-mingles-newly-single-Shakira-2023-Miami-Formula-One-Grand-Prix.html,6,0.167,0.062,0.771,0.9953,Daily Mail,2023-05-09,8
+8,"Watch as Princess Charlotte forgets to curtsy to Queen Camilla at the Coronation concert (and her step-grandmother had the sweetest reaction!)
+",https://www.dailymail.co.uk/femail/article-12058997/Watch-Princess-Charlotte-forgets-curtsy-Queen-Camilla-Coronation-concert.html,7,0.096,0.031,0.873,0.9949,Daily Mail,2023-05-09,8
+9,"'Is that a tummy flattener?' Meghan Markle baffles fans after sporting a mysterious accessory UNDER her shirt during LA hike - as social media speculates it's a weight loss aid or even a HERNIA belt
+",https://www.dailymail.co.uk/femail/article-12059407/Meghan-Markle-fans-baffled-strange-belt-hike-speculate-weight-loss-aid.html,8,0.1,0.048,0.852,0.9877,Daily Mail,2023-05-09,8
+10,"Shocking moment Tennessee high school student pepper sprays teacher TWICE after he confiscated her phone in class 
+",https://www.dailymail.co.uk/news/article-12060643/Tennessee-high-school-student-pepper-sprays-teacher-confiscated-phone.html,9,0.052,0.103,0.845,-0.9807,Daily Mail,2023-05-09,8
+1,Pharmacies in England to offer prescriptions for seven conditions amid surgery crisis,https://www.theguardian.com/society/2023/may/09/pharmacies-england-prescriptions-seven-conditions-amid-surgery-crisis,0,0.089,0.071,0.84,0.9268,Guardian,2023-05-09,8
+2,‘Mind-boggling’ methane emissions from Turkmenistan revealed,https://www.theguardian.com/world/2023/may/09/mind-boggling-methane-emissions-from-turkmenistan-revealed,1,0.057,0.076,0.867,-0.9628,Guardian,2023-05-09,8
+3,When 75 is time to die: the horrifically plausible film imagining state-run euthanasia in Japan,https://www.theguardian.com/film/2023/may/08/plan-75-ageing-japan-euthanasia-suicide,2,0.096,0.143,0.761,-0.9982,Guardian,2023-05-09,8
+4,"Johnson ‘squared up’ to the king over Rwanda plan, claims former press chief",https://www.theguardian.com/uk-news/2023/may/08/johnson-squared-up-to-the-king-over-rwanda-plan-claims-former-press-chief,3,0.016,0.084,0.9,-0.9826,Guardian,2023-05-09,8
+5,"Tories misjudged mood on culture wars, says Starmer, after strong local election",https://www.theguardian.com/politics/2023/may/08/voters-returning-to-labour-after-corbyn-and-brexit-keir-starmer-to-say,4,0.09,0.089,0.821,0.0899,Guardian,2023-05-09,8
+6,Tesco chair accused of inappropriate behaviour by four women,https://www.theguardian.com/business/2023/may/09/tesco-chair-john-allan,5,0.056,0.057,0.888,-0.1208,Guardian,2023-05-09,8
+7,"Violent porn acts occurring in sexual abuse between under-18s, report finds",https://www.theguardian.com/society/2023/may/09/violent-porn-acts-occurring-in-sexual-abuse-between-under-18s-report-finds,6,0.059,0.071,0.87,-0.6808,Guardian,2023-05-09,8
+8,Russia-Ukraine war live: Moscow marks Victory Day with parade after wave of strikes across Ukraine,https://www.theguardian.com/world/live/2023/may/09/russia-ukraine-war-live-15-missiles-shot-down-over-kyiv-as-victory-day-begins-in-russia,7,0.066,0.118,0.816,-0.9991,Guardian,2023-05-09,8
+9,‘I was 300 sheets to the wind’: Katrina and the Waves’ 1997 Eurovision win,https://www.theguardian.com/tv-and-radio/2023/may/09/300-sheets-to-the-wind-katrina-and-the-waves-1997-eurovision-win,8,0.108,0.025,0.868,0.9915,Guardian,2023-05-09,8
+10,EU leaders set out hopes for post-Brexit relations with Britain,https://www.theguardian.com/politics/2023/may/08/eu-leaders-set-out-hopes-for-post-brexit-relations-with-britain,9,0.113,0.037,0.85,0.9911,Guardian,2023-05-09,8
