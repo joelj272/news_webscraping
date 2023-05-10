@@ -5119,3 +5119,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Tory MPs voice unease over Sunak’s flying pharmacy visit ,https://www.theguardian.com/politics/2023/may/09/sunaks-flying-visit-to-unveil-pharmacy-plan-underlines-out-of-touch-image,7,0.087,0.108,0.805,-0.9645,Guardian,2023-05-10,8
 9,Eric Gill was evil. His sculpture at BBC headquarters isn’t,https://www.theguardian.com/artanddesign/2023/may/09/eric-gill-was-evil-his-sculpture-at-bbc-headquarters-isnt,8,0.08,0.166,0.754,-0.9975,Guardian,2023-05-10,8
 10,"Russia-Ukraine war live: France calls on EU to label Wagner a terrorist group; ‘enemy’ drone shot down in Kursk, says Russia",https://www.theguardian.com/world/live/2023/may/10/russia-ukraine-war-live-france-calls-on-eu-to-label-wagner-a-terrorist-group-as-britain,9,0.081,0.133,0.786,-0.9995,Guardian,2023-05-10,8
+1,Russian fury as Poland renames Kaliningrad exclave,https://www.bbc.co.uk/news/world-europe-65545636,0,0.027,0.098,0.874,-0.9881,BBC,2023-05-10,20
+2,Harry blames press intrusion for Chelsy break-up,https://www.bbc.co.uk/news/uk-65550021,1,0.055,0.073,0.872,-0.977,BBC,2023-05-10,20
+3,US soldier who shot protester sentenced to 25 years,https://www.bbc.co.uk/news/world-us-canada-65548977,2,0.083,0.165,0.752,-0.994,BBC,2023-05-10,20
+4,Baby born from three people's DNA in UK first,https://www.bbc.co.uk/news/science-environment-65538866,3,0.105,0.099,0.795,0.3911,BBC,2023-05-10,20
+5,Republican George Santos pleads not guilty to fraud,https://www.bbc.co.uk/news/world-us-canada-65548728,4,0.063,0.091,0.846,-0.9625,BBC,2023-05-10,20
+6,Violence and mass arrests as Imran Khan charged,https://www.bbc.co.uk/news/world-asia-65541215,5,0.074,0.144,0.782,-0.9953,BBC,2023-05-10,20
+7,How Republican women reacted to Trump civil case,https://www.bbc.co.uk/news/world-us-canada-65540838,6,0.098,0.147,0.755,-0.9918,BBC,2023-05-10,20
+8,Defending the last Ukrainian streets in Bakhmut,https://www.bbc.co.uk/news/world-europe-65533192,7,0.072,0.128,0.8,-0.9956,BBC,2023-05-10,20
+9,Judge orders release of Mexican drug lord Palma,https://www.bbc.co.uk/news/world-latin-america-65544130,8,0.049,0.207,0.744,-0.9991,BBC,2023-05-10,20
+10,"Boy, 8, survives two days in wilderness eating snow",https://www.bbc.co.uk/news/world-us-canada-65541823,9,0.097,0.04,0.863,0.9001,BBC,2023-05-10,20
+1,"Elon Musk reveals Tucker Carlson has NOT signed a deal with Twitter as he welcomes his new show to the platform... while ex-Fox News host accuses Rupert Murdoch of 'breaking promises' and the media giant of fraud and breach of contract
+",https://www.dailymail.co.uk/news/article-12065425/Tucker-Carlson-announces-relaunching-TWITTER.html,0,0.096,0.081,0.823,0.9432,Daily Mail,2023-05-10,20
+2,"EXCLUSIVE: Kim Zolciak 'BLAMED' ex Kroy Biermann for their financial ruin after 'relying on him for everything' for years - and blindsided family with secret divorce plans, leaving daughter Brielle devastated by the split
+",https://www.dailymail.co.uk/tvshowbiz/article-12064165/Kim-Zolciak-blamed-ex-husband-Kroy-Biermann-financial-ruin-left-family-stunned.html,1,0.066,0.1,0.834,-0.9855,Daily Mail,2023-05-10,20
+3,"'I just had a baby!': Robert De Niro, 79, reveals he has recently welcomed his SEVENTH child
+",https://www.dailymail.co.uk/tvshowbiz/article-12063885/Robert-Niro-79-reveals-recently-welcomed-new-baby-making-father-SEVEN.html,2,0.098,0.058,0.845,0.9943,Daily Mail,2023-05-10,20
+4,"Biden family 'got $1 MILLION from ROMANIA' while Joe vowed to clean up corruption: GOP 'influence-peddling' probe into $10M in foreign cash reveals Hunter set up 15 companies AFTER his dad became VP and lay out how money came from China
+",https://www.dailymail.co.uk/news/article-12068135/Republicans-dig-10-MILLION-foreign-money-linked-payments-Biden-family-members.html,3,0.057,0.038,0.905,0.9774,Daily Mail,2023-05-10,20
+5,"'I don't think she was listening to me, I didn't like that': Mother of six-year-old boy who shot his teacher reveals what he said to her DAYS before
+",https://www.dailymail.co.uk/news/article-12068017/Mom-boy-6-shot-teacher-says-really-liked-felt-ignored.html,4,0.103,0.102,0.795,0.3881,Daily Mail,2023-05-10,20
+6,"E. Jean Carroll emerges grinning from civil court after jury found Trump DID sexually abuse her in Bergdorf Goodman dressing room in the 1990s: Ex-President is cleared of rape but ordered to pay her $5m damages 
+",https://www.dailymail.co.uk/news/article-12065045/Jury-finds-Donald-Trump-sexually-abused-E-Jean-Carroll.html,5,0.102,0.127,0.771,-0.9982,Daily Mail,2023-05-10,20
+7,"Welcome to Plathville's Olivia Plath announces the death of her 15-year-old brother Micah Meggs after he was struck by car while riding electric bike
+",https://www.dailymail.co.uk/tvshowbiz/article-12066125/Welcome-Plathvilles-Olivia-Plath-announces-death-15-year-old-brother-Micah-Meggs.html,6,0.096,0.069,0.835,0.9609,Daily Mail,2023-05-10,20
+8,"Harrison Ford, 80, is seen carrying a heavy bag in West Hollywood... just weeks before Indiana Jones And The Dial Of Destiny debuts
+",https://www.dailymail.co.uk/tvshowbiz/article-12066747/Harrison-Ford-80-seen-carrying-heavy-bag-West-Hollywood.html,7,0.069,0.0,0.931,0.9609,Daily Mail,2023-05-10,20
+9,"'Queen of the mommy bloggers' Heather Armstrong - known as Dooce - dies aged 48 after detailing battles with sobriety and suicidal depression
+",https://www.dailymail.co.uk/news/article-12069043/Queen-mommy-bloggers-Heather-Armstrong-known-Dooce-dies-aged-48.html,8,0.076,0.164,0.761,-0.9936,Daily Mail,2023-05-10,20
+10,"Meghan and Harry 'hire Kim Kardashian's former bodyguard to protect them in California after firing minder who used to work for Michael Jackson' 
+",https://www.dailymail.co.uk/news/article-12066009/Meghan-Harry-hire-Kim-Kardashians-former-bodyguard-protect-California.html,9,0.089,0.058,0.854,0.9061,Daily Mail,2023-05-10,20
+1,Cheerless Rish! leaves the Commons cold after election disaster ,https://www.theguardian.com/politics/2023/may/10/cheerless-rish-leaves-the-commons-cold-after-election-disaster,0,0.109,0.15,0.741,-0.9958,Guardian,2023-05-10,20
+2,Plans to abolish ‘feudal’ leasehold system in England and Wales dropped ,https://www.theguardian.com/money/2023/may/10/plans-abolish-feudal-leasehold-system-england-wales,1,0.107,0.076,0.818,0.9719,Guardian,2023-05-10,20
+3,Time stands still at Westminster as Big Ben fails to chime,https://www.theguardian.com/uk-news/2023/may/10/time-stands-still-at-westminster-as-big-ben-fails-to-chime,2,0.057,0.048,0.894,0.5023,Guardian,2023-05-10,20
+4,E Jean Carroll ‘overwhelmed with joy’ for women in US after Trump verdict,https://www.theguardian.com/us-news/2023/may/10/e-jean-carroll-trump-verdict-reaction,3,0.108,0.134,0.758,-0.9916,Guardian,2023-05-10,20
+5,Perhaps it’s time to admit it: drinking at work is an ugly hangover from the past,https://www.theguardian.com/commentisfree/2023/may/10/drinking-at-work-hangover-booze-workplace-bosses,4,0.097,0.073,0.831,0.9737,Guardian,2023-05-10,20
+6,"Milan v Internazionale: Champions League semi-final, first leg – live",https://www.theguardian.com/football/live/2023/may/10/milan-v-internazionale-champions-league-semi-final-first-leg-live-score-updates,5,0.127,0.049,0.824,0.9996,Guardian,2023-05-10,20
+7,Secret sex signals: love languages of long-term couples – from aubergine emojis to extreme eye contact,https://www.theguardian.com/lifeandstyle/2023/may/10/secret-sex-signals-love-languages-of-long-term-couples-from-aubergine-emojis-to-extreme-eye-contact,6,0.123,0.055,0.823,0.986,Guardian,2023-05-10,20
+8,"Street artist claims he created ‘Banksy artwork’ bought for £250,000",https://www.theguardian.com/artanddesign/2023/may/10/street-artist-claims-he-created-banksy-artwork-bought-for-250000,7,0.085,0.062,0.853,0.9646,Guardian,2023-05-10,20
+9,"Russian forces in Bakhmut pushed back by up to 2km in some areas, claims Ukraine military commander – as it happened",https://www.theguardian.com/world/live/2023/may/10/russia-ukraine-war-live-france-calls-on-eu-to-label-wagner-a-terrorist-group-as-britain,8,0.063,0.149,0.788,-0.9999,Guardian,2023-05-10,20
+10,From rampaging teenagers to female assassins: why has East German culture become so cool?,https://www.theguardian.com/culture/2023/may/10/rampaging-teenagers-female-assassins-east-german-culture-cool-kleo-wall,9,0.128,0.078,0.794,0.9979,Guardian,2023-05-10,20
