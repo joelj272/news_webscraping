@@ -5159,3 +5159,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Street artist claims he created ‘Banksy artwork’ bought for £250,000",https://www.theguardian.com/artanddesign/2023/may/10/street-artist-claims-he-created-banksy-artwork-bought-for-250000,7,0.085,0.062,0.853,0.9646,Guardian,2023-05-10,20
 9,"Russian forces in Bakhmut pushed back by up to 2km in some areas, claims Ukraine military commander – as it happened",https://www.theguardian.com/world/live/2023/may/10/russia-ukraine-war-live-france-calls-on-eu-to-label-wagner-a-terrorist-group-as-britain,8,0.063,0.149,0.788,-0.9999,Guardian,2023-05-10,20
 10,From rampaging teenagers to female assassins: why has East German culture become so cool?,https://www.theguardian.com/culture/2023/may/10/rampaging-teenagers-female-assassins-east-german-culture-cool-kleo-wall,9,0.128,0.078,0.794,0.9979,Guardian,2023-05-10,20
+1,Zelensky: We must wait before starting offensive,https://www.bbc.co.uk/news/world-europe-65550427,0,0.085,0.122,0.793,-0.9872,BBC,2023-05-11,8
+2,Finnish PM to divorce as she prepares to leave office,https://www.bbc.co.uk/news/world-europe-65555222,1,0.143,0.08,0.777,0.9806,BBC,2023-05-11,8
+3,US 'mommy blogger' Heather Armstrong dead at 47,https://www.bbc.co.uk/news/world-us-canada-65553608,2,0.071,0.085,0.844,-0.825,BBC,2023-05-11,8
+4,El Paso braces for worst as Title 42 deadline looms,https://www.bbc.co.uk/news/world-us-canada-65552877,3,0.071,0.096,0.833,-0.9814,BBC,2023-05-11,8
+5,"India's Russia oil imports jump tenfold, bank says",https://www.bbc.co.uk/news/business-65553920,4,0.066,0.078,0.856,-0.846,BBC,2023-05-11,8
+6,Disney+ streaming service loses 4m subscribers,https://www.bbc.co.uk/news/business-65553932,5,0.069,0.081,0.85,-0.304,BBC,2023-05-11,8
+7,Dutchman Joran van der Sloot to be extradited to US,https://www.bbc.co.uk/news/world-us-canada-65553965,6,0.062,0.135,0.803,-0.976,BBC,2023-05-11,8
+8,US soldier who shot protester sentenced to 25 years,https://www.bbc.co.uk/news/world-us-canada-65548977,7,0.077,0.167,0.756,-0.9965,BBC,2023-05-11,8
+9,Baby born from three people's DNA in UK first,https://www.bbc.co.uk/news/science-environment-65538866,8,0.105,0.099,0.795,0.3911,BBC,2023-05-11,8
+10,Republicans release probe into Biden family finances,https://www.bbc.co.uk/news/world-us-canada-65553168,9,0.04,0.052,0.908,-0.6288,BBC,2023-05-11,8
+1,"EXCLUSIVE: Rihanna's baby son's name is FINALLY revealed! Pregnant singer picks Wu-Tang Clan-inspired moniker after keeping fans guessing for nearly a year... as she and A$AP Rocky are expecting a second child 
+",https://www.dailymail.co.uk/tvshowbiz/article-12070179/Rihannas-baby-sons-Wu-Tang-Clan-inspired-FINALLY-revealed-kept-fans-guessing.html,0,0.099,0.03,0.871,0.9953,Daily Mail,2023-05-11,8
+2,"Bride defends her choice of wedding dress after being mocked online by thousands: 'Was it awkward walking in front of your family like that?'
+",https://www.dailymail.co.uk/femail/real-life/article-12066549/Bride-mocked-horrible-revealing-wedding-dress-choice-TikTok.html,1,0.126,0.074,0.8,0.9486,Daily Mail,2023-05-11,8
+3,"Bud Light's hangover from hell: Sales figures for America's once-favorite beer reveal how EVERY region in U.S. has turned its back since the Dylan Mulvaney tie-up - as Anheuser-Busch stock is downgraded over 'crisis' 
+",https://www.dailymail.co.uk/news/article-12068311/Bud-Light-sales-plunged-region-dropping-29-heartlands.html,2,0.051,0.055,0.894,-0.7351,Daily Mail,2023-05-11,8
+4,"Elon Musk reveals Tucker Carlson has NOT signed a deal with Twitter as he welcomes his new show to the platform... while ex-Fox News host accuses Rupert Murdoch of 'breaking promises' and the media giant of fraud and breach of contract
+",https://www.dailymail.co.uk/news/article-12065425/Tucker-Carlson-announces-relaunching-TWITTER.html,3,0.096,0.081,0.823,0.9432,Daily Mail,2023-05-11,8
+5,"Chicken little! How 14 popular fast-food chains are bulking up their poultry-based offerings with seaweed, beef, soy, oats and WOOD
+",https://www.dailymail.co.uk/news/article-12068339/How-fast-food-chains-bulking-chicken-based-offerings-seaweed-beef-WOOD.html,4,0.069,0.03,0.901,0.9904,Daily Mail,2023-05-11,8
+6,"EXCLUSIVE: Meet Robert De Niro's baby! Actor's girlfriend Tiffany Chen cradles newborn in NYC - after star, 79, shocked the world with arrival of his SEVENTH child
+",https://www.dailymail.co.uk/tvshowbiz/article-12069995/Meet-Robert-Niros-baby-Actors-girlfriend-Tiffany-Chen-cradles-newborn-NYC.html,5,0.124,0.015,0.861,0.9985,Daily Mail,2023-05-11,8
+7,"'Queen of the mommy bloggers' Heather Armstrong - known as Dooce - dies aged 47 after detailing battles with sobriety and suicidal depression
+",https://www.dailymail.co.uk/news/article-12069043/Queen-mommy-bloggers-Heather-Armstrong-known-Dooce-dies-aged-48.html,6,0.075,0.162,0.763,-0.9936,Daily Mail,2023-05-11,8
+8,"Biden family 'got $1 MILLION from ROMANIA' while Joe vowed to clean up corruption: GOP 'influence-peddling' probe into $10M in foreign cash reveals Hunter set up 15 companies AFTER his dad became VP and lay out how money came from China
+",https://www.dailymail.co.uk/news/article-12068135/Republicans-dig-10-MILLION-foreign-money-linked-payments-Biden-family-members.html,7,0.054,0.043,0.903,0.9497,Daily Mail,2023-05-11,8
+9,"'You are a nasty person': Trump scolds Kaitlan Collins in wild CNN town hall where he mocked E. Jean Carroll sex abuse claims as 'hanky panky' and her 'cat named vagina', defended January 6 rioters and constantly REFUSED to say he lost to Biden 
+",https://www.dailymail.co.uk/news/article-12070465/Trump-calls-E-Jean-Carroll-sexual-abuse-claims-hanky-panky.html,8,0.1,0.101,0.799,0.6803,Daily Mail,2023-05-11,8
+10,"'I don't think she was listening to me, I didn't like that': Mother of six-year-old boy who shot his teacher reveals what he said to her DAYS before
+",https://www.dailymail.co.uk/news/article-12068017/Mom-boy-6-shot-teacher-says-really-liked-felt-ignored.html,9,0.103,0.102,0.795,0.3881,Daily Mail,2023-05-11,8
+1,Trump repeats conspiracy theories and election lies in CNN town hall,https://www.theguardian.com/us-news/2023/may/10/trump-voters-republican-new-hampshire-cnn-town-hall,0,0.103,0.14,0.757,-0.9936,Guardian,2023-05-11,8
+2,Liz Truss’s plan to visit Taiwan called ‘worst kind of Instagram diplomacy’,https://www.theguardian.com/politics/2023/may/11/liz-trusss-taiwan-visit-called-instagram-diplomacy-alicia-kearns-foreign-affairs-select-committee-chair,1,0.093,0.078,0.829,0.8687,Guardian,2023-05-11,8
+3,Time stands still at Westminster as Big Ben fails to chime,https://www.theguardian.com/uk-news/2023/may/10/time-stands-still-at-westminster-as-big-ben-fails-to-chime,2,0.057,0.048,0.894,0.5023,Guardian,2023-05-11,8
+4,Toe-curlingly bad television: Trump’s torturous town hall backfires on CNN,https://www.theguardian.com/us-news/2023/may/11/toe-curlingly-bad-television-trumps-torturous-town-hall-backfires-on-cnn,3,0.091,0.178,0.731,-0.9993,Guardian,2023-05-11,8
+5,TransPennine Express nationalised for catalogue of failings and poor service,https://www.theguardian.com/business/2023/may/11/transpennine-express-nationalised-for-catalogue-of-failings-and-poor-service,4,0.073,0.076,0.851,-0.1158,Guardian,2023-05-11,8
+6,Russia-Ukraine war live: Zelenskiy urges patience and says Ukraine would ‘lose a lot of people’ if it launched counteroffensive now ,https://www.theguardian.com/world/live/2023/may/11/russia-ukraine-war-live-ukraine-operation-is-difficult-kremlin-says-as-us-thinktank-warns-russian-forces-constrained-in-bakhmut,5,0.053,0.137,0.81,-0.9998,Guardian,2023-05-11,8
+7,Plans to abolish ‘feudal’ leasehold system in England and Wales dropped ,https://www.theguardian.com/money/2023/may/10/plans-abolish-feudal-leasehold-system-england-wales,6,0.107,0.076,0.818,0.9719,Guardian,2023-05-11,8
+8,1.5m UK homeowners on variable rate mortgages face new borrowing rise ,https://www.theguardian.com/money/2023/may/11/variable-rate-mortgages-face-rise-borrowing-after-interest-rate-hike,7,0.054,0.039,0.907,0.7506,Guardian,2023-05-11,8
+9,From foetuses to penises: anatomical museum reopens in London,https://www.theguardian.com/culture/2023/may/11/foetuses-penises-anatomical-hunterian-museum-reopens-london,8,0.062,0.052,0.886,-0.4176,Guardian,2023-05-11,8
+10,"Stop calling us woke, lazy snowflakes, senior civil servant tells government ",https://www.theguardian.com/politics/2023/may/11/stop-calling-us-woke-lazy-snowflakes-civil-service-government,9,0.045,0.102,0.853,-0.9858,Guardian,2023-05-11,8
