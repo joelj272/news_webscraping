@@ -5279,3 +5279,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Environment Agency pulls £50m scheme to protect homes in England from flooding,https://www.theguardian.com/environment/2023/may/12/environment-agency-pulls-50m-scheme-to-protect-homes-in-england-from-flooding,7,0.06,0.074,0.867,-0.9177,Guardian,2023-05-12,8
 9,Unionists angry as Joe Biden says he visited Northern Ireland to ‘make sure the Brits didn’t screw around’,https://www.theguardian.com/uk-news/2023/may/12/unionists-angry-as-joe-biden-says-he-visited-northern-ireland-to-make-sure-the-brits-didnt-screw-around,8,0.062,0.084,0.853,-0.8402,Guardian,2023-05-12,8
 10,Landlords to be given more powers to evict tenants for antisocial behaviour,https://www.theguardian.com/society/2023/may/12/landlords-to-be-given-more-powers-to-evict-tenants-for-antisocial-behaviour,9,0.089,0.128,0.783,-0.9911,Guardian,2023-05-12,8
+1,US doomsday cult mum guilty of murdering children,https://www.bbc.co.uk/news/world-us-canada-65567072,0,0.071,0.124,0.804,-0.9962,BBC,2023-05-12,20
+2,'One of the world's oldest wild lions' killed,https://www.bbc.co.uk/news/world-africa-65574623,1,0.011,0.111,0.878,-0.9866,BBC,2023-05-12,20
+3,George Santos admits to theft in Brazil court,https://www.bbc.co.uk/news/world-us-canada-65566074,2,0.031,0.169,0.801,-0.9956,BBC,2023-05-12,20
+4,Elon Musk names Linda Yaccarino new Twitter CEO,https://www.bbc.co.uk/news/business-65574826,3,0.035,0.056,0.91,-0.9128,BBC,2023-05-12,20
+5,Ex-Marine charged with NY subway chokehold death,https://www.bbc.co.uk/news/world-us-canada-65573879,4,0.059,0.131,0.81,-0.9969,BBC,2023-05-12,20
+6,Ukraine claims Bakhmut gains after Russia denials,https://www.bbc.co.uk/news/world-europe-65567143,5,0.052,0.136,0.812,-0.9983,BBC,2023-05-12,20
+7,YouTuber admits to crashing plane for views,https://www.bbc.co.uk/news/world-us-canada-65567519,6,0.069,0.107,0.824,-0.8818,BBC,2023-05-12,20
+8,SA anger at US accusation it sold arms to Russia,https://www.bbc.co.uk/news/world-africa-65572154,7,0.089,0.128,0.783,-0.9782,BBC,2023-05-12,20
+9,"Pets must not replace children in Italy, warns Pope",https://www.bbc.co.uk/news/world-europe-65572153,8,0.097,0.098,0.805,0.4751,BBC,2023-05-12,20
+10,Fishing cheats net prison sentence over scandal,https://www.bbc.co.uk/news/world-us-canada-65567422,9,0.048,0.131,0.821,-0.9712,BBC,2023-05-12,20
+1,"Jonah Hill steps out to drop off his surfboard at a repair shop in Malibu... while expecting his first child with Olivia Millar
+",https://www.dailymail.co.uk/tvshowbiz/article-12071463/Jonah-Hill-steps-drop-surfboard-repair-shop-Malibu.html,0,0.055,0.037,0.908,0.4576,Daily Mail,2023-05-12,20
+2,"'Stressed' Ben Affleck goes viral for 'slamming' car door behind Jennifer Lopez while out for coffee run in LA
+",https://www.dailymail.co.uk/tvshowbiz/article-12073943/Stressed-Ben-Affleck-goes-viral-slamming-car-door-Jennifer-Lopez-LA.html,1,0.101,0.029,0.87,0.9849,Daily Mail,2023-05-12,20
+3,"I gave my husband a threesome for his 40th birthday: I decided to buy him a vintage watch... but he said that what he really wanted wasn't a good, but a service
+",https://www.dailymail.co.uk/femail/article-12074365/I-gave-husband-threesome-40th-birthday.html,2,0.149,0.059,0.791,0.9998,Daily Mail,2023-05-12,20
+4,"Jamie Foxx fans fear for hospitalised star's condition in wake of conflicting reports and limited updates on his recovery from mystery illness
+",https://www.dailymail.co.uk/tvshowbiz/article-12076443/Jamie-Foxx-fans-fear-hospitalised-stars-condition.html,3,0.183,0.071,0.746,0.9963,Daily Mail,2023-05-12,20
+5,"Robert De Niro, 79, announces name of his newborn daughter while sharing a sweet first photo as he CONFIRMS Tiffany Chen is the mother
+",https://www.dailymail.co.uk/tvshowbiz/article-12073243/Robert-Niro-confirms-welcomed-daughter-partner-Tiffany-Chen.html,4,0.113,0.022,0.865,0.999,Daily Mail,2023-05-12,20
+6,"Man, 30, dies with ping pong ball up his bum after being electrocuted while pleasuring himself
+",https://www.dailymail.co.uk/health/article-12071691/Man-30-dies-ping-pong-ball-bum-electrocuted-pleasuring-himself.html,5,0.061,0.071,0.868,-0.7753,Daily Mail,2023-05-12,20
+7,"Beer analyst says Anheuser Busch went off rails when last family member - August Anheuser Busch III - retired and focus went from humor and sport to Miami art fair and Dylan Mulvaney
+",https://www.dailymail.co.uk/news/article-12073415/Beer-analyst-says-rot-Anheuser-Busch-started-family-member-left-focus-shifted.html,6,0.084,0.086,0.83,-0.6624,Daily Mail,2023-05-12,20
+8,"'I make the rules as I go': Angry passenger shoves two travelers out the way as chaos erupts on American Airlines flight - and then accuses one of assault for tapping him on shoulder
+",https://www.dailymail.co.uk/news/article-12073873/Angry-passenger-shoves-two-travelers-way-chaos-erupts-American-Airlines-flight.html,7,0.069,0.085,0.846,-0.5627,Daily Mail,2023-05-12,20
+9,"'I'm ready': Passenger caught on video barging past two travelers on AA flight defends his behavior saying he was 'tired and ready to go home' and is prepared for 'white media to boycott him'
+",https://www.dailymail.co.uk/news/article-12074989/Passenger-caught-video-barging-past-two-travelers-AA-flight-blames-white-media.html,8,0.068,0.079,0.853,-0.9009,Daily Mail,2023-05-12,20
+10,"Holy moly: Rocked by a sex abuse scandal, America's biggest Protestant church shed half a million members last year, the Southern Baptists' biggest loss in a century
+",https://www.dailymail.co.uk/news/article-12072943/Rocked-sex-abuse-scandal-biggest-Protestant-church-shed-half-million-members-year.html,9,0.062,0.103,0.835,-0.9681,Daily Mail,2023-05-12,20
+1,Ukraine has choice of targets as it plots counteroffensive,https://www.theguardian.com/world/2023/may/12/ukraine-has-choice-of-targets-as-it-plots-counteroffensive,0,0.082,0.175,0.743,-0.9982,Guardian,2023-05-12,20
+2,Man charged with manslaughter over subway chokehold death of Jordan Neely in New York,https://www.theguardian.com/us-news/2023/may/12/jordan-neely-nyc-subway-death-daniel-penny-manslaughter-second-degree,1,0.046,0.19,0.764,-0.9979,Guardian,2023-05-12,20
+3,David Boyd found guilty of 1992 murder of seven-year-old Nikki Allan ,https://www.theguardian.com/uk-news/2023/may/12/david-boyd-found-guilty-of-1992-of-seven-year-old-nikki-allan,2,0.079,0.133,0.789,-0.9922,Guardian,2023-05-12,20
+4,Does anyone wear thongs any more? And 12 other important knicker questions answered,https://www.theguardian.com/fashion/2023/may/12/does-anyone-wear-thongs-12-other-important-knicker-questions-answered,3,0.13,0.042,0.827,0.9993,Guardian,2023-05-12,20
+5,Russian troops fall back to ‘defensive positions’ near Bakhmut,https://www.theguardian.com/world/2023/may/12/russian-troops-defensive-positions-near-bakhmut-moscow-statement-ukraine,4,0.076,0.081,0.843,-0.9042,Guardian,2023-05-12,20
+6,Ex-MP Paul Clark jailed after distributing child abuse images,https://www.theguardian.com/uk-news/2023/may/12/ex-mp-paul-clark-jailed-downloading-indecent-images-of-children,5,0.045,0.095,0.86,-0.9638,Guardian,2023-05-12,20
+7,"Who better to sing old Brexit tunes than the Tories’ overhyped new act? Step forward, Kemi Badenoch",https://www.theguardian.com/commentisfree/2023/may/12/brexit-tories-kemi-badenoch-eu-laws-party,6,0.071,0.084,0.846,-0.9608,Guardian,2023-05-12,20
+8,Tories demanding grassroots voice deny being a ‘Johnson revivalist group’,https://www.theguardian.com/politics/2023/may/12/tories-demanding-grassroots-voice-deny-being-a-johnson-revivalist-group,7,0.098,0.023,0.879,0.9919,Guardian,2023-05-12,20
+9,Wife and care worker found guilty of enslaving disabled husband in Chichester,https://www.theguardian.com/uk-news/2023/may/12/wife-and-carer-found-guilty-of-enslaving-disabled-husband,8,0.058,0.107,0.835,-0.9772,Guardian,2023-05-12,20
+10,There is a clear and present danger of a new Trump presidency. Democrats must act now to prevent it,https://www.theguardian.com/commentisfree/2023/may/12/donald-trump-presidency-democrats-republican-joe-biden,9,0.125,0.099,0.776,0.9702,Guardian,2023-05-12,20
