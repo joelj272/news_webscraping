@@ -5319,3 +5319,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Tories demanding grassroots voice deny being a ‘Johnson revivalist group’,https://www.theguardian.com/politics/2023/may/12/tories-demanding-grassroots-voice-deny-being-a-johnson-revivalist-group,7,0.098,0.023,0.879,0.9919,Guardian,2023-05-12,20
 9,Wife and care worker found guilty of enslaving disabled husband in Chichester,https://www.theguardian.com/uk-news/2023/may/12/wife-and-carer-found-guilty-of-enslaving-disabled-husband,8,0.058,0.107,0.835,-0.9772,Guardian,2023-05-12,20
 10,There is a clear and present danger of a new Trump presidency. Democrats must act now to prevent it,https://www.theguardian.com/commentisfree/2023/may/12/donald-trump-presidency-democrats-republican-joe-biden,9,0.125,0.099,0.776,0.9702,Guardian,2023-05-12,20
+1,Minister resigns over video of luxury Coronation trip,https://www.bbc.co.uk/news/world-asia-65579650,0,0.056,0.11,0.834,-0.9824,BBC,2023-05-13,8
+2,US ambassador 'apologises to SA over Russia claim',https://www.bbc.co.uk/news/world-africa-65572154,1,0.108,0.124,0.767,-0.7707,BBC,2023-05-13,8
+3,US doomsday cult mum guilty of murdering children,https://www.bbc.co.uk/news/world-us-canada-65567072,2,0.073,0.127,0.801,-0.9964,BBC,2023-05-13,8
+4,Turkish opposition dares to dream of Erdogan defeat,https://www.bbc.co.uk/news/world-europe-65568647,3,0.162,0.052,0.786,0.9988,BBC,2023-05-13,8
+5,How Trump presidency could change Ukraine war,https://www.bbc.co.uk/news/world-us-canada-65573756,4,0.103,0.122,0.775,-0.9469,BBC,2023-05-13,8
+6,"Jamie Foxx out of hospital, daughter says",https://www.bbc.co.uk/news/world-us-canada-65579188,5,0.232,0.019,0.749,0.9972,BBC,2023-05-13,8
+7,Ex-Marine charged with NY subway chokehold death,https://www.bbc.co.uk/news/world-us-canada-65573879,6,0.078,0.127,0.795,-0.9942,BBC,2023-05-13,8
+8,The $135m cost of finding an alleged killer’s victims,https://www.bbc.co.uk/news/world-us-canada-65566078,7,0.017,0.1,0.883,-0.9932,BBC,2023-05-13,8
+9,Ukraine claims Bakhmut gains after Russia denials,https://www.bbc.co.uk/news/world-europe-65567143,8,0.05,0.149,0.801,-0.9988,BBC,2023-05-13,8
+10,George Santos admits to theft in Brazil court,https://www.bbc.co.uk/news/world-us-canada-65566074,9,0.031,0.169,0.801,-0.9956,BBC,2023-05-13,8
+1,"Jonah Hill steps out to drop off his surfboard at a repair shop in Malibu... while expecting his first child with Olivia Millar
+",https://www.dailymail.co.uk/tvshowbiz/article-12071463/Jonah-Hill-steps-drop-surfboard-repair-shop-Malibu.html,0,0.055,0.037,0.908,0.4576,Daily Mail,2023-05-13,8
+2,"EXCLUSIVE - 'Shawn and I did have protected sex, but the protection broke': Woman who claims she had an illegitimate SON with rapper Jay-Z lays bare VERY intimate details about their alleged fling in signed affidavit
+",https://www.dailymail.co.uk/tvshowbiz/article-12068765/Mother-Jay-Zs-alleged-son-reveals-details-purported-fling.html,1,0.077,0.062,0.861,0.985,Daily Mail,2023-05-13,8
+3,"I gave my husband a threesome for his 40th birthday: I decided to buy him a vintage watch... but he said that what he really wanted wasn't a good, but a service
+",https://www.dailymail.co.uk/femail/article-12074365/I-gave-husband-threesome-40th-birthday.html,2,0.149,0.059,0.791,0.9998,Daily Mail,2023-05-13,8
+4,"Jamie Foxx fans fear for hospitalised star's condition in wake of conflicting reports and limited updates on his recovery from mystery illness
+",https://www.dailymail.co.uk/tvshowbiz/article-12076443/Jamie-Foxx-fans-fear-hospitalised-stars-condition.html,3,0.183,0.071,0.746,0.9963,Daily Mail,2023-05-13,8
+5,"She's all grown up! Barack and Michelle Obama beam with pride as they watch their youngest daughter Sasha graduate from USC 
+",https://www.dailymail.co.uk/femail/article-12078341/Barack-Michelle-Obama-watch-daughter-Sasha-graduate-USC.html,4,0.051,0.013,0.935,0.9802,Daily Mail,2023-05-13,8
+6,"Historic new coronation portrait of Britain's present and future monarchs is revealed showing smiling King Charles alongside heirs Princes William and George - and extra photo shows their majesties' proud pages
+",https://www.dailymail.co.uk/news/article-12078181/We-Three-Kings-Historic-new-coronation-portrait-Britains-future-monarchs-revealed.html,5,0.081,0.042,0.877,0.9985,Daily Mail,2023-05-13,8
+7,"Brit star is 'tipped to become the next James Bond' by bookies after flurry of bets are placed on him in 24 hours 
+",https://www.dailymail.co.uk/tvshowbiz/article-12076209/Aaron-Taylor-Johnson-tipped-James-Bond-replace-Daniel-Craig.html,6,0.138,0.033,0.829,0.9983,Daily Mail,2023-05-13,8
+8,"Jamie Foxx's daughter reveals actor has been out of hospital for WEEKS and has even played PICKLEBALL at home - as she thanks fans for support
+",https://www.dailymail.co.uk/tvshowbiz/article-12078263/Jamie-Foxxs-daughter-claims-actor-hospital-WEEKS.html,7,0.112,0.065,0.824,0.982,Daily Mail,2023-05-13,8
+9,"Melanie Griffith, 65, displays bruises on hand and face following a spa visit in LA - five years after talking about getting dermabrasion treatment amid skin cancer battle
+",https://www.dailymail.co.uk/tvshowbiz/article-12077615/Melanie-Griffith-65-displays-bruises-hand-face-following-spa-visit.html,8,0.057,0.09,0.853,-0.9932,Daily Mail,2023-05-13,8
+10,"'F*** you transphobe!' Moment furious hecklers storm out comedian Chrissie Mayr's Dallas show after she joked about trans influencer Dylan Mulvaney not having top or bottom surgery 
+",https://www.dailymail.co.uk/news/article-12077171/Moment-hecklers-storm-comedian-Chrissie-Mayrs-joked-Dylan-Mulvaney.html,9,0.082,0.061,0.857,0.9319,Daily Mail,2023-05-13,8
+1,‘Clause IV on steroids’: Keir Starmer says his Labour must go further than Blair,https://www.theguardian.com/politics/2023/may/12/clause-iv-on-steroids-keir-starmer-says-his-labour-must-go-further-than-blair,0,0.062,0.038,0.9,0.9592,Guardian,2023-05-13,8
+2,"Tory voters in Surrey defiant after backing Lib Dems in local elections, poll shows",https://www.theguardian.com/politics/2023/may/13/tory-voters-in-surrey-lib-dems-poll,1,0.135,0.063,0.802,0.9972,Guardian,2023-05-13,8
+3,Hannah Waddingham ‘shocked’ at newfound Eurovision celebrity,https://www.theguardian.com/tv-and-radio/2023/may/12/hannah-waddingham-shocked-at-newfound-eurovision-celebrity,2,0.169,0.021,0.81,0.9982,Guardian,2023-05-13,8
+4,Blind date: ‘My friends would be weirded out by how similar the two of us are’,https://www.theguardian.com/lifeandstyle/2023/may/13/blind-date-dora-jago,3,0.199,0.034,0.767,0.9993,Guardian,2023-05-13,8
+5,Texas man kills girlfriend after she had an abortion in Colorado,https://www.theguardian.com/us-news/2023/may/12/texas-woman-killed-boyfriend-abortion,4,0.006,0.169,0.825,-0.9965,Guardian,2023-05-13,8
+6,Russia-Ukraine war live: Russian retreat in Bakhmut ‘highlights shortage of credible combat units’,https://www.theguardian.com/world/live/2023/may/13/russia-ukraine-war-live-russian-retreat-in-bakhmut-highlights-shortage-of-credible-combat-units-say-uk-officials,5,0.068,0.138,0.794,-0.9993,Guardian,2023-05-13,8
+7,Labour planning ‘right to switch off’ for workers if it wins general election,https://www.theguardian.com/money/2023/may/12/labour-planning-right-to-switch-off-for-workers-if-it-wins-general-elections,6,0.084,0.057,0.859,0.8799,Guardian,2023-05-13,8
+8,"‘I thought, what would I look like with a Brazilian butt lift?’: Louis Theroux, Sharon Horgan and other stars on their recent TV highlights ",https://www.theguardian.com/tv-and-radio/2023/may/13/i-thought-what-would-i-look-like-with-a-brazilian-butt-lift-louis-theroux-sharon-horgan-and-other-stars-on-their-recent-tv-highlights,7,0.17,0.069,0.762,0.9999,Guardian,2023-05-13,8
+9,"Who better to sing old Brexit tunes than the Tories’ overhyped new act? Step forward, Kemi Badenoch",https://www.theguardian.com/commentisfree/2023/may/12/brexit-tories-kemi-badenoch-eu-laws-party,8,0.071,0.084,0.846,-0.9608,Guardian,2023-05-13,8
+10,Eton v Harrow: Father Time draws near for annual schoolboy Lord’s jolly,https://www.theguardian.com/sport/2023/may/12/eton-v-harrow-father-time-draws-near-for-annual-schoolboy-lords-jolly,9,0.095,0.072,0.833,0.9301,Guardian,2023-05-13,8
