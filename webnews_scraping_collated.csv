@@ -5359,3 +5359,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"‘I thought, what would I look like with a Brazilian butt lift?’: Louis Theroux, Sharon Horgan and other stars on their recent TV highlights ",https://www.theguardian.com/tv-and-radio/2023/may/13/i-thought-what-would-i-look-like-with-a-brazilian-butt-lift-louis-theroux-sharon-horgan-and-other-stars-on-their-recent-tv-highlights,7,0.17,0.069,0.762,0.9999,Guardian,2023-05-13,8
 9,"Who better to sing old Brexit tunes than the Tories’ overhyped new act? Step forward, Kemi Badenoch",https://www.theguardian.com/commentisfree/2023/may/12/brexit-tories-kemi-badenoch-eu-laws-party,8,0.071,0.084,0.846,-0.9608,Guardian,2023-05-13,8
 10,Eton v Harrow: Father Time draws near for annual schoolboy Lord’s jolly,https://www.theguardian.com/sport/2023/may/12/eton-v-harrow-father-time-draws-near-for-annual-schoolboy-lords-jolly,9,0.095,0.072,0.833,0.9301,Guardian,2023-05-13,8
+1,US doomsday cult mum guilty of murdering children,https://www.bbc.co.uk/news/world-us-canada-65567072,0,0.073,0.127,0.801,-0.9964,BBC,2023-05-13,20
+2,Pope tells Zelensky he is 'praying for peace',https://www.bbc.co.uk/news/world-europe-65581170,1,0.083,0.119,0.798,-0.9869,BBC,2023-05-13,20
+3,Fighting continues despite Israel-Gaza ceasefire,https://www.bbc.co.uk/news/world-middle-east-65585950,2,0.051,0.208,0.742,-0.9955,BBC,2023-05-13,20
+4,How Trump presidency could change Ukraine war,https://www.bbc.co.uk/news/world-us-canada-65573756,3,0.103,0.121,0.775,-0.9469,BBC,2023-05-13,20
+5,US company refuses to recall 67m airbag inflators,https://www.bbc.co.uk/news/world-us-canada-65578475,4,0.052,0.122,0.825,-0.9724,BBC,2023-05-13,20
+6,'I'm afraid that elephants will kill me',https://www.bbc.co.uk/news/world-africa-65531738,5,0.037,0.138,0.825,-0.9985,BBC,2023-05-13,20
+7,People pack shelters as cyclone menaces refugee camp,https://www.bbc.co.uk/news/world-asia-65581169,6,0.097,0.092,0.811,0.7511,BBC,2023-05-13,20
+8,George Santos admits to theft in Brazil court,https://www.bbc.co.uk/news/world-us-canada-65566074,7,0.031,0.169,0.801,-0.9956,BBC,2023-05-13,20
+9,AI creator on whether it will make humans 'boring',https://www.bbc.co.uk/news/uk-politics-65582386,8,0.089,0.073,0.838,0.9499,BBC,2023-05-13,20
+10,"Jamie Foxx out of hospital, daughter says",https://www.bbc.co.uk/news/world-us-canada-65579188,9,0.232,0.019,0.749,0.9972,BBC,2023-05-13,20
+1,"Jonah Hill steps out to drop off his surfboard at a repair shop in Malibu... while expecting his first child with Olivia Millar
+",https://www.dailymail.co.uk/tvshowbiz/article-12071463/Jonah-Hill-steps-drop-surfboard-repair-shop-Malibu.html,0,0.055,0.037,0.908,0.4576,Daily Mail,2023-05-13,20
+2,"She's all grown up! Barack and Michelle Obama beam with pride as they watch their youngest daughter Sasha graduate from USC 
+",https://www.dailymail.co.uk/femail/article-12078341/Barack-Michelle-Obama-watch-daughter-Sasha-graduate-USC.html,1,0.051,0.013,0.935,0.9802,Daily Mail,2023-05-13,20
+3,"EXCLUSIVE - 'Shawn and I did have protected sex, but the protection broke': Woman who claims she had an illegitimate SON with rapper Jay-Z lays bare VERY intimate details about their alleged fling in signed affidavit
+",https://www.dailymail.co.uk/tvshowbiz/article-12068765/Mother-Jay-Zs-alleged-son-reveals-details-purported-fling.html,2,0.077,0.062,0.861,0.985,Daily Mail,2023-05-13,20
+4,"Historic new coronation portrait of Britain's present and future monarchs is revealed showing smiling King Charles alongside heirs Princes William and George - and extra photo shows their majesties' proud pages
+",https://www.dailymail.co.uk/news/article-12078181/We-Three-Kings-Historic-new-coronation-portrait-Britains-future-monarchs-revealed.html,3,0.081,0.042,0.877,0.9985,Daily Mail,2023-05-13,20
+5,"Eat your heart out Netflix! Kate and William release slick behind-the-scenes Coronation footage of Charlotte, Louis and George as well as an exclusive peek inside Kensington Palace home (so is this a taste of what's to come?)
+",https://www.dailymail.co.uk/news/article-12079755/Kate-Wills-Movie-Prince-Princess-Wales-release-scenes-Coronation-footage.html,4,0.124,0.022,0.854,0.9979,Daily Mail,2023-05-13,20
+6,"EXCLUSIVE: Ben Affleck and Jennifer Lopez are caught having ANOTHER tense exchange when they are seen arguing while stopped at red light, fueling talk that actor is 'miserable' in the marriage
+",https://www.dailymail.co.uk/news/article-12078457/Jlo-Ben-Affleck-seen-arguing-red-light-Beverly-Hills.html,5,0.079,0.054,0.867,0.9778,Daily Mail,2023-05-13,20
+7,"'Why don't you come and f*** me up?': Megyn Kelly challenges Charlize Theron, who played her in 2019 film Bombshell, after the Hollywood actress threatened to take down anyone who criticized drag queens
+",https://www.dailymail.co.uk/news/article-12079099/Megyn-Kelly-challenges-Charlize-Theron-threatened-criticized-drag-queens.html,6,0.117,0.098,0.785,0.9819,Daily Mail,2023-05-13,20
+8,"Jamie Foxx's daughter reveals actor has been out of hospital for WEEKS and has even played PICKLEBALL at home - as she thanks fans for support
+",https://www.dailymail.co.uk/tvshowbiz/article-12078263/Jamie-Foxxs-daughter-claims-actor-hospital-WEEKS.html,7,0.112,0.065,0.824,0.982,Daily Mail,2023-05-13,20
+9,"Kim Kardashian holds up homemade sign for Tristan Thompson at Lakers game as she CONTINUES to support sister Khloe's love rat ex-boyfriend despite his philandering and paternity scandal
+",https://www.dailymail.co.uk/tvshowbiz/article-12079485/Kim-Kardashian-holds-Tristan-Thompson-sign-LA-Lakers-game-despite-philandering.html,8,0.104,0.047,0.849,0.9714,Daily Mail,2023-05-13,20
+10,"Former fitness model Loni Willison goes on bizarre rant claiming she was ELECTROCUTED and shows off badly broken finger while dumpster diving in LA after becoming homeless drug addict in the wake of split from Baywatch star Jeremy Jackson
+",https://www.dailymail.co.uk/news/article-12078137/Former-model-Loni-Willison-spotted-smoking-cigarette-digs-dumpster-LA.html,9,0.059,0.136,0.805,-0.9964,Daily Mail,2023-05-13,20
+1,Tory anarchy breaks out as revolt looms on Brexit laws,https://www.theguardian.com/politics/2023/may/13/tory-anarchy-breaks-out-as-revolt-looms-on-brexit-laws,0,0.099,0.059,0.841,0.9923,Guardian,2023-05-13,20
+2,Revealed: richer graduates in England will pay less for degree than poorer students,https://www.theguardian.com/education/2023/may/13/nurses-teachers-student-loan-reforms-biggest-squeeze,1,0.088,0.086,0.826,0.4697,Guardian,2023-05-13,20
+3,Russia-Ukraine war live: two Russian jets and two helicopters reportedly shot down – as it happened,https://www.theguardian.com/world/live/2023/may/13/russia-ukraine-war-live-russian-retreat-in-bakhmut-highlights-shortage-of-credible-combat-units-say-uk-officials,2,0.059,0.125,0.815,-0.9999,Guardian,2023-05-13,20
+4,Eurovision 2023 live: Liverpool begins hosting song contest on behalf of Ukraine,https://www.theguardian.com/tv-and-radio/live/2023/may/13/eurovision-2023-live-updates-liverpool-uk-ukraine-mae-muller,3,0.152,0.056,0.791,0.9991,Guardian,2023-05-13,20
+5,Chesterfield 2-2 Notts County (3-4 on penalties): National League playoff final – as it happened,https://www.theguardian.com/football/live/2023/may/13/chesterfield-v-notts-county-national-league-playoff-final-live-score-updates,4,0.141,0.084,0.775,0.9991,Guardian,2023-05-13,20
+6,Single-use vapes sparking surge in fires at UK waste plants,https://www.theguardian.com/society/2023/may/13/single-use-vapes-sparking-surge-in-fires-at-uk-waste-plants,5,0.041,0.104,0.855,-0.9896,Guardian,2023-05-13,20
+7,"This is how we do it: ‘A tired, throwaway midweek shag doesn’t interest me’",https://www.theguardian.com/lifeandstyle/2023/may/13/this-is-how-we-do-it-a-tired-throwaway-midweek-shag-doesnt-interest-me,6,0.18,0.117,0.703,0.9951,Guardian,2023-05-13,20
+8,Florida teacher allegedly investigated for showing students film Strange World,https://www.theguardian.com/us-news/2023/may/13/florida-teacher-allegedly-investigated-for-showing-students-film-strange-world,7,0.069,0.056,0.875,0.8314,Guardian,2023-05-13,20
+9,"A moment’s silence, please, for the death of Mark Zuckerberg’s metaverse",https://www.theguardian.com/technology/commentisfree/2023/may/13/death-of-mark-zuckerberg-metaverse-meta-facebook-virtual-reality-ai,8,0.117,0.065,0.818,0.993,Guardian,2023-05-13,20
+10,"Revealed: almost 1,000 rapes in prisons in England and Wales since 2010",https://www.theguardian.com/society/2023/may/13/revealed-almost-1000-rapes-in-prisons-in-england-and-wales-since-2010,9,0.071,0.194,0.735,-0.9989,Guardian,2023-05-13,20
