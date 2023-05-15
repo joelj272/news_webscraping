@@ -5519,3 +5519,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Why are so many young Americans adopting fake British accents?,https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z,7,0.111,0.082,0.807,0.9877,Guardian,2023-05-15,8
 9,Turkey elections live: runoff increasingly likely amid competing claims from Erdoğan and Kılıçdaroğlu,https://www.theguardian.com/world/live/2023/may/14/turkey-elections-live-vote-recep-tayyip-erdogan-kemal-klcdaroglu,8,0.128,0.066,0.806,0.9997,Guardian,2023-05-15,8
 10,Russia-Ukraine war latest: Zelenskiy to meet Sunak in London; France to send Kyiv military aid – live,https://www.theguardian.com/world/live/2023/may/15/russia-ukraine-war-latest-g7-reportedly-set-to-tighten-russia-sanctions-france-to-send-kyiv-military-aid-live,9,0.103,0.061,0.836,0.996,Guardian,2023-05-15,8
+1,Say goodbye to The Weeknd: Pop star changes name,https://www.bbc.co.uk/news/world-us-canada-65601638,0,0.113,0.027,0.86,0.9822,BBC,2023-05-15,20
+2,Teacher: I'm being investigated over Disney film,https://www.bbc.co.uk/news/world-us-canada-65597128,1,0.06,0.074,0.866,-0.7184,BBC,2023-05-15,20
+3,Austrian train plays Hitler speech over loudspeaker,https://www.bbc.co.uk/news/world-europe-65599302,2,0.048,0.042,0.911,0.2023,BBC,2023-05-15,20
+4,What does the 14th amendment have to do with the debt ceiling?,https://www.bbc.co.uk/news/business-65461927,3,0.09,0.137,0.773,-0.9946,BBC,2023-05-15,20
+5,"China jails US citizen, 78, for spying",https://www.bbc.co.uk/news/world-asia-china-65595221,4,0.039,0.107,0.854,-0.9815,BBC,2023-05-15,20
+6,Zelensky meets PM as more Ukraine weapons pledged,https://www.bbc.co.uk/news/uk-65594540,5,0.081,0.081,0.838,-0.9145,BBC,2023-05-15,20
+7,Thai voters deliver stunning blow to army-backed rule,https://www.bbc.co.uk/news/world-asia-65567781,6,0.127,0.055,0.818,0.9973,BBC,2023-05-15,20
+8,"Texas shooting witness is not credible, police say",https://www.bbc.co.uk/news/world-us-canada-65597127,7,0.041,0.111,0.847,-0.9893,BBC,2023-05-15,20
+9,Meteorite hunters race to find rock for $25k reward,https://www.bbc.co.uk/news/world-us-canada-65579383,8,0.086,0.028,0.886,0.9858,BBC,2023-05-15,20
+10,Jamie Foxx to host game show after hospitalisation,https://www.bbc.co.uk/news/entertainment-arts-65594380,9,0.172,0.018,0.81,0.9983,BBC,2023-05-15,20
+1,"Is THIS the moment that gave Taylor Swift Bad Blood? Eras Tour fan was stopped from JUMPING by guard who was a 'pain in the a** all night' at Philly show - before HE was 'rushed out by security'
+",https://www.dailymail.co.uk/tvshowbiz/article-12081669/Taylor-Swift-YELLs-onstage-security-guard-audience-seemingly-treatment-fan.html,0,0.109,0.073,0.818,0.9967,Daily Mail,2023-05-15,20
+2,"Harry and Meghan step out for Michelin star sushi at their local restaurant in Montecito - one week after he dashed back to California from dad Charles' coronation for son Archie's 4th birthday 
+",https://www.dailymail.co.uk/news/article-12082625/Harry-Meghan-step-Michelin-star-sushi-local-restaurant-Montecito.html,1,0.08,0.01,0.911,0.9892,Daily Mail,2023-05-15,20
+3,"Martha Stewart, 81, becomes OLDEST woman to ever land Sports Illustrated Swimsuit cover, wowing in a very low-cut white bathing suit - while Megan Fox, 36, dares to bare in a raunchy design made entirely of CHAINS
+",https://www.dailymail.co.uk/femail/article-12085237/Sports-Illustrated-Swimsuit-2023-Martha-Stewart-81-Megan-Fox-36-pose-cover.html,2,0.179,0.026,0.796,0.9994,Daily Mail,2023-05-15,20
+4,"Apple's next major product is 'so good', expert claims - and we could get a glimpse at it within WEEKS
+",https://www.dailymail.co.uk/sciencetech/article-12084369/Apples-major-product-good-expert-claims-glimpse-WEEKS.html,3,0.079,0.014,0.908,0.9971,Daily Mail,2023-05-15,20
+5,"Jennifer Lopez and Ben Affleck take both of their moms out for Mother's Day celebration with their blended family
+",https://www.dailymail.co.uk/tvshowbiz/article-12083201/Jennifer-Lopez-Ben-Affleck-moms-Mothers-Day-celebration.html,4,0.104,0.043,0.853,0.9917,Daily Mail,2023-05-15,20
+6,"Flesh-eating zombie drug 'tranq' takes over LA streets as users with rotting skin are seen hunched over and spaced out across the city - while officials say they can't ban it because it's LEGAL 
+",https://www.dailymail.co.uk/news/article-12083305/Flesh-eating-zombie-drug-tranq-takes-LA-streets-users-rotting-skin-seen.html,5,0.051,0.141,0.809,-0.9995,Daily Mail,2023-05-15,20
+7,"Michael Douglas, 78, and Catherine Zeta-Jones, 53, make a stylish pair as they're joined by daughter Carys, 20, at a wedding after party in Venice
+",https://www.dailymail.co.uk/tvshowbiz/article-12081415/Michael-Douglas-Catherine-Zeta-Jones-attend-party-wedding-Chloe-Stroll-Scotty-James.html,6,0.112,0.008,0.881,0.9938,Daily Mail,2023-05-15,20
+8,"What 10 American cities will look like in 2050, predicted by AI: DailyMail.com asks AI to imagine future cities reshaped by tech such as flying cars and solar power
+",https://www.dailymail.co.uk/sciencetech/article-12068585/What-10-American-cities-look-like-2050-predicted-AI.html,7,0.177,0.013,0.809,0.9977,Daily Mail,2023-05-15,20
+9,"Cash App founder Bob Lee, 43, 'attended underground sex and drug parties with married sister of his accused killer' in the weeks before his murder in San Francisco 
+",https://www.dailymail.co.uk/news/article-12082583/Cash-App-founder-attended-sex-parties-sister-accused-killer.html,8,0.105,0.16,0.735,-0.9979,Daily Mail,2023-05-15,20
+10,"Bali holidaymaker, 19, left sobbing in the street after 'dream' tattoo went very wrong: 'I hate it'
+",https://www.dailymail.co.uk/femail/real-life/article-12083263/OnlyFans-star-cries-tattoo-design-Bali-gone-wrong.html,9,0.14,0.113,0.747,0.9533,Daily Mail,2023-05-15,20
+1,Suella Braverman rails against ‘experts and elites’ in partisan speech,https://www.theguardian.com/politics/2023/may/15/suella-braverman-rails-against-experts-and-elites-in-partisan-speech,0,0.084,0.096,0.82,0.0432,Guardian,2023-05-15,20
+2,Turkey election goes to runoff after Erdoğan takes first-round lead,https://www.theguardian.com/world/2023/may/15/turkey-election-runoff-erdogan-first-round-lead-president-kemal-klcdaroglu,1,0.167,0.093,0.74,0.9983,Guardian,2023-05-15,20
+3,Leicester City v Liverpool: Premier League – live,https://www.theguardian.com/football/live/2023/may/15/leicester-city-v-liverpool-premier-league-live-score-updates,2,0.146,0.05,0.804,0.9995,Guardian,2023-05-15,20
+4,Tory MPs accuse Suella Braverman of making bid for party leadership,https://www.theguardian.com/politics/2023/may/15/tory-mps-accuse-suella-braverman-of-undermining-sunak-authority,3,0.083,0.092,0.825,-0.8315,Guardian,2023-05-15,20
+5,"UK will train Ukraine pilots, Sunak tells Zelenskiy; Russia and Iran appear to be expanding cooperation, US says – as it happened",https://www.theguardian.com/world/live/2023/may/15/russia-ukraine-war-latest-g7-reportedly-set-to-tighten-russia-sanctions-france-to-send-kyiv-military-aid-live,4,0.074,0.065,0.86,-0.9131,Guardian,2023-05-15,20
+6,"Low birthrate is UK’s top priority, Tory MP tells rightwing conference",https://www.theguardian.com/politics/2023/may/15/low-birthrate-is-uk-top-priority-tory-mp-tells-rightwing-conference-miriam-cates,5,0.108,0.121,0.771,-0.9599,Guardian,2023-05-15,20
+7,Company directors jailed after wall collapse killed five workers in Birmingham,https://www.theguardian.com/uk-news/2023/may/15/company-directors-jailed-after-wall-collapse-killed-five-workers-in-birmingham,6,0.096,0.102,0.803,0.1432,Guardian,2023-05-15,20
+8,Tories preach baby-making and the facts of life – why does it always come back to sex with these oddballs?,https://www.theguardian.com/politics/2023/may/15/tories-preach-baby-making-and-the-facts-of-life-why-does-it-always-come-back-to-sex-with-these-oddballs,7,0.084,0.123,0.793,-0.9948,Guardian,2023-05-15,20
+9,UK government wins right to take back control of military homes worth £8bn ,https://www.theguardian.com/business/2023/may/15/uk-government-military-homes-guy-hands-annington-property,8,0.094,0.037,0.868,0.9796,Guardian,2023-05-15,20
+10,Awkward? Phillip Schofield and Holly Willoughby ignore reports of rift on This Morning,https://www.theguardian.com/tv-and-radio/2023/may/15/awkward-phillip-schofield-and-holly-willoughby-ignore-reports-of-rift-on-this-morning,9,0.038,0.107,0.855,-0.9835,Guardian,2023-05-15,20
