@@ -5479,3 +5479,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Suella Braverman accused of breaching barristers’ code over ‘racist’ language,https://www.theguardian.com/politics/2023/may/14/suella-braverman-accused-of-breaching-barristers-code-over-racist-language,7,0.084,0.084,0.832,-0.8025,Guardian,2023-05-14,20
 9,‘I miss the sex’: Why are the sexual needs of the bereaved still a taboo?,https://www.theguardian.com/lifeandstyle/2023/may/14/why-are-the-sex-lives-of-the-bereaved-still-a-taboo,8,0.107,0.102,0.791,-0.57,Guardian,2023-05-14,20
 10,"This year’s Eurovision is most watched final in song contest’s history, says BBC",https://www.theguardian.com/tv-and-radio/2023/may/14/this-years-eurovision-is-most-watched-final-in-song-contests-history-say-bbc,9,0.176,0.022,0.802,0.9989,Guardian,2023-05-14,20
+1,Zelensky arrives in UK for surprise meeting with Sunak,https://www.bbc.co.uk/news/uk-65594540,0,0.088,0.057,0.855,0.91,BBC,2023-05-15,8
+2,Turkey heads for election run-off as Erdogan edges ahead,https://www.bbc.co.uk/news/world-europe-65593504,1,0.134,0.082,0.784,0.9922,BBC,2023-05-15,8
+3,The life of India's gangster-politician killed on live TV,https://www.bbc.co.uk/news/world-asia-india-65347773,2,0.072,0.141,0.787,-0.9998,BBC,2023-05-15,8
+4,Vice and Motherboard owner files for bankruptcy,https://www.bbc.co.uk/news/business-65462957,3,0.091,0.034,0.874,0.954,BBC,2023-05-15,8
+5,Thai voters deliver a stunning win for reform,https://www.bbc.co.uk/news/world-asia-65567781,4,0.136,0.055,0.809,0.9978,BBC,2023-05-15,8
+6,Millions swarm China's sudden 'barbecue capital',https://www.bbc.co.uk/news/world-asia-china-65478638,5,0.104,0.049,0.847,0.9965,BBC,2023-05-15,8
+7,Belarus leader misses event fuelling health rumours,https://www.bbc.co.uk/news/world-europe-65585951,6,0.059,0.134,0.806,-0.9724,BBC,2023-05-15,8
+8,Should social media face-altering filters be regulated?,https://www.bbc.co.uk/news/business-65544054,7,0.144,0.052,0.804,0.9984,BBC,2023-05-15,8
+9,Percy Pig ice cream renamed after M&S request,https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-65571276,8,0.155,0.033,0.812,0.9944,BBC,2023-05-15,8
+10,Kenya cult targeted children to starve first - pastor,https://www.bbc.co.uk/news/world-africa-65588273,9,0.026,0.123,0.851,-0.9916,BBC,2023-05-15,8
+1,"Is THIS the moment that gave Taylor Swift Bad Blood? Eras Tour fan was stopped from JUMPING by guard who was a 'pain in the a** all night' at Philly show - before HE was 'rushed out by security'
+",https://www.dailymail.co.uk/tvshowbiz/article-12081669/Taylor-Swift-YELLs-onstage-security-guard-audience-seemingly-treatment-fan.html,0,0.109,0.073,0.818,0.9967,Daily Mail,2023-05-15,8
+2,"Harry and Meghan step out for Michelin star sushi at their local restaurant in Montecito - one week after he dashed back to California from dad Charles' coronation for son Archie's 4th birthday 
+",https://www.dailymail.co.uk/news/article-12082625/Harry-Meghan-step-Michelin-star-sushi-local-restaurant-Montecito.html,1,0.08,0.01,0.911,0.9892,Daily Mail,2023-05-15,8
+3,"Kanye West and his voluptuous 'wife' Bianca Censori hold hands as they leave West Hollywood hotspot Cecconi's
+",https://www.dailymail.co.uk/tvshowbiz/article-12081449/Kanye-West-voluptuous-wife-Bianca-Censori-hold-hands-leave-hotspot-Cecconis.html,2,0.126,0.021,0.853,0.9915,Daily Mail,2023-05-15,8
+4,"Michael Douglas, 78, and Catherine Zeta-Jones, 53, make a stylish pair as they're joined by daughter Carys, 20, at a wedding after party in Venice
+",https://www.dailymail.co.uk/tvshowbiz/article-12081415/Michael-Douglas-Catherine-Zeta-Jones-attend-party-wedding-Chloe-Stroll-Scotty-James.html,3,0.112,0.008,0.881,0.9938,Daily Mail,2023-05-15,8
+5,"'This should never have happened': Wild brawls break out at Democratic endorsing convention in Minnesota as more than 40 supporters of rival candidates clash on stage 
+",https://www.dailymail.co.uk/news/article-12081373/Wild-brawls-break-Democratic-endorsing-convention-Minnesota-supporters-clash-stage.html,4,0.095,0.099,0.806,-0.5187,Daily Mail,2023-05-15,8
+6,"'It's upsetting how they're treating Americans': Florida couple's wedding in turmoil as New York hotel suddenly cancels THIRTY rooms they booked for their guests to make way for migrants 
+",https://www.dailymail.co.uk/news/article-12081485/Florida-couples-wedding-turmoil-New-York-hotel-suddenly-cancels-bookings-house-migrants.html,5,0.025,0.064,0.91,-0.9874,Daily Mail,2023-05-15,8
+7,"Cash App founder Bob Lee, 43, 'attended underground sex and drug parties with married sister of his accused killer' in the weeks before his murder in San Francisco 
+",https://www.dailymail.co.uk/news/article-12082583/Cash-App-founder-attended-sex-parties-sister-accused-killer.html,6,0.105,0.16,0.735,-0.9979,Daily Mail,2023-05-15,8
+8,"She's fallen out with Meghan, but what did Kate think of Harry's exes? Princess 'wanted him to marry Cressida Bonas' but had an awkward relationship with Chelsy Davy 
+",https://www.dailymail.co.uk/femail/article-12059695/What-did-Princess-Wales-really-think-Harrys-exes.html,7,0.114,0.034,0.852,0.9993,Daily Mail,2023-05-15,8
+9,"Jennifer Lopez and Ben Affleck take both of their moms out for Mother's Day celebration with their blended family
+",https://www.dailymail.co.uk/tvshowbiz/article-12083201/Jennifer-Lopez-Ben-Affleck-moms-Mothers-Day-celebration.html,8,0.104,0.043,0.853,0.9917,Daily Mail,2023-05-15,8
+10,"Shakira's dodged a bullet! How 'controlling' Tom Cruise made Katie Holmes give birth in silence and is estranged from daughter Suri 
+",https://www.dailymail.co.uk/femail/article-12072749/Shakiras-dodged-bullet-controversies-Tom-Cruises-former-relationships.html,9,0.074,0.056,0.87,0.9825,Daily Mail,2023-05-15,8
+1,Ministers call for immigration and UK food prices to increase,https://www.theguardian.com/environment/2023/may/15/ministers-call-for-immigration-and-uk-food-prices-to-increase,0,0.112,0.041,0.847,0.9958,Guardian,2023-05-15,8
+2,‘It turns the stomach’ – the biggest mistake from the 2023 TV Baftas,https://www.theguardian.com/tv-and-radio/2023/may/15/it-turns-the-stomach-the-biggest-mistake-from-the-2023-tv-baftas,1,0.222,0.056,0.722,0.9994,Guardian,2023-05-15,8
+3,Suella Braverman to rebuff cabinet calls for easing of visa rules,https://www.theguardian.com/politics/2023/may/14/suella-braverman-to-rebuff-cabinet-calls-for-easing-of-visa-rules,2,0.1,0.061,0.839,0.9914,Guardian,2023-05-15,8
+4,"‘I’d tell myself: you’re a loser, a failure, ugly …’ Matilda’s Mara Wilson on the price of fame",https://www.theguardian.com/film/2023/may/15/matildas-mara-wilson-on-the-price-of-fame,3,0.117,0.106,0.776,0.9849,Guardian,2023-05-15,8
+5,Ten Pound Poms review – surely no one in 1956 was a stranger to this level of racism and sexism?,https://www.theguardian.com/tv-and-radio/2023/may/14/ten-pound-poms-review-surely-no-one-in-1956-was-a-stranger-to-this-level-of-racism-and-sexism,4,0.084,0.106,0.81,-0.9773,Guardian,2023-05-15,8
+6,Red faces in Ireland over coronation quips by Leo Varadkar’s partner,https://www.theguardian.com/uk-news/2023/may/14/red-faces-in-ireland-over-coronation-quips-by-leo-varadkar-partner,5,0.073,0.021,0.906,0.972,Guardian,2023-05-15,8
+7,"Talking to babies may help shape brain structure, research finds",https://www.theguardian.com/science/2023/may/15/talking-to-babies-may-help-shape-brain-structure-research-finds,6,0.103,0.031,0.866,0.9938,Guardian,2023-05-15,8
+8,Why are so many young Americans adopting fake British accents?,https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z,7,0.111,0.082,0.807,0.9877,Guardian,2023-05-15,8
+9,Turkey elections live: runoff increasingly likely amid competing claims from Erdoğan and Kılıçdaroğlu,https://www.theguardian.com/world/live/2023/may/14/turkey-elections-live-vote-recep-tayyip-erdogan-kemal-klcdaroglu,8,0.128,0.066,0.806,0.9997,Guardian,2023-05-15,8
+10,Russia-Ukraine war latest: Zelenskiy to meet Sunak in London; France to send Kyiv military aid – live,https://www.theguardian.com/world/live/2023/may/15/russia-ukraine-war-latest-g7-reportedly-set-to-tighten-russia-sanctions-france-to-send-kyiv-military-aid-live,9,0.103,0.061,0.836,0.996,Guardian,2023-05-15,8
