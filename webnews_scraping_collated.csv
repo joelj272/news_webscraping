@@ -5599,3 +5599,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,The Tories are on the ropes now – and Labour’s killer blows are not far away,https://www.theguardian.com/commentisfree/2023/may/16/tories-labour-keir-starmer-local-elections-votes,7,0.137,0.096,0.766,0.9968,Guardian,2023-05-16,8
 9,‘No longer relevant to the UK’: list of 600 EU laws to be scrapped is published,https://www.theguardian.com/politics/2023/may/15/no-longer-relevant-to-the-uk-list-of-600-eu-laws-to-be-scrapped-is-published,8,0.101,0.067,0.833,0.9703,Guardian,2023-05-16,8
 10,China’s Hidden Century review – how opium and Christianity demolished a civilisation,https://www.theguardian.com/culture/2023/may/16/chinas-hidden-century-british-museum,9,0.081,0.094,0.825,-0.891,Guardian,2023-05-16,8
+1,Resistance man breaks 80-year silence over executed Germans,https://www.bbc.co.uk/news/world-europe-65613900,0,0.034,0.136,0.83,-0.9982,BBC,2023-05-16,20
+2,Brigitte Macron relative beaten after president speech,https://www.bbc.co.uk/news/world-europe-65613894,1,0.034,0.207,0.759,-0.9975,BBC,2023-05-16,20
+3,Hippo in deadly attack on packed Malawi river boat,https://www.bbc.co.uk/news/world-africa-65612850,2,0.082,0.133,0.785,-0.9674,BBC,2023-05-16,20
+4,ChatGPT boss urges US Congress to regulate AI,https://www.bbc.co.uk/news/world-us-canada-65616866,3,0.101,0.065,0.834,0.9131,BBC,2023-05-16,20
+5,Ghanaian ruler asks British Museum to return gold,https://www.bbc.co.uk/news/entertainment-arts-65614490,4,0.053,0.042,0.905,0.8025,BBC,2023-05-16,20
+6,Rushdie warns free expression is under threat,https://www.bbc.co.uk/news/world-us-canada-65612267,5,0.123,0.146,0.732,-0.5961,BBC,2023-05-16,20
+7,Kyiv hit by 'exceptionally dense' missile barrage,https://www.bbc.co.uk/news/world-europe-65606385,6,0.069,0.161,0.77,-0.998,BBC,2023-05-16,20
+8,"Martha Stewart, 81, is Sports Illustrated cover star",https://www.bbc.co.uk/news/world-us-canada-65608913,7,0.117,0.048,0.835,0.9772,BBC,2023-05-16,20
+9,'I don't plan to wait 25 years to see my son free',https://www.bbc.co.uk/news/world-europe-65601750,8,0.082,0.121,0.796,-0.9822,BBC,2023-05-16,20
+10,Indiana Jones and other Cannes highlights,https://www.bbc.co.uk/news/entertainment-arts-65569899,9,0.094,0.045,0.861,0.992,BBC,2023-05-16,20
+1,"I'm back, baby! Blake Lively wears low-cut halter dress as she returns to work just three months after giving birth to fourth child for adaptation of It Ends With Us with Justin Baldoni 
+",https://www.dailymail.co.uk/tvshowbiz/article-12087459/Blake-Lively-looks-stylish-low-cut-halter-dress-filming-Ends-New-York-City.html,0,0.135,0.014,0.851,0.9979,Daily Mail,2023-05-16,20
+2,"What 10 American cities will look like in 2050, predicted by AI: DailyMail.com asks AI to imagine future cities reshaped by tech such as flying cars and solar power
+",https://www.dailymail.co.uk/sciencetech/article-12068585/What-10-American-cities-look-like-2050-predicted-AI.html,1,0.177,0.013,0.809,0.9977,Daily Mail,2023-05-16,20
+3,"'It's time beer made it up to women': Miller Lite APOLOGIZES for using women in bikinis to sell beer after campaigns featuring Sofia Vergara, Meghan Markle and Pamela Anderson: New ad echoes woke Dylan Mulvaney controversy 
+",https://www.dailymail.co.uk/news/article-12086629/Miller-Lite-APOLOGIZES-using-women-bikinis-sell-beer.html,2,0.078,0.051,0.871,0.9916,Daily Mail,2023-05-16,20
+4,"Rudy Giuliani, 78, made former business consultant, 43, perform oral sex on him while he was on speaker phone to Trump - because it made him feel like Bill Clinton, $10M sex assault lawsuit claims
+",https://www.dailymail.co.uk/news/article-12087277/Woman-accuses-Rudy-Giuliani-sexual-harassment-files-lurid-legal-documents.html,3,0.08,0.122,0.797,-0.9949,Daily Mail,2023-05-16,20
+5,"Bezos' $500m love boat: Amazon billionaire smooches girlfriend Lauren Sanchez in front of crew member as they set sail on his enormous new superyacht - the world's tallest ship - off Mallorca coast
+",https://www.dailymail.co.uk/news/article-12086535/Jeff-Bezos-Lauren-Sanchez-seen-boarding-500-MILLION-superyacht.html,4,0.078,0.012,0.91,0.9959,Daily Mail,2023-05-16,20
+6,"Kim Kardashian's son Saint, 7, admits he tells his mom she means 'nothing' to him as star shares brutal Mother's Day messages from her kids 
+",https://www.dailymail.co.uk/tvshowbiz/article-12088855/Kim-Kardashians-son-Saint-seven-tells-mom-means-me.html,5,0.206,0.023,0.771,0.9986,Daily Mail,2023-05-16,20
+7,"'The girls are living in constant fear': University of Wyoming sorority sisters blast college for letting 6ft 2in, 260lbs trans woman move back into their house - after claiming she 'peeps at them while visibly aroused'
+",https://www.dailymail.co.uk/news/article-12087465/University-Wyoming-sorority-sisters-say-feel-vulnerable-trans-woman-peeps-them.html,6,0.09,0.098,0.812,-0.6932,Daily Mail,2023-05-16,20
+8,"Durham's final report is RELEASED: Prosecutor says FBI did NOT have any 'factual evidence' to investigate Trump-Russia collusion and slams 'bias' bureau for failing to properly probe Steele dossier 
+",https://www.dailymail.co.uk/news/article-12086747/Durhams-final-report-RELEASED-FBI-did-NOT-evidence-investigate-Trump-Russia-collusion.html,7,0.075,0.038,0.887,0.9876,Daily Mail,2023-05-16,20
+9,"Martha Stewart, 81, becomes OLDEST woman to ever land Sports Illustrated Swimsuit cover, wowing in a very low-cut white bathing suit - while Megan Fox, 36, dares to bare in a raunchy design made entirely of CHAINS
+",https://www.dailymail.co.uk/femail/article-12085237/Sports-Illustrated-Swimsuit-2023-Martha-Stewart-81-Megan-Fox-36-pose-cover.html,8,0.177,0.025,0.797,0.9994,Daily Mail,2023-05-16,20
+10,"Girl whose mother abducted her from her father's care in 2017 when she was just 9 is found alive and well in North Carolina by store owner who recognised her after watching her story on Netflix's Unsolved Mysteries
+",https://www.dailymail.co.uk/news/article-12088811/Girl-mother-abducted-2017-alive-man-recognised-Netflix-show.html,9,0.068,0.112,0.82,-0.9847,Daily Mail,2023-05-16,20
+1,"Russia’s most potent hypersonic weapon neutralised, says Ukraine",https://www.theguardian.com/world/2023/may/16/ukraine-russia-targets-kyiv-with-massive-overnight-airstrike,0,0.099,0.137,0.763,-0.995,Guardian,2023-05-16,20
+2,It’s the nation’s favourite cocktail – Phil and Holly on the rocks. Sickly sweet at first and then quite sour,https://www.theguardian.com/commentisfree/2023/may/16/nations-favourite-cocktail-phillip-schofield-holly-willoughby-on-the-rocks,1,0.134,0.036,0.83,0.9987,Guardian,2023-05-16,20
+3,Michael Gove leaves everyone feeling they’ve been NatConned ,https://www.theguardian.com/politics/2023/may/16/michael-gove-leaves-everyone-feeling-theyve-been-natconned,2,0.161,0.129,0.709,0.9934,Guardian,2023-05-16,20
+4,‘She was a hustler’: the fascinating true story of Anna Nicole Smith,https://www.theguardian.com/film/2023/may/16/anna-nicole-smith-netflix-documentary,3,0.115,0.076,0.809,0.9939,Guardian,2023-05-16,20
+5,Michael Gove says Tories will not win election with culture wars,https://www.theguardian.com/politics/2023/may/16/michael-gove-highlights-civility-over-culture-wars-in-speech-to-natcon,4,0.125,0.078,0.797,0.9876,Guardian,2023-05-16,20
+6,Asylum seekers to lose basic housing protections in move to cut hotel use ,https://www.theguardian.com/uk-news/2023/may/16/asylum-seekers-to-lose-basic-housing-protections-in-move-to-cut-hotel-use,5,0.063,0.066,0.87,-0.6412,Guardian,2023-05-16,20
+7,The sleepy Dorset town bewildered by a ‘random’ arson rampage,https://www.theguardian.com/uk-news/2023/may/16/dorset-town-bewildered-by-random-overnight-arson-attacks,6,0.028,0.089,0.883,-0.9911,Guardian,2023-05-16,20
+8,The war on Japanese knotweed,https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed,7,0.074,0.079,0.847,-0.9921,Guardian,2023-05-16,20
+9,The women wearing ‘subway T-shirts’ over outfits to avoid creepy stares,https://www.theguardian.com/fashion/2023/may/16/subway-t-shirt-new-york-women-tiktok,8,0.135,0.1,0.765,0.9797,Guardian,2023-05-16,20
+10,Internazionale v Milan: Champions League semi-final second leg – live,https://www.theguardian.com/football/live/2023/may/16/internazionale-v-milan-champions-league-semi-final-second-leg-live-score-updates,9,0.143,0.062,0.795,0.9996,Guardian,2023-05-16,20
