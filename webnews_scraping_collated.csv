@@ -5679,3 +5679,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Court rules Theranos founder Elizabeth Holmes must go to prison while she appeals against sentence,https://www.theguardian.com/technology/2023/may/17/court-rules-theranos-founder-elizabeth-holmes-must-go-to-prison-while-she-appeals-sentence,7,0.065,0.123,0.811,-0.9789,Guardian,2023-05-17,8
 9,Half of pizzas on sale in the UK contain a whole day’s allowance of salt,https://www.theguardian.com/food/2023/may/17/half-of-pizzas-on-sale-in-the-uk-contain-a-whole-days-allowance-of-salt,8,0.045,0.077,0.878,-0.9659,Guardian,2023-05-17,8
 10,"People too tired to lead healthier lifestyles, UK survey finds",https://www.theguardian.com/society/2023/may/17/people-too-tired-to-lead-healthier-lifestyles-uk-survey-finds,9,0.162,0.111,0.727,0.9644,Guardian,2023-05-17,8
+1,Harry and Meghan in 'near catastrophic car chase',https://www.bbc.co.uk/news/world-us-canada-65625886,0,0.083,0.081,0.836,-0.0976,BBC,2023-05-17,20
+2,Scans of Titanic reveal wreck as never seen before,https://www.bbc.co.uk/news/science-environment-65602182,1,0.066,0.095,0.839,-0.9794,BBC,2023-05-17,20
+3,Critics lukewarm on Johnny Depp's comeback film,https://www.bbc.co.uk/news/entertainment-arts-65619877,2,0.133,0.091,0.776,0.9919,BBC,2023-05-17,20
+4,Court orders Elizabeth Holmes to go to prison,https://www.bbc.co.uk/news/world-us-canada-65620371,3,0.045,0.092,0.863,-0.9495,BBC,2023-05-17,20
+5,Musk: I will say what I want even if it costs me,https://www.bbc.co.uk/news/technology-65609927,4,0.065,0.095,0.84,-0.9701,BBC,2023-05-17,20
+6,World likely to warm beyond key 1.5C limit by 2027,https://www.bbc.co.uk/news/science-environment-65602293,5,0.076,0.041,0.883,0.9701,BBC,2023-05-17,20
+7,F1 race cancelled as deadly floods hit Italy,https://www.bbc.co.uk/news/world-europe-65620597,6,0.05,0.084,0.865,-0.9603,BBC,2023-05-17,20
+8,Why Bud Light and Disney are under attack,https://www.bbc.co.uk/news/business-65428204,7,0.081,0.081,0.837,0.509,BBC,2023-05-17,20
+9,Break-in at Biden aide's home while agents outside,https://www.bbc.co.uk/news/world-us-canada-65620372,8,0.046,0.077,0.877,-0.8853,BBC,2023-05-17,20
+10,Sarkozy to wear tag after losing corruption appeal,https://www.bbc.co.uk/news/world-europe-65620064,9,0.042,0.081,0.877,-0.9072,BBC,2023-05-17,20
+1,"EXCLUSIVE: 'I love her too much to say anything bad about her.' Rep. Lauren Boebert's husband Jayson says he is torn as she files for divorce after 18 years of marriage, declaring she's 'always been faithful'
+",https://www.dailymail.co.uk/news/article-12091155/Rep-Lauren-Boebert-files-DIVORCE-husband-Jayson.html,0,0.049,0.095,0.856,-0.9956,Daily Mail,2023-05-17,20
+2,"Meghan Markle retells NYC gala story of how she enjoyed TV dinners and Jeopardy! after school, as she dons stunning $1,850 strapless gown to accept 'Women of Vision' award from friend Gloria Steinem while Prince Harry and mom Doria look on
+",https://www.dailymail.co.uk/news/article-12091529/Prince-Harry-Meghan-Markle-attend-Women-Vision-awards-New-York.html,1,0.122,0.018,0.86,0.9987,Daily Mail,2023-05-17,20
+3,"EXCLUSIVE: She's known as 'America's first supermodel' whose sexy pink bikini Sports Illustrated poster adorned boys' bedrooms around the world. Now, 75, this former Cover Girl was seen leaving a Montecito salon. Can you guess who it is?
+",https://www.dailymail.co.uk/news/article-12089769/Her-sexy-pink-bikini-posters-hung-boys-bedrooms-guess-former-supermodel-is.html,2,0.149,0.043,0.808,0.9985,Daily Mail,2023-05-17,20
+4,"Jerry Springer goes viral for clip where late chat show host reads will and gives large portion to two black children he had out of wedlock... but it is revealed to be from a virtual play
+",https://www.dailymail.co.uk/tvshowbiz/article-12090669/Jerry-Springer-goes-viral-giving-large-portion-two-Black-kids-wedlock.html,3,0.119,0.081,0.801,0.9975,Daily Mail,2023-05-17,20
+5,"Georgia parents are charged with attempted murder after starving 36lb, 10-year-old son was found wandering neighborhood for grocery store to beg for food - and then pleading with cops 'please not to make him go back'
+",https://www.dailymail.co.uk/news/article-12094059/Georgia-parents-arrested-child-abuse-36lb-10-year-old-son-begging-food.html,4,0.044,0.157,0.799,-0.9987,Daily Mail,2023-05-17,20
+6,"Here's Johnny! Leading man Depp is cheered by fans as he joins glamorous Brie Larson, Uma Thurman and Elle Fanning at the Cannes Film Festival opening night of new film Jeanne du Barry - after winning defamation trial against Amber Heard
+",https://www.dailymail.co.uk/tvshowbiz/article-12090659/Stars-descend-Cannes-Film-Festivals-opening-night-Jeanne-du-Barry-premiere.html,5,0.162,0.032,0.805,0.9995,Daily Mail,2023-05-17,20
+7,"Meghan uses Queen's mantra for her own crowning moment: Duchess hails 'service' as she accepts Women of Vision award at glitzy New York gala with Prince Harry by her side a week after Charles made it a key part of his Coronation pledge
+",https://www.dailymail.co.uk/news/article-12092857/Meghan-Markle-hails-service-accepts-Women-Vision-award.html,6,0.123,0.022,0.855,0.9997,Daily Mail,2023-05-17,20
+8,"Dame Helen Mirren, 77, cuts a chic figure on a rare outing with husband Taylor Hackford, 78, in Cannes ahead of the annual Film Festival
+",https://www.dailymail.co.uk/tvshowbiz/article-12087317/Dame-Helen-Mirren-77-makes-rare-appearance-husband-Taylor-Hackford-78-Cannes.html,7,0.088,0.028,0.884,0.9836,Daily Mail,2023-05-17,20
+9,"In their Prime! Jeff Bezos bares his muscles and girlfriend Lauren Sanchez rocks a pink bikini as they are pictured relaxing on his $500M love boat off the coast of Spain
+",https://www.dailymail.co.uk/news/article-12091211/Jeff-Bezos-goes-topless-bikini-clad-girlfriend-Lauren-Sanchez-yacht-Spain.html,8,0.078,0.015,0.907,0.995,Daily Mail,2023-05-17,20
+10,"Matty Healy's controversial comments about masturbating to women 'being brutalised' in graphic porn resurface as fans beg Taylor Swift to end their romance
+",https://www.dailymail.co.uk/tvshowbiz/article-12090167/Matty-Healys-controversial-porn-comments-resurface-fans-beg-Taylor-Swift-end-romance.html,9,0.098,0.103,0.798,-0.951,Daily Mail,2023-05-17,20
+1,"Prince Harry and Meghan in near catastrophic car chase with paparazzi, spokesperson says",https://www.theguardian.com/uk-news/2023/may/17/prince-harry-and-meghan-in-near-catastrophic-car-chase-with-paparazzi,0,0.066,0.081,0.854,-0.9367,Guardian,2023-05-17,20
+2,Rishi Sunak cites cheap beer and sanitary products as benefits of Brexit,https://www.theguardian.com/politics/2023/may/17/rishi-sunak-cites-cheap-beer-and-sanitary-products-as-benefits-of-brexit,1,0.089,0.068,0.842,0.9192,Guardian,2023-05-17,20
+3,"Manchester City v Real Madrid: Champions League semi-final, second leg – live",https://www.theguardian.com/football/live/2023/may/17/manchester-city-v-real-madrid-champions-league-semi-final-second-leg-live-score-updates,2,0.104,0.06,0.836,0.9988,Guardian,2023-05-17,20
+4,Pizza Express staff protest as waiters’ hours cut and managers told to do more,https://www.theguardian.com/business/2023/may/17/pizza-express-waiters-cuts-hours-managers-pay,3,0.069,0.082,0.849,0.2125,Guardian,2023-05-17,20
+5,Devastating floods in Italy claim lives and leave thousands homeless,https://www.theguardian.com/world/2023/may/17/italy-storms-people-dead-thousands-evacuated-emlia-romagna,4,0.048,0.153,0.799,-0.9976,Guardian,2023-05-17,20
+6,Dowden is perfect fit as Sunak’s dependably mediocre deputy,https://www.theguardian.com/politics/2023/may/17/dowden-is-perfect-fit-as-sunak-dependably-mediocre-deputy,5,0.121,0.118,0.761,-0.9444,Guardian,2023-05-17,20
+7,"Ford, Vauxhall owner and JLR call for UK to renegotiate Brexit deal",https://www.theguardian.com/business/2023/may/17/vauxhall-maker-says-brexit-deal-must-be-renegotiated-or-it-could-shut-uk-plant,6,0.045,0.039,0.915,0.6764,Guardian,2023-05-17,20
+8,Ivan Toney hit with eight-month football ban for breaching betting rules,https://www.theguardian.com/football/2023/may/17/ivan-toney-hit-with-eight-month-football-ban-for-breaching-fa-betting-rules-brentford,7,0.079,0.137,0.784,-0.997,Guardian,2023-05-17,20
+9,"‘He assaulted me in 1977 but I remember it like yesterday’: why blind, disabled Lin Berwick denounced Rolf Harris",https://www.theguardian.com/uk-news/2023/may/17/why-blind-disabled-lin-berwick-denounced-rolf-harris,8,0.11,0.149,0.741,-0.9984,Guardian,2023-05-17,20
+10,‘Comfortable is not good’: Kym Marsh on the horror of Hear’Say – and landing the Take That musical,https://www.theguardian.com/stage/2023/may/17/kym-marsh-take-that-musical-hearsay-greatest-days-corrie,9,0.105,0.044,0.85,0.9981,Guardian,2023-05-17,20
