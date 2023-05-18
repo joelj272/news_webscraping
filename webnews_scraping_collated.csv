@@ -5719,3 +5719,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Ivan Toney hit with eight-month football ban for breaching betting rules,https://www.theguardian.com/football/2023/may/17/ivan-toney-hit-with-eight-month-football-ban-for-breaching-fa-betting-rules-brentford,7,0.079,0.137,0.784,-0.997,Guardian,2023-05-17,20
 9,"‘He assaulted me in 1977 but I remember it like yesterday’: why blind, disabled Lin Berwick denounced Rolf Harris",https://www.theguardian.com/uk-news/2023/may/17/why-blind-disabled-lin-berwick-denounced-rolf-harris,8,0.11,0.149,0.741,-0.9984,Guardian,2023-05-17,20
 10,‘Comfortable is not good’: Kym Marsh on the horror of Hear’Say – and landing the Take That musical,https://www.theguardian.com/stage/2023/may/17/kym-marsh-take-that-musical-hearsay-greatest-days-corrie,9,0.105,0.044,0.85,0.9981,Guardian,2023-05-17,20
+1,Russia launches ninth Kyiv air attack this month,https://www.bbc.co.uk/news/world-europe-65630022,0,0.084,0.18,0.735,-0.9963,BBC,2023-05-18,8
+2,"Meghan and Harry looked nervous, says taxi driver",https://www.bbc.co.uk/news/world-us-canada-65629160,1,0.097,0.058,0.845,0.9808,BBC,2023-05-18,8
+3,How a Canadian walrus ended up in Abu Dhabi,https://www.bbc.co.uk/news/world-us-canada-65528793,2,0.112,0.054,0.834,0.9971,BBC,2023-05-18,8
+4,Serbians hand in guns after two mass shootings,https://www.bbc.co.uk/news/world-europe-65597622,3,0.091,0.177,0.732,-0.9987,BBC,2023-05-18,8
+5,Bank to pay $75m in Epstein sex-trafficking lawsuit,https://www.bbc.co.uk/news/business-65630338,4,0.063,0.104,0.833,-0.9378,BBC,2023-05-18,8
+6,'We are selling a product that we hope gets discontinued',https://www.bbc.co.uk/news/business-65572881,5,0.091,0.083,0.826,-0.2636,BBC,2023-05-18,8
+7,The girl whose parents were deported while she was at school,https://www.bbc.co.uk/news/world-middle-east-65608280,6,0.087,0.115,0.798,-0.9872,BBC,2023-05-18,8
+8,US limo operator convicted of crash that killed 20,https://www.bbc.co.uk/news/world-us-canada-65629165,7,0.09,0.154,0.756,-0.9587,BBC,2023-05-18,8
+9,First statewide TikTok ban in US signed into law,https://www.bbc.co.uk/news/business-65630201,8,0.064,0.08,0.856,-0.8864,BBC,2023-05-18,8
+10,"DeSantis limits trans treatments, drag, pronoun use",https://www.bbc.co.uk/news/world-us-canada-65627756,9,0.08,0.046,0.874,0.9692,BBC,2023-05-18,8
+1,"Harry and Meghan involved in 'near catastrophic' car chase while in New York, spokesman claims
+",https://www.dailymail.co.uk/news/article-12095151/Harry-Meghan-involved-near-catastrophic-car-chase-New-York-spokesman-claims.html,0,0.068,0.065,0.867,0.7723,Daily Mail,2023-05-18,8
+2,"FBI has IDENTIFIED Zodiac Killer as Air Force veteran Gary Francis Poste - who died in 2018 - and has partial DNA sample that could link him to five serial murders, cold case investigator claims
+",https://www.dailymail.co.uk/news/article-12096047/FBI-identified-Zodiac-Killer-Air-Force-veteran-Gary-Francis-Poste-died-2018.html,1,0.05,0.197,0.753,-0.9999,Daily Mail,2023-05-18,8
+3,"Georgia parents are charged with attempted murder after starving 36lb, 10-year-old son was found wandering neighborhood for grocery store to beg for food - and then pleading with cops 'please not to make him go back'
+",https://www.dailymail.co.uk/news/article-12094059/Georgia-parents-arrested-child-abuse-36lb-10-year-old-son-begging-food.html,2,0.044,0.157,0.799,-0.9987,Daily Mail,2023-05-18,8
+4,"EXCLUSIVE: She's known as 'America's first supermodel' whose sexy pink bikini Sports Illustrated poster adorned boys' bedrooms around the world. Now, 75, this former Cover Girl was seen leaving a Montecito salon. Can you guess who it is?
+",https://www.dailymail.co.uk/news/article-12089769/Her-sexy-pink-bikini-posters-hung-boys-bedrooms-guess-former-supermodel-is.html,3,0.149,0.043,0.808,0.9985,Daily Mail,2023-05-18,8
+5,"Meghan uses Queen's mantra for her own crowning moment: Duchess hails 'service' as she accepts Women of Vision award at glitzy New York gala with Prince Harry by her side a week after Charles made it a key part of his Coronation pledge
+",https://www.dailymail.co.uk/news/article-12092857/Meghan-Markle-hails-service-accepts-Women-Vision-award.html,4,0.123,0.022,0.855,0.9997,Daily Mail,2023-05-18,8
+6,"General Hospital star Haley Pullos, 24, is arrested for DUI after horrific wrong-way freeway crash with edibles and tequila in car: 'Aggressive' actress told firefighter to 'watch out for her $400 shirt'
+",https://www.dailymail.co.uk/news/article-12094081/General-Hospital-star-Haley-Pullos-24-arrested-DUI-wrong-way-crash.html,5,0.063,0.111,0.826,-0.9434,Daily Mail,2023-05-18,8
+7,"Disney's new Little Mermaid movie appears to make a dig at Kate - and the film just so happens to be a favourite of Meghan's  
+",https://www.dailymail.co.uk/femail/article-12093657/Disneys-Little-Mermaid-remake-gives-subtle-dig-Kate-Middleton.html,6,0.09,0.044,0.866,0.9781,Daily Mail,2023-05-18,8
+8,"Woman becomes a viral sensation after asking TikTok to help her identify a mystery celebrity she spotted on a plane... so, do YOU know who he is? 
+",https://www.dailymail.co.uk/femail/article-12095457/Do-know-mystery-celebrity-plane-passenger-is.html,7,0.106,0.04,0.854,0.9946,Daily Mail,2023-05-18,8
+9,"Meghan's mission to rescue Brand Sussex (in a £9,000 golden outfit): As the Duke and Duchess's popularity plunges in the US, they are pivoting from the dramas with the Royals while promoting her as a woman of substance, reveal RICHARD KAY and TOM LEONARD
+",https://www.dailymail.co.uk/news/article-12095845/Meghans-mission-rescue-Brand-Sussex-9k-golden-outfit-Couple-attempt-save-image.html,8,0.115,0.052,0.833,0.9993,Daily Mail,2023-05-18,8
+10,"Squad demands $14 TRILLION in federal reparations for descendants of slaves: Radical Dems say huge bill will be paid by reducing defense spending - and 'trauma lives in the black body'
+",https://www.dailymail.co.uk/news/article-12095197/Squad-member-calls-14-TRILLION-federal-reparations-descendants-slaves.html,9,0.082,0.102,0.816,-0.9811,Daily Mail,2023-05-18,8
+1, Harry and Meghan face wildly different public perceptions in the UK and US,https://www.theguardian.com/uk-news/2023/may/17/prince-harry-meghan-car-chase-paparazzi-tabloid-uk-media,0,0.072,0.054,0.874,0.9391,Guardian,2023-05-18,8
+2,"Half of children given ‘skinny jab’ no longer clinically obese, study finds",https://www.theguardian.com/society/2023/may/17/half-of-children-given-skinny-jab-no-longer-clinically-obese-us-study,1,0.069,0.047,0.885,0.8569,Guardian,2023-05-18,8
+3,"Why are eggs so expensive? Here’s what a farmer and 14,000 hens told me",https://www.theguardian.com/food/2023/may/18/why-are-eggs-so-expensive-heres-what-a-farmer-and-14000-hens-told-me,2,0.062,0.051,0.887,0.9792,Guardian,2023-05-18,8
+4,Russia-Ukraine war live: Kyiv officials decry ‘unprecedented’ recent missile strikes; one killed in Odesa attack,https://www.theguardian.com/world/live/2023/may/18/russia-ukraine-war-live-updates-kyiv-missile-strikes-attack,3,0.077,0.118,0.805,-0.9991,Guardian,2023-05-18,8
+5,English water companies offer apology and £10bn investment for sewage spills,https://www.theguardian.com/environment/2023/may/18/uk-water-companies-offer-apology-and-10bn-investment-for-sewage-spills,4,0.096,0.061,0.843,0.972,Guardian,2023-05-18,8
+6,The law is gone but they are still in jail: who will free Britain’s most wronged prisoners?,https://www.theguardian.com/commentisfree/2023/may/18/jail-law-britain-prisoners-ipp-sentences,5,0.098,0.2,0.703,-0.9993,Guardian,2023-05-18,8
+7,"Radio 4 flagship Today loses 800,000 listeners in a year to podcasts and rivals",https://www.theguardian.com/media/2023/may/18/radio-4-flagship-today-loses-800000-listeners-in-a-year-to-podcasts-and-rivals,6,0.103,0.012,0.885,0.9925,Guardian,2023-05-18,8
+8,TV tonight: curious couples try open sexual relationships in a mansion,https://www.theguardian.com/tv-and-radio/2023/may/18/tv-tonight-curious-couples-try-open-sexual-relationships-in-a-mansion,7,0.117,0.086,0.797,0.8776,Guardian,2023-05-18,8
+9,The rubbishscapes of Essex: why our buried trash is back to haunt us,https://www.theguardian.com/environment/2023/may/18/the-rubbishscapes-of-essex-why-our-buried-trash-is-back-to-haunt-us,8,0.07,0.079,0.851,-0.9901,Guardian,2023-05-18,8
+10,"London’s Roundhouse to train 15,000 young people in creative industries",https://www.theguardian.com/society/2023/may/18/londons-roundhouse-to-train-15000-young-people-in-creative-industries,9,0.105,0.039,0.856,0.9899,Guardian,2023-05-18,8
