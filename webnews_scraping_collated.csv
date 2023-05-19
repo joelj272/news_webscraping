@@ -5799,3 +5799,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Blur: The Narcissist review – a band finally at ease with themselves,https://www.theguardian.com/music/2023/may/18/blur-the-narcissist-review-a-band-finally-at-ease-with-themselves,7,0.105,0.036,0.859,0.9931,Guardian,2023-05-18,20
 9,RMT to hold rail strike across England on eve of FA Cup final,https://www.theguardian.com/uk-news/2023/may/18/rmt-to-hold-rail-strike-across-england-on-eve-of-fa-cup-final,8,0.075,0.153,0.772,-0.9863,Guardian,2023-05-18,20
 10,Death toll mounts in Italy’s worst flooding for 100 years,https://www.theguardian.com/world/2023/may/18/italy-worst-flooding-in-100-years-emilia-romagna,9,0.037,0.122,0.841,-0.9976,Guardian,2023-05-18,20
+1,Agency refuses to hand over Harry and Meghan photos,https://www.bbc.co.uk/news/world-us-canada-65642614,0,0.076,0.099,0.825,-0.897,BBC,2023-05-19,8
+2,Outcry as Australian police Taser 95-year-old woman,https://www.bbc.co.uk/news/world-australia-65642974,1,0.09,0.092,0.818,-0.3912,BBC,2023-05-19,8
+3,Inside the routine at Elizabeth Holmes' prison,https://www.bbc.co.uk/news/world-us-canada-65625526,2,0.059,0.086,0.855,-0.9578,BBC,2023-05-19,8
+4,Why G7 has eight more seats at the table this year,https://www.bbc.co.uk/news/world-asia-65630650,3,0.084,0.099,0.817,-0.9884,BBC,2023-05-19,8
+5,'When I go to bed I see the men who died in my arms',https://www.bbc.co.uk/news/world-europe-65418075,4,0.075,0.13,0.794,-0.9919,BBC,2023-05-19,8
+6,Tiger Woods wins in NDA dispute with ex-girlfriend,https://www.bbc.co.uk/news/world-us-canada-65642132,5,0.064,0.144,0.792,-0.9893,BBC,2023-05-19,8
+7,Senator Dianne Feinstein suffered brain inflammation,https://www.bbc.co.uk/news/world-us-canada-65642944,6,0.046,0.072,0.882,-0.9151,BBC,2023-05-19,8
+8,Disney ends $867m Florida plan amid DeSantis feud,https://www.bbc.co.uk/news/world-us-canada-65639132,7,0.06,0.068,0.872,-0.6173,BBC,2023-05-19,8
+9,Al-Qaeda free Australian hostage after 7 years,https://www.bbc.co.uk/news/world-australia-65643298,8,0.053,0.042,0.906,0.2508,BBC,2023-05-19,8
+10,Strip club dancers to form only US topless union,https://www.bbc.co.uk/news/world-us-canada-65642133,9,0.056,0.049,0.895,-0.4717,BBC,2023-05-19,8
+1,"EXCLUSIVE: It's 'A' mystery! Actor who starred in beloved 1980s adventure series looks unrecognizable as he steps out 40 years later (despite still wearing his trademark black cap)... so do YOU know who he is?
+",https://www.dailymail.co.uk/femail/article-12099577/Actor-starred-beloved-adventure-series-looks-unrecognizable-steps-40-years-later.html,0,0.082,0.06,0.858,0.7556,Daily Mail,2023-05-19,8
+2,"FBI has IDENTIFIED Zodiac Killer as Air Force veteran Gary Francis Poste - who died in 2018 - and has partial DNA sample that could link him to five serial murders, cold case investigator claims
+",https://www.dailymail.co.uk/news/article-12096047/FBI-identified-Zodiac-Killer-Air-Force-veteran-Gary-Francis-Poste-died-2018.html,1,0.05,0.198,0.753,-0.9999,Daily Mail,2023-05-19,8
+3,"'She stabbed me in the back!': Roseanne Barr, 70, says was betrayed by former onscreen daughter Sara Gilbert, 48, and blames her for reboot getting canceled amid racist tweet controversy
+",https://www.dailymail.co.uk/tvshowbiz/article-12100039/Roseanne-Barr-says-Sara-Gilbert-betrayed-her.html,2,0.1,0.152,0.749,-0.9923,Daily Mail,2023-05-19,8
+4,"Fatuous, irrelevant and no sense of purpose - what a fitting backdrop Manhattan's 'Women of Vision' made for the vapid La Markle herself! Fellow guest MAUREEN CALLAHAN's sparkling account of Meghan's word-salad gala appearance
+",https://www.dailymail.co.uk/news/article-12098661/MAUREEN-CALLAHANs-hand-account-Meghans-word-salad-appearance-New-York-award-gala.html,3,0.121,0.073,0.806,0.9976,Daily Mail,2023-05-19,8
+5,"This 90s star is unrecognizable in her nerd glasses. Can you guess who she is? Hint: she was on Beverly Hills, 90210 and was wed to a Grey's Anatomy actor
+",https://www.dailymail.co.uk/tvshowbiz/article-12098931/This-90s-star-unrecognizable-nerd-glasses-guess-is.html,4,0.139,0.078,0.783,0.9981,Daily Mail,2023-05-19,8
+6,"Harry and Meghan's account of 'near catastrophic' car chase involving 'cat and mouse' run-ins with paparazzi is called into question amid conflicting reports of what actually happened 
+",https://www.dailymail.co.uk/news/article-12100211/Harry-Meghans-account-near-catastrophic-car-chase-called-question.html,5,0.062,0.119,0.819,-0.9983,Daily Mail,2023-05-19,8
+7,"Pregnant NYC nurse accused of taking a CitiBike from a black man outside hospital is NAMED as friends start Go Fund Me to pay her legal bills - and lawyer shares receipts that 'PROVES the bike was hers'
+",https://www.dailymail.co.uk/news/article-12100201/Pregnant-NYC-nurse-shares-receipts-day-shes-accused-stealing-Citi-bike-black-man.html,6,0.098,0.115,0.786,-0.9795,Daily Mail,2023-05-19,8
+8,"I've got the receipts! Pregnant NYC nurse accused of taking a Citi Bike from a black man outside hospital 'paid' for it says her lawyer - after she was put on leave
+",https://www.dailymail.co.uk/news/article-12098659/Pregnant-NYC-nurse-accused-taking-Citi-Bike-black-man-paid-says-lawyer.html,7,0.081,0.114,0.806,-0.9857,Daily Mail,2023-05-19,8
+9,"EXCLUSIVE: Riley Gaines demands athletes BOYCOTT Adidas for having biological male model pose in new women's swimwear campaign that features ex-Olympic diver Tom Daley 
+",https://www.dailymail.co.uk/news/article-12098493/Adidas-accused-trying-erase-women-using-biological-male-model-WOMENS-swimwear.html,8,0.134,0.074,0.792,0.9991,Daily Mail,2023-05-19,8
+10,"Taylor Swift's ex-boyfriend Joe Alwyn feels 'distraught and slighted' over her new romance with Matty Healy - after 'trusting' the singer when she told him she was just 'friends' with The 1975 frontman
+",https://www.dailymail.co.uk/tvshowbiz/article-12094503/Taylor-Swifts-ex-Joe-Alwyn-distraught-Matt-Healy-romance.html,9,0.109,0.017,0.874,0.9993,Daily Mail,2023-05-19,8
+1,"Andy Rourke, bassist for the Smiths, dies aged 59",https://www.theguardian.com/music/2023/may/19/andy-rourke-bassist-for-the-smiths-dies-aged-59,0,0.128,0.098,0.774,0.9703,Guardian,2023-05-19,8
+2,AZ Alkmaar coach ‘ashamed’ after fans confront West Ham players’ families,https://www.theguardian.com/football/2023/may/19/i-feel-ashamed-az-alkmaar-manager-apologises-following-fan-trouble,1,0.148,0.066,0.787,0.9894,Guardian,2023-05-19,8
+3,The great British baby drought has a simple cause. And it’s not ‘cultural Marxism’,https://www.theguardian.com/commentisfree/2023/may/18/british-baby-cultural-marxism-conservatives-parenthood,2,0.104,0.1,0.796,0.5948,Guardian,2023-05-19,8
+4,I may have fallen in love with a sex worker I am paying. Could it be real?,https://www.theguardian.com/lifeandstyle/2023/may/19/i-may-have-fallen-in-love-with-a-sex-worker-i-am-paying-could-it-be-real,3,0.19,0.045,0.765,0.9989,Guardian,2023-05-19,8
+5,"Woman, 95, Tasered by officer at Cooma aged care home, approached on walking frame with a knife, police say",https://www.theguardian.com/australia-news/2023/may/19/homicide-squad-officers-to-investigate-senior-constables-tasering-of-95-year-old-aged-care-resident,4,0.063,0.063,0.874,0.0498,Guardian,2023-05-19,8
+6,Jane Fonda: French director asked to sleep with me to ‘see what my orgasms were like’ for a role,https://www.theguardian.com/film/2023/may/19/jane-fonda-french-director-asked-to-sleep-with-me-to-see-what-my-orgasms-were-like-for-a-role,5,0.055,0.105,0.84,-0.9704,Guardian,2023-05-19,8
+7,Veg box firm Riverford to be 100% staff-owned as founder sells stake for £10m,https://www.theguardian.com/business/2023/may/19/veg-box-riverford-staff-owned-founder-sells-stake-guy-singh-watson,6,0.121,0.045,0.834,0.9951,Guardian,2023-05-19,8
+8,UK households with communal heating facing 350% rise in energy costs,https://www.theguardian.com/society/2023/may/19/uk-households-with-communal-heating-facing-350-rise-in-energy-costs,7,0.09,0.075,0.835,0.8214,Guardian,2023-05-19,8
+9,Russia-Ukraine war live: Zelenskiy to attend G7 in person as leaders prepare new sanctions against Moscow,https://www.theguardian.com/world/live/2023/may/19/russia-ukraine-war-live-zelenskiy-to-attend-g7-in-person-reports-say-as-leaders-prepare-new-sanctions,8,0.066,0.102,0.832,-0.995,Guardian,2023-05-19,8
+10,Indiana Jones and the Dial of Destiny review - Harrison Ford cracks the whip in taut sequel,https://www.theguardian.com/film/2023/may/18/indiana-jones-and-the-dial-of-destiny-review-harrison-ford-cracks-the-whip-in-taut-sequel,9,0.121,0.059,0.82,0.9898,Guardian,2023-05-19,8
