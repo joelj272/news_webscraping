@@ -5839,3 +5839,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,UK households with communal heating facing 350% rise in energy costs,https://www.theguardian.com/society/2023/may/19/uk-households-with-communal-heating-facing-350-rise-in-energy-costs,7,0.09,0.075,0.835,0.8214,Guardian,2023-05-19,8
 9,Russia-Ukraine war live: Zelenskiy to attend G7 in person as leaders prepare new sanctions against Moscow,https://www.theguardian.com/world/live/2023/may/19/russia-ukraine-war-live-zelenskiy-to-attend-g7-in-person-reports-say-as-leaders-prepare-new-sanctions,8,0.066,0.102,0.832,-0.995,Guardian,2023-05-19,8
 10,Indiana Jones and the Dial of Destiny review - Harrison Ford cracks the whip in taut sequel,https://www.theguardian.com/film/2023/may/18/indiana-jones-and-the-dial-of-destiny-review-harrison-ford-cracks-the-whip-in-taut-sequel,9,0.121,0.059,0.82,0.9898,Guardian,2023-05-19,8
+1,US to support providing F-16 fighter jets to Ukraine,https://www.bbc.co.uk/news/world-us-canada-65649471,0,0.087,0.045,0.868,0.9505,BBC,2023-05-19,20
+2,Anger as Russian flights land again in Georgia,https://www.bbc.co.uk/news/world-europe-65645527,1,0.096,0.08,0.824,0.669,BBC,2023-05-19,20
+3,Zelensky accuses some Arab leaders of 'blind eye' to invasion,https://www.bbc.co.uk/news/world-asia-65646055,2,0.095,0.091,0.814,-0.3919,BBC,2023-05-19,20
+4,Republicans hit 'pause' on US debt ceiling talks,https://www.bbc.co.uk/news/world-us-canada-65649229,3,0.066,0.129,0.805,-0.9814,BBC,2023-05-19,20
+5,Inside the routine at Elizabeth Holmes' prison,https://www.bbc.co.uk/news/world-us-canada-65625526,4,0.056,0.088,0.856,-0.9668,BBC,2023-05-19,20
+6,Outcry as Australian police Taser 95-year-old woman,https://www.bbc.co.uk/news/world-australia-65642974,5,0.09,0.092,0.818,-0.3912,BBC,2023-05-19,20
+7,Australia TV host steps down amid 'relentless' racism,https://www.bbc.co.uk/news/world-australia-65642975,6,0.133,0.182,0.684,-0.9884,BBC,2023-05-19,20
+8,Boris Johnson's wife Carrie expecting third child,https://www.bbc.co.uk/news/uk-politics-65650532,7,0.049,0.018,0.933,0.7712,BBC,2023-05-19,20
+9,Shop clerk 'stole misplaced $3m lottery ticket',https://www.bbc.co.uk/news/world-us-canada-65649226,8,0.11,0.068,0.822,0.961,BBC,2023-05-19,20
+10,Agency refuses to hand over Harry and Meghan photos,https://www.bbc.co.uk/news/world-us-canada-65642614,9,0.072,0.105,0.823,-0.9506,BBC,2023-05-19,20
+1,"EXCLUSIVE: It's 'A' mystery! Actor who starred in beloved 1980s adventure series looks unrecognizable as he steps out 40 years later (despite still wearing his trademark black cap)... so do YOU know who he is?
+",https://www.dailymail.co.uk/femail/article-12099577/Actor-starred-beloved-adventure-series-looks-unrecognizable-steps-40-years-later.html,0,0.082,0.06,0.858,0.7556,Daily Mail,2023-05-19,20
+2,"Biden takes a trip: President, 80, STUMBLES while walking down steps of shrine as G7 leaders wait on him and then leaves their group dinner early 
+",https://www.dailymail.co.uk/news/article-12102419/Biden-stumbles-going-greet.html,1,0.097,0.078,0.826,0.9766,Daily Mail,2023-05-19,20
+3,"Pregnant NYC nurse accused of taking a CitiBike from a black man outside hospital is NAMED as friends start Go Fund Me to pay her legal bills - and lawyer shares receipts that 'PROVES the bike was hers'
+",https://www.dailymail.co.uk/news/article-12100201/Pregnant-NYC-nurse-shares-receipts-day-shes-accused-stealing-Citi-bike-black-man.html,2,0.098,0.115,0.786,-0.9795,Daily Mail,2023-05-19,20
+4,"'She stabbed me in the back!': Roseanne Barr, 70, says was betrayed by former onscreen daughter Sara Gilbert, 48, and blames her for reboot getting canceled amid racist tweet controversy
+",https://www.dailymail.co.uk/tvshowbiz/article-12100039/Roseanne-Barr-says-Sara-Gilbert-betrayed-her.html,3,0.1,0.152,0.749,-0.9923,Daily Mail,2023-05-19,20
+5,"Harry and Meghan's account of 'near catastrophic' car chase involving 'cat and mouse' run-ins with paparazzi is called into question amid conflicting reports of what actually happened 
+",https://www.dailymail.co.uk/news/article-12100211/Harry-Meghans-account-near-catastrophic-car-chase-called-question.html,4,0.062,0.119,0.819,-0.9983,Daily Mail,2023-05-19,20
+6,"Fatuous, irrelevant and no sense of purpose - what a fitting backdrop Manhattan's 'Women of Vision' made for the vapid La Markle herself! Fellow guest MAUREEN CALLAHAN's sparkling account of Meghan's word-salad gala appearance
+",https://www.dailymail.co.uk/news/article-12098661/MAUREEN-CALLAHANs-hand-account-Meghans-word-salad-appearance-New-York-award-gala.html,5,0.121,0.073,0.806,0.9976,Daily Mail,2023-05-19,20
+7,"Arizona construction company owner, 46, is arrested after being filmed slapping softly-spoken FEMALE builder across the face while swearing at her for scratching a cabinet
+",https://www.dailymail.co.uk/news/article-12101399/Arizona-construction-company-owner-arrested-filmed-slapping-female-builder.html,6,0.039,0.095,0.866,-0.9843,Daily Mail,2023-05-19,20
+8,"World's sixth best young water-skier 'dies suddenly' aged just 18: Micky Geller competed for Canada and was studying at University of Louisiana-Lafayette when he passed away
+",https://www.dailymail.co.uk/news/article-12100589/University-Louisiana-Lafayette-waterskiing-champion-dies-suddenly-aged-just-18.html,7,0.162,0.08,0.759,0.9892,Daily Mail,2023-05-19,20
+9,"Now that's a united front! Megan Fox ditches bra to showcase her extreme cleavage as on-again love Machine Gun Kelly joins her at Sports Illustrated Swimsuit Issue launch party
+",https://www.dailymail.co.uk/tvshowbiz/article-12101223/Megan-Fox-supported-fiance-Machine-Gun-Kelly-SI-launch-party-split-rumors.html,8,0.098,0.041,0.861,0.997,Daily Mail,2023-05-19,20
+10,"EXCLUSIVE: She's known as 'America's first supermodel' whose sexy pink bikini Sports Illustrated poster adorned boys' bedrooms around the world. Now, 75, this former Cover Girl was seen leaving a Montecito salon. Can you guess who it is?
+",https://www.dailymail.co.uk/news/article-12089769/Her-sexy-pink-bikini-posters-hung-boys-bedrooms-guess-former-supermodel-is.html,9,0.149,0.043,0.808,0.9985,Daily Mail,2023-05-19,20
+1,They’re openly saying it: Brexit has failed. But what comes next may be very dark indeed ,https://www.theguardian.com/commentisfree/2023/may/19/brexit-failed-blame-remoaner-elite-refugees,0,0.091,0.111,0.798,-0.987,Guardian,2023-05-19,20
+2,Soldiers to be trained to check passports amid UK fears of summer travel chaos,https://www.theguardian.com/uk-news/2023/may/19/soldiers-to-be-trained-to-check-passports-amid-uk-fears-of-summer-travel-chaos,1,0.061,0.125,0.814,-0.9946,Guardian,2023-05-19,20
+3,Boris and Carrie Johnson expecting third child in ‘just a few weeks’,https://www.theguardian.com/uk-news/2023/may/19/boris-and-carrie-johnson-expecting-third-child-with-due-date-in-just-a-few-weeks,2,0.099,0.015,0.885,0.9901,Guardian,2023-05-19,20
+4,Queuegate and mocked at PMQs: what’s gone wrong for Phil and Holly?,https://www.theguardian.com/media/2023/may/19/queuegate-and-a-deadly-transition-whats-gone-wrong-for-phil-schofield-and-holly-willoughby,3,0.101,0.092,0.807,0.9263,Guardian,2023-05-19,20
+5,"Man, 37, who died after dog attack named",https://www.theguardian.com/uk-news/2023/may/19/man-dies-dog-attack-greater-manchester,4,0.078,0.26,0.662,-0.9985,Guardian,2023-05-19,20
+6,Trudeau’s wide-stance pose with Korean politician splits critics,https://www.theguardian.com/world/2023/may/19/justin-trudeau-korea-wide-stance-photo-manner-legs,5,0.076,0.036,0.888,0.9377,Guardian,2023-05-19,20
+7,Nationwide to pay £340m of profits directly into customers’ accounts,https://www.theguardian.com/business/2023/may/19/nationwide-to-pay-340m-of-profits-directly-into-customers-accounts,6,0.115,0.047,0.838,0.9936,Guardian,2023-05-19,20
+8,Discontent among Tory MPs after Sunak changes immigration targets,https://www.theguardian.com/politics/2023/may/19/discontent-among-tory-mps-after-sunak-changes-immigration-targets,7,0.061,0.036,0.903,0.9247,Guardian,2023-05-19,20
+9,Patients paying £550 an hour to see private GPs amid NHS frustrations ,https://www.theguardian.com/society/2023/may/19/patients-paying-550-an-hour-to-see-private-gps-amid-nhs-frustrations,8,0.122,0.061,0.817,0.9961,Guardian,2023-05-19,20
+10,Brexit blame game erupts again: how leaving EU came back to bite Tories,https://www.theguardian.com/politics/2023/may/19/brexit-blame-game-erupts-again-how-leaving-eu-came-back-to-bite-tories,9,0.087,0.075,0.838,0.9715,Guardian,2023-05-19,20
