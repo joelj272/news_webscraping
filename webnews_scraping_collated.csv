@@ -5919,3 +5919,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Drug for hot flushes will transform menopause treatment, doctors say",https://www.theguardian.com/society/2023/may/20/drug-hot-flushes-transform-menopause-treatment-doctors-fezolinetant,7,0.07,0.063,0.867,-0.2448,Guardian,2023-05-20,8
 9,The war on Japanese knotweed,https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed,8,0.074,0.079,0.847,-0.9921,Guardian,2023-05-20,8
 10,Rishi Sunak: Britain has moved on from judging people for being rich,https://www.theguardian.com/politics/2023/may/19/rishi-sunak-britain-has-moved-on-from-judging-people-for-being-rich,9,0.107,0.065,0.829,0.9796,Guardian,2023-05-20,8
+1,Zelensky dominates summit as G7 leaders call out China,https://www.bbc.co.uk/news/world-asia-65657996,0,0.102,0.083,0.815,0.897,BBC,2023-05-20,20
+2,British novelist Martin Amis dies aged 73,https://www.bbc.co.uk/news/entertainment-arts-65660768,1,0.153,0.052,0.795,0.9907,BBC,2023-05-20,20
+3,Fresh Russian claim over Bakhmut denied by Ukraine,https://www.bbc.co.uk/news/world-europe-65657621,2,0.075,0.101,0.824,-0.9567,BBC,2023-05-20,20
+4,You think you know Satanists? Maybe you don't,https://www.bbc.co.uk/news/world-us-canada-65549975,3,0.121,0.078,0.801,0.998,BBC,2023-05-20,20
+5,Man climbs BBC HQ scaffolding and hammers at statue,https://www.bbc.co.uk/news/uk-65655332,4,0.041,0.054,0.906,-0.5898,BBC,2023-05-20,20
+6,Phillip Schofield leaves ITV’s This Morning,https://www.bbc.co.uk/news/entertainment-arts-65658609,5,0.152,0.044,0.804,0.9953,BBC,2023-05-20,20
+7,Greece recovers hundreds of stolen artefacts,https://www.bbc.co.uk/news/world-europe-65657620,6,0.044,0.059,0.898,-0.5267,BBC,2023-05-20,20
+8,Police won't release video of 95-year-old's Tasering,https://www.bbc.co.uk/news/world-australia-65657999,7,0.045,0.104,0.851,-0.9576,BBC,2023-05-20,20
+9,Man City win third successive Premier League title,https://www.bbc.co.uk/sport/football/65613744,8,0.0,0.0,0.0,0.0,BBC,2023-05-20,20
+10,Japan’s 75-year pacifism hangs in balance as new threats loom,https://www.bbc.co.uk/news/world-asia-65643346,9,0.104,0.132,0.764,-0.9981,BBC,2023-05-20,20
+1,"EXCLUSIVE: Ex Playboy model Karen McDougal shares intimate details of her 'ten-month affair' with Donald Trump, claiming he told her he loved her and SHE ended it - moving on with Bruce Willis - in explosive interview with Daily Mail
+",https://www.dailymail.co.uk/news/article-12103663/Ex-Playboy-model-Karen-McDougal-shares-intimate-details-ten-month-affair-Donald-Trump.html,0,0.101,0.068,0.83,0.998,Daily Mail,2023-05-20,20
+2,"Kate is the target of crude sexual insult in new Amazon spy drama starring Meghan Markle's friend Priyanka Chopra - days after Disney's new Little Mermaid movie 'aimed a dig at Princess'
+",https://www.dailymail.co.uk/news/article-12105645/Amazon-Primes-Citadel-starring-one-Meghan-Markles-best-friends-makes-sexual-insult-against-Kate.html,1,0.095,0.056,0.85,0.9916,Daily Mail,2023-05-20,20
+3,"Reclusive star Daniel Day-Lewis is seen for the first time in FOUR YEARS as he steps out in NYC with his wife 
+",https://www.dailymail.co.uk/news/article-12104251/Reclusive-Oscar-winning-actor-looks-unrecognizable-hes-seen-time-FOUR-YEARS.html,2,0.106,0.071,0.823,0.9103,Daily Mail,2023-05-20,20
+4,"Bey's bunker! Beyoncé and Jay-Z buy California's MOST EXPENSIVE home for staggering $200M: Brutalist Malibu mega-mansion is fashioned from raw concrete and has breathtaking ocean views
+",https://www.dailymail.co.uk/tvshowbiz/article-12104701/Beyonce-Jay-Z-purchase-expensive-home-California-200-million.html,3,0.042,0.014,0.943,0.9671,Daily Mail,2023-05-20,20
+5,"You're not OUR royal, Harry is told: US picture agency in 'car chase' storm says the Sussexes can't just demand to see the photos they took, in legal tit-for-tat
+",https://www.dailymail.co.uk/news/article-12104465/American-firm-dismisses-demand-Prince-Harry-Meghan-Markle-hand-pictures.html,4,0.118,0.105,0.777,0.6369,Daily Mail,2023-05-20,20
+6,"'That is NOT OK': Social media is left in uproar over image of plus-size plane passenger being WEIGHED on a baggage scale in front of 'the whole airport' after staff accused her of lying when she 'claimed she was 130lbs'
+",https://www.dailymail.co.uk/femail/article-12103919/Traveler-says-one-fellow-plane-passengers-forced-weigh-BAGGAGE-SCALE.html,5,0.073,0.039,0.888,0.9573,Daily Mail,2023-05-20,20
+7,"Biden takes a trip: President, 80, STUMBLES while walking down steps of shrine as G7 leaders wait on him and then leaves their group dinner early 
+",https://www.dailymail.co.uk/news/article-12102419/Biden-stumbles-going-greet.html,6,0.097,0.078,0.826,0.9766,Daily Mail,2023-05-20,20
+8,"I earned MILLIONS from doing porn - but my adult film career ruined my life: X-rated star lays bare BITTER reality of the job, revealing she is 'shamed' over it 'every day' and even 'lost her whole family' because of her risque work
+",https://www.dailymail.co.uk/femail/article-12103601/I-earned-MILLIONS-doing-porn-adult-film-career-ruined-life.html,7,0.071,0.091,0.838,-0.7633,Daily Mail,2023-05-20,20
+9,"EXCLUSIVE: She's known as 'America's first supermodel' whose sexy pink bikini Sports Illustrated poster adorned boys' bedrooms around the world. Now, 75, this former Cover Girl was seen leaving a Montecito salon. Can you guess who it is?
+",https://www.dailymail.co.uk/news/article-12089769/Her-sexy-pink-bikini-posters-hung-boys-bedrooms-guess-former-supermodel-is.html,8,0.149,0.043,0.808,0.9985,Daily Mail,2023-05-20,20
+10,"Target is slammed for selling women's bathing suits with a section to 'tuck' private parts in its new Pride collection - that includes clothes for babies and children with trans-friendly slogans
+",https://www.dailymail.co.uk/news/article-12103015/Target-selling-bathing-suits-section-tuck-private-parts-new-Pride-collection.html,9,0.084,0.057,0.858,0.9734,Daily Mail,2023-05-20,20
+1,Phillip Schofield to leave This Morning ‘with immediate effect’,https://www.theguardian.com/tv-and-radio/2023/may/20/phillip-schofield-to-leave-this-morning-with-immediate-effect-holly-willoughby,0,0.175,0.061,0.764,0.9988,Guardian,2023-05-20,20
+2,"Martin Amis, era-defining British novelist, dies aged 73",https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73,1,0.092,0.063,0.846,0.9571,Guardian,2023-05-20,20
+3,Nottingham Forest 1-0 Arsenal: Premier League title goes to Manchester City – as it happened,https://www.theguardian.com/football/live/2023/may/20/nottingham-forest-v-arsenal-premier-league-live-score-updates-manchester-city,2,0.153,0.058,0.789,0.9997,Guardian,2023-05-20,20
+4,‘The whole thing stinks’: UK water firms to pay £15bn to shareholders as customers foot sewage bill,https://www.theguardian.com/money/2023/may/20/the-whole-thing-stinks-uk-water-firms-to-pay-15bn-to-shareholders-as-customers-foot-sewage-bill,3,0.077,0.066,0.857,0.8869,Guardian,2023-05-20,20
+5,This is how we do it: ‘She sets a timer for sex and my job is just to enjoy what she’s doing to me’,https://www.theguardian.com/lifeandstyle/2023/may/20/this-is-how-we-do-it-she-sets-a-timer-for-sex-and-my-job-is-just-to-enjoy-what-shes-doing,4,0.159,0.09,0.752,0.9974,Guardian,2023-05-20,20
+6,Major Tory donor investigated over fraud and money laundering allegations,https://www.theguardian.com/politics/2023/may/20/major-tory-donor-investigated-over-and-money-laundering-allegations,5,0.078,0.048,0.874,0.9715,Guardian,2023-05-20,20
+7,Manchester City win Premier League title for fifth time in six seasons,https://www.theguardian.com/football/2023/may/20/manchester-city-win-premier-league-title-for-fifth-time-in-six-seasons,6,0.135,0.024,0.841,0.9949,Guardian,2023-05-20,20
+8,Has the vegan bubble burst? Sales stagnate in UK as brands withdraw plant-based products,https://www.theguardian.com/food/2023/may/20/has-the-vegan-bubble-burst-sales-stagnate-in-uk-as-brands-withdraw-plant-based-products,7,0.101,0.034,0.865,0.9956,Guardian,2023-05-20,20
+9,Observer’s Carole Cadwalladr facing heavy legal costs in Arron Banks case,https://www.theguardian.com/media/2023/may/20/observers-carole-cadwalladr-facing-heavy-legal-costs-in-arron-banks-case,8,0.146,0.074,0.78,0.9951,Guardian,2023-05-20,20
+10,Polly Toynbee: what my privileged start in life taught me about the British class system,https://www.theguardian.com/books/2023/may/20/polly-toynbee-what-my-privileged-start-in-life-taught-me-about-the-british-class-system,9,0.126,0.099,0.775,0.9992,Guardian,2023-05-20,20
