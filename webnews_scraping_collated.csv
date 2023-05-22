@@ -6039,3 +6039,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Boris Becker’s daughter wins German equivalent of Strictly Come Dancing,https://www.theguardian.com/world/2023/may/21/boris-becker-daughter-anna-ermakova-wins-german-equivalent-strictly-come-dancing,7,0.103,0.044,0.853,0.993,Guardian,2023-05-21,20
 9,Republican senator: Trump will lose 2024 presidential race if nominated,https://www.theguardian.com/us-news/2023/may/21/republican-senator-bill-cassidy-trump-lose-2024-race,8,0.085,0.065,0.85,0.8475,Guardian,2023-05-21,20
 10,Firebrand review – Jude Law’s obese and oozy Henry VIII rules supreme in Catherine Parr drama,https://www.theguardian.com/film/2023/may/21/firebrand-review-jude-laws-obese-and-oozy-henry-viii-rules-supreme-in-catherine-parr-drama,9,0.11,0.089,0.802,0.929,Guardian,2023-05-21,20
+1,Satellites reveal Russian defences before major assault,https://www.bbc.co.uk/news/world-europe-65615184,0,0.04,0.058,0.902,-0.9335,BBC,2023-05-22,8
+2,China bans major US chip maker from key projects,https://www.bbc.co.uk/news/business-65667746,1,0.051,0.071,0.878,-0.7184,BBC,2023-05-22,8
+3,Biden's no-show takes shine off Pacific pact,https://www.bbc.co.uk/news/world-asia-65667783,2,0.137,0.059,0.804,0.9976,BBC,2023-05-22,8
+4,Interest rate 'rigging' evidence 'covered up' by banks,https://www.bbc.co.uk/news/business-65635243,3,0.064,0.083,0.853,-0.9888,BBC,2023-05-22,8
+5,PM to consult ethics adviser over Braverman claims,https://www.bbc.co.uk/news/uk-politics-65667714,4,0.058,0.058,0.884,0.2784,BBC,2023-05-22,8
+6,Thousands mass at pro-EU rally in Moldovan capital,https://www.bbc.co.uk/news/world-europe-65667634,5,0.06,0.069,0.871,-0.0066,BBC,2023-05-22,8
+7,Waiting at the airport with nowhere to go,https://www.bbc.co.uk/news/world-africa-65637552,6,0.049,0.108,0.843,-0.9964,BBC,2023-05-22,8
+8,"Bakhmut not occupied by Russia, says defiant Zelensky",https://www.bbc.co.uk/news/world-europe-65662563,7,0.056,0.123,0.82,-0.9964,BBC,2023-05-22,8
+9,Inside the routine at Elizabeth Holmes' prison,https://www.bbc.co.uk/news/world-us-canada-65625526,8,0.056,0.088,0.856,-0.9668,BBC,2023-05-22,8
+10,Biden urges debt ceiling compromise as talks resume,https://www.bbc.co.uk/news/world-us-canada-65666067,9,0.053,0.115,0.832,-0.9864,BBC,2023-05-22,8
+1,"Pedophile Jeffrey Epstein 'threatened to expose Bill Gates' 2010 affair with a Russian bridge player after he refused to participate in a multibillion-dollar charitable fund with JPMorgan' 
+",https://www.dailymail.co.uk/news/article-12108407/Jeffrey-Epstein-threatened-expose-Bill-Gates-2010-affair-Russian-bridge-player.html,0,0.072,0.048,0.881,0.9612,Daily Mail,2023-05-22,8
+2,"American Idol 2023 finale LIVE: Iam Tongi wins as Megan Danielle finishes second during finale with performances by judges Katy Perry, Lionel Richie and Luke Bryan
+",https://www.dailymail.co.uk/news/live/article-12108609/American-Idol-2023-finale-LIVE-Iam-Tongi-Megan-Danielle-Colin-Stough-crowned-winner.html,1,0.133,0.032,0.835,0.9963,Daily Mail,2023-05-22,8
+3,"NAACP issues shock travel advisory against visiting Florida as it accuses the Sunshine State of being 'openly hostile' to black and LGBTQ Americans under Ron DeSantis: GOP Governor says 'what a joke'
+",https://www.dailymail.co.uk/news/article-12107447/NAACP-issues-travel-advisory-against-visiting-Florida-DeSantis.html,2,0.067,0.066,0.866,-0.544,Daily Mail,2023-05-22,8
+4,"Unhappy at the finish line: California high school athlete gives big thumbs down after being pushed out of state finals by trans runner as parents clash with protestors - 'that is disgusting'
+",https://www.dailymail.co.uk/news/article-12109103/California-high-school-athlete-gives-thumbs-4th-place-finish-trans-competitor-took-2nd.html,3,0.11,0.066,0.824,0.9747,Daily Mail,2023-05-22,8
+5,"EXCLUSIVE: Jennifer Lopez the red hot diva makes sure all eyes are on her at stepdaughter Seraphina's play in LA with Ben Affleck... but doesn't interact with his low-key ex Jennifer Garner 
+",https://www.dailymail.co.uk/tvshowbiz/article-12108601/Jennifer-Lopez-dons-leggy-red-dress-attend-stepdaughter-Seraphinas-play-LA-family.html,4,0.108,0.054,0.838,0.9934,Daily Mail,2023-05-22,8
+6,"'It was like a warzone or tornado had shredded the place': Couple buy £1.5million Cornish mansion only to find the seller had stripped it of doors, windows, fireplaces and even floors sparking nine-year legal battle
+",https://www.dailymail.co.uk/news/article-12106563/Couples-nine-year-legal-battle-buying-1-5m-Cornish-mansion-stripped.html,5,0.061,0.161,0.778,-0.9982,Daily Mail,2023-05-22,8
+7,"I'm an air hostess and I check every hotel room for spy cameras - here are the six places they could be concealed
+",https://www.dailymail.co.uk/travel/article-12085547/Im-air-hostess-check-hotel-room-spy-cameras.html,6,0.074,0.02,0.906,0.9793,Daily Mail,2023-05-22,8
+8,"DEAR JANE: I won't let my bridesmaid bring her autistic son to my wedding because he's going to RUIN my big day - now she says I'm being a bridezilla and is refusing to attend
+",https://www.dailymail.co.uk/femail/article-12099493/Am-selfish-banning-bridesmaids-autistic-son-wedding.html,7,0.202,0.108,0.69,0.9994,Daily Mail,2023-05-22,8
+9,"Biden declares himself 'blameless' if US defaults on debt, says 'MAGA Republicans' are trying to crash the economy to sabotage his re-election bid - and demands GOP submit to his demands 
+",https://www.dailymail.co.uk/news/article-12107859/Biden-opens-door-use-14th-amendment-solving-debt-crisis.html,8,0.066,0.14,0.794,-0.9988,Daily Mail,2023-05-22,8
+10,"Alicia Vikander leads the glamour in a sweeping sequined gown as supermodels Irina Shayk, Gigi Hadid and Naomi Campbell turn the red carpet into their own private catwalk at the 76th Cannes Film Festival premiere of Firebrand
+",https://www.dailymail.co.uk/tvshowbiz/article-12108473/Gigi-Hadid-leads-glamour-attends-Cannes-Film-Festival-premiere-Firebrand.html,9,0.156,0.023,0.821,0.9997,Daily Mail,2023-05-22,8
+1,Disabled woman forced to sleep in hotel dining area ‘after booked room was unavailable’,https://www.theguardian.com/uk-news/2023/may/21/disabled-woman-forced-to-sleep-in-hotel-dining-area-after-booked-room-was-unavailable,0,0.047,0.099,0.854,-0.9898,Guardian,2023-05-22,8
+2,"Almshouse residents may live up to two and a half years longer, study finds",https://www.theguardian.com/society/2023/may/22/almshouse-residents-may-live-up-to-two-and-a-half-years-longer-study-finds,1,0.171,0.055,0.774,0.998,Guardian,2023-05-22,8
+3,Paralysed Swedish woman in London cannot return home due to bureaucracy,https://www.theguardian.com/uk-news/2023/may/22/paralysed-swedish-woman-london-cannot-return-home-bureaucracy,2,0.093,0.105,0.802,-0.6907,Guardian,2023-05-22,8
+4,Jeffrey Epstein allegedly tried to extort Bill Gates over extramarital affair,https://www.theguardian.com/us-news/2023/may/21/jeffrey-epstein-extort-bill-gates-extramarital-affair,3,0.093,0.071,0.836,0.9172,Guardian,2023-05-22,8
+5,"Russia-Ukraine war live: Bakhmut remains ‘epicentre’ of combat, Ukraine says; Brazil’s Lula ‘upset’ not to meet Zelenskiy at G7",https://www.theguardian.com/world/live/2023/may/22/russia-ukraine-war-live-bakhmut-remains-epicentre-of-combat-ukraine-says-brazils-lula-upset-not-to-meet-zelenskiy-at-g7,4,0.068,0.115,0.817,-0.9993,Guardian,2023-05-22,8
+6,A lost generation are stuck living with their parents – and Tory talk of housebuilding won’t help them,https://www.theguardian.com/commentisfree/2023/may/22/generation-living-parents-tory-housebuilding-young-adults,5,0.108,0.091,0.801,0.9526,Guardian,2023-05-22,8
+7,How Phillip Schofield went from children’s TV star to ousted This Morning host,https://www.theguardian.com/media/2023/may/21/phillip-schofield-children-tv-star-ousted-this-morning-presenter,6,0.09,0.067,0.843,0.9531,Guardian,2023-05-22,8
+8,‘Affordable and stress free’: how almshouses are the unsung heroes of UK social housing,https://www.theguardian.com/society/2023/may/22/affordable-and-stress-free-how-almshouses-are-the-unsung-heroes-of-uk-social-housing,7,0.105,0.078,0.817,0.9677,Guardian,2023-05-22,8
+9,Suella Braverman ‘tried to get out of final vote on small boats bill’,https://www.theguardian.com/politics/2023/may/21/suella-braverman-tried-to-get-out-of-final-vote-on-small-boats-bill,8,0.072,0.078,0.85,-0.8418,Guardian,2023-05-22,8
+10,Guy Pearce confirms he will appear in Neighbours revival,https://www.theguardian.com/tv-and-radio/2023/may/22/guy-pearce-confirms-he-will-appear-in-neighbours-revival,9,0.132,0.024,0.845,0.9912,Guardian,2023-05-22,8
