@@ -6079,3 +6079,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘Affordable and stress free’: how almshouses are the unsung heroes of UK social housing,https://www.theguardian.com/society/2023/may/22/affordable-and-stress-free-how-almshouses-are-the-unsung-heroes-of-uk-social-housing,7,0.105,0.078,0.817,0.9677,Guardian,2023-05-22,8
 9,Suella Braverman ‘tried to get out of final vote on small boats bill’,https://www.theguardian.com/politics/2023/may/21/suella-braverman-tried-to-get-out-of-final-vote-on-small-boats-bill,8,0.072,0.078,0.85,-0.8418,Guardian,2023-05-22,8
 10,Guy Pearce confirms he will appear in Neighbours revival,https://www.theguardian.com/tv-and-radio/2023/may/22/guy-pearce-confirms-he-will-appear-in-neighbours-revival,9,0.132,0.024,0.845,0.9912,Guardian,2023-05-22,8
+1,Russia battles armed group that entered from Ukraine,https://www.bbc.co.uk/news/world-europe-65674773,0,0.051,0.11,0.839,-0.9873,BBC,2023-05-22,20
+2,Madeleine McCann police to search reservoir,https://www.bbc.co.uk/news/uk-65673674,1,0.031,0.064,0.905,-0.9363,BBC,2023-05-22,20
+3,UK rejects calls to return Ethiopian prince's body,https://www.bbc.co.uk/news/world-africa-65588663,2,0.085,0.101,0.813,-0.9814,BBC,2023-05-22,20
+4,Satellites reveal Russian defences before major assault,https://www.bbc.co.uk/news/world-europe-65615184,3,0.041,0.066,0.894,-0.9678,BBC,2023-05-22,20
+5,US Senator Tim Scott launches 2024 White House bid,https://www.bbc.co.uk/news/world-us-canada-65654865,4,0.097,0.037,0.867,0.9929,BBC,2023-05-22,20
+6,Idaho murder suspect 'stands silent' at plea hearing,https://www.bbc.co.uk/news/world-us-canada-65677187,5,0.033,0.247,0.72,-0.9959,BBC,2023-05-22,20
+7,Grandad's grenade kills US man and injures teens,https://www.bbc.co.uk/news/world-us-canada-65674539,6,0.049,0.178,0.772,-0.9876,BBC,2023-05-22,20
+8,Western states agree to Colorado River water cuts,https://www.bbc.co.uk/news/world-us-canada-65677766,7,0.048,0.04,0.912,-0.094,BBC,2023-05-22,20
+9,China influencer dies after filming drinking video,https://www.bbc.co.uk/news/world-asia-china-65668223,8,0.061,0.114,0.825,-0.9685,BBC,2023-05-22,20
+10,Wagner vows to hand Bakhmut to Russian army by June,https://www.bbc.co.uk/news/world-europe-65670534,9,0.049,0.075,0.876,-0.9688,BBC,2023-05-22,20
+1,"Unhappy at the finish line: California high school athlete gives big thumbs down after being pushed out of state finals by trans runner as parents clash with protestors - 'that is disgusting'
+",https://www.dailymail.co.uk/news/article-12109103/California-high-school-athlete-gives-thumbs-4th-place-finish-trans-competitor-took-2nd.html,0,0.11,0.066,0.824,0.9747,Daily Mail,2023-05-22,20
+2,"American Idol fans slam 'rigged' results after Iam Tongi, 18, wins as they claim the 'better singer' lost out - while viewers are divided over Katy Perry as judge
+",https://www.dailymail.co.uk/tvshowbiz/article-12110165/American-Idol-fans-slam-rigged-results-Iam-Tongi-18-wins.html,1,0.155,0.056,0.789,0.9988,Daily Mail,2023-05-22,20
+3,"American Idol 2023 finale LIVE: Iam Tongi wins as Megan Danielle finishes second during finale with performances by judges Katy Perry, Lionel Richie and Luke Bryan
+",https://www.dailymail.co.uk/news/live/article-12108609/American-Idol-2023-finale-LIVE-Iam-Tongi-Megan-Danielle-Colin-Stough-crowned-winner.html,2,0.133,0.032,0.835,0.9963,Daily Mail,2023-05-22,20
+4,"Lady in red: Jennifer Lopez makes sure all eyes are on her at stepdaughter Seraphina's play in LA with Ben Affleck... but doesn't interact with his low-key ex Jennifer Garner
+",https://www.dailymail.co.uk/tvshowbiz/article-12108601/Jennifer-Lopez-dons-leggy-red-dress-attend-stepdaughter-Seraphinas-play-LA-family.html,3,0.108,0.054,0.838,0.9934,Daily Mail,2023-05-22,20
+5,"Pedophile Jeffrey Epstein 'threatened to expose Bill Gates' 2010 affair with a Russian bridge player after he refused to participate in a multibillion-dollar charitable fund with JPMorgan' 
+",https://www.dailymail.co.uk/news/article-12108407/Jeffrey-Epstein-threatened-expose-Bill-Gates-2010-affair-Russian-bridge-player.html,4,0.072,0.048,0.881,0.9612,Daily Mail,2023-05-22,20
+6,"Julia Fox sports raciest look yet as she bares breasts in a sexy clear corset at Art of Elysium 25th Anniversary gala at Cannes
+",https://www.dailymail.co.uk/tvshowbiz/article-12109301/Julia-Fox-sports-raciest-look-bares-breasts-sexy-clear-corset-Art-Elysium-gala.html,5,0.134,0.038,0.828,0.9882,Daily Mail,2023-05-22,20
+7,"Video shows man brutally beaten by a mob of bicyclists in downtown Los Angeles
+",https://www.dailymail.co.uk/news/article-12108437/Video-shows-man-brutally-beaten-mob-bicyclists-downtown-Los-Angeles.html,6,0.043,0.14,0.817,-0.9977,Daily Mail,2023-05-22,20
+8,"'I've dropped 17 seconds!' Trans high school runner boasts about new PB after finishing second in girls' race and sparking furious response from other competitors who missed out on state finals 
+",https://www.dailymail.co.uk/news/article-12110357/Trans-high-school-runner-costs-female-athlete-spot-California-state-finals.html,7,0.109,0.088,0.803,0.9184,Daily Mail,2023-05-22,20
+9,"Alicia Vikander leads the glamour in a sweeping sequined gown as supermodels Irina Shayk, Gigi Hadid and Naomi Campbell turn the red carpet into their own private catwalk at the 76th Cannes Film Festival premiere of Firebrand
+",https://www.dailymail.co.uk/tvshowbiz/article-12108473/Gigi-Hadid-leads-glamour-attends-Cannes-Film-Festival-premiere-Firebrand.html,8,0.156,0.023,0.821,0.9997,Daily Mail,2023-05-22,20
+10,"'Why me?': Drunk driver, 25, who killed bride on her wedding night and seriously injured the groom broke down and cried that her 'life was over' - while her family visited her in Charleston County Jail 
+",https://www.dailymail.co.uk/news/article-12111385/Woman-accused-killing-bride-wedding-night-cried-life-jail-house-call.html,9,0.091,0.158,0.751,-0.9959,Daily Mail,2023-05-22,20
+1,Anti-Putin militia claims to have overrun Russian border village,https://www.theguardian.com/world/2023/may/22/anti-kremlin-militia-freedom-of-russia-legion-overrun-russian-border-village-kozinka,0,0.053,0.116,0.831,-0.9943,Guardian,2023-05-22,20
+2,"James Cleverly’s use of £10,000 an hour Succession-style jet ‘ludicrous’",https://www.theguardian.com/politics/2023/may/22/james-cleverly-use-of-private-jet-described-as-ludicrous-extravagance,1,0.093,0.031,0.876,0.9921,Guardian,2023-05-22,20
+3,This Morning review – the first post-Phillip Schofield show treats him as if he’s died ,https://www.theguardian.com/tv-and-radio/2023/may/22/this-morning-review-the-first-post-phillip-schofield-show-treats-him-as-if-hes-died,2,0.097,0.051,0.852,0.9823,Guardian,2023-05-22,20
+4,The extraordinary bucket list of Laura Nuttall who died of brain cancer at 23,https://www.theguardian.com/society/2023/may/22/the-extraordinary-bucket-list-of-laura-nuttall-who-died-of-brain-cancer-at-23,3,0.117,0.077,0.806,0.9883,Guardian,2023-05-22,20
+5,Sunak says he wants more information before decision on Braverman’s alleged breach of ministerial code – as it happened,https://www.theguardian.com/politics/live/2023/may/22/suella-braverman-rishi-sunak-speeding-row-ministerial-code-ethics-inquiry-keir-starmer-uk-politics-live,4,0.098,0.106,0.796,-0.9896,Guardian,2023-05-22,20
+6,Newcastle United v Leicester City: Premier League – live,https://www.theguardian.com/football/live/2023/may/22/newcastle-united-v-leicester-city-premier-league-live-score-updates,5,0.137,0.076,0.787,0.9991,Guardian,2023-05-22,20
+7,Shakhtar Donetsk condemn Barcelona for players’ Russia message,https://www.theguardian.com/football/2023/may/22/shakhtar-donetsk-condemn-barcelona-for-players-russia-message,6,0.129,0.116,0.755,0.4779,Guardian,2023-05-22,20
+8,"Portuguese police to search reservoir for Madeleine McCann, say reports",https://www.theguardian.com/uk-news/2023/may/22/portuguese-police-to-search-reservoir-for-madeleine-mccann-say-reports,7,0.039,0.079,0.882,-0.9673,Guardian,2023-05-22,20
+9,"Get a grip, Westminster – Suella Braverman speeding is hardly the issue of the day",https://www.theguardian.com/commentisfree/2023/may/22/westminster-suella-braverman-speeding-home-secretary,8,0.09,0.094,0.816,-0.8196,Guardian,2023-05-22,20
+10,UK fruit exports to EU have dropped by more than half since Brexit,https://www.theguardian.com/politics/2023/may/22/uk-fruit-exports-to-eu-have-dropped-by-more-than-half-since-brexit,9,0.059,0.062,0.879,-0.6821,Guardian,2023-05-22,20
