@@ -6159,3 +6159,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Maryland review – no one is more moving than Suranne Jones,https://www.theguardian.com/tv-and-radio/2023/may/22/maryland-review-no-one-is-more-moving-than-suranne-jones,7,0.169,0.068,0.763,0.9982,Guardian,2023-05-23,8
 9,Top Home Office mandarin knew of Braverman’s alleged speeding request,https://www.theguardian.com/politics/2023/may/22/top-home-office-mandarin-knew-of-bravermans-alleged-speeding-request,8,0.088,0.051,0.861,0.9887,Guardian,2023-05-23,8
 10,Russia-Ukraine war live: Belgorod governor urges residents not to return to area attacked by anti-Kremlin militia,https://www.theguardian.com/world/live/2023/may/23/russia-ukraine-war-live-updates-latest-news-belgorod-kremlin-russian-pm-china,9,0.091,0.101,0.808,-0.9955,Guardian,2023-05-23,8
+1,Ron DeSantis to launch 2024 candidacy on Twitter,https://www.bbc.co.uk/news/uk-65689744,0,0.1,0.03,0.871,0.9844,BBC,2023-05-23,20
+2,France bans short-haul flights to cut CO2,https://www.bbc.co.uk/news/world-europe-65687665,1,0.056,0.08,0.864,-0.8073,BBC,2023-05-23,20
+3,Madeleine McCann police digging near reservoir,https://www.bbc.co.uk/news/uk-65680151,2,0.049,0.054,0.897,-0.7453,BBC,2023-05-23,20
+4,No public inquiry into election meddling in Canada,https://www.bbc.co.uk/news/world-us-canada-65688455,3,0.089,0.108,0.802,-0.7717,BBC,2023-05-23,20
+5,Insurgents defeated after rare border raid - Russia,https://www.bbc.co.uk/news/world-europe-65683374,4,0.081,0.135,0.783,-0.9934,BBC,2023-05-23,20
+6,S Africa could become failed state - ANC official,https://www.bbc.co.uk/news/world-africa-65683674,5,0.055,0.176,0.769,-0.9971,BBC,2023-05-23,20
+7,Intercepting Russian 'Zombies' at a Nato airbase,https://www.bbc.co.uk/news/world-europe-65673272,6,0.048,0.056,0.897,-0.9412,BBC,2023-05-23,20
+8,Illinois report details scale of clergy sex abuse,https://www.bbc.co.uk/news/world-us-canada-65652001,7,0.073,0.185,0.742,-0.9674,BBC,2023-05-23,20
+9,Who are the fighters infiltrating Russia from Ukraine?,https://www.bbc.co.uk/news/world-europe-65681806,8,0.074,0.076,0.85,0.2846,BBC,2023-05-23,20
+10,Famed Boston Marathon wheelchair racer dies at 61,https://www.bbc.co.uk/news/world-us-canada-65688608,9,0.086,0.082,0.832,0.1935,BBC,2023-05-23,20
+1,"American Idol fans slam 'rigged' results after Iam Tongi, 18, wins as they claim the 'better singer' lost out - while viewers are divided over Katy Perry as judge
+",https://www.dailymail.co.uk/tvshowbiz/article-12110165/American-Idol-fans-slam-rigged-results-Iam-Tongi-18-wins.html,0,0.155,0.056,0.789,0.9988,Daily Mail,2023-05-23,20
+2,"Hundreds outraged by woman's 'rude' and 'inconsiderate' act on three-hour flight: 'My brain can't comprehend this level of entitlement'
+",https://www.dailymail.co.uk/femail/travel/article-12112925/Traveller-causes-outrage-painting-nails-flight-hundreds-slam-act-selfish.html,1,0.077,0.11,0.813,-0.9928,Daily Mail,2023-05-23,20
+3,"Former Brady Bunch star Susan Olsen, 61, reveals the TRUTH behind rumors that her on-screen mom Florence Henderson and on-screen brother Barry Williams had a sordid AFFAIR 
+",https://www.dailymail.co.uk/femail/article-12112503/Brady-Bunch-star-Susan-Olsen-reveals-TRUTH-affair-rumors.html,2,0.109,0.045,0.846,0.986,Daily Mail,2023-05-23,20
+4,"Groom reveals his new wife cheated on him with the best man in the most BRUTAL fashion during a wedding speech  
+",https://www.dailymail.co.uk/femail/article-12114329/Groom-reveals-new-wife-cheated-best-man.html,3,0.084,0.037,0.879,0.9751,Daily Mail,2023-05-23,20
+5,"EXCLUSIVE: She said YES! Jeff Bezos and Lauren Sanchez are engaged - after a swoon-worthy proposal on his superyacht and a GINORMOUS diamond to seal the deal
+",https://www.dailymail.co.uk/news/article-12111649/She-said-YES-Jeff-Bezos-Lauren-Sanchez-engaged-GINORMOUS-diamond-seal-deal.html,4,0.114,0.031,0.856,0.9975,Daily Mail,2023-05-23,20
+6,"EXCLUSIVE: Black 'half-football-field-sized' triangular UFO is seen hovering over California military base for 10 minutes before vanishing in dramatic footage taken by Marines in 2021
+",https://www.dailymail.co.uk/news/article-12112321/Black-half-football-field-sized-triangular-UFO-hovers-California-military-base-video.html,5,0.058,0.052,0.89,0.5859,Daily Mail,2023-05-23,20
+7,"'It was a really traumatic moment': Nick Jonas calls his infamous performance with Kelsea Ballerini 'tragic' and says that the backlash sent him to 'therapy'
+",https://www.dailymail.co.uk/tvshowbiz/article-12113175/Nick-Jonas-says-tragic-performance-Kelsea-Ballerini-sent-therapy.html,6,0.148,0.102,0.749,0.9747,Daily Mail,2023-05-23,20
+8,"Woman is left 'shaken' after finding 'threatening' handwritten note left on car accusing her of parking outside a house 'for more than a couple of hours'
+",https://www.dailymail.co.uk/news/article-12108391/Woman-left-shaken-finding-threatening-handwritten-note-left-car.html,7,0.062,0.133,0.805,-0.935,Daily Mail,2023-05-23,20
+9,"Unhappy at the finish line: California high school athlete gives big thumbs down after being pushed out of state finals by trans runner as parents clash with protestors - 'that is disgusting'
+",https://www.dailymail.co.uk/news/article-12109103/California-high-school-athlete-gives-thumbs-4th-place-finish-trans-competitor-took-2nd.html,8,0.11,0.066,0.824,0.9747,Daily Mail,2023-05-23,20
+10,"Shocking moment woke NYC college professor hurls foul-mouthed abuse at students over pro-life stand and accuses them of 'triggering' others, before angrily DESTROYING their display 
+",https://www.dailymail.co.uk/news/article-12112989/Shocking-moment-NYC-college-professor-hurls-foul-mouthed-abuse-pro-life-students-display.html,9,0.027,0.06,0.912,-0.9367,Daily Mail,2023-05-23,20
+1,Police admit following e-bike before crash that killed Cardiff teenagers,https://www.theguardian.com/uk-news/2023/may/23/south-wales-police-van-was-pursuing-teenagers-in-cardiff-force-admits,0,0.078,0.146,0.776,-0.9977,Guardian,2023-05-23,20
+2,Boris Johnson referred to police over allegedly hosting friends at Chequers in lockdown,https://www.theguardian.com/politics/2023/may/23/boris-johnson-referred-to-police-over-allegedly-hosting-friends-at-chequers-in-lockdown,1,0.057,0.047,0.896,-0.1254,Guardian,2023-05-23,20
+3,"Hapless Jezza, the go-to minister, speeds to Suella Braverman’s rescue",https://www.theguardian.com/politics/2023/may/23/hapless-jeremy-quin-the-go-to-minister-speeds-to-suella-braverman-rescue,2,0.114,0.12,0.767,-0.9452,Guardian,2023-05-23,20
+4,Asteroid City review – Wes Anderson’s 1950s sci-fi is an exhilarating triumph of pure style,https://www.theguardian.com/film/2023/may/23/asteroid-city-review-wes-anderson-1950s-sci-fi-triumph,3,0.129,0.068,0.804,0.9911,Guardian,2023-05-23,20
+5,"We are closer than ever to arresting Putin, but the US must play its part",https://www.theguardian.com/commentisfree/2023/may/23/arrest-warrants-petitions-tribunals-pressure-mounting-vladimir-putin,4,0.081,0.158,0.761,-0.9974,Guardian,2023-05-23,20
+6,Former Met PC barred from service for life over Wayne Couzens indecent exposure inquiry,https://www.theguardian.com/uk-news/2023/may/23/former-met-pc-samantha-lee-guilty-of-gross-misconduct-over-wayne-couzens-indecent-exposure-inquiry,5,0.031,0.166,0.803,-0.9991,Guardian,2023-05-23,20
+7,Alastair Campbell tells high court Piers Morgan authorised reporters to hack into bank account,https://www.theguardian.com/media/2023/may/23/alastair-campbell-tells-high-court-piers-morgan-told-reporters-to-break-into-bank-account,6,0.023,0.056,0.92,-0.9508,Guardian,2023-05-23,20
+8,Civil servants ‘have to fact-check’ Suella Braverman’s claims to cabinet ,https://www.theguardian.com/politics/2023/may/23/civil-servants-have-to-fact-check-suella-bravermans-claims-to-cabinet,7,0.046,0.078,0.876,-0.9304,Guardian,2023-05-23,20
+9,"Rolf Harris, convicted sex offender and entertainer, dies aged 93",https://www.theguardian.com/uk-news/2023/may/23/rolf-harris-entertainer-and-convicted-sex-offender-dies,8,0.101,0.157,0.741,-0.9965,Guardian,2023-05-23,20
+10,Make way for Westminster’s biggest celebrity: Suella ‘three points’ Braverman,https://www.theguardian.com/commentisfree/2023/may/23/westminster-suella-braverman-three-points-speed-awareness-course,9,0.104,0.063,0.833,0.991,Guardian,2023-05-23,20
