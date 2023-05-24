@@ -6239,3 +6239,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Hapless Jezza, the go-to minister, speeds to Suella Braverman’s rescue",https://www.theguardian.com/politics/2023/may/23/hapless-jeremy-quin-the-go-to-minister-speeds-to-suella-braverman-rescue,7,0.114,0.12,0.767,-0.9452,Guardian,2023-05-24,8
 9,Property management firms that rip off leaseholders could be banned under Labour,https://www.theguardian.com/money/2023/may/24/property-management-firms-that-rip-off-leaseholders-could-be-banned-under-labour,8,0.069,0.089,0.842,-0.7708,Guardian,2023-05-24,8
 10,Virgin Orbit ceases operations months after failure of UK space mission,https://www.theguardian.com/science/2023/may/24/virgin-orbit-ceases-operations-months-after-failure-of-uk-space-mission,9,0.117,0.053,0.83,0.9614,Guardian,2023-05-24,8
+1,Music legend Tina Turner dies at 83,https://www.bbc.co.uk/news/65669653,0,0.096,0.094,0.809,-0.9508,BBC,2023-05-24,20
+2,Canada's household debt is now highest in the G7,https://www.bbc.co.uk/news/world-us-canada-65688460,1,0.06,0.107,0.833,-0.9714,BBC,2023-05-24,20
+3,US park kills bison calf after visitor touches it,https://www.bbc.co.uk/news/world-us-canada-65688462,2,0.046,0.084,0.87,-0.9049,BBC,2023-05-24,20
+4,Miami school limits access to Amanda Gorman poem,https://www.bbc.co.uk/news/world-us-canada-65678970,3,0.062,0.076,0.863,-0.8544,BBC,2023-05-24,20
+5,Tina Turner's 10 best songs and the stories behind them,https://www.bbc.co.uk/news/entertainment-arts-65672639,4,0.109,0.046,0.844,0.9978,BBC,2023-05-24,20
+6,Obituary: Incredible journey from abuse to music superstardom,https://www.bbc.co.uk/news/entertainment-arts-29036876,5,0.11,0.067,0.823,0.9966,BBC,2023-05-24,20
+7,Cathay Pacific fires cabin crew for discrimination,https://www.bbc.co.uk/news/world-asia-65692568,6,0.033,0.085,0.882,-0.9803,BBC,2023-05-24,20
+8,Alex Murdaugh accused of fraud in housekeeper death,https://www.bbc.co.uk/news/world-us-canada-65701713,7,0.023,0.164,0.813,-0.9936,BBC,2023-05-24,20
+9,Brain implants help paralysed man to walk again,https://www.bbc.co.uk/news/science-environment-65689580,8,0.072,0.047,0.882,0.9716,BBC,2023-05-24,20
+10,95-year-old woman Tasered by police in Australia dies,https://www.bbc.co.uk/news/world-australia-65696475,9,0.125,0.167,0.708,-0.8934,BBC,2023-05-24,20
+1,"Raving Private Ryan! Tom Hanks and wife Rita Wilson remonstrate with a red carpet staffer as they attend the 76th Cannes Film Festival premiere of Asteroid City
+",https://www.dailymail.co.uk/tvshowbiz/article-12116439/Tom-Hanks-embroiled-heated-altercation-Asteroid-City-premiere-Cannes.html,0,0.108,0.028,0.864,0.9873,Daily Mail,2023-05-24,20
+2,"Tina Turner dead at 83: Queen of Rock 'n' Roll, famous for hits including We Don't need Another Hero and What's Love Got to Do With It dies at home in Switzerland after long illness
+",https://www.dailymail.co.uk/news/article-12121071/Tina-Turner-dead-83-Singer-dies-home-Switzerland-long-illness.html,1,0.137,0.11,0.754,0.9615,Daily Mail,2023-05-24,20
+3,"EXCLUSIVE: Claudia Conway, 18-year-old wild-child daughter of divorcing political opposites Kellyanne and George, joins Playboy.com as a 'bunny', sharing risqué bikini shots and content on adult site's subscription-only page - starting at $5
+",https://www.dailymail.co.uk/news/article-12111189/Claudia-Conway-joins-Playboy-com-bunny-sharing-racy-photos.html,2,0.107,0.069,0.825,0.9926,Daily Mail,2023-05-24,20
+4,"American Idol fans slam 'rigged' results after Iam Tongi, 18, wins as they claim the 'better singer' lost out - while viewers are divided over Katy Perry as judge
+",https://www.dailymail.co.uk/tvshowbiz/article-12110165/American-Idol-fans-slam-rigged-results-Iam-Tongi-18-wins.html,3,0.155,0.056,0.789,0.9988,Daily Mail,2023-05-24,20
+5,"Asteroid City explosion: Tom Hanks is noticeably ABSENT from today's photo-call with cast of new Wes Anderson movie - as Cannes red carpet manager breaks his silence on last night's run-in with the actor and his wife
+",https://www.dailymail.co.uk/tvshowbiz/article-12119521/Cannes-staffer-breaks-silence-red-carpet-run-Tom-Hanks-Rita-Wilson.html,4,0.104,0.062,0.833,0.9834,Daily Mail,2023-05-24,20
+6,"PICTURED: Maryland doorstep where dad was beaten to death protecting son, 14, after high school bullies - and two ADULTS - showed up and repeatedly slammed his head into concrete in front of 12-year-old son 
+",https://www.dailymail.co.uk/news/article-12118757/Father-beaten-death-son-12-middle-school-brawl-spilled-over.html,5,0.034,0.117,0.849,-0.9907,Daily Mail,2023-05-24,20
+7,"EXCLUSIVE: Black 'half-football-field-sized' triangular UFO is seen hovering over California military base for 10 minutes before vanishing in dramatic footage taken by Marines in 2021
+",https://www.dailymail.co.uk/news/article-12112321/Black-half-football-field-sized-triangular-UFO-hovers-California-military-base-video.html,6,0.058,0.052,0.89,0.5859,Daily Mail,2023-05-24,20
+8,"Target takes 'emergency' action to 'avoid a Bud Light situation' and removes 'tuck-friendly' women's swimwear and LGBTQ  products from display in Southern stores - as CEO DEFENDS the line 
+",https://www.dailymail.co.uk/news/article-12116323/Target-CEO-DEFENDS-marketing-tuck-friendly-womens-swimwear.html,7,0.079,0.038,0.883,0.9591,Daily Mail,2023-05-24,20
+9,"The Beatles' 'first left-handed bass player' Chas Newby dies aged 81... as tributes pour in for the talented musician who began his career with a teenage John Lennon in The Quarrymen
+",https://www.dailymail.co.uk/tvshowbiz/article-12117071/Former-Beatles-bass-player-Chas-Newby-dies-aged-81.html,8,0.082,0.018,0.9,0.9662,Daily Mail,2023-05-24,20
+10,"REVEALED: Target Pride collection includes bags and sweaters by Satan-loving trans designer who wants to 'burn down the cis-tem' - as backlash against retail giant grows
+",https://www.dailymail.co.uk/news/article-12115573/Target-facing-boycott-Pride-collection-Satan-loving-designer.html,9,0.137,0.089,0.774,0.9915,Daily Mail,2023-05-24,20
+1,Tina Turner: legendary rock’n’roll singer dies aged 83,https://www.theguardian.com/music/2023/may/24/tina-turner-legendary-rocknroll-singer-dies-aged-83,0,0.105,0.065,0.83,0.9957,Guardian,2023-05-24,20
+2,Cardiff police refuse to apologise after saying van was following boys who died,https://www.theguardian.com/uk-news/2023/may/24/cardiff-cctv-footage-seems-to-show-police-following-e-bike-just-before-crash,1,0.124,0.107,0.769,0.9817,Guardian,2023-05-24,20
+3,Boris Johnson cuts ties with government lawyers assisting him in Covid inquiry ,https://www.theguardian.com/uk-news/2023/may/24/boris-johnson-cuts-ties-government-lawyers-assisting-him-covid-inquiry,2,0.087,0.044,0.869,0.9432,Guardian,2023-05-24,20
+4,‘The word-of-mouth has been crazy!’ How Colin from Accounts stormed the UK,https://www.theguardian.com/tv-and-radio/2023/may/24/the-word-of-mouth-has-been-crazy-how-colin-from-accounts-stormed-the-uk,3,0.161,0.06,0.779,0.9997,Guardian,2023-05-24,20
+5,A moment that changed me: I was in my 20s and depressed – then my mother moved into my bed,https://www.theguardian.com/lifeandstyle/2023/may/24/a-moment-that-changed-me-i-was-in-my-20s-and-depressed-then-my-mother-moved-into-my-bed,4,0.139,0.131,0.73,0.9248,Guardian,2023-05-24,20
+6,Boris Johnson’s blue-on-blue warfare overshadows the usual Rish! routine,https://www.theguardian.com/politics/2023/may/24/boris-johnson-rishi-sunak-keir-starmer-pmqs-sketch,5,0.104,0.091,0.805,0.9784,Guardian,2023-05-24,20
+7,Tucker Carlson home studio reportedly dismantled by Fox News workers,https://www.theguardian.com/media/2023/may/24/tucker-carlson-fox-news-home-studio-maine-dominion,6,0.035,0.054,0.911,-0.705,Guardian,2023-05-24,20
+8,Has a friend passed out in your kitchen? Ask yourself ‘What would Braverman do?’,https://www.theguardian.com/commentisfree/2023/may/24/has-a-friend-passed-out-in-your-kitchen-ask-yourself-what-would-braverman-do,7,0.104,0.092,0.804,0.9372,Guardian,2023-05-24,20
+9,Anger over plan to persuade homeless people to leave Paris before Olympics,https://www.theguardian.com/world/2023/may/24/anger-over-plan-to-persuade-homeless-people-to-leave-paris-before-olympics-asylum-seekers-temporary-reception-centres,8,0.047,0.065,0.888,-0.7905,Guardian,2023-05-24,20
+10,"Wagner chief warns of revolution and says 20,000 fighters killed in Bakhmut",https://www.theguardian.com/world/2023/may/24/wagner-head-warns-of-revolution-after-claiming-20000-fighters-killed-in-bakhmut,9,0.065,0.084,0.851,-0.9025,Guardian,2023-05-24,20
