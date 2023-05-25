@@ -6279,3 +6279,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Has a friend passed out in your kitchen? Ask yourself ‘What would Braverman do?’,https://www.theguardian.com/commentisfree/2023/may/24/has-a-friend-passed-out-in-your-kitchen-ask-yourself-what-would-braverman-do,7,0.104,0.092,0.804,0.9372,Guardian,2023-05-24,20
 9,Anger over plan to persuade homeless people to leave Paris before Olympics,https://www.theguardian.com/world/2023/may/24/anger-over-plan-to-persuade-homeless-people-to-leave-paris-before-olympics-asylum-seekers-temporary-reception-centres,8,0.047,0.065,0.888,-0.7905,Guardian,2023-05-24,20
 10,"Wagner chief warns of revolution and says 20,000 fighters killed in Bakhmut",https://www.theguardian.com/world/2023/may/24/wagner-head-warns-of-revolution-after-claiming-20000-fighters-killed-in-bakhmut,9,0.065,0.084,0.851,-0.9025,Guardian,2023-05-24,20
+1,The dead fraudster mystery gripping Australia,https://www.bbc.co.uk/news/world-australia-65395490,0,0.092,0.087,0.821,0.8271,BBC,2023-05-25,8
+2,'My brother saved my life - but lost his own',https://www.bbc.co.uk/news/world-europe-65626413,1,0.106,0.134,0.76,-0.9697,BBC,2023-05-25,8
+3,Tech troubles as DeSantis launches White House bid,https://www.bbc.co.uk/news/world-us-canada-65703031,2,0.069,0.057,0.874,0.6933,BBC,2023-05-25,8
+4,Beyoncé and Jagger lead tributes to Tina Turner,https://www.bbc.co.uk/news/entertainment-arts-65704926,3,0.174,0.036,0.79,0.9992,BBC,2023-05-25,8
+5,Ship refloated after running aground in Suez Canal,https://www.bbc.co.uk/news/business-65705317,4,0.035,0.024,0.941,0.2263,BBC,2023-05-25,8
+6,Brian Cox says Succession twist happened too early,https://www.bbc.co.uk/news/entertainment-arts-65675593,5,0.118,0.121,0.761,-0.8553,BBC,2023-05-25,8
+7,Paramilitary group vows more Russia incursions,https://www.bbc.co.uk/news/world-europe-65703548,6,0.045,0.111,0.844,-0.9923,BBC,2023-05-25,8
+8,Abba rule out reunion for 2024 Eurovision in Sweden,https://www.bbc.co.uk/news/entertainment-arts-65688927,7,0.09,0.031,0.879,0.9902,BBC,2023-05-25,8
+9,Plant-based diets good for the heart,https://www.bbc.co.uk/news/health-65697535,8,0.09,0.075,0.835,0.778,BBC,2023-05-25,8
+10,The campaign launch Ron DeSantis will want to forget,https://www.bbc.co.uk/news/world-us-canada-65676137,9,0.075,0.137,0.788,-0.9926,BBC,2023-05-25,8
+1,"Tina Turner dead at 83: Singer revealed 'I want to be remembered as the Queen of Rock 'n' Roll... a woman who showed it's OK to strive for success on your own terms' in final interview just six weeks ago
+",https://www.dailymail.co.uk/news/article-12121071/Tina-Turner-dead-83-Singer-dies-home-Switzerland-long-illness.html,0,0.181,0.084,0.736,0.9988,Daily Mail,2023-05-25,8
+2,"Asteroid City explosion: Tom Hanks is noticeably ABSENT from today's photo-call with cast of new Wes Anderson movie - as Cannes red carpet manager breaks his silence on last night's run-in with the actor and his wife
+",https://www.dailymail.co.uk/tvshowbiz/article-12119521/Cannes-staffer-breaks-silence-red-carpet-run-Tom-Hanks-Rita-Wilson.html,1,0.104,0.062,0.833,0.9834,Daily Mail,2023-05-25,8
+3,"Raving Private Ryan! Tom Hanks and wife Rita Wilson remonstrate with a red carpet staffer as they attend the 76th Cannes Film Festival premiere of Asteroid City
+",https://www.dailymail.co.uk/tvshowbiz/article-12116439/Tom-Hanks-embroiled-heated-altercation-Asteroid-City-premiere-Cannes.html,2,0.108,0.028,0.864,0.9873,Daily Mail,2023-05-25,8
+4,"PICTURED: Maryland doorstep where dad was beaten to death protecting son, 14, after high school bullies - and two ADULTS - showed up and repeatedly slammed his head into concrete in front of 12-year-old son 
+",https://www.dailymail.co.uk/news/article-12118757/Father-beaten-death-son-12-middle-school-brawl-spilled-over.html,3,0.034,0.117,0.849,-0.9907,Daily Mail,2023-05-25,8
+5,"Who is Erwin Bach? Tina Turner's second husband and the man who helped her find happiness 
+",https://www.dailymail.co.uk/news/article-12121263/Who-Erwin-Bach-Tina-Turners-second-husband-man-helped-happiness.html,4,0.163,0.105,0.732,0.999,Daily Mail,2023-05-25,8
+6,"Black Lives Matter is headed for INSOLVENCY after plunging $8.5M into the red - but founder Patrisse Cullors' brother was still paid $1.6M for 'security services' in 2022, while sister of board member earned $1.1M for 'consulting' 
+",https://www.dailymail.co.uk/news/article-12117957/Black-Lives-Matter-headed-INSOLVENCY-plunging-8-5M-red.html,5,0.091,0.051,0.858,0.9948,Daily Mail,2023-05-25,8
+7,"Tom Hanks' wife Rita Wilson and the PR manager who the actor 'scolded' on the red carpet address what really happened during THAT 'rant' at the premiere of Asteroid City in Cannes
+",https://www.dailymail.co.uk/tvshowbiz/article-12118981/Tom-Hanks-wife-Rita-Wilson-REALLY-happened-Cannes-red-carpet.html,6,0.095,0.025,0.881,0.9923,Daily Mail,2023-05-25,8
+8,"'If it ain't snowing, he ain't going': LeBron James' 18-year-old son Bronny is hit with wave of vile racist abuse for taking his white 'girlfriend' as his date to prom for the second year in a row
+",https://www.dailymail.co.uk/sport/college-basketball/article-12119997/LeBron-James-18-year-old-son-Bronny-faces-racist-abuse-taking-white-woman-prom.html,7,0.085,0.157,0.758,-0.9991,Daily Mail,2023-05-25,8
+9,"EXCLUSIVE: Claudia Conway, 18-year-old wild-child daughter of divorcing political opposites Kellyanne and George, joins Playboy.com as a 'bunny', sharing risqué bikini shots and content on adult site's subscription-only page - starting at $5
+",https://www.dailymail.co.uk/news/article-12111189/Claudia-Conway-joins-Playboy-com-bunny-sharing-racy-photos.html,8,0.107,0.069,0.825,0.9926,Daily Mail,2023-05-25,8
+10,"Braless Heidi Klum suffers a wardrobe malfunction in incredible but daring yellow cut-out gown at premiere of La Passion De Dodin Bouffant during the Cannes Film Festival
+",https://www.dailymail.co.uk/tvshowbiz/article-12120577/Heidi-Klum-steals-busty-yellow-gown-Cannes-Film-Festival.html,9,0.085,0.021,0.894,0.9912,Daily Mail,2023-05-25,8
+1, Britain’s energy price cap cut: how the changes affect you,https://www.theguardian.com/business/2023/may/25/britain-energy-price-cap-cut-ofgem-electricity-gas-bills-how-changes-affect-you,0,0.102,0.105,0.793,-0.862,Guardian,2023-05-25,8
+2,"Outages, garbled audio: DeSantis’s 2024 launch marred by Twitter tech meltdown",https://www.theguardian.com/us-news/2023/may/24/ron-desantis-2024-twitter-launch-tech-outage,1,0.103,0.086,0.81,0.8731,Guardian,2023-05-25,8
+3,"Britain’s energy price cap falls to £2,074 but households will see little relief",https://www.theguardian.com/money/2023/may/25/britain-energy-price-cap-fall-ofgem-gas-electricity-bills,2,0.137,0.115,0.748,0.8705,Guardian,2023-05-25,8
+4,Undisclosed Covid-era Johnson events occurred at both Chequers and Downing Street,https://www.theguardian.com/politics/2023/may/24/undisclosed-covid-era-johnson-events-occurred-at-both-chequers-and-downing-street,3,0.07,0.092,0.838,-0.954,Guardian,2023-05-25,8
+5,"Wagner chief warns of revolution and says 20,000 fighters killed in Bakhmut",https://www.theguardian.com/world/2023/may/24/wagner-head-warns-of-revolution-after-claiming-20000-fighters-killed-in-bakhmut,4,0.065,0.084,0.851,-0.9025,Guardian,2023-05-25,8
+6,Tina Turner: legendary rock’n’roll singer dies aged 83,https://www.theguardian.com/music/2023/may/24/tina-turner-legendary-rocknroll-singer-dies-aged-83,5,0.105,0.065,0.83,0.9957,Guardian,2023-05-25,8
+7,Chillaxing at Chequers: how Boris Johnson used the PM’s country house,https://www.theguardian.com/politics/2023/may/25/chillaxing-at-chequers-how-boris-johnson-used-the-pms-country-house,6,0.091,0.047,0.862,0.9929,Guardian,2023-05-25,8
+8,Rishi Sunak under pressure to cancel Boris Johnson’s honours list,https://www.theguardian.com/politics/2023/may/24/rishi-sunak-under-pressure-to-cancel-boris-johnsons-honours-list,7,0.092,0.074,0.835,0.9523,Guardian,2023-05-25,8
+9,"China-backed hackers ‘living off the land’ to target critical systems, says Five Eyes group",https://www.theguardian.com/us-news/2023/may/24/microsoft-china-hacker-critical-infrastructure-us-guam,8,0.064,0.09,0.847,-0.8465,Guardian,2023-05-25,8
+10,A moment that changed me: I was in my 20s and depressed – then my mother moved into my bed,https://www.theguardian.com/lifeandstyle/2023/may/24/a-moment-that-changed-me-i-was-in-my-20s-and-depressed-then-my-mother-moved-into-my-bed,9,0.139,0.131,0.73,0.9248,Guardian,2023-05-25,8
