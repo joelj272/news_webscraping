@@ -6519,3 +6519,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Immunologist Akiko Iwasaki: ‘We are not done with Covid, not even close’",https://www.theguardian.com/society/2023/may/27/immunologist-akiko-iwasaki-we-are-not-done-with-covid-not-even-close,7,0.073,0.077,0.851,-0.9562,Guardian,2023-05-27,20
 9,"‘One morning, I found a customer asleep by the toilets’: my life as a pub manager in badly behaved Britain",https://www.theguardian.com/lifeandstyle/2023/may/27/one-morning-i-found-a-customer-asleep-by-the-toilets-my-life-as-a-pub-manager-in-badly-behaved-britain,8,0.096,0.046,0.858,0.9792,Guardian,2023-05-27,20
 10,Nun’s body intact four years after death draws people to Missouri monastery,https://www.theguardian.com/us-news/2023/may/27/missouri-nun-body-intact-four-years,9,0.045,0.06,0.894,-0.8981,Guardian,2023-05-27,20
+1,Kyiv hit by massive Russian drone attack - mayor,https://www.bbc.co.uk/news/world-65736730,0,0.044,0.116,0.84,-0.9867,BBC,2023-05-28,8
+2,China's first homemade passenger jet takes flight,https://www.bbc.co.uk/news/world-asia-china-65737081,1,0.057,0.013,0.93,0.8241,BBC,2023-05-28,8
+3,Trump Texas ally impeached by fellow Republicans,https://www.bbc.co.uk/news/world-us-canada-65736478,2,0.112,0.116,0.772,0.651,BBC,2023-05-28,8
+4,Turkey's momentous vote after 20 years of Erdogan,https://www.bbc.co.uk/news/world-europe-65732194,3,0.114,0.097,0.788,0.875,BBC,2023-05-28,8
+5,India official drains entire dam to retrieve phone,https://www.bbc.co.uk/news/world-asia-india-65726193,4,0.029,0.116,0.855,-0.9805,BBC,2023-05-28,8
+6,US lawyer admits using ChatGPT for case research,https://www.bbc.co.uk/news/world-us-canada-65735769,5,0.058,0.065,0.876,-0.7571,BBC,2023-05-28,8
+7,The European capital where rent is triple the minimum wage,https://www.bbc.co.uk/news/world-europe-65485908,6,0.064,0.084,0.852,-0.9758,BBC,2023-05-28,8
+8,Biden and McCarthy in tentative debt ceiling deal,https://www.bbc.co.uk/news/world-us-canada-65736734,7,0.088,0.111,0.801,-0.928,BBC,2023-05-28,8
+9,French murder mystery wins Cannes top film prize,https://www.bbc.co.uk/news/entertainment-arts-65736234,8,0.207,0.061,0.731,0.9969,BBC,2023-05-28,8
+10,Modi opens new India parliament amid boycott,https://www.bbc.co.uk/news/world-asia-india-65718127,9,0.076,0.11,0.813,-0.9695,BBC,2023-05-28,8
+1,"Family of Louisiana Arby's manager found dead in a freezer reveal how she beat on the door until her hands were bloody before her SON found her in fetal position - as they sue fast food giant because 'latch was broken'
+",https://www.dailymail.co.uk/news/article-12129331/Family-Arbys-manager-dead-freezer-sues-fast-food-giant-latch-broken.html,0,0.03,0.156,0.814,-0.9946,Daily Mail,2023-05-28,8
+2,"Arnold Schwarzenegger's children from failed marriage to Maria Shriver 'don't love' half-brother Joseph Baena... after they avoided him at Arnold's FUBAR premiere
+",https://www.dailymail.co.uk/tvshowbiz/article-12130333/Arnold-Schwarzeneggers-children-marriage-Maria-Shriver-dont-love-brother-Joseph-Baena.html,1,0.118,0.086,0.796,0.9892,Daily Mail,2023-05-28,8
+3,"EXCLUSIVE: Halle Berry scores victory in decade-long child support battle with ex Gabriel Aubry as payments for daughter Nahla, 15, based on her earnings, are capped at $110,000 a year - $750,000 LESS than the cut he would have received for 2023
+",https://www.dailymail.co.uk/tvshowbiz/article-12124217/Halle-Berry-scores-victory-child-support-battle-ex-Gabriel-Aubry.html,2,0.14,0.056,0.803,0.9986,Daily Mail,2023-05-28,8
+4,"EXCLUSIVE: Tina Turner lived in agony for years... but her biggest heartache was her children: Singer's daughter-in-law reveals her fears that Ronnie would 'turn out like' abusive father Ike - and how she could never overcome devastation of Craig's suicide
+",https://www.dailymail.co.uk/tvshowbiz/article-12129893/Tina-Turners-daughter-law-reveals-pain-caused-children.html,3,0.096,0.169,0.734,-0.9996,Daily Mail,2023-05-28,8
+5,"EXCLUSIVE: American Idol winner Iam Tongi, 18, reveals to DailyMail.com what he REALLY thinks about THAT rigging scandal and his very divisive victory... and lays bare his true feelings about controversial judge Katy Perry
+",https://www.dailymail.co.uk/tvshowbiz/article-12125621/American-Idol-winner-Iam-Tongi-reveals-REALLY-thinks-rigging-scandal.html,4,0.222,0.067,0.711,0.9994,Daily Mail,2023-05-28,8
+6,"The 'Yacht Girls' offering sex for sale at Cannes: Behind the glitz and glamour of the French Film Festival lies a seedy underbelly of high class escorts charging €1,000 an hour aboard luxury vessels afloat in the Riviera
+",https://www.dailymail.co.uk/news/article-12129241/The-Yacht-Girls-offering-sex-sale-Cannes.html,5,0.14,0.045,0.815,0.9998,Daily Mail,2023-05-28,8
+7,"In pictures: A history of royal weddings - from Grace Kelly's dress that caused gasps to Sarah Chatto's timeless bridal gown and former Peep Show actress Sophie Winkleman's daring sweetheart neckline
+",https://www.dailymail.co.uk/femail/article-11721913/A-history-royal-weddings-dresses-Grace-Kelly-Sarah-Chatto-Queen-Letizia.html,6,0.026,0.0,0.974,0.95,Daily Mail,2023-05-28,8
+8,"WORLD EXCLUSIVE: Revealed - Bill Gates's younger Russian 'lover' and her links to notorious Kremlin spy Anna Chapman
+",https://www.dailymail.co.uk/news/article-12128919/Bill-Gatess-younger-Russian-lover-links-notorious-Kremlin-spy-Anna-Chapman.html,7,0.108,0.07,0.822,0.9988,Daily Mail,2023-05-28,8
+9,"Inside Philadelphia's tranq hellscape: Disturbing new footage shows devastating scale of drug crisis in Kensington neighborhood - with addicts crowding filthy sidewalks and shooting up in broad daylight 
+",https://www.dailymail.co.uk/news/article-12131455/Inside-Philadelphias-zombie-land-Tranq-addicts-crowd-sidewalks-shoot-broad-daylight.html,8,0.071,0.135,0.794,-0.9979,Daily Mail,2023-05-28,8
+10,"'Did they realize they clearly possess an unfair advantage?' Riley Gaines calls out trans runners who no-showed at California high school race after pushing out girls in qualifying - sparking uproar and thumbs down protest
+",https://www.dailymail.co.uk/news/article-12130601/Riley-Gaines-calls-trans-runners-no-showed-high-school-race-pushing-girls.html,9,0.098,0.107,0.794,-0.9508,Daily Mail,2023-05-28,8
+1,My husband went too far – and now I never want sex with him again,https://www.theguardian.com/lifeandstyle/2023/may/28/my-husband-went-too-far-and-now-i-never-want-sex-with-him-again-ask-philippa-perry,0,0.12,0.135,0.744,-0.9677,Guardian,2023-05-28,8
+2,Media shuns Tory party conference over demands for attendance fee,https://www.theguardian.com/politics/2023/may/28/media-shuns-tory-party-conference-over-demands-for-attendance-fee,1,0.182,0.066,0.752,0.9967,Guardian,2023-05-28,8
+3,Suella Braverman’s leadership hopes dented as public support plummets,https://www.theguardian.com/politics/2023/may/28/suella-bravermans-leadership-hopes-dented-as-public-support-plummets,2,0.081,0.072,0.847,0.901,Guardian,2023-05-28,8
+4,"ITV News journalist Emily Morgan dies, aged 45",https://www.theguardian.com/media/2023/may/27/itv-news-journalist-emily-morgan-dies-aged-45,3,0.167,0.071,0.762,0.9949,Guardian,2023-05-28,8
+5,Static buildup: Hull’s caravan makers enjoy a British holiday boom,https://www.theguardian.com/business/2023/may/27/static-buildup-hulls-caravan-makers-enjoy-a-british-holiday-boom,4,0.133,0.047,0.819,0.999,Guardian,2023-05-28,8
+6,"More than half of voters now want Britain to forge closer ties with the EU, poll reveals",https://www.theguardian.com/politics/2023/may/28/more-than-half-of-voters-now-want-britain-to-forge-closer-ties-with-the-eu-poll-reveals,5,0.11,0.038,0.852,0.9956,Guardian,2023-05-28,8
+7,Why the bimbocore aesthetic is the path to weaponising the social performance of the ageing woman,https://www.theguardian.com/commentisfree/2023/may/28/why-the-bimbocore-aesthetic-is-the-path-to-weaponising-the-social-performance-of-the-ageing-woman,6,0.093,0.106,0.801,-0.8986,Guardian,2023-05-28,8
+8,UK ministers engaged in bitter fight to halt release of Covid secrets,https://www.theguardian.com/uk-news/2023/may/27/uk-ministers-engaged-in-bitter-fight-to-halt-release-of-covid-secrets,7,0.058,0.087,0.855,-0.9911,Guardian,2023-05-28,8
+9,‘We’re both romantic about what politics can be’: Alastair Campbell and Rory Stewart on their double act,https://www.theguardian.com/tv-and-radio/2023/may/28/the-rest-is-politics-podcast-alastair-campbell-rory-stewart-interview,8,0.122,0.064,0.814,0.9997,Guardian,2023-05-28,8
+10,Holly Willoughby says Phillip Schofield lied to her about affair with younger colleague,https://www.theguardian.com/media/2023/may/27/itv-investigated-relationship-between-phillip-schofield-and-employee-in-2020,9,0.107,0.087,0.806,0.887,Guardian,2023-05-28,8
