@@ -6599,3 +6599,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘It’s a tax on disability’: rising UK social care costs force many into debt,https://www.theguardian.com/society/2023/may/28/tax-on-disability-rising-uk-social-care-costs-debt,7,0.164,0.088,0.749,0.9974,Guardian,2023-05-28,20
 9,At least three people drown over bank holiday weekend as UK sees hottest day,https://www.theguardian.com/uk-news/2023/may/28/uk-records-hottest-day-year-temperatures-hit-24c,8,0.056,0.049,0.894,0.7096,Guardian,2023-05-28,20
 10,Mark Cavendish wins final stage of Giro d’Italia as Roglic takes overall victory,https://www.theguardian.com/sport/2023/may/28/primoz-roglic-wins-his-first-giro-ditalia-mark-cavendish-final-stage-rome-cycling,9,0.14,0.105,0.755,0.9739,Guardian,2023-05-28,20
+1,Kyiv under drone attack barrage for second night,https://www.bbc.co.uk/news/world-europe-65740839,0,0.102,0.147,0.751,-0.9754,BBC,2023-05-29,8
+2,Erdogan hails election victory but Turkey divided,https://www.bbc.co.uk/news/world-europe-65743031,1,0.125,0.115,0.76,0.9021,BBC,2023-05-29,8
+3,Plans to move Everest base camp shelved,https://www.bbc.co.uk/news/world-asia-65723447,2,0.063,0.073,0.864,-0.9357,BBC,2023-05-29,8
+4,Why famous faces are popping up on UK streets,https://www.bbc.co.uk/news/uk-65683792,3,0.114,0.028,0.858,0.9987,BBC,2023-05-29,8
+5,Three dead as tourist boat sinks in Italy - reports,https://www.bbc.co.uk/news/world-europe-65741465,4,0.117,0.081,0.802,0.9288,BBC,2023-05-29,8
+6,Mystery green patch in canal baffles Venetians,https://www.bbc.co.uk/news/world-europe-65738872,5,0.034,0.025,0.941,0.34,BBC,2023-05-29,8
+7,Singapore state fund cuts pay after failed FTX bet,https://www.bbc.co.uk/news/business-65743247,6,0.051,0.147,0.802,-0.9938,BBC,2023-05-29,8
+8,What to expect from newly emboldened Erdogan,https://www.bbc.co.uk/news/world-europe-65743021,7,0.171,0.089,0.74,0.9965,BBC,2023-05-29,8
+9,Hong Kong denies detaining Uyghur scholar,https://www.bbc.co.uk/news/world-asia-china-65743731,8,0.04,0.134,0.827,-0.9909,BBC,2023-05-29,8
+10,Why prosperity can't break India's dowry curse,https://www.bbc.co.uk/news/world-asia-india-65682796,9,0.071,0.034,0.895,0.9772,BBC,2023-05-29,8
+1,"DEAR JANE: I revealed my very secret fetish to my husband after years of hiding it - now he thinks I'm disgusting and says he can never look at me the same way again 
+",https://www.dailymail.co.uk/femail/article-12119437/My-husband-SHAMED-revealed-secret-fetish.html,0,0.162,0.099,0.739,0.9982,Daily Mail,2023-05-29,8
+2,"'The stuff of horror movies': Adoptive parents in bizarre case of Ukrainian dwarf Natalia Grace reveal the full scale of their harrowing experience - and say she 'terrorized' them after 'conning' her way into their family
+",https://www.dailymail.co.uk/news/article-12124317/Our-adopted-daughter-6-adult-dwarf-conned-way-family-terrorized-us.html,1,0.052,0.158,0.79,-0.9997,Daily Mail,2023-05-29,8
+3,"'Entitled' parents reserve park benches for their four-year-old's birthday party with a 'rude note' - so whose side are you on?
+",https://www.dailymail.co.uk/femail/real-life/article-11183043/Entitled-parents-reserve-park-benches-four-year-olds-birthday-party.html,2,0.124,0.103,0.773,0.8777,Daily Mail,2023-05-29,8
+4,"EXCLUSIVE: 19 Kids and Counting crew member TELLS ALL
+",https://www.dailymail.co.uk/tvshowbiz/article-12120379/19-Kids-Counting-crew-member-opens-working-Duggars.html,3,0.118,0.064,0.818,0.9959,Daily Mail,2023-05-29,8
+5,"Indy 500 fans SLAM Jewel for 'extremely disrespectful' rendition of the national anthem ahead of historic race... as viewers claim she 'ruined' moment with her twist on the classic
+",https://www.dailymail.co.uk/sport/othersports/article-12134391/Indy-500-fans-SLAM-Jewel-extremely-disrespectful-rendition-national-anthem-race.html,4,0.119,0.03,0.852,0.9923,Daily Mail,2023-05-29,8
+6,"There must be something in the water! FEMAIL reveals the MANY stars who've dazzled with dramatic slim downs in recent months - from Oprah to Khloe Kardashian - sparking a frenzy of 'have they or haven't they' Ozempic speculation
+",https://www.dailymail.co.uk/femail/article-12128791/Celebrities-whove-displayed-insane-body-transformations-sudden-weight-loss-Ozempic.html,5,0.123,0.074,0.803,0.9993,Daily Mail,2023-05-29,8
+7,"Tina Turner's £58m Swiss weekend retreat 'to be turned into museum showcasing memorabilia from the late singer's career' by her widower
+",https://www.dailymail.co.uk/tvshowbiz/article-12133495/Tina-Turners-58m-Swiss-weekend-retreat-turned-museum.html,6,0.081,0.027,0.891,0.9695,Daily Mail,2023-05-29,8
+8,"George Maharis, star of Route 66 and Fantasy Island, dies at 94
+",https://www.dailymail.co.uk/tvshowbiz/article-12132765/George-Maharis-star-Route-66-Fantasy-Island-dies-94.html,7,0.092,0.078,0.831,0.1948,Daily Mail,2023-05-29,8
+9,"EXCLUSIVE: Tina Turner spent her final months taking yoga classes at the park, shopping for Italian designer clothes and gourmet foods and driving her Porsche Cayenne around her lakeside village, where she was known as 'modest' and 'friendly'
+",https://www.dailymail.co.uk/tvshowbiz/article-12128983/Tina-Turners-idyllic-final-days-Swiss-village-revealed.html,8,0.087,0.017,0.896,0.9961,Daily Mail,2023-05-29,8
+10,"Indiana Jones and the college graduate! Harrison Ford beams with pride alongside wife Calista Flockhart as they attend son Liam's university graduation 
+",https://www.dailymail.co.uk/tvshowbiz/article-12134321/Harrison-Ford-Calista-Flockhart-look-stylish-watch-son-Liam-graduate-college.html,9,0.114,0.025,0.861,0.9953,Daily Mail,2023-05-29,8
+1,Ex-This Morning doctor Ranj Singh says culture on show became ‘toxic’,https://www.theguardian.com/business/2023/may/28/ex-this-morning-doctor-ranj-singh-says-culture-on-show-became-toxic,0,0.077,0.091,0.832,-0.4872,Guardian,2023-05-29,8
+2,Met police to stop attending emergency mental health calls,https://www.theguardian.com/uk-news/2023/may/28/met-police-to-stop-attending-emergency-mental-health-calls,1,0.127,0.124,0.75,0.7255,Guardian,2023-05-29,8
+3,"UK could break up unless it is rebuilt as ‘solidarity union’, says Mark Drakeford",https://www.theguardian.com/politics/2023/may/29/uk-could-break-up-unless-it-is-rebuilt-as-solidarity-union-says-mark-drakeford,2,0.124,0.044,0.832,0.9956,Guardian,2023-05-29,8
+4,‘Social mobility is a fairytale’: Faiza Shaheen on fighting for Labour and hating Oxford,https://www.theguardian.com/lifeandstyle/2023/may/29/social-mobility-is-a-fairytale-faiza-shaheen-on-fighting-for-labour-and-hating-oxford,3,0.113,0.071,0.816,0.9987,Guardian,2023-05-29,8
+5,Italy: three dead and one missing after tourist boat capsized in storm,https://www.theguardian.com/world/2023/may/28/italy-rescuers-searching-for-at-least-20-people-after-boat-overturns,4,0.031,0.048,0.921,-0.5423,Guardian,2023-05-29,8
+6,Nick Cave speaks out against boycotting songs because of creators’ actions,https://www.theguardian.com/music/2023/may/28/nick-cave-speaks-out-against-boycotting-songs-because-of-creators-actions,5,0.075,0.095,0.83,-0.8392,Guardian,2023-05-29,8
+7,We desperately need a government who will say it: Britain is still reeling from Covid,https://www.theguardian.com/commentisfree/2023/may/29/government-britain-covid-pupils-absence-long-term-sickness-boris-johnson,6,0.093,0.105,0.803,-0.9716,Guardian,2023-05-29,8
+8,Take it from someone in a TV duo: Holly and Phil are simply sick of each other,https://www.theguardian.com/commentisfree/2023/may/28/holly-willoughby-phillip-schofield-david-mitchell,7,0.101,0.08,0.82,0.9674,Guardian,2023-05-29,8
+9,The pope and Emanuela Orlandi: Vatican back in the spotlight over mystery of missing girl,https://www.theguardian.com/world/2023/may/28/the-pope-and-emanuela-orlandi-vatican-back-in-the-spotlight-over-mystery-of-missing-girl,8,0.064,0.065,0.871,-0.3768,Guardian,2023-05-29,8
+10,Succession finale: who triumphed in the Roys’ last ever outing? As it happened ,https://www.theguardian.com/tv-and-radio/live/2023/may/29/succession-finale-final-episode-live-watch-along,9,0.115,0.172,0.713,-0.995,Guardian,2023-05-29,8
