@@ -6679,3 +6679,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,The lesson from the Phillip Schofield scandal? A moral grey area is not OK in any workplace,https://www.theguardian.com/commentisfree/2023/may/29/phillip-schofield-scandal-workplace-metoo-this-morning-itv,7,0.108,0.074,0.818,0.9923,Guardian,2023-05-29,20
 9,Kathleen Stock says she is a ‘moderate’ as protests planned over Oxford debate,https://www.theguardian.com/uk-news/2023/may/29/kathleen-stock-says-she-is-a-moderate-as-protests-planned-over-oxford-debate,8,0.046,0.104,0.85,-0.9672,Guardian,2023-05-29,20
 10,Jeremy Paxman: memorable lines from a master of the scathing put-down,https://www.theguardian.com/tv-and-radio/2023/may/29/jeremy-paxman-memorable-lines-from-a-master-of-the-scathing-put-down,9,0.091,0.061,0.849,0.9103,Guardian,2023-05-29,20
+1,Top scientist says don’t rule out Covid lab leak,https://www.bbc.co.uk/news/world-asia-65708746,0,0.056,0.086,0.858,-0.9941,BBC,2023-05-30,8
+2,Malaysia says China ship looted British WW2 wrecks,https://www.bbc.co.uk/news/world-asia-65750908,1,0.018,0.145,0.837,-0.9941,BBC,2023-05-30,8
+3,Man prises croc's jaws off head at Australian resort,https://www.bbc.co.uk/news/world-australia-65750805,2,0.035,0.128,0.837,-0.9877,BBC,2023-05-30,8
+4,Holmes is going to jail. Will she pay victims too?,https://www.bbc.co.uk/news/world-us-canada-65678967,3,0.066,0.14,0.794,-0.9964,BBC,2023-05-30,8
+5,Agents die when boat capsizes on Italian lake,https://www.bbc.co.uk/news/world-europe-65750743,4,0.122,0.055,0.823,0.9468,BBC,2023-05-30,8
+6,Russia seeks arrest of Lindsey Graham over video,https://www.bbc.co.uk/news/world-europe-65749077,5,0.051,0.103,0.845,-0.9854,BBC,2023-05-30,8
+7,Army's IRA spy admitted killing suspected informer,https://www.bbc.co.uk/news/uk-northern-ireland-65748734,6,0.037,0.128,0.834,-0.9985,BBC,2023-05-30,8
+8,Air strikes target Kyiv for third night running,https://www.bbc.co.uk/news/world-europe-65750745,7,0.03,0.153,0.817,-0.9948,BBC,2023-05-30,8
+9,"After a synagogue shooting, can a community heal?",https://www.bbc.co.uk/news/world-us-canada-65748629,8,0.102,0.158,0.74,-0.9988,BBC,2023-05-30,8
+10,Clashes as Chinese Muslims protest to save mosque,https://www.bbc.co.uk/news/world-asia-china-65743609,9,0.05,0.127,0.823,-0.9931,BBC,2023-05-30,8
+1,"New video shows panic aboard a boat in the Bahamas moments after Louisiana star baseball player, 18, jumped off on a dare, as Coast Guard calls off search 
+",https://www.dailymail.co.uk/news/article-12137105/New-video-shows-panic-Bahamas-boat-moments-star-baseball-player-jumps-dare.html,0,0.16,0.053,0.787,0.9979,Daily Mail,2023-05-30,8
+2,"Indiana Jones and the college graduate! Harrison Ford beams with pride alongside wife Calista Flockhart as they attend son Liam's university graduation 
+",https://www.dailymail.co.uk/tvshowbiz/article-12134321/Harrison-Ford-Calista-Flockhart-look-stylish-watch-son-Liam-graduate-college.html,1,0.114,0.025,0.861,0.9953,Daily Mail,2023-05-30,8
+3,"Blended family! Jennifer Garner takes Seraphina, 14, and Jennifer Lopez's daughter Emme, 15, to Disneyland
+",https://www.dailymail.co.uk/tvshowbiz/article-12137367/Jennifer-Garner-takes-Seraphina-14-Jennifer-Lopezs-daughter-Emme-15-Disneyland.html,2,0.15,0.017,0.833,0.9978,Daily Mail,2023-05-30,8
+4,"Leonardo DiCaprio, 48, showcases his buff physique in swimming trunks as he joins bikini-clad babe on a superyacht in sun-soaked Sardinia
+",https://www.dailymail.co.uk/tvshowbiz/article-12136075/Leonardo-DiCaprio-48-goes-shirtless-joins-bikini-babe-superyacht-sun-soaked-Sardinia.html,3,0.074,0.025,0.901,0.9916,Daily Mail,2023-05-30,8
+5,"REVEALED: The nine U.S cities where home owners are losing THOUSANDS on their house values: Median sale price in San Francisco drops a staggering $220,000 from a year ago
+",https://www.dailymail.co.uk/news/article-12136167/Home-owners-losing-THOUSANDS-home-values-data-shows.html,4,0.059,0.044,0.897,0.9576,Daily Mail,2023-05-30,8
+6,"Fascinating map highlights the most beloved local consumer brands in EVERY state of America - so what does it say about where YOU live? 
+",https://www.dailymail.co.uk/sciencetech/article-12129681/The-beloved-consumer-brand-American-state-does-say-live.html,5,0.201,0.028,0.771,0.9984,Daily Mail,2023-05-30,8
+7,"Terror at sea as Carnival cruise ship is evacuated after decks are flooded and hallways destroyed when 'treacherous storm' struck off coast of South Carolina 
+",https://www.dailymail.co.uk/news/article-12135047/Cruise-ship-nearly-destroyed-flooded-ship-navigates-nightmare-sailing-storm.html,6,0.041,0.074,0.885,-0.9836,Daily Mail,2023-05-30,8
+8,"Three children including a one-year-old among at least nine people shot during confrontation between rival groups on packed Florida boardwalk as gunfire sends crowds fleeing for their lives on Memorial Day weekend 
+",https://www.dailymail.co.uk/news/article-12137781/Seven-shot-gunfire-erupts-packed-Florida-boardwalk.html,7,0.042,0.111,0.848,-0.928,Daily Mail,2023-05-30,8
+9,"Graduates boo and turn their chairs away from former U.S Rep. Liz Cheney as she delivers commencement address at liberal Colorado College - despite her blasting Trump's election-denying attorney 
+",https://www.dailymail.co.uk/news/article-12134171/Graduates-boo-turn-away-former-U-S-Rep-Liz-Cheney-delivers-commencement-address.html,8,0.074,0.13,0.796,-0.9949,Daily Mail,2023-05-30,8
+10,"Jennifer Lopez looks sharp in a black and white ensemble as she stops by Jennifer Garner's home with her daughter Emme
+",https://www.dailymail.co.uk/tvshowbiz/article-12134473/Jennifer-Lopez-looks-sharp-stops-Jennifer-Garners-home-daughter-Emme.html,9,0.184,0.016,0.8,0.9982,Daily Mail,2023-05-30,8
+1,Richard Coles says he felt ‘hurtled towards the exit’ by BBC,https://www.theguardian.com/media/2023/may/30/rev-richard-coles-hurtled-towards-exit-bbc-radio-4,0,0.045,0.015,0.94,0.8957,Guardian,2023-05-30,8
+2,Heat pumps: more than 80% of households in Great Britain ‘satisfied with system’,https://www.theguardian.com/business/2023/may/30/heat-pumps-more-than-80-per-cent-of-households-in-great-britain-satisfied-with-system,1,0.11,0.029,0.861,0.9954,Guardian,2023-05-30,8
+3,"Russia-Ukraine war live: Moscow buildings hit by drones, says mayor; one dead in third attack on Kyiv in 24 hours",https://www.theguardian.com/world/live/2023/may/30/russia-ukraine-war-live-house-on-fire-in-kyiv-as-capital-comes-under-third-attack-in-24-hours,2,0.033,0.182,0.785,-0.9997,Guardian,2023-05-30,8
+4,My father had dementia and I was his caregiver. Here’s what I wish I had known,https://www.theguardian.com/books/2023/may/30/my-father-had-dementia-and-i-was-his-caregiver-heres-what-i-wish-i-had-known,3,0.159,0.091,0.75,0.9977,Guardian,2023-05-30,8
+5,Labour plans to allow local authorities to buy land cheaply for development,https://www.theguardian.com/politics/2023/may/29/labour-allow-local-authorities-buy-land-cheaply-for-development,4,0.133,0.061,0.805,0.9966,Guardian,2023-05-30,8
+6,Barry finale review – farewell to the true best show on television,https://www.theguardian.com/tv-and-radio/2023/may/29/barry-finale-review-farewell-to-the-true-best-series-on-television,5,0.142,0.102,0.756,0.9888,Guardian,2023-05-30,8
+7,"‘So goodnight from me. Goodnight’: Jeremy Paxman departs University Challenge, gentle at last ",https://www.theguardian.com/tv-and-radio/2023/may/29/university-challenge-final-review-jeremy-paxman,6,0.121,0.067,0.811,0.9925,Guardian,2023-05-30,8
+8,‘I’ve been too scared to go to work’: my life as a builder in badly behaved Britain,https://www.theguardian.com/lifeandstyle/2023/may/29/ive-been-too-scared-to-go-to-work-my-life-as-a-builder-in-badly-behaved-britain,7,0.062,0.12,0.818,-0.9875,Guardian,2023-05-30,8
+9,Council left on hook ‘for £10m’ over border post left in limbo by Brexit,https://www.theguardian.com/politics/2023/may/30/5m-council-debt-portsmouth-unused-post-brexit-border-control-post,8,0.055,0.059,0.886,-0.4492,Guardian,2023-05-30,8
+10,One person dies in third wave of strikes on Kyiv in 24 hours,https://www.theguardian.com/world/2023/may/30/one-person-dies-in-third-wave-of-strikes-on-kyiv-in-24-hours,9,0.028,0.193,0.779,-0.9979,Guardian,2023-05-30,8
