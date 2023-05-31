@@ -6799,3 +6799,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Thelma and Louise review – punchier, bolder, hotter and sweatier than ever",https://www.theguardian.com/film/2023/may/31/thelma-and-louise-review,7,0.132,0.104,0.765,0.9601,Guardian,2023-05-31,8
 9,I Think You Should Leave: the TV show so good it beats the Succession finale hands down,https://www.theguardian.com/tv-and-radio/2023/may/30/i-think-you-should-leave-tim-robinson,8,0.146,0.094,0.761,0.9951,Guardian,2023-05-31,8
 10,The spectre of price controls is back to spook Sunak – and Thatcherite myths won’t save him,https://www.theguardian.com/commentisfree/2023/may/31/price-controls-rishi-sunak-thatcher-prime-minister,9,0.095,0.057,0.848,0.9944,Guardian,2023-05-31,8
+1,What we learned from Nasa's UFO meeting,https://www.bbc.co.uk/news/world-us-canada-65729356,0,0.043,0.047,0.91,-0.64,BBC,2023-05-31,20
+2,A top soldier's defamation case rocks Australia,https://www.bbc.co.uk/news/world-australia-65717684,1,0.081,0.199,0.72,-0.9998,BBC,2023-05-31,20
+3,AI 'godfather' feels 'lost' over life's work,https://www.bbc.co.uk/news/technology-65760449,2,0.09,0.101,0.809,-0.9334,BBC,2023-05-31,20
+4,Air New Zealand weighing passengers before flying,https://www.bbc.co.uk/news/business-65765801,3,0.087,0.01,0.903,0.9688,BBC,2023-05-31,20
+5,Sackler family wins immunity from opioid lawsuits,https://www.bbc.co.uk/news/world-us-canada-65764307,4,0.067,0.102,0.832,-0.956,BBC,2023-05-31,20
+6,SA plans law change over Putin arrest warrant,https://www.bbc.co.uk/news/world-africa-65759630,5,0.069,0.103,0.828,-0.9854,BBC,2023-05-31,20
+7,Ukraine mothers go behind enemy lines to save stolen children,https://www.bbc.co.uk/news/world-europe-65641304,6,0.083,0.11,0.807,-0.9986,BBC,2023-05-31,20
+8,"Actor Al Pacino expecting fourth child, aged 83",https://www.bbc.co.uk/news/entertainment-arts-65764387,7,0.067,0.024,0.908,0.7501,BBC,2023-05-31,20
+9,Gollum game mocked as developers issue apology,https://www.bbc.co.uk/news/entertainment-arts-65765517,8,0.145,0.113,0.742,0.9326,BBC,2023-05-31,20
+10,Biden sex assault accuser seeks Russian citizenship,https://www.bbc.co.uk/news/world-us-canada-65764319,9,0.052,0.067,0.881,-0.3956,BBC,2023-05-31,20
+1,"EXCLUSIVE: The Jeffrey Epstein Files: Trove of never-before-seen emails and calendars gives unprecedented insight into late pedophile's network of power and influence that includes Chris Rock, Peter Thiel, Richard Branson and Irina Shayk
+",https://www.dailymail.co.uk/news/article-12136305/Trove-Jeffrey-Epsteins-emails-calendar-entries-reveals-pedophiles-network-power.html,0,0.076,0.039,0.885,0.9992,Daily Mail,2023-05-31,20
+2,"Was Cameron Robbins killed by a SHARK after he jumped off party boat? New footage showing shadowy image in water could explain why high school baseball star swam AWAY from life preserver... and vanished
+",https://www.dailymail.co.uk/news/article-12143937/Shadowy-image-water-near-baseball-star-explain-swam-AWAY-life-preserver.html,1,0.15,0.066,0.785,0.9977,Daily Mail,2023-05-31,20
+3,"Can't remember it All Too Well: Taylor Swift fans are getting AMNESIA at her concerts due to a rare phenomenon 
+",https://www.dailymail.co.uk/sciencetech/article-12140411/Taylor-Swift-fans-getting-AMNESIA-concerts-rare-phenomenon.html,2,0.151,0.073,0.775,0.9747,Daily Mail,2023-05-31,20
+4,"Horrific footage shows mob of FORTY teenagers jump three Marines on a California beach before unleashing savage beat down on Memorial Day weekend after they were called out for being unruly
+",https://www.dailymail.co.uk/news/article-12138283/Marines-savagely-beaten-40-TEENS-confronting-unruly.html,3,0.046,0.184,0.769,-0.9984,Daily Mail,2023-05-31,20
+5,"These are the five BEST looking pairs of breasts according to men AND women (and size is NOT the be-all, end-all)
+",https://www.dailymail.co.uk/health/article-12140025/These-five-BEST-looking-breasts-according-men-women.html,4,0.122,0.017,0.861,0.995,Daily Mail,2023-05-31,20
+6,"Move over, Robert De Niro! Al Pacino set to join the old dad club at 83 as it's revealed his girlfriend, 29, is EIGHT MONTHS pregnant
+",https://www.dailymail.co.uk/tvshowbiz/article-12142129/Al-Pacino-set-join-old-dad-club-82-revealed-girlfriend-29-EIGHT-MONTHS-pregnant.html,5,0.116,0.019,0.865,0.9977,Daily Mail,2023-05-31,20
+7,"New video shows panic aboard a boat in the Bahamas moments after Louisiana star baseball player, 18, jumped off on a dare, as Coast Guard calls off search 
+",https://www.dailymail.co.uk/news/article-12137105/New-video-shows-panic-Bahamas-boat-moments-star-baseball-player-jumps-dare.html,6,0.162,0.054,0.785,0.9979,Daily Mail,2023-05-31,20
+8,"EXCLUSIVE: Our big kid! Jodie Foster and her devoted wife Alexandra Hedison enjoy rare family outing with tall son Kit, 21, in New York City after keeping him out of the Hollywood spotlight 
+",https://www.dailymail.co.uk/tvshowbiz/article-12141727/Jodie-Fosters-son-Kit-21-towers-Hollywood-star-mother-rare-family-outing.html,7,0.126,0.033,0.841,0.9905,Daily Mail,2023-05-31,20
+9,"Britney Spears' ex Kevin Federline 'gives star deadline to approve plan to move their sons to Hawaii - or he will take court action'
+",https://www.dailymail.co.uk/tvshowbiz/article-12140907/Britney-Spears-ex-Kevin-Federline-gives-star-deadline-approve-plan-sons-Hawaii.html,8,0.062,0.059,0.879,0.2672,Daily Mail,2023-05-31,20
+10,"Get a room! Heidi Klum, 49, puts on a VERY risqué PDA with husband Tom Kaulitz, 33, - as she places her hand on his upper thigh while showing off trim bikini body onboard luxury yacht in France
+",https://www.dailymail.co.uk/tvshowbiz/article-12141139/Heidi-Klum-gets-handsy-husband-Tom-Kaulitz.html,9,0.208,0.006,0.786,0.9994,Daily Mail,2023-05-31,20
+1,Covid inquiry: Boris Johnson hands over WhatsApps and notes to Cabinet Office,https://www.theguardian.com/politics/2023/may/31/boris-johnson-says-his-whatsapps-and-notes-can-be-given-to-covid-inquiry,0,0.086,0.073,0.841,0.8407,Guardian,2023-05-31,20
+2,ITV instructs barrister to review facts around Phillip Schofield exit,https://www.theguardian.com/media/2023/may/31/itv-instructs-barrister-to-review-facts-around-phillip-schofield-exit,1,0.09,0.068,0.842,0.9081,Guardian,2023-05-31,20
+3,‘People throw tantrums and try to get things for free’: my life as a hotelier in badly behaved Britain,https://www.theguardian.com/lifeandstyle/2023/may/31/people-throw-tantrums-and-try-to-get-things-for-free-my-life-as-a-hotelier-in-badly-behaved-britain,2,0.143,0.086,0.771,0.9914,Guardian,2023-05-31,20
+4,Man admits freezing leg of alleged ‘eunuch maker’ who was accused of broadcasting live castrations,https://www.theguardian.com/uk-news/2023/may/31/man-admits-freezing-leg-of-alleged-eunuch-maker-website-owner,3,0.016,0.131,0.854,-0.9945,Guardian,2023-05-31,20
+5,Black people were three times more likely to receive Covid fines in England and Wales,https://www.theguardian.com/uk-news/2023/may/31/black-people-england-wales-more-likely-issued-pandemic-fines-police-study,4,0.051,0.053,0.896,-0.7006,Guardian,2023-05-31,20
+6,Sevilla v Roma: Europa League final – live,https://www.theguardian.com/football/live/2023/may/31/sevilla-v-roma-europa-league-final-live,5,0.107,0.065,0.828,0.9977,Guardian,2023-05-31,20
+7,Battle to withhold Covid messages is about much more than Boris Johnson,https://www.theguardian.com/politics/2023/may/31/battle-to-withhold-covid-messages-is-about-much-more-than-boris-johnson,6,0.059,0.08,0.861,-0.9121,Guardian,2023-05-31,20
+8,"Frilly dresses and white supremacy: welcome to the weird, frightening world of ‘trad wives’",https://www.theguardian.com/commentisfree/2023/may/31/white-supremacy-trad-wives-far-right-feminist-politics,7,0.098,0.086,0.816,-0.1298,Guardian,2023-05-31,20
+9,What would Britain look like today if we’d chosen to follow the roads not taken?,https://www.theguardian.com/commentisfree/2023/may/31/britain-germany-alternative-history-brexit-falklands-second-world-war,8,0.078,0.085,0.837,-0.9062,Guardian,2023-05-31,20
+10,"Thank you, Royal Blood, for heralding the death of ‘real’ music",https://www.theguardian.com/music/2023/may/31/thank-you-royal-blood-for-heralding-the-death-of-real-music,9,0.137,0.067,0.796,0.9983,Guardian,2023-05-31,20
