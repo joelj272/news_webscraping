@@ -6919,3 +6919,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Mark Zuckerberg completes extreme fitness challenge in 9kg vest,https://www.theguardian.com/technology/2023/jun/01/mark-zuckerberg-completes-extreme-fitness-challenge-in-20kg-vest,7,0.1,0.032,0.868,0.9925,Guardian,2023-06-01,20
 9,Boat impounded as police investigate Bournemouth beach deaths,https://www.theguardian.com/uk-news/2023/jun/01/boy-girl-died-bournemouth-not-hit-vessel-police-say,8,0.034,0.062,0.904,-0.9419,Guardian,2023-06-01,20
 10,New account pays 9% interest as UK savers offered highest rates for more than a decade,https://www.theguardian.com/money/2023/jun/01/new-account-pays-9-interest-as-uk-savers-offered-highest-rates-for-more-than-a-decade,9,0.075,0.038,0.887,0.9434,Guardian,2023-06-01,20
+1,Schofield apologises and says his career is over,https://www.bbc.co.uk/news/entertainment-arts-65775251,0,0.078,0.068,0.853,0.9643,BBC,2023-06-02,8
+2,White House says Biden is fine after fall on stage,https://www.bbc.co.uk/news/world-us-canada-65783589,1,0.061,0.027,0.912,0.9334,BBC,2023-06-02,8
+3,"Congress approves debt deal, averting a US default",https://www.bbc.co.uk/news/world-us-canada-65781359,2,0.087,0.058,0.855,0.947,BBC,2023-06-02,8
+4,Blood test for 50 cancers excites scientists,https://www.bbc.co.uk/news/health-65775159,3,0.116,0.107,0.776,-0.2338,BBC,2023-06-02,8
+5,Brics ministers call for rebalancing of global order,https://www.bbc.co.uk/news/world-africa-65784030,4,0.028,0.083,0.889,-0.9796,BBC,2023-06-02,8
+6,Mexican police find 45 bags of human remains,https://www.bbc.co.uk/news/world-latin-america-65784023,5,0.05,0.175,0.775,-0.9957,BBC,2023-06-02,8
+7,Andrew Tate challenged on misogyny in combative BBC interview,https://www.bbc.co.uk/news/world-europe-65780107,6,0.085,0.112,0.803,-0.9821,BBC,2023-06-02,8
+8,How gun violence is reshaping American lives,https://www.bbc.co.uk/news/world-us-canada-65686152,7,0.08,0.151,0.769,-0.9987,BBC,2023-06-02,8
+9,PGMOL condemns 'abhorrent' abuse of referee Taylor,https://www.bbc.co.uk/sport/football/65776488,8,0.0,0.0,0.0,0.0,BBC,2023-06-02,8
+10,Using teens to spread Putin's propaganda in Ukraine,https://www.bbc.co.uk/news/world-europe-65675102,9,0.064,0.074,0.862,-0.7544,BBC,2023-06-02,8
+1,"'I got sandbagged!': Biden laughs off embarrassing fall at Air Force Academy commencement ceremony - the fourth public tumble of 80-year-old's presidency - as he arrives safely back at White House 
+",https://www.dailymail.co.uk/news/article-12149847/Biden-FALLS-stage-handing-diplomas-U-S-Air-Force-Academy-graduation.html,0,0.062,0.046,0.892,0.9617,Daily Mail,2023-06-02,8
+2,"Was Cameron Robbins killed by a SHARK after he jumped off party boat? New footage showing shadowy image in water could explain why high school baseball star swam AWAY from life preserver... and vanished
+",https://www.dailymail.co.uk/news/article-12143937/Shadowy-image-water-near-baseball-star-explain-swam-AWAY-life-preserver.html,1,0.15,0.066,0.785,0.9977,Daily Mail,2023-06-02,8
+3,"Party Princess! Kate dazzles in a shimmering gold Jenny Packham gown as she arrives at the wedding reception of Crown Prince Hussein of Jordan and Rajwa Al-Saif 
+",https://www.dailymail.co.uk/femail/article-12150067/Princess-Wales-dazzles-shimmering-5-000-Jenny-Packham-gown-royal-wedding.html,2,0.112,0.006,0.882,0.9995,Daily Mail,2023-06-02,8
+4,"DC Young Fly partner Ms Jacky Oh! has died at the age of 32 in Miami ... amid reports she was there to have a 'mommy makeover'
+",https://www.dailymail.co.uk/tvshowbiz/article-12150267/DC-Young-Fly-partner-Ms-Jacky-Oh-died-age-32-Miami.html,3,0.157,0.049,0.794,0.9956,Daily Mail,2023-06-02,8
+5,"Kylie Jenner and Timothée Chalamet seen for FIRST TIME since hot new romance! The Kardashians star, 25, and Oscar-nominated actor, 27, pictured holed up at his Beverly Hills home - despite 'taking things slow'
+",https://www.dailymail.co.uk/tvshowbiz/article-12149525/Kylie-Jenner-Timoth-e-Chalamet-seen-TIME-Kardashians-star-actor-home.html,4,0.147,0.018,0.835,0.9989,Daily Mail,2023-06-02,8
+6,"Kim Kardashian shows off her 114lb figure in a strappy Gucci dress as she imparts life advice: 'Manifest your dreams and mind your business'
+",https://www.dailymail.co.uk/tvshowbiz/article-12144733/Kim-Kardashian-shows-114lb-figure-tiny-Gucci-dress.html,5,0.1,0.018,0.883,0.9975,Daily Mail,2023-06-02,8
+7,"Getting the party started! Royal guests arrive at the wedding reception of Crown Prince Hussein of Jordan and his new wife Rajwa as they prepare to cut their SEVEN-tier cake
+",https://www.dailymail.co.uk/femail/article-12147795/The-royal-wedding-summer-Crown-Prince-Hussein-Jordan-ties-knot-Rajwa-Al-Saif.html,6,0.119,0.005,0.876,0.9995,Daily Mail,2023-06-02,8
+8,"Newly-engaged NJ attorney, 35, suspected of raping four women while he was a student in Boston 15 years ago after offering them a ride will be extradited to MA after FBI lured him out of his luxury apartment 
+",https://www.dailymail.co.uk/news/article-12149581/Newly-engaged-attorney-35-suspected-raping-four-women-student-agrees-extradited.html,7,0.075,0.115,0.81,-0.9903,Daily Mail,2023-06-02,8
+9,"Sergio Calderón dies aged 77: Pirates of the Caribbean and Men in Black star passes away after career spanning six decades
+",https://www.dailymail.co.uk/tvshowbiz/article-12147301/Sergio-Calder-n-dead-aged-77-Pirates-Caribbean-Men-Black-star-passes-away.html,8,0.151,0.08,0.769,0.9872,Daily Mail,2023-06-02,8
+10,"Mother of girl, 12, who stabbed her brother, nine, to death in 'demonic' rage pens heartbreaking 800-word defense of her 'happy, energetic, normal, god-fearing child' - as she vows to stand by her
+",https://www.dailymail.co.uk/news/article-12148347/Mom-girl-12-stabbed-brother-says-normal-went-medication.html,9,0.116,0.137,0.748,-0.9951,Daily Mail,2023-06-02,8
+1,AI-controlled US military drone ‘kills’ its operator in simulated test,https://www.theguardian.com/us-news/2023/jun/01/us-military-drone-ai-killed-operator-simulated-test,0,0.093,0.141,0.765,-0.9846,Guardian,2023-06-02,8
+2,New account pays 9% interest as UK savers offered highest rates for more than a decade,https://www.theguardian.com/money/2023/jun/01/new-account-pays-9-interest-as-uk-savers-offered-highest-rates-for-more-than-a-decade,1,0.075,0.038,0.887,0.9434,Guardian,2023-06-02,8
+3,Phillip Schofield denies grooming younger male colleague,https://www.theguardian.com/tv-and-radio/2023/jun/01/phillip-schofield-utterly-broken-over-affair-with-younger-male-colleague,2,0.122,0.134,0.744,-0.9083,Guardian,2023-06-02,8
+4,"Millennials are a growing electoral force, and their thinking on tax is a gamechanger",https://www.theguardian.com/commentisfree/2023/jun/02/millennials-tax-gamechanger-income-redistribution-rightwing,3,0.094,0.071,0.835,0.9719,Guardian,2023-06-02,8
+5,Donald Trump and Fox News play it safe in town hall as network faces lawsuit,https://www.theguardian.com/us-news/2023/jun/01/fox-news-trump-town-hall-iowa,4,0.065,0.13,0.806,-0.9982,Guardian,2023-06-02,8
+6,Did the poster give it away? The 12 clues that foreshadowed Succession’s ultimate winner,https://www.theguardian.com/tv-and-radio/2023/jun/02/did-the-poster-give-it-away-the-12-clues-that-foreshadowed-successions-ultimate-winner,5,0.107,0.06,0.833,0.9929,Guardian,2023-06-02,8
+7,David Beckham makes ‘tough decision’ as he sacks Phil Neville at Inter Miami ,https://www.theguardian.com/football/2023/jun/02/mls-inter-miami-phil-neville-sacked-david-beckham,6,0.145,0.05,0.805,0.9911,Guardian,2023-06-02,8
+8,‘One guy came into A&E because his washing machine was broken’: my life as a doctor in badly behaved Britain,https://www.theguardian.com/lifeandstyle/2023/jun/01/one-guy-came-into-ae-because-his-washing-machine-was-broken-my-life-as-a-doctor-in-badly-behaved-britain,7,0.056,0.079,0.865,-0.9413,Guardian,2023-06-02,8
+9,Government to take legal action against Covid inquiry over Johnson WhatsApps,https://www.theguardian.com/uk-news/2023/jun/01/government-to-launch-legal-action-in-attempt-to-retain-johnson-whatsapps,8,0.086,0.078,0.837,-0.2035,Guardian,2023-06-02,8
+10,‘I can do everything but be humble’: Eric Cantona on his surprise new music career,https://www.theguardian.com/music/2023/jun/02/i-can-do-everything-but-be-humble-eric-cantona-on-his-surprise-new-music-career,9,0.149,0.093,0.758,0.9994,Guardian,2023-06-02,8
