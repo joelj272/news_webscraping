@@ -6959,3 +6959,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘One guy came into A&E because his washing machine was broken’: my life as a doctor in badly behaved Britain,https://www.theguardian.com/lifeandstyle/2023/jun/01/one-guy-came-into-ae-because-his-washing-machine-was-broken-my-life-as-a-doctor-in-badly-behaved-britain,7,0.056,0.079,0.865,-0.9413,Guardian,2023-06-02,8
 9,Government to take legal action against Covid inquiry over Johnson WhatsApps,https://www.theguardian.com/uk-news/2023/jun/01/government-to-launch-legal-action-in-attempt-to-retain-johnson-whatsapps,8,0.086,0.078,0.837,-0.2035,Guardian,2023-06-02,8
 10,‘I can do everything but be humble’: Eric Cantona on his surprise new music career,https://www.theguardian.com/music/2023/jun/02/i-can-do-everything-but-be-humble-eric-cantona-on-his-surprise-new-music-career,9,0.149,0.093,0.758,0.9994,Guardian,2023-06-02,8
+1,At least 50 dead after India train crash,https://www.bbc.co.uk/news/world-asia-india-65793257,0,0.074,0.101,0.826,-0.8909,BBC,2023-06-02,20
+2,White House says Biden is fine after fall on stage,https://www.bbc.co.uk/news/world-us-canada-65783589,1,0.061,0.027,0.912,0.9334,BBC,2023-06-02,20
+3,US Air Force denies AI drone attacked operator,https://www.bbc.co.uk/news/technology-65789916,2,0.046,0.075,0.879,-0.9361,BBC,2023-06-02,20
+4,How gun violence is reshaping American lives,https://www.bbc.co.uk/news/world-us-canada-65686152,3,0.08,0.15,0.77,-0.9987,BBC,2023-06-02,20
+5,Row over jail term for woman who attacked neo-Nazis,https://www.bbc.co.uk/news/world-europe-65785592,4,0.067,0.206,0.728,-0.9992,BBC,2023-06-02,20
+6,Blood test for 50 cancers excites scientists,https://www.bbc.co.uk/news/health-65775159,5,0.118,0.109,0.774,-0.2338,BBC,2023-06-02,20
+7,Legendary songwriter Cynthia Weil dies at 82,https://www.bbc.co.uk/news/entertainment-arts-65791188,6,0.134,0.082,0.785,0.9214,BBC,2023-06-02,20
+8,Bill Cosby faces new civil sexual assault lawsuit,https://www.bbc.co.uk/news/world-us-canada-65788664,7,0.065,0.138,0.797,-0.9873,BBC,2023-06-02,20
+9,Homophobia has fuelled affair coverage - Schofield,https://www.bbc.co.uk/news/entertainment-arts-65775251,8,0.067,0.097,0.836,-0.9957,BBC,2023-06-02,20
+10,Girl who died in US border custody denied ambulance,https://www.bbc.co.uk/news/world-us-canada-65786973,9,0.029,0.172,0.8,-0.9987,BBC,2023-06-02,20
+1,"'I got sandbagged!': Biden laughs off embarrassing fall at Air Force Academy commencement ceremony - the fourth public tumble of 80-year-old's presidency - as he arrives safely back at White House 
+",https://www.dailymail.co.uk/news/article-12149847/Biden-FALLS-stage-handing-diplomas-U-S-Air-Force-Academy-graduation.html,0,0.062,0.046,0.892,0.9617,Daily Mail,2023-06-02,20
+2,"DC Young Fly partner Ms Jacky Oh! has died at the age of 32 in Miami ... amid reports she was there to have a 'mommy makeover'
+",https://www.dailymail.co.uk/tvshowbiz/article-12150267/DC-Young-Fly-partner-Ms-Jacky-Oh-died-age-32-Miami.html,1,0.157,0.049,0.794,0.9956,Daily Mail,2023-06-02,20
+3,"Party Princess! Kate dazzles in a shimmering gold Jenny Packham gown as she arrives at the wedding reception of Crown Prince Hussein of Jordan and Rajwa Al-Saif 
+",https://www.dailymail.co.uk/femail/article-12150067/Princess-Wales-dazzles-shimmering-5-000-Jenny-Packham-gown-royal-wedding.html,2,0.111,0.006,0.883,0.9995,Daily Mail,2023-06-02,20
+4,"Kylie Jenner and Timothée Chalamet have been 'hanging out' at his Beverly Hills home - despite 'taking things slow'
+",https://www.dailymail.co.uk/tvshowbiz/article-12149525/Kylie-Jenner-Timoth-e-Chalamet-seen-TIME-Kardashians-star-actor-home.html,3,0.157,0.025,0.818,0.9983,Daily Mail,2023-06-02,20
+5,"EXCLUSIVE - 'She is treating this like a death': Danny Masterson's wife Bijou Phillips was 'convinced' jury would find him innocent in rape trial - and is 'devastated' by 'catastrophic' impact verdict will have on her 'way of life'
+",https://www.dailymail.co.uk/tvshowbiz/article-12149381/Danny-Mastersons-wife-Bijou-Phillips-inconsolable-guilty-verdict.html,4,0.052,0.138,0.81,-0.9976,Daily Mail,2023-06-02,20
+6,"Newly-engaged NJ attorney, 35, suspected of raping four women while he was a student in Boston 15 years ago after offering them a ride will be extradited to MA after FBI lured him out of his luxury apartment 
+",https://www.dailymail.co.uk/news/article-12149581/Newly-engaged-attorney-35-suspected-raping-four-women-student-agrees-extradited.html,5,0.073,0.114,0.812,-0.991,Daily Mail,2023-06-02,20
+7,"The most glamorous wedding guest! How Kate mastered the ultimate elegant evening look with a Jenny Packham gown and the Lover's Knot Tiara at the reception of Crown Prince Hussein and Rajwa Al-Saif 
+",https://www.dailymail.co.uk/femail/article-12151773/Kate-Middleton-wore-dazzling-outfit-Rajwa-Al-Saifs-Royal-wedding-reception.html,6,0.116,0.006,0.878,0.9996,Daily Mail,2023-06-02,20
+8,"Kevin Costner's $50 MILLION gamble: Newly-divorced actor mortgages his 10-acre Santa Barbara oceanfront plot - where he'd planned to build family home - in order to fund $100M movie series that he's spent 30 years trying to make
+",https://www.dailymail.co.uk/tvshowbiz/article-12149037/Kevin-Costner-makes-50-MILLION-gamble-Western-movie-series.html,7,0.076,0.056,0.868,0.9849,Daily Mail,2023-06-02,20
+9,"Was Cameron Robbins killed by a SHARK after he jumped off party boat? New footage showing shadowy image in water could explain why high school baseball star swam AWAY from life preserver... and vanished
+",https://www.dailymail.co.uk/news/article-12143937/Shadowy-image-water-near-baseball-star-explain-swam-AWAY-life-preserver.html,8,0.15,0.066,0.785,0.9977,Daily Mail,2023-06-02,20
+10,"Family of Louisiana teen Cameron Robbins who is missing after jumping into shark-infested waters during nighttime cruise have visited the area where he was last seen 
+",https://www.dailymail.co.uk/news/article-12149921/Family-Cameron-Robbins-went-missing-jumping-overboard-retraced-final-steps.html,9,0.132,0.063,0.805,0.9959,Daily Mail,2023-06-02,20
+1,British Museum ends BP sponsorship deal after 27 years,https://www.theguardian.com/culture/2023/jun/02/british-museum-ends-bp-sponsorship-deal-after-27-years,0,0.105,0.072,0.823,0.9763,Guardian,2023-06-02,20
+2,"Not for the first time, Sunak has been hung out to dry by Johnson – how much more can he take?",https://www.theguardian.com/commentisfree/2023/jun/02/sunak-johnson-covid-inquiry-whatsapp,1,0.076,0.113,0.812,-0.9951,Guardian,2023-06-02,20
+3,‘I’m not used to seeing sex that kinky’: Is The Idol the most shocking TV of the year?,https://www.theguardian.com/tv-and-radio/2023/jun/02/im-not-used-to-seeing-sex-that-kinky-is-the-idol-the-most-shocking-tv-of-the-year,2,0.097,0.066,0.838,0.9941,Guardian,2023-06-02,20
+4,Bournemouth MP calls for police to end ‘wild speculation’ around beach deaths,https://www.theguardian.com/uk-news/2023/jun/02/bournemouth-mp-safety-review-beach-deaths,3,0.04,0.075,0.885,-0.9591,Guardian,2023-06-02,20
+5,An ‘unbelievable deal’? The $200m mansion reportedly bought by Beyoncé and Jay Z,https://www.theguardian.com/news/2023/jun/02/beyonce-jay-z-california-record-malibu-mansion,4,0.062,0.022,0.915,0.9623,Guardian,2023-06-02,20
+6,"For a prime minister who phoned it in, Boris Johnson is having a lot of trouble handing over one mobile",https://www.theguardian.com/commentisfree/2023/jun/02/prime-minister-phoned-it-in-boris-johnson-trouble-handing-over-mobile,5,0.069,0.082,0.848,-0.9741,Guardian,2023-06-02,20
+7,‘I have brought myself down’: Phillip Schofield says his career is over,https://www.theguardian.com/media/2023/jun/02/phillip-schofield-says-his-career-over-this-morning-bbc,6,0.071,0.132,0.797,-0.9951,Guardian,2023-06-02,20
+8,British Vogue editor-in-chief Edward Enninful promoted to new role,https://www.theguardian.com/fashion/2023/jun/02/british-vogue-editor-in-chief-edward-enninful-promoted-to-new-role,7,0.109,0.019,0.873,0.9955,Guardian,2023-06-02,20
+9,Coco Lodge: ‘I think I’m the most trolled Love Islander for how I look’,https://www.theguardian.com/tv-and-radio/2023/jun/02/coco-lodge-trolled-love-islander-appearance,8,0.148,0.11,0.743,0.9908,Guardian,2023-06-02,20
+10,Boris Johnson hands over WhatsApp messages directly to Covid inquiry,https://www.theguardian.com/uk-news/2023/jun/02/senior-tories-express-doubts-over-covid-inquiry-legal-challenge,9,0.078,0.075,0.847,-0.4557,Guardian,2023-06-02,20
