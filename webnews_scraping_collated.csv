@@ -6999,3 +6999,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,British Vogue editor-in-chief Edward Enninful promoted to new role,https://www.theguardian.com/fashion/2023/jun/02/british-vogue-editor-in-chief-edward-enninful-promoted-to-new-role,7,0.109,0.019,0.873,0.9955,Guardian,2023-06-02,20
 9,Coco Lodge: ‘I think I’m the most trolled Love Islander for how I look’,https://www.theguardian.com/tv-and-radio/2023/jun/02/coco-lodge-trolled-love-islander-appearance,8,0.148,0.11,0.743,0.9908,Guardian,2023-06-02,20
 10,Boris Johnson hands over WhatsApp messages directly to Covid inquiry,https://www.theguardian.com/uk-news/2023/jun/02/senior-tories-express-doubts-over-covid-inquiry-legal-challenge,9,0.078,0.075,0.847,-0.4557,Guardian,2023-06-02,20
+1,‘I survived but many died around me’,https://www.bbc.co.uk/news/world-asia-india-65795959,0,0.021,0.136,0.843,-0.992,BBC,2023-06-03,8
+2,More than 260 dead in India three-train crash,https://www.bbc.co.uk/news/world-asia-india-65793257,1,0.063,0.122,0.815,-0.986,BBC,2023-06-03,8
+3,Parents clash in Pride protest at US primary school,https://www.bbc.co.uk/news/world-us-canada-65688615,2,0.093,0.112,0.795,-0.9575,BBC,2023-06-03,8
+4,Utah schools ban Bible for 'vulgarity and violence',https://www.bbc.co.uk/news/world-us-canada-65794363,3,0.048,0.087,0.865,-0.9149,BBC,2023-06-03,8
+5,Popular Twitch streamer Puppers dies aged 32,https://www.bbc.co.uk/news/technology-65787556,4,0.209,0.078,0.713,0.9981,BBC,2023-06-03,8
+6,Mystery of a deadly boat accident on an Italian lake,https://www.bbc.co.uk/news/world-europe-65788462,5,0.089,0.074,0.837,0.899,BBC,2023-06-03,8
+7,Anger in Belgium over verdict in student's hazing death,https://www.bbc.co.uk/news/world-europe-65767457,6,0.066,0.099,0.835,-0.9845,BBC,2023-06-03,8
+8,Biden says debt deal averted 'economic collapse',https://www.bbc.co.uk/news/world-us-canada-65795242,7,0.081,0.06,0.859,0.7783,BBC,2023-06-03,8
+9,Putin - South Africa's big headache,https://www.bbc.co.uk/news/world-africa-65787544,8,0.078,0.155,0.767,-0.9985,BBC,2023-06-03,8
+10,Why is a top British morning TV show in crisis?,https://www.bbc.co.uk/news/world-65788816,9,0.09,0.121,0.789,-0.9884,BBC,2023-06-03,8
+1,"Natalie Portman's husband Benjamin Millepied is fighting to save his marriage after allegedly having an affair with a 25-year-old woman: 'He knows he made an enormous mistake'
+",https://www.dailymail.co.uk/tvshowbiz/article-12153845/Natalie-Portmans-husband-Benjamin-Millipied-fighting-save-marriage-alleged-affair.html,0,0.095,0.048,0.857,0.9878,Daily Mail,2023-06-03,8
+2,"Elliot Page reveals he had secret relationship with Kate Mara after he came out as gay in 2014 - and while she was dating Max Minghella
+",https://www.dailymail.co.uk/tvshowbiz/article-12153243/Elliot-Page-reveals-secret-relationship-Kate-Mara-came-gay-2014.html,1,0.108,0.062,0.83,0.9843,Daily Mail,2023-06-03,8
+3,"EXCLUSIVE - 'She is treating this like a death': Danny Masterson's wife Bijou Phillips was 'convinced' jury would find him innocent in rape trial - and is 'devastated' by 'catastrophic' impact verdict will have on her 'way of life'
+",https://www.dailymail.co.uk/tvshowbiz/article-12149381/Danny-Mastersons-wife-Bijou-Phillips-inconsolable-guilty-verdict.html,2,0.052,0.138,0.81,-0.9976,Daily Mail,2023-06-03,8
+4,"The most glamorous wedding guest! How Kate mastered the ultimate elegant evening look with a Jenny Packham gown and the Lover's Knot Tiara at the reception of Crown Prince Hussein and Rajwa Al-Saif 
+",https://www.dailymail.co.uk/femail/article-12151773/Kate-Middleton-wore-dazzling-outfit-Rajwa-Al-Saifs-Royal-wedding-reception.html,3,0.116,0.006,0.878,0.9996,Daily Mail,2023-06-03,8
+5,"The curse of the Phillips sisters: As Bijou's husband Danny Masterson is found guilty of rape, FEMAIL uncovers scandal-filled histories of the three siblings - from brutal drug battles to Mackenzie's 10-year incestuous affair with her FATHER 
+",https://www.dailymail.co.uk/femail/article-12148551/The-curse-Phillips-sisters-Bijous-husband-Danny-Masterson-guilty-rape.html,4,0.083,0.092,0.825,-0.7831,Daily Mail,2023-06-03,8
+6,"Costco executives say the signs of a recession are emerging - because customers are buying THESE products
+",https://www.dailymail.co.uk/news/article-12153125/Costco-execs-say-signs-recession-emerging-customers-buying-products.html,5,0.045,0.048,0.907,-0.4953,Daily Mail,2023-06-03,8
+7,"EXCLUSIVE: Alice Evans' 13-year-old daughter Ella has applied for a RESTRAINING ORDER against her father Ioan Gruffudd and his girlfriend Bianca Wallace following 'an incident at their home'
+",https://www.dailymail.co.uk/tvshowbiz/article-12152191/Ioan-Gruffudds-daughter-13-filed-restraining-order-against-FATHER.html,6,0.051,0.097,0.852,-0.9612,Daily Mail,2023-06-03,8
+8,"Is there a serial killer on the loose in Portland? SIX women under 40 have been found dead in 'suspicious circumstances' in secluded areas in a 100 mile radius in the last three months
+",https://www.dailymail.co.uk/news/article-12153123/Six-women-dead-Portland-woods-three-months.html,7,0.034,0.185,0.781,-0.9984,Daily Mail,2023-06-03,8
+9,"EXCLUSIVE: Gloomy Elizabeth Holmes - aka Inmate 24965-111- walks the yard in prison-issue khakis wearing her wedding band as insiders claim the Theranos fraudster has been 'twitchy' and 'nervous' as she begins 11-year sentence
+",https://www.dailymail.co.uk/news/article-12153161/Elizabeth-Holmes-seen-prison-yard-federal-Texas-lockup-second-day-11-year-sentence.html,8,0.067,0.124,0.81,-0.9965,Daily Mail,2023-06-03,8
+10,"'I got sandbagged!': Biden laughs off embarrassing fall at Air Force Academy commencement ceremony - the fourth public tumble of 80-year-old's presidency - as he arrives safely back at White House 
+",https://www.dailymail.co.uk/news/article-12149847/Biden-FALLS-stage-handing-diplomas-U-S-Air-Force-Academy-graduation.html,9,0.062,0.046,0.892,0.9617,Daily Mail,2023-06-03,8
+1,UK shoppers warned of delivery app markup on supermarket goods,https://www.theguardian.com/business/2023/jun/03/delivery-apps-supermarket-goods-markup-which,0,0.056,0.033,0.911,0.9697,Guardian,2023-06-03,8
+2,Blind date: ‘I got way too excited seeing margaritas on the menu’,https://www.theguardian.com/lifeandstyle/2023/jun/03/blind-date-katie-will,1,0.207,0.032,0.761,0.9994,Guardian,2023-06-03,8
+3,"Not for the first time, Sunak has been hung out to dry by Johnson – how much more can he take?",https://www.theguardian.com/commentisfree/2023/jun/02/sunak-johnson-covid-inquiry-whatsapp,2,0.076,0.113,0.812,-0.9951,Guardian,2023-06-03,8
+4,Woman sexually assaulted by MP condemns Labour’s complaints process,https://www.theguardian.com/politics/2023/jun/03/ms-a-woman-mp-mike-hill-labour-complaints-process-geraint-davies-harassment-allegations,3,0.095,0.127,0.779,-0.9824,Guardian,2023-06-03,8
+5,Tim Dowling: why does everyone give me a hard time when I get up early?,https://www.theguardian.com/lifeandstyle/2023/jun/03/tim-dowling-why-does-everyone-give-me-a-hard-time-when-i-get-up-early,4,0.051,0.066,0.883,-0.7826,Guardian,2023-06-03,8
+6,India train crash: at least 280 killed and 900 injured in Odisha state,https://www.theguardian.com/world/2023/jun/02/dozens-killed-in-train-crash-in-eastern-india,5,0.048,0.122,0.829,-0.994,Guardian,2023-06-03,8
+7,I love electric vehicles – and was an early adopter. But increasingly I feel duped,https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson,6,0.094,0.063,0.843,0.992,Guardian,2023-06-03,8
+8,‘I’m not used to seeing sex that kinky’: Is The Idol the most shocking TV of the year?,https://www.theguardian.com/tv-and-radio/2023/jun/02/im-not-used-to-seeing-sex-that-kinky-is-the-idol-the-most-shocking-tv-of-the-year,7,0.097,0.066,0.838,0.9941,Guardian,2023-06-03,8
+9,"‘Post-marriage, I was a teenager again’: how I turned the page after getting divorced in my 30s ",https://www.theguardian.com/lifeandstyle/2023/jun/03/post-marriage-i-was-a-teenager-again-how-i-turned-the-page-after-getting-divorced-in-my-30s,8,0.166,0.06,0.773,0.9999,Guardian,2023-06-03,8
+10,UK car buying: expert tips on what to pick for your budget,https://www.theguardian.com/money/2023/jun/03/uk-car-buying-expert-tips-budget-price-reliability,9,0.088,0.039,0.873,0.9977,Guardian,2023-06-03,8
