@@ -7079,3 +7079,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"This is how we do it: ‘If there’s wine on the table, sex is absolutely happening’",https://www.theguardian.com/lifeandstyle/2023/jun/03/if-there-is-wine-on-the-table-sex-is-absolutely-happening,7,0.153,0.046,0.801,0.9989,Guardian,2023-06-03,20
 9,"Russia-Ukraine war as it happened: Kremlin infighting ‘destroying Russian state’, says Wagner head",https://www.theguardian.com/world/live/2023/jun/03/russia-ukraine-war-live-russian-army-may-struggle-in-bakhmut-compared-with-wagner-uk-mod-suggests,8,0.081,0.145,0.774,-0.9997,Guardian,2023-06-03,20
 10,Louise Redknapp looks back: ‘I was expecting a glamorous shoot. I thought: Is that it?’,https://www.theguardian.com/lifeandstyle/2023/jun/03/louise-redknapp-looks-back-i-was-expecting-a-glamorous-shoot-i-thought-is-that-it,9,0.13,0.043,0.827,0.9991,Guardian,2023-06-03,20
+1,How many Russians have left during war - and who are they?,https://www.bbc.co.uk/news/world-europe-65790759,0,0.05,0.104,0.846,-0.998,BBC,2023-06-04,8
+2,Solar panels - an eco-disaster waiting to happen?,https://www.bbc.co.uk/news/science-environment-65602519,1,0.092,0.024,0.883,0.9975,BBC,2023-06-04,8
+3,Modi vows punishments over deadly India rail crash,https://www.bbc.co.uk/news/world-asia-india-65798640,2,0.061,0.147,0.793,-0.9978,BBC,2023-06-04,8
+4,Parents clash in Pride protest at US primary school,https://www.bbc.co.uk/news/world-us-canada-65688615,3,0.093,0.112,0.795,-0.9575,BBC,2023-06-04,8
+5,"Girl, 2, killed and 22 injured after Russian strike",https://www.bbc.co.uk/news/world-europe-65800870,4,0.025,0.163,0.812,-0.9971,BBC,2023-06-04,8
+6,How did three trains collide in India?,https://www.bbc.co.uk/news/world-asia-india-65796173,5,0.027,0.189,0.784,-0.9986,BBC,2023-06-04,8
+7,Winning UK show would mean bigger house - Ghetto Kids,https://www.bbc.co.uk/news/world-africa-65796859,6,0.142,0.032,0.826,0.996,BBC,2023-06-04,8
+8,Utah schools ban Bible for 'vulgarity and violence',https://www.bbc.co.uk/news/world-us-canada-65794363,7,0.048,0.087,0.865,-0.9149,BBC,2023-06-04,8
+9,British Vogue editor Edward Enninful steps down,https://www.bbc.co.uk/news/entertainment-arts-65794311,8,0.171,0.029,0.8,0.9985,BBC,2023-06-04,8
+10,Three Israeli soldiers killed near Egypt border,https://www.bbc.co.uk/news/world-middle-east-65798205,9,0.047,0.137,0.816,-0.994,BBC,2023-06-04,8
+1,"EXCLUSIVE: Baywatch star's ex-wife, one-time model Loni Willison, 40, is seen covered in dirt, smoking from a crackpipe and dumpster-diving after fall from grace that left her homeless and addicted to drugs
+",https://www.dailymail.co.uk/tvshowbiz/article-12141193/Loni-Willison-seen-smoking-crackpipe-covered-dirt-dumpster-diving.html,0,0.041,0.148,0.811,-0.998,Daily Mail,2023-06-04,8
+2,"EXCLUSIVE: 'This is the beginning of the end of Putin': Moscow drone attack, Kremlin blasts and cross-border raids spell doom for the Russian tyrant and could see the break-up of his country, expert warns
+",https://www.dailymail.co.uk/news/article-12152585/Recent-attacks-spell-doom-Putin-break-Russia-expert-warns.html,1,0.075,0.116,0.809,-0.9932,Daily Mail,2023-06-04,8
+3,"Partygoers aboard Bahamas 'pirate boat' shouted 'bye bye' to Cameron Robbins, 18, after he leapt into shark-infested waters and vanished - as obituary pays tribute to 'tough' high school baseball star 
+",https://www.dailymail.co.uk/news/article-12155395/Chilling-words-said-Cameron-Robbins-leapt-pirate-party-boat.html,2,0.104,0.081,0.815,0.9788,Daily Mail,2023-06-04,8
+4,"Plunging neckline? Revealing see-through panels? It's a Royal 'no' to that! How the Princess of Wales has her catwalk clothing specially tailored to add a note of modesty to the glamorous designs
+",https://www.dailymail.co.uk/femail/article-12151517/How-Kate-Middleton-clothing-tailored-fit-modest-royal-wardrobe-fit-Princess.html,3,0.088,0.007,0.905,0.9983,Daily Mail,2023-06-04,8
+5,"The numbers game! As Noor Alfallah, 29, reveals she is pregnant with 83-year old Al Pacino's baby, how her past romances with Sir Mick Jagger and Eli Roth confirm she definitely has a type
+",https://www.dailymail.co.uk/tvshowbiz/article-12143241/Noor-Alfallahs-high-profile-past-romances.html,4,0.161,0.03,0.809,0.9995,Daily Mail,2023-06-04,8
+6,"Is there a serial killer on the loose in Portland? SIX women under 40 have been found dead in 'suspicious circumstances' in secluded areas in a 100 mile radius in the last three months
+",https://www.dailymail.co.uk/news/article-12153123/Six-women-dead-Portland-woods-three-months.html,5,0.034,0.185,0.781,-0.9984,Daily Mail,2023-06-04,8
+7,"'You know what you did': Baltimore science conference descends into chaos after furious husband storms on stage and SLAPS doctor for 'sexually assaulting his wife seven years ago'
+",https://www.dailymail.co.uk/news/article-12154373/Husband-slaps-man-Baltimore-science-conference-sexually-assaulting-wife-seven-years-ago.html,6,0.057,0.13,0.813,-0.9919,Daily Mail,2023-06-04,8
+8,"EXCLUSIVE: Al Pacino's pregnant girlfriend Noor Alfallah, 29, is REFUSING to let his ex and 'best friend' Lucila Sola, 46, visit their home - even though he still acts as a 'stepfather' to her model daughter Camila Morrone
+",https://www.dailymail.co.uk/tvshowbiz/article-12153035/Al-Pacinos-pregnant-girlfriend-Noor-Alfallah-29-REFUSING-let-ex-visit-home.html,7,0.069,0.037,0.894,0.9748,Daily Mail,2023-06-04,8
+9,"Caps off to these A-list kids! Here's all the celebrity children who have graduated in the Class of 2023 from Harrison Ford's son Liam to Heather Locklear's daughter Ava
+",https://www.dailymail.co.uk/tvshowbiz/article-12139727/Celebrity-children-graduated-year-Harrison-Fords-son-Heather-Locklears-daughter.html,8,0.178,0.029,0.793,1.0,Daily Mail,2023-06-04,8
+10,"Bride and GLOOM: Inside the miserable wedding of Wallis Simpson and Edward VIII - with tragic eyes caught on camera amid speculation American socialite 'was not in love with the former King'
+",https://www.dailymail.co.uk/news/article-11911497/Inside-miserable-wedding-Duke-Windsor-Wallis-Simpson.html,9,0.122,0.078,0.801,0.9979,Daily Mail,2023-06-04,8
+1,‘The billionaires have won’: English pubs forced to close after owners demand full rent for lockdown,https://www.theguardian.com/lifeandstyle/2023/jun/03/the-billionaires-have-won-english-pubs-forced-to-close-after-owners-demand-full-rent-for-lockdown,0,0.049,0.08,0.871,-0.9285,Guardian,2023-06-04,8
+2,Sunak under fire as ‘stupid’ Eat Out to Help Out scheme to be focus of Covid inquiry,https://www.theguardian.com/business/2023/jun/03/sunak-under-fire-as-stupid-eat-out-to-help-out-scheme-to-be-focus-of-covid-inquiry,1,0.069,0.069,0.863,-0.4523,Guardian,2023-06-04,8
+3,King Charles to give up home in Wales on edge of Bannau Brycheiniog,https://www.theguardian.com/uk-news/2023/jun/03/king-charles-to-give-up-home-in-wales-on-edge-of-brecon-beacons,2,0.064,0.01,0.926,0.959,Guardian,2023-06-04,8
+4,I love electric vehicles – and was an early adopter. But increasingly I feel duped,https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson,3,0.094,0.063,0.843,0.992,Guardian,2023-06-04,8
+5,"The Parakeet, London: ‘The food is great but beware of the dogs’ – restaurant review",https://www.theguardian.com/food/2023/jun/04/the-parakeet-london-the-food-is-great-but-beware-of-the-dogs-restaurant-review,4,0.121,0.039,0.84,0.999,Guardian,2023-06-04,8
+6,Dua Lipa calls UK ministers’ comments on migrants ‘small-minded’,https://www.theguardian.com/politics/2023/jun/03/dua-lipa-calls-uk-ministers-comments-on-migrants-small-minded,5,0.057,0.087,0.856,-0.8806,Guardian,2023-06-04,8
+7,Kylie Minogue at 55: why we just can’t get the singer out of our heads ,https://www.theguardian.com/music/2023/jun/04/kylie-minogue-at-55-why-we-just-cant-get-the-singer-out-of-our-heads,6,0.13,0.049,0.82,0.9986,Guardian,2023-06-04,8
+8,The Covid inquiry questions that could sink Boris Johnson and Rishi Sunak,https://www.theguardian.com/uk-news/2023/jun/03/the-covid-inquiry-questions-that-could-sink-boris-johnson-and-rishi-sunak,7,0.066,0.118,0.816,-0.9888,Guardian,2023-06-04,8
+9,This Morning editor says ‘scores are being settled’ over Phillip Schofield ,https://www.theguardian.com/media/2023/jun/03/this-morning-editor-says-there-are-scores-being-settled-over-phillip-schofield,8,0.046,0.036,0.918,0.6597,Guardian,2023-06-04,8
+10,Louise Redknapp looks back: ‘I was expecting a glamorous shoot. I thought: Is that it?’,https://www.theguardian.com/lifeandstyle/2023/jun/03/louise-redknapp-looks-back-i-was-expecting-a-glamorous-shoot-i-thought-is-that-it,9,0.13,0.043,0.827,0.9991,Guardian,2023-06-04,8
