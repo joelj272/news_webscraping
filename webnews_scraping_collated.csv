@@ -7119,3 +7119,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,The Covid inquiry questions that could sink Boris Johnson and Rishi Sunak,https://www.theguardian.com/uk-news/2023/jun/03/the-covid-inquiry-questions-that-could-sink-boris-johnson-and-rishi-sunak,7,0.066,0.118,0.816,-0.9888,Guardian,2023-06-04,8
 9,This Morning editor says ‘scores are being settled’ over Phillip Schofield ,https://www.theguardian.com/media/2023/jun/03/this-morning-editor-says-there-are-scores-being-settled-over-phillip-schofield,8,0.046,0.036,0.918,0.6597,Guardian,2023-06-04,8
 10,Louise Redknapp looks back: ‘I was expecting a glamorous shoot. I thought: Is that it?’,https://www.theguardian.com/lifeandstyle/2023/jun/03/louise-redknapp-looks-back-i-was-expecting-a-glamorous-shoot-i-thought-is-that-it,9,0.13,0.043,0.827,0.9991,Guardian,2023-06-04,8
+1,Anti-Kremlin fighters 'capture' Russian soldiers,https://www.bbc.co.uk/news/world-europe-65804249,0,0.094,0.132,0.774,-0.9861,BBC,2023-06-04,20
+2,War with US would be unbearable disaster - China minister,https://www.bbc.co.uk/news/world-asia-china-65803311,1,0.048,0.149,0.803,-0.9926,BBC,2023-06-04,20
+3,Harry finally faces questions in hacking case showdown,https://www.bbc.co.uk/news/uk-65730884,2,0.08,0.122,0.798,-0.9926,BBC,2023-06-04,20
+4,Solar panels - an eco-disaster waiting to happen?,https://www.bbc.co.uk/news/science-environment-65602519,3,0.092,0.024,0.883,0.9975,BBC,2023-06-04,20
+5,Huge anti-government protest in Polish capital Warsaw,https://www.bbc.co.uk/news/world-europe-65803318,4,0.049,0.099,0.852,-0.9602,BBC,2023-06-04,20
+6,How many Russians have left during war - and who are they?,https://www.bbc.co.uk/news/world-europe-65790759,5,0.05,0.104,0.846,-0.998,BBC,2023-06-04,20
+7,Oil production to drop after Opec+ nations meet,https://www.bbc.co.uk/news/business-65804768,6,0.048,0.109,0.843,-0.9638,BBC,2023-06-04,20
+8,'I pray that we find him': Desperate hunt for the missing,https://www.bbc.co.uk/news/world-asia-india-65804245,7,0.044,0.161,0.796,-0.9978,BBC,2023-06-04,20
+9,Signal fault likely cause of rail crash - India minister,https://www.bbc.co.uk/news/world-asia-india-65801807,8,0.059,0.147,0.794,-0.9971,BBC,2023-06-04,20
+10,Socialite spared jail after killing police chief,https://www.bbc.co.uk/news/world-us-canada-65770626,9,0.052,0.156,0.791,-0.9915,BBC,2023-06-04,20
+1,"Caps off to these A-list kids! Here's all the celebrity children who have graduated in the Class of 2023 from Harrison Ford's son Liam to Heather Locklear's daughter Ava
+",https://www.dailymail.co.uk/tvshowbiz/article-12139727/Celebrity-children-graduated-year-Harrison-Fords-son-Heather-Locklears-daughter.html,0,0.178,0.029,0.793,1.0,Daily Mail,2023-06-04,20
+2,"I've worked as an escort to men from all kinds of professions: Here are my five least favourite - and the one that always performs in the bedroom
+",https://www.dailymail.co.uk/femail/article-12150191/Samantha-X-reveals-worst-performing-professions-bedroom.html,1,0.18,0.057,0.764,0.9985,Daily Mail,2023-06-04,20
+3,"'You are NOT the father:' Former WWE star takes DNA test to prove he's not Rep. Lauren Boebert father after her mother said for years that he was
+",https://www.dailymail.co.uk/news/article-12156613/Former-WWE-star-Stan-Lane-takes-DNA-test-prove-hes-not-Rep-Lauren-Boeberts-father.html,2,0.109,0.058,0.833,0.9895,Daily Mail,2023-06-04,20
+4,"EXCLUSIVE: Baywatch star's ex-wife, one-time model Loni Willison, 40, is seen covered in dirt, smoking from a crackpipe and dumpster-diving after fall from grace that left her homeless and addicted to drugs
+",https://www.dailymail.co.uk/tvshowbiz/article-12141193/Loni-Willison-seen-smoking-crackpipe-covered-dirt-dumpster-diving.html,3,0.041,0.148,0.811,-0.998,Daily Mail,2023-06-04,20
+5,"The numbers game! As Noor Alfallah, 29, reveals she is pregnant with 83-year old Al Pacino's baby, how her past romances with Sir Mick Jagger and Eli Roth confirm she definitely has a type
+",https://www.dailymail.co.uk/tvshowbiz/article-12143241/Noor-Alfallahs-high-profile-past-romances.html,4,0.161,0.03,0.809,0.9995,Daily Mail,2023-06-04,20
+6,"'That never happened!' Mark Zuckerberg slams New York Times' claims he was choked out at Jiu-Jitsu tournament after ref said he 'started to snore' while in chokehold 
+",https://www.dailymail.co.uk/news/article-12156221/Mark-Zuckerberg-denies-choked-Jiu-Jitsu-tournament.html,5,0.153,0.059,0.788,0.9986,Daily Mail,2023-06-04,20
+7,"Taylor Swift's rumored boyfriend Matty Healy kisses a male security guard during a performance with his band The 1975 in Denmark
+",https://www.dailymail.co.uk/tvshowbiz/article-12156657/Taylor-Swifts-rumored-boyfriend-Matty-Healy-kisses-security-guard-performance-Denmark.html,6,0.106,0.004,0.89,0.9828,Daily Mail,2023-06-04,20
+8,"The quest to live FOREVER: It sounds mad, narcissistic and utterly unrealistic, but tech tycoon Bryan Johnson hopes his 80 pills a day and a diet of mushed veg will be a blueprint that'll save mankind from being taken over by robots
+",https://www.dailymail.co.uk/news/article-12155695/Tech-tycoon-Bryan-Johnson-hopes-80-pills-day-blueprint-thatll-save-mankind.html,7,0.1,0.093,0.807,0.9474,Daily Mail,2023-06-04,20
+9,"Bruce Willis, 68, flashes a smile riding on Splash Mountain with wife Emma and his children during a trip to Disneyland...amid dementia battle
+",https://www.dailymail.co.uk/tvshowbiz/article-12155829/Bruce-Willis-68-flashes-smile-riding-Splash-Mountain-Disneyland-amid-dementia-battle.html,8,0.199,0.057,0.744,0.9996,Daily Mail,2023-06-04,20
+10,"EXCLUSIVE: 'I choose me!' 90210 star Jennie Garth, 51, looks healthy and fit as she hits the gym with her personal trainer in LA - a year after revealing her secret battle with arthritis
+",https://www.dailymail.co.uk/tvshowbiz/article-12153661/Jennie-Garth-seen-staying-active-gym-personal-trainer.html,9,0.082,0.057,0.86,0.7999,Daily Mail,2023-06-04,20
+1,Bournemouth beach deaths: victims named as Joe Abbess and Sunnah Khan,https://www.theguardian.com/uk-news/2023/jun/04/bournemouth-beach-deaths-joe-abbess-teenager-family-pay-tribute,0,0.083,0.116,0.802,-0.9469,Guardian,2023-06-04,20
+2,"Universal basic income of £1,600 a month to be trialled in two places in England",https://www.theguardian.com/society/2023/jun/04/universal-basic-income-of-1600-pounds-a-month-to-be-trialled-in-england,1,0.113,0.079,0.808,0.9451,Guardian,2023-06-04,20
+3,‘They need to evolve’: why Britain’s curry houses are in decline,https://www.theguardian.com/food/2023/jun/04/they-need-to-evolve-why-britains-curry-houses-are-in-decline,2,0.072,0.028,0.9,0.9876,Guardian,2023-06-04,20
+4,"Met police dealing with at least one dangerous dog a day, figures show",https://www.theguardian.com/uk-news/2023/jun/04/met-police-dealing-with-at-least-one-dangerous-dog-a-day-figures-show,3,0.057,0.192,0.751,-0.9991,Guardian,2023-06-04,20
+5,"Nice to teach you: Brucie can help boost children’s speech, says classics professor",https://www.theguardian.com/education/2023/jun/04/brucey-and-caesar-can-help-children-improve-oracy-says-classic-professor,4,0.101,0.053,0.846,0.9899,Guardian,2023-06-04,20
+6,Poland: hundreds of thousands march against rightwing populist government,https://www.theguardian.com/world/2023/jun/04/poland-hundreds-of-thousands-march-against-rightwing-populist-government,5,0.115,0.079,0.807,0.9926,Guardian,2023-06-04,20
+7,‘What sprocket left that bike there?’ My life as a pedestrian in badly behaved Britain,https://www.theguardian.com/lifeandstyle/2023/jun/04/what-sprocket-left-that-bike-there-my-life-as-a-pedestrian-in-badly-behaved-britain,6,0.049,0.11,0.841,-0.9844,Guardian,2023-06-04,20
+8,I moved from the city to the suburbs – and I can’t believe my luck,https://www.theguardian.com/commentisfree/2023/jun/04/i-moved-from-the-city-to-the-suburbs-and-i-cant-believe-my-luck,7,0.109,0.045,0.846,0.9944,Guardian,2023-06-04,20
+9,I love electric vehicles – and was an early adopter. But increasingly I feel duped,https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson,8,0.094,0.063,0.843,0.992,Guardian,2023-06-04,20
+10,England rocked as Jack Leach ruled out of Ashes with stress fracture of back,https://www.theguardian.com/sport/2023/jun/04/england-rocked-as-jack-leach-ruled-out-of-ashes-with-stress-fracture-of-back,9,0.054,0.062,0.884,-0.6428,Guardian,2023-06-04,20
