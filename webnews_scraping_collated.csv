@@ -7159,3 +7159,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,I moved from the city to the suburbs – and I can’t believe my luck,https://www.theguardian.com/commentisfree/2023/jun/04/i-moved-from-the-city-to-the-suburbs-and-i-cant-believe-my-luck,7,0.109,0.045,0.846,0.9944,Guardian,2023-06-04,20
 9,I love electric vehicles – and was an early adopter. But increasingly I feel duped,https://www.theguardian.com/commentisfree/2023/jun/03/electric-vehicles-early-adopter-petrol-car-ev-environment-rowan-atkinson,8,0.094,0.063,0.843,0.992,Guardian,2023-06-04,20
 10,England rocked as Jack Leach ruled out of Ashes with stress fracture of back,https://www.theguardian.com/sport/2023/jun/04/england-rocked-as-jack-leach-ruled-out-of-ashes-with-stress-fracture-of-back,9,0.054,0.062,0.884,-0.6428,Guardian,2023-06-04,20
+1,Russia says it thwarted major Ukrainian offensive,https://www.bbc.co.uk/news/world-europe-65806152,0,0.09,0.146,0.765,-0.9856,BBC,2023-06-05,8
+2,Woman pardoned after 20 years in jail for baby deaths,https://www.bbc.co.uk/news/world-australia-65806606,1,0.089,0.135,0.776,-0.992,BBC,2023-06-05,8
+3,War with US would be unbearable disaster - China minister,https://www.bbc.co.uk/news/world-asia-china-65803311,2,0.055,0.131,0.813,-0.994,BBC,2023-06-05,8
+4,Solar panels - an eco-disaster waiting to happen?,https://www.bbc.co.uk/news/science-environment-65602519,3,0.092,0.024,0.883,0.9975,BBC,2023-06-05,8
+5,Huge anti-government protest in Polish capital Warsaw,https://www.bbc.co.uk/news/world-europe-65803318,4,0.049,0.099,0.852,-0.9602,BBC,2023-06-05,8
+6,Oil prices rise as Saudi Arabia pledges output cuts,https://www.bbc.co.uk/news/business-65804768,5,0.043,0.127,0.83,-0.9927,BBC,2023-06-05,8
+7,Kashmir battles alarming drug addiction crisis,https://www.bbc.co.uk/news/world-asia-india-65744378,6,0.071,0.095,0.833,-0.9908,BBC,2023-06-05,8
+8,Afghan women face 'pandemic of suicidal thoughts',https://www.bbc.co.uk/news/world-asia-65765399,7,0.065,0.163,0.772,-0.9992,BBC,2023-06-05,8
+9,The mums and babies heading home to the front line,https://www.bbc.co.uk/news/world-europe-65778235,8,0.11,0.086,0.804,0.9044,BBC,2023-06-05,8
+10,Musk snaps up top NBCUniversal executive for Twitter,https://www.bbc.co.uk/news/business-65806686,9,0.059,0.038,0.904,0.8718,BBC,2023-06-05,8
+1,"Florida businessman says his daughter, granddaughter and nanny were on private Cessna which crashed in Virginia - as Pentagon says its fighter jets did NOT shoot it down but used flares to try to get the attention of its 'unresponsive pilot' 
+",https://www.dailymail.co.uk/news/article-12158275/Explosion-heard-DC-shakes-ground-compared-earthquake-online.html,0,0.035,0.083,0.883,-0.9922,Daily Mail,2023-06-05,8
+2,"Kanye West sports shoulder-padded top and sock-leggings to play with son Psalm, 4... while 'wife' Bianca Censori is completely hidden beneath a bizarre black dress
+",https://www.dailymail.co.uk/tvshowbiz/article-12158637/Kanye-West-sports-shoulder-padded-Polizei-sock-leggings-play-son-Psalm-LA.html,1,0.096,0.095,0.809,0.0896,Daily Mail,2023-06-05,8
+3,"Caps off to these A-list kids! Here's all the celebrity children who have graduated in the Class of 2023 from Harrison Ford's son Liam to Heather Locklear's daughter Ava
+",https://www.dailymail.co.uk/tvshowbiz/article-12139727/Celebrity-children-graduated-year-Harrison-Fords-son-Heather-Locklears-daughter.html,2,0.178,0.029,0.793,1.0,Daily Mail,2023-06-05,8
+4,"'You are NOT the father:' Former WWE star takes DNA test to prove he's not Rep. Lauren Boebert father after her mother said for years that he was
+",https://www.dailymail.co.uk/news/article-12156613/Former-WWE-star-Stan-Lane-takes-DNA-test-prove-hes-not-Rep-Lauren-Boeberts-father.html,3,0.103,0.048,0.849,0.9886,Daily Mail,2023-06-05,8
+5,"Arnold Schwarzenegger gets candid about crushing moment he told Maria Shriver of his affair with their housekeeper and secret love child... as he reflects on demise of his marriage
+",https://www.dailymail.co.uk/tvshowbiz/article-12158865/Arnold-Schwarzenegger-gets-candid-moment-told-Maria-Shriver-affair-love-child.html,4,0.159,0.087,0.755,0.9981,Daily Mail,2023-06-05,8
+6,"NRA exec and Trump donor says daughter and granddaughter, 2, were killed alongside nanny and pilot in private jet crash that sparked F-16 response as 'unresponsive pilot' flew over the capital
+",https://www.dailymail.co.uk/news/article-12158901/NRA-director-pays-heartbreaking-tribute-daughter-granddaughter-killed-Cessna-crash.html,5,0.041,0.084,0.875,-0.9941,Daily Mail,2023-06-05,8
+7,"'That never happened!' Mark Zuckerberg slams New York Times' claims he was choked out at Jiu-Jitsu tournament after ref said he 'started to snore' while in chokehold 
+",https://www.dailymail.co.uk/news/article-12156221/Mark-Zuckerberg-denies-choked-Jiu-Jitsu-tournament.html,6,0.153,0.059,0.788,0.9986,Daily Mail,2023-06-05,8
+8,"I've worked as an escort to men from all kinds of professions: Here are my five least favourite - and the one that always performs in the bedroom
+",https://www.dailymail.co.uk/femail/article-12150191/Samantha-X-reveals-worst-performing-professions-bedroom.html,7,0.18,0.057,0.764,0.9985,Daily Mail,2023-06-05,8
+9,"Family-of-eight who left their $4,000-a-month California home to move into a $386,000 Texas mansion reveal how relocation saved them THOUSANDS
+",https://www.dailymail.co.uk/femail/article-12137219/Family-eight-left-California-Texas-mansion-reveal-saved-thousands.html,8,0.09,0.033,0.877,0.9916,Daily Mail,2023-06-05,8
+10,"EXCLUSIVE: 'I choose me!' 90210 star Jennie Garth, 51, looks healthy and fit as she hits the gym with her personal trainer in LA - a year after revealing her secret battle with arthritis
+",https://www.dailymail.co.uk/tvshowbiz/article-12153661/Jennie-Garth-seen-staying-active-gym-personal-trainer.html,9,0.082,0.057,0.86,0.7999,Daily Mail,2023-06-05,8
+1,Russia-Ukraine war live: Moscow claims to have repelled ‘major’ attack in Donetsk; Belgorod energy facility on fire,https://www.theguardian.com/world/live/2023/jun/05/russia-ukraine-war-live-moscow-claims-to-have-repelled-major-attack-in-donetsk-belgorod-energy-facility-on-fire,0,0.057,0.146,0.797,-0.9995,Guardian,2023-06-05,8
+2,"Access to contraception has got harder in England, top doctor says",https://www.theguardian.com/society/2023/jun/05/access-to-contraception-has-got-harder-in-england-lesley-regan-davina-mccall,1,0.092,0.075,0.832,0.9657,Guardian,2023-06-05,8
+3,Rise in UK breweries going bust amid thirst for cheaper craft beers,https://www.theguardian.com/business/2023/jun/05/rise-in-uk-breweries-going-bust-amid-thirst-for-cheaper-craft-beers,2,0.014,0.076,0.91,-0.9878,Guardian,2023-06-05,8
+4,Barbie film required so much pink paint it contributed to worldwide shortage,https://www.theguardian.com/film/2023/jun/05/barbie-film-required-so-much-pink-paint-it-contributed-to-worldwide-shortage,3,0.108,0.034,0.858,0.9839,Guardian,2023-06-05,8
+5,"Universal basic income of £1,600 a month to be trialled in two places in England",https://www.theguardian.com/society/2023/jun/04/universal-basic-income-of-1600-pounds-a-month-to-be-trialled-in-england,4,0.113,0.079,0.808,0.9451,Guardian,2023-06-05,8
+6,Kathleen Folbigg pardoned and released after 20 years in jail over deaths of her four children,https://www.theguardian.com/australia-news/2023/jun/05/kathleen-folbigg-pardoned-after-20-years-in-jail-over-deaths-of-her-four-children,5,0.1,0.124,0.776,-0.9813,Guardian,2023-06-05,8
+7,"Sarah Beeny on cancer, love and survival: ‘I always assumed I would die at 39. So I was very impatient’",https://www.theguardian.com/tv-and-radio/2023/jun/05/sarah-beeny-on-cancer-love-and-survival-i-always-assumed-i-would-die-at-39-so-i-was-very-impatient,6,0.128,0.109,0.764,0.98,Guardian,2023-06-05,8
+8,Ministers face legal challenge over cuts to walking and cycling investment in England,https://www.theguardian.com/politics/2023/jun/05/ministers-face-legal-challenge-over-cuts-to-walking-and-cycling-investment-in-england,7,0.1,0.056,0.845,0.9754,Guardian,2023-06-05,8
+9,"Cameron-Osborne austerity years cost UK dearly when Covid struck, says TUC",https://www.theguardian.com/politics/2023/jun/04/cameron-osborne-austerity-years-cost-uk-dearly-covid-tuc-union-claims-inquiry,8,0.094,0.069,0.837,0.9894,Guardian,2023-06-05,8
+10,Bournemouth beach deaths: victims named as Joe Abbess and Sunnah Khan,https://www.theguardian.com/uk-news/2023/jun/04/bournemouth-beach-deaths-joe-abbess-teenager-family-pay-tribute,9,0.08,0.093,0.828,-0.7435,Guardian,2023-06-05,8
