@@ -7199,3 +7199,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Ministers face legal challenge over cuts to walking and cycling investment in England,https://www.theguardian.com/politics/2023/jun/05/ministers-face-legal-challenge-over-cuts-to-walking-and-cycling-investment-in-england,7,0.1,0.056,0.845,0.9754,Guardian,2023-06-05,8
 9,"Cameron-Osborne austerity years cost UK dearly when Covid struck, says TUC",https://www.theguardian.com/politics/2023/jun/04/cameron-osborne-austerity-years-cost-uk-dearly-covid-tuc-union-claims-inquiry,8,0.094,0.069,0.837,0.9894,Guardian,2023-06-05,8
 10,Bournemouth beach deaths: victims named as Joe Abbess and Sunnah Khan,https://www.theguardian.com/uk-news/2023/jun/04/bournemouth-beach-deaths-joe-abbess-teenager-family-pay-tribute,9,0.08,0.093,0.828,-0.7435,Guardian,2023-06-05,8
+1,FBI agent who spied for Russia found dead in prison,https://www.bbc.co.uk/news/world-us-canada-65816862,0,0.015,0.124,0.861,-0.99,BBC,2023-06-05,20
+2,"Apple unveils $3,499 mixed reality headset",https://www.bbc.co.uk/news/technology-65809408,1,0.047,0.02,0.933,0.8364,BBC,2023-06-05,20
+3,"'Offensive actions' under way in east, Ukraine says",https://www.bbc.co.uk/news/world-europe-65813560,2,0.071,0.102,0.826,-0.9828,BBC,2023-06-05,20
+4,Harry surrounded by 'web of unlawful activity',https://www.bbc.co.uk/news/uk-65808672,3,0.07,0.068,0.862,-0.5775,BBC,2023-06-05,20
+5,Why Putin has put this religious art on display,https://www.bbc.co.uk/news/world-europe-65813549,4,0.185,0.061,0.754,0.9981,BBC,2023-06-05,20
+6,Ex-Vice-President Mike Pence joins White House race,https://www.bbc.co.uk/news/world-us-canada-65813361,5,0.102,0.05,0.848,0.9801,BBC,2023-06-05,20
+7,First sprinter to run 100m in under 10 seconds dies,https://www.bbc.co.uk/news/world-us-canada-65692022,6,0.124,0.025,0.85,0.9795,BBC,2023-06-05,20
+8,Sonic boom as US jets pursue unresponsive plane,https://www.bbc.co.uk/news/world-us-canada-65808194,7,0.068,0.058,0.874,0.3254,BBC,2023-06-05,20
+9,Wagner detains Russian officer over 'drunk' attack,https://www.bbc.co.uk/news/world-europe-65809844,8,0.031,0.144,0.825,-0.9935,BBC,2023-06-05,20
+10,Top Australian soldier a liar and bully - Judge,https://www.bbc.co.uk/news/world-australia-65813912,9,0.094,0.162,0.744,-0.9923,BBC,2023-06-05,20
+1,"Florida businessman says his daughter, granddaughter and nanny were on private Cessna which crashed in Virginia - as Pentagon says its fighter jets did NOT shoot it down but used flares to try to get the attention of its 'unresponsive pilot' 
+",https://www.dailymail.co.uk/news/article-12158275/Explosion-heard-DC-shakes-ground-compared-earthquake-online.html,0,0.035,0.083,0.883,-0.9922,Daily Mail,2023-06-05,20
+2,"NRA exec and Trump donor says daughter and granddaughter, 2, were killed alongside nanny and pilot in private jet crash that sparked F-16 response as 'unresponsive pilot' flew over the capital
+",https://www.dailymail.co.uk/news/article-12158901/NRA-director-pays-heartbreaking-tribute-daughter-granddaughter-killed-Cessna-crash.html,1,0.043,0.084,0.874,-0.9939,Daily Mail,2023-06-05,20
+3,"Kanye West sports shoulder-padded top and sock-leggings to play with son Psalm, 4... while 'wife' Bianca Censori is completely hidden beneath a bizarre black dress
+",https://www.dailymail.co.uk/tvshowbiz/article-12158637/Kanye-West-sports-shoulder-padded-Polizei-sock-leggings-play-son-Psalm-LA.html,2,0.096,0.095,0.809,0.0896,Daily Mail,2023-06-05,20
+4,"Arnold Schwarzenegger gets candid about crushing moment he told Maria Shriver of his affair with their housekeeper and secret love child... as he reflects on demise of his marriage
+",https://www.dailymail.co.uk/tvshowbiz/article-12158865/Arnold-Schwarzenegger-gets-candid-moment-told-Maria-Shriver-affair-love-child.html,3,0.159,0.087,0.755,0.9981,Daily Mail,2023-06-05,20
+5,"REVEALED: GOP donor's daughter and granddaughter, two, who were killed along with their nanny in private jet crash that triggered F-16 fighter jets to scramble above Virginia and cause sonic boom
+",https://www.dailymail.co.uk/news/article-12159021/Trump-MAGA-donors-family-killed-Virginia-Cessna-crash-lost-daughter.html,4,0.045,0.091,0.864,-0.9969,Daily Mail,2023-06-05,20
+6,"Doubles pair are DISQUALIFIED from French Open after ball girl is struck on the shoulder by Miyu Kato shot and left in tears... with their opponents protesting to get original warning upgraded by officials
+",https://www.dailymail.co.uk/sport/tennis/article-12157857/Doubles-pair-disqualified-French-Open-ball-girl-struck-Miyu-Kato.html,5,0.071,0.145,0.784,-0.9906,Daily Mail,2023-06-05,20
+7,"Michael J. Fox takes a tumble on stage during a Back to the Future panel in Philadelphia... after admitting that his Parkinson's battle is getting 'harder'
+",https://www.dailymail.co.uk/tvshowbiz/article-12158899/Michael-J-Fox-takes-tumble-stage-Future-panel.html,6,0.13,0.043,0.827,0.996,Daily Mail,2023-06-05,20
+8,"The Idol makes its SHOCK debut: Lily-Rose Depp goes topless, stars in VERY explicit masturbation scene and poses for THAT graphic selfie in The Weeknd's controversial 'torture porn' series
+",https://www.dailymail.co.uk/tvshowbiz/article-12158931/The-Idol-debuts-Euphoria-creator-Sam-Levinson-returns-sexually-charged-series.html,7,0.099,0.089,0.812,0.9859,Daily Mail,2023-06-05,20
+9,"Barry Newman - best known for his roles in Vanishing Point and Petrocelli - dies at 92
+",https://www.dailymail.co.uk/tvshowbiz/article-12158733/Barry-Newman-died-92-actor-best-known-work-Vanishing-Point-Petrocelli.html,8,0.094,0.047,0.86,0.9627,Daily Mail,2023-06-05,20
+10,"Caps off to these A-list kids! Here's all the celebrity children who have graduated in the Class of 2023 from Harrison Ford's son Liam to Heather Locklear's daughter Ava
+",https://www.dailymail.co.uk/tvshowbiz/article-12139727/Celebrity-children-graduated-year-Harrison-Fords-son-Heather-Locklears-daughter.html,9,0.178,0.029,0.793,1.0,Daily Mail,2023-06-05,20
+1,Tory MP Bob Stewart charged with racially aggravated public order offence,https://www.theguardian.com/uk-news/2023/jun/05/tory-mp-bob-stewart-charged-with-two-public-order-offences,0,0.04,0.186,0.775,-0.9926,Guardian,2023-06-05,20
+2,"Global ‘silver tsunami’ of older cancer patients is coming, experts warn",https://www.theguardian.com/society/2023/jun/05/global-silver-tsunami-of-older-cancer-patients-is-coming-experts-warn,1,0.062,0.179,0.759,-0.9988,Guardian,2023-06-05,20
+3,"Sarah Beeny on cancer, love and survival: ‘I always assumed I would die at 39. So I was very impatient’",https://www.theguardian.com/tv-and-radio/2023/jun/05/sarah-beeny-on-cancer-love-and-survival-i-always-assumed-i-would-die-at-39-so-i-was-very-impatient,2,0.128,0.109,0.764,0.98,Guardian,2023-06-05,20
+4,Wagner captures Russian commander as Prigozhin feud with army escalates,https://www.theguardian.com/world/2023/jun/05/wagner-group-release-video-of-captured-russian-commander,3,0.049,0.114,0.837,-0.9861,Guardian,2023-06-05,20
+5,Rish! as prime minister makes 2017’s Maybot sound like advanced AI,https://www.theguardian.com/politics/2023/jun/05/rish-as-prime-minister-makes-2017s-maybot-sound-like-advanced-ai,4,0.109,0.117,0.774,-0.9606,Guardian,2023-06-05,20
+6,Ukraine’s troops attack along front in apparent precursor to counteroffensive,https://www.theguardian.com/world/2023/jun/05/ukrainian-troops-launch-attacks-along-donetsk-frontline,5,0.081,0.125,0.794,-0.9927,Guardian,2023-06-05,20
+7,Headache for legal team as Harry skips first day of phone-hacking trial,https://www.theguardian.com/uk-news/2023/jun/05/headache-for-legal-team-as-harry-skips-first-day-of-phone-hacking-trial,6,0.068,0.067,0.865,-0.6136,Guardian,2023-06-05,20
+8,Bournemouth beach deaths inquest told riptide may have led to drowning ,https://www.theguardian.com/uk-news/2023/jun/05/bournemouth-beach-deaths-inquest-told-riptide-may-have-led-to-drowning,7,0.034,0.098,0.869,-0.9895,Guardian,2023-06-05,20
+9,Apple reveals Vision Pro AR headset at its worldwide developers conference,https://www.theguardian.com/technology/2023/jun/05/apple-vision-pro-ar-headset-revealed-worldwide-developers-conference,8,0.122,0.027,0.852,0.9976,Guardian,2023-06-05,20
+10,DJ Paul Oakenfold accused of sexual harassment by former assistant,https://www.theguardian.com/music/2023/jun/05/dj-paul-oakenfold-accused-of-sexual-harassment-by-former-assistant,9,0.08,0.109,0.811,-0.8968,Guardian,2023-06-05,20
