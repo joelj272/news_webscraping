@@ -7239,3 +7239,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Bournemouth beach deaths inquest told riptide may have led to drowning ,https://www.theguardian.com/uk-news/2023/jun/05/bournemouth-beach-deaths-inquest-told-riptide-may-have-led-to-drowning,7,0.034,0.098,0.869,-0.9895,Guardian,2023-06-05,20
 9,Apple reveals Vision Pro AR headset at its worldwide developers conference,https://www.theguardian.com/technology/2023/jun/05/apple-vision-pro-ar-headset-revealed-worldwide-developers-conference,8,0.122,0.027,0.852,0.9976,Guardian,2023-06-05,20
 10,DJ Paul Oakenfold accused of sexual harassment by former assistant,https://www.theguardian.com/music/2023/jun/05/dj-paul-oakenfold-accused-of-sexual-harassment-by-former-assistant,9,0.08,0.109,0.811,-0.8968,Guardian,2023-06-05,20
+1,What we know about Ukraine dam attack,https://www.bbc.co.uk/news/world-europe-65818705,0,0.038,0.121,0.841,-0.9942,BBC,2023-06-06,8
+2,FBI agent who spied for Russia found dead in prison,https://www.bbc.co.uk/news/world-us-canada-65816862,1,0.044,0.122,0.834,-0.9925,BBC,2023-06-06,8
+3,"Ukraine troops advance on eastern front, Kyiv says",https://www.bbc.co.uk/news/world-europe-65813560,2,0.077,0.117,0.806,-0.9923,BBC,2023-06-06,8
+4,Inside the Taliban's drug war - opium poppy crops slashed,https://www.bbc.co.uk/news/world-asia-65787391,3,0.041,0.12,0.839,-0.9994,BBC,2023-06-06,8
+5,Second plane carrying migrants arrives in California,https://www.bbc.co.uk/news/world-us-canada-65813360,4,0.038,0.037,0.925,-0.2263,BBC,2023-06-06,8
+6,"Apple unveils $3,499 mixed reality headset",https://www.bbc.co.uk/news/technology-65809408,5,0.044,0.025,0.931,0.9187,BBC,2023-06-06,8
+7,Can UK’s Storm Shadow missiles change Ukraine war?,https://www.bbc.co.uk/news/world-europe-65813770,6,0.095,0.078,0.827,0.9158,BBC,2023-06-06,8
+8,TLC: How we made (and survived) CrazySexyCool,https://www.bbc.co.uk/news/entertainment-arts-50417292,7,0.133,0.049,0.818,0.9993,BBC,2023-06-06,8
+9,Mystery Virginia plane crash debris 'highly fragmented',https://www.bbc.co.uk/news/world-us-canada-65814758,8,0.067,0.072,0.86,-0.8823,BBC,2023-06-06,8
+10,Drugs and a US visa: Harry's other court case explained,https://www.bbc.co.uk/news/world-us-canada-65781119,9,0.057,0.053,0.89,-0.5592,BBC,2023-06-06,8
+1,"Doubles pair are DISQUALIFIED from French Open after ball girl is struck on the shoulder by Miyu Kato shot and left in tears... with their opponents protesting to get original warning upgraded by officials
+",https://www.dailymail.co.uk/sport/tennis/article-12157857/Doubles-pair-disqualified-French-Open-ball-girl-struck-Miyu-Kato.html,0,0.071,0.145,0.784,-0.9906,Daily Mail,2023-06-06,8
+2,"NRA exec and Trump donor says daughter and granddaughter, 2, were killed alongside nanny and pilot in private jet crash that sparked F-16 response as 'unresponsive pilot' flew over the capital
+",https://www.dailymail.co.uk/news/article-12158901/NRA-director-pays-heartbreaking-tribute-daughter-granddaughter-killed-Cessna-crash.html,1,0.043,0.084,0.874,-0.9939,Daily Mail,2023-06-06,8
+3,"Taylor Swift and Matty Healy SPLIT! Singer and The 1975 rocker go their separate ways following whirlwind two-month romance - hot on the heels from her break-up with Joe Alwyn
+",https://www.dailymail.co.uk/tvshowbiz/article-12161995/Taylor-Swift-Matty-Healy-SPLIT-Singer-1975-rocker-separate-ways.html,2,0.151,0.069,0.78,0.9999,Daily Mail,2023-06-06,8
+4,"REVEALED: GOP donor's daughter and granddaughter, two, who were killed along with their nanny in private jet crash that triggered F-16 fighter jets to scramble above Virginia and cause sonic boom
+",https://www.dailymail.co.uk/news/article-12159021/Trump-MAGA-donors-family-killed-Virginia-Cessna-crash-lost-daughter.html,3,0.045,0.091,0.864,-0.9969,Daily Mail,2023-06-06,8
+5,"Kanye West sports shoulder-padded top and sock-leggings to play with son Psalm, 4... while 'wife' Bianca Censori is completely hidden beneath a bizarre black dress
+",https://www.dailymail.co.uk/tvshowbiz/article-12158637/Kanye-West-sports-shoulder-padded-Polizei-sock-leggings-play-son-Psalm-LA.html,4,0.096,0.095,0.809,0.0896,Daily Mail,2023-06-06,8
+6,"EXCLUSIVE: Vanderpump Rules vet Brittany Cartwright shows off stunning figure for Cupshe bikini shoot after 40lb weight loss: 'I've been working out hard'
+",https://www.dailymail.co.uk/tvshowbiz/article-12150361/Vanderpump-Rules-vet-Brittany-Cartwright-shows-stunning-figure-Cupshe.html,5,0.231,0.039,0.73,0.9991,Daily Mail,2023-06-06,8
+7,"Mystery epidemic of colon cancer in young people laid bare: Cases have DOUBLED in under-40s by 2030, it'll be the number one cancer killer, and experts believe bad diets or fungus is to blame
+",https://www.dailymail.co.uk/health/article-12156615/Cancer-epidemic-young-people-laid-bare-colorectal-cancer-cases-40s-DOUBLED-2030.html,6,0.037,0.195,0.768,-0.9997,Daily Mail,2023-06-06,8
+8,"The Idol makes its SHOCK debut: Lily-Rose Depp goes topless, stars in VERY explicit masturbation scene and poses for THAT graphic selfie in The Weeknd's controversial 'torture porn' series
+",https://www.dailymail.co.uk/tvshowbiz/article-12158931/The-Idol-debuts-Euphoria-creator-Sam-Levinson-returns-sexually-charged-series.html,7,0.099,0.089,0.812,0.9859,Daily Mail,2023-06-06,8
+9,"EXCLUSIVE: Gloomy Elizabeth Holmes - aka Inmate 24965-111- walks the yard in prison-issue khakis wearing her wedding band as insiders claim the Theranos fraudster has been 'twitchy' and 'nervous' as she begins 11-year sentence
+",https://www.dailymail.co.uk/news/article-12153161/Elizabeth-Holmes-seen-prison-yard-federal-Texas-lockup-second-day-11-year-sentence.html,8,0.067,0.124,0.81,-0.9965,Daily Mail,2023-06-06,8
+10,"Tim Scott tears into The View: Calls their comments on African-American kids 'dangerous, offensive, disgusting' - and slams them for cutting to commercial every time he responds
+",https://www.dailymail.co.uk/news/article-12161273/Tim-Scott-tells-View-hosts-comments-black-kids-dangerous-offensive-disgusting.html,9,0.076,0.036,0.888,0.9827,Daily Mail,2023-06-06,8
+1,Russia-Ukraine war live: evacuations under way near Kherson after destruction of dam prompts flooding,https://www.theguardian.com/world/live/2023/jun/06/russia-ukraine-war-live-dam-near-kherson-blown-up-by-russian-forces-ukrainian-military-says,0,0.039,0.146,0.815,-0.9999,Guardian,2023-06-06,8
+2,"At 12, I was in Auschwitz. My parents and seven siblings were murdered. Here is how I built a life",https://www.theguardian.com/lifeandstyle/2023/jun/06/at-12-i-was-in-auschwitz-my-parents-and-seven-siblings-were-murdered-here-is-how-i-built-a-life,1,0.092,0.11,0.798,-0.9968,Guardian,2023-06-06,8
+3,Hard-pressed UK shoppers feel food ‘shrinkflation’,https://www.theguardian.com/business/2023/jun/06/hard-pressed-shoppers-feel-food-shrinkflation,2,0.111,0.055,0.834,0.9917,Guardian,2023-06-06,8
+4,Ducking hell! Apple to tweak autocorrect that replaces one of the most common expletives,https://www.theguardian.com/technology/2023/jun/06/ducking-hell-apple-to-tweak-autocorrect-that-replaces-one-of-the-most-common-expletives,3,0.072,0.037,0.891,0.8197,Guardian,2023-06-06,8
+5,A campaign against inheritance tax led by a multimillionaire? These really are desperate times for the Tories,https://www.theguardian.com/commentisfree/2023/jun/06/inheritance-tax-multimillionaire-desperate-tories-nadhim-zahawi,4,0.129,0.087,0.784,0.9949,Guardian,2023-06-06,8
+6,Lewis Capaldi ‘extremely sorry’ for cancelling gigs to rest for Glastonbury,https://www.theguardian.com/music/2023/jun/05/lewis-capaldi-extremely-sorry-for-cancelling-gigs-to-rest-for-glastonbury,5,0.149,0.048,0.804,0.9896,Guardian,2023-06-06,8
+7,EHRC discord deepens after inquiry into complaints against chair paused,https://www.theguardian.com/society/2023/jun/06/ehrc-discord-deepens-after-inquiry-into-complaints-against-chair-paused,6,0.075,0.094,0.83,-0.9841,Guardian,2023-06-06,8
+8,Rish! as prime minister makes 2017’s Maybot sound like advanced AI,https://www.theguardian.com/politics/2023/jun/05/rish-as-prime-minister-makes-2017s-maybot-sound-like-advanced-ai,7,0.109,0.117,0.774,-0.9606,Guardian,2023-06-06,8
+9,Sunak urged to distance himself from Tories who dismiss air pollution risks,https://www.theguardian.com/environment/2023/jun/06/rishi-sunak-tories-air-pollution-ulez-expansion-scientists-letter,8,0.068,0.141,0.792,-0.9972,Guardian,2023-06-06,8
+10,The Idol review – light bondage and heavy sleaze make for the ultimate try-hard TV,https://www.theguardian.com/tv-and-radio/2023/jun/05/the-idol-review-light-bondage-and-lots-of-sleaze-make-for-the-ultimate-try-hard-tv,9,0.116,0.126,0.758,-0.8912,Guardian,2023-06-06,8
