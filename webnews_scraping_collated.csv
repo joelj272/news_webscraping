@@ -7279,3 +7279,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Rish! as prime minister makes 2017’s Maybot sound like advanced AI,https://www.theguardian.com/politics/2023/jun/05/rish-as-prime-minister-makes-2017s-maybot-sound-like-advanced-ai,7,0.109,0.117,0.774,-0.9606,Guardian,2023-06-06,8
 9,Sunak urged to distance himself from Tories who dismiss air pollution risks,https://www.theguardian.com/environment/2023/jun/06/rishi-sunak-tories-air-pollution-ulez-expansion-scientists-letter,8,0.068,0.141,0.792,-0.9972,Guardian,2023-06-06,8
 10,The Idol review – light bondage and heavy sleaze make for the ultimate try-hard TV,https://www.theguardian.com/tv-and-radio/2023/jun/05/the-idol-review-light-bondage-and-lots-of-sleaze-make-for-the-ultimate-try-hard-tv,9,0.116,0.126,0.758,-0.8912,Guardian,2023-06-06,8
+1,Floods sweep region after huge Ukraine dam destroyed,https://www.bbc.co.uk/news/world-europe-65819591,0,0.048,0.158,0.793,-0.9993,BBC,2023-06-06,20
+2,Canada wildfire smoke threatens health of millions,https://www.bbc.co.uk/news/world-us-canada-65828469,1,0.027,0.039,0.934,-0.8291,BBC,2023-06-06,20
+3,Russia and Wagner clash over Ukraine attack claims,https://www.bbc.co.uk/news/world-europe-65825304,2,0.063,0.179,0.758,-0.9974,BBC,2023-06-06,20
+4,Breaching the Kakhovka dam – who benefits?,https://www.bbc.co.uk/news/world-europe-65821052,3,0.055,0.096,0.849,-0.9819,BBC,2023-06-06,20
+5,Canada serial killer's prison move sparks anger,https://www.bbc.co.uk/news/world-us-canada-65816586,4,0.063,0.221,0.717,-0.9964,BBC,2023-06-06,20
+6,Hearings start in fight over Harry's US visa files,https://www.bbc.co.uk/news/world-us-canada-65794858,5,0.056,0.051,0.893,0.0041,BBC,2023-06-06,20
+7,Harry: I couldn't trust anyone due to phone hacking,https://www.bbc.co.uk/news/uk-65818521,6,0.047,0.106,0.847,-0.9947,BBC,2023-06-06,20
+8,Thor role was pointless acting - Anthony Hopkins,https://www.bbc.co.uk/news/uk-wales-65819559,7,0.112,0.023,0.865,0.9743,BBC,2023-06-06,20
+9,How did Prince Harry handle his day in court?,https://www.bbc.co.uk/news/uk-65827802,8,0.064,0.088,0.849,-0.9741,BBC,2023-06-06,20
+10,Cuba Gooding Jr settles rape case before civil trial,https://www.bbc.co.uk/news/entertainment-arts-65825715,9,0.041,0.101,0.858,-0.9649,BBC,2023-06-06,20
+1,"Doubles pair are DISQUALIFIED from French Open after ball girl is struck on the shoulder by Miyu Kato shot and left in tears... with their opponents protesting to get original warning upgraded by officials
+",https://www.dailymail.co.uk/sport/tennis/article-12157857/Doubles-pair-disqualified-French-Open-ball-girl-struck-Miyu-Kato.html,0,0.071,0.145,0.784,-0.9906,Daily Mail,2023-06-06,20
+2,"EXCLUSIVE: Vanderpump Rules vet Brittany Cartwright shows off stunning figure for Cupshe bikini shoot after 40lb weight loss: 'I've been working out hard'
+",https://www.dailymail.co.uk/tvshowbiz/article-12150361/Vanderpump-Rules-vet-Brittany-Cartwright-shows-stunning-figure-Cupshe.html,1,0.22,0.04,0.74,0.9989,Daily Mail,2023-06-06,20
+3,"'Wondering if I dodged a bullet, or just lost the love of my life': Taylor Swift's voice breaks as she performs emotional breakup song during Eras Tour... amid Matty Healy split
+",https://www.dailymail.co.uk/tvshowbiz/article-12162873/Taylor-Swifts-voice-breaks-emotional-breakup-song-amid-Matty-Healy-split.html,2,0.15,0.043,0.808,0.9982,Daily Mail,2023-06-06,20
+4,"Prince Harry brands UK government 'rock bottom', calls Diana's butler a 'two-faced s***' and says stories that 'James Hewitt was his father' made him fear 'he'd be ousted from the Royal Family' in statement at Mirror publisher hacking case
+",https://www.dailymail.co.uk/news/article-12164519/Prince-Harry-brands-government-rock-bottom-statement-Mirror-publisher-hacking-case.html,3,0.07,0.089,0.842,-0.9978,Daily Mail,2023-06-06,20
+5,"Taylor Swift and Matty Healy SPLIT! Singer and The 1975 rocker go their separate ways following whirlwind two-month romance - hot on the heels from her break-up with Joe Alwyn
+",https://www.dailymail.co.uk/tvshowbiz/article-12161995/Taylor-Swift-Matty-Healy-SPLIT-Singer-1975-rocker-separate-ways.html,4,0.151,0.069,0.78,0.9999,Daily Mail,2023-06-06,20
+6,"Lawyer accuses Prince Harry of being 'in the realms of total speculation' after Duke tells court he 'isn't sure' whether his phone was hacked - as he suggests Charles's voicemails were intercepted 
+",https://www.dailymail.co.uk/news/article-12165259/Prince-Harry-accused-realms-total-speculation-hacking-trial.html,5,0.068,0.08,0.852,-0.997,Daily Mail,2023-06-06,20
+7,"Ex-boyfriend, 18, repeatedly stabs star Florida high school softball player, 17, and her mother outside a busy restaurant before cutting his own throat
+",https://www.dailymail.co.uk/news/article-12162993/Ex-boyfriend-repeatedly-stabs-star-Florida-high-school-softball-player-cutting-throat.html,6,0.08,0.14,0.78,-0.978,Daily Mail,2023-06-06,20
+8,"Inside the 15-year manhunt to find Boston's serial rape suspect: FBI used 'forensic investigative genetic genealogy' to identify New Jersey attorney and obtained evidence from a drinking glass he used at corporate event
+",https://www.dailymail.co.uk/news/article-12162277/Inside-15-year-manhunt-Bostons-serial-rape-suspect.html,7,0.066,0.171,0.763,-0.9997,Daily Mail,2023-06-06,20
+9,"When tragedy strikes twice: Hamptons realtor, 48, killed with her 'miracle baby' in Cessna plane crash was adopted by Trump donor and his wife at the age of 40 because she reminded them of the daughter they lost in 1994
+",https://www.dailymail.co.uk/news/article-12163159/Trump-donor-couple-adopted-New-York-real-estate-agent-40-years-old.html,8,0.113,0.08,0.807,0.9957,Daily Mail,2023-06-06,20
+10,"Friends of Cameron Robbins and partygoers on booze cruise are slammed for shouting 'bye bye' at high school baseball star before he jumped in Caribbean Sea and vanished 
+",https://www.dailymail.co.uk/news/article-12161297/Partygoers-slammed-shouting-bye-bye-Cameron-Robbins-jumped-overboard-sea.html,9,0.12,0.084,0.796,0.9938,Daily Mail,2023-06-06,20
+1,Thousands flee homes as collapse of dam is blamed on Russian forces,https://www.theguardian.com/world/2023/jun/06/ukraine-accuses-russia-of-blowing-up-nova-kakhovka-dam-near-kherson,0,0.039,0.155,0.806,-0.9997,Guardian,2023-06-06,20
+2,Russia-Ukraine war live: Zelenskiy aide blames Russia for blowing up dam; White House ‘assessing’ if attack is war crime,https://www.theguardian.com/world/live/2023/jun/06/russia-ukraine-war-live-dam-near-kherson-blown-up-by-russian-forces-ukrainian-military-says,1,0.066,0.156,0.778,-0.9999,Guardian,2023-06-06,20
+3,And a big welcome back to Holly! But lose the sanctimony – it’s not OK with the British public ,https://www.theguardian.com/commentisfree/2023/jun/06/this-morning-holly-willoughby-phillip-schofield-sanctimony-crystals,2,0.102,0.075,0.823,0.9862,Guardian,2023-06-06,20
+4,US urged to reveal UFO evidence after claim that it has intact alien vehicles,https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft,3,0.069,0.039,0.892,0.971,Guardian,2023-06-06,20
+5,"Britain’s government and press at rock bottom, Prince Harry tells court",https://www.theguardian.com/uk-news/2023/jun/06/prince-harry-tells-court-britains-government-and-press-at-rock-bottom,4,0.057,0.097,0.846,-0.9355,Guardian,2023-06-06,20
+6,Biden ‘knew of Ukrainian plan to attack Nord Stream’ three months before explosion,https://www.theguardian.com/business/2023/jun/06/biden-knew-of-plan-to-attack-nord-stream-three-months-before-explosion,5,0.078,0.093,0.829,-0.7906,Guardian,2023-06-06,20
+7,‘A biblical deluge’: people along Dnipro river wake up to catastrophe,https://www.theguardian.com/world/2023/jun/06/an-explosion-then-another-human-and-ecological-catastrophe-began-in-ukraine,6,0.046,0.115,0.839,-0.9989,Guardian,2023-06-06,20
+8,From the gents to the witness box – Harry has little to say,https://www.theguardian.com/uk-news/2023/jun/06/from-the-gents-to-the-witness-box-harry-has-little-to-say,7,0.126,0.08,0.794,0.9959,Guardian,2023-06-06,20
+9,London school drops ‘Sir’ and ‘Miss’ honorifics to fight cultural misogyny,https://www.theguardian.com/education/2023/jun/06/london-school-drops-sir-and-miss-honorifics-to-fight-cultural-misogyny,8,0.136,0.036,0.828,0.9966,Guardian,2023-06-06,20
+10,Walking and yoga ‘can cut risk of cancer spreading or returning’,https://www.theguardian.com/society/2023/jun/06/walking-and-yoga-can-cut-risk-of-cancer-spreading-or-returning,9,0.098,0.131,0.771,-0.9906,Guardian,2023-06-06,20
