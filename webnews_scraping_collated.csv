@@ -7359,3 +7359,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,And a big welcome back to Holly! But lose the sanctimony – it’s not OK with the British public ,https://www.theguardian.com/commentisfree/2023/jun/06/this-morning-holly-willoughby-phillip-schofield-sanctimony-crystals,7,0.102,0.075,0.823,0.9862,Guardian,2023-06-07,8
 9,"No milk, no rolled oats and always add salt: how to make porridge like a champion",https://www.theguardian.com/food/2023/jun/06/how-to-make-porridge-like-a-champion-toby-wilson-australian-chef-world-porridge-making-championship,8,0.154,0.03,0.817,0.9989,Guardian,2023-06-07,8
 10,Rishi Sunak’s White House jolly can’t mask the fact that Brexit Britain is a fading power ,https://www.theguardian.com/commentisfree/2023/jun/07/rishi-sunak-white-house-summit-brexit-britain-washington-europe-joe-biden,9,0.116,0.048,0.836,0.9977,Guardian,2023-06-07,8
+1,Harry was suspicious about lap dance tabloid story,https://www.bbc.co.uk/news/uk-65831289,0,0.047,0.099,0.854,-0.9931,BBC,2023-06-07,20
+2,Maps and images show scale of Ukraine dam floods,https://www.bbc.co.uk/news/world-europe-65836103,1,0.04,0.081,0.879,-0.9741,BBC,2023-06-07,20
+3,Crocodile found to have made herself pregnant,https://www.bbc.co.uk/news/science-environment-65834167,2,0.048,0.013,0.94,0.8998,BBC,2023-06-07,20
+4,Pence tears into Trump at 2024 campaign launch,https://www.bbc.co.uk/news/world-us-canada-65839793,3,0.072,0.081,0.847,-0.7314,BBC,2023-06-07,20
+5,Canada wildfire smoke prompts air quality alerts,https://www.bbc.co.uk/news/world-us-canada-65828469,4,0.031,0.06,0.909,-0.9663,BBC,2023-06-07,20
+6,Florida woman arrested in killing of neighbour,https://www.bbc.co.uk/news/world-us-canada-65837876,5,0.029,0.15,0.821,-0.9962,BBC,2023-06-07,20
+7,Student and stepfather killed at Virginia graduation,https://www.bbc.co.uk/news/world-us-canada-65829241,6,0.069,0.145,0.787,-0.9891,BBC,2023-06-07,20
+8,US cancer drug shortage hits thousands of patients,https://www.bbc.co.uk/news/world-us-canada-65791190,7,0.076,0.145,0.779,-0.9947,BBC,2023-06-07,20
+9,Parkland officer tried for failing to stop shooting,https://www.bbc.co.uk/news/world-us-canada-65836316,8,0.031,0.236,0.733,-0.9991,BBC,2023-06-07,20
+10,Egypt bans Dutch archaeologists over music exhibit,https://www.bbc.co.uk/news/world-middle-east-65835611,9,0.026,0.119,0.855,-0.9929,BBC,2023-06-07,20
+1,"Elliot Page claims he had sex with Juno co-star Olivia Thirlby 'all the time' as they filmed hit 2007 movie: 'I had an all-encompassing desire for her'
+",https://www.dailymail.co.uk/tvshowbiz/article-12166997/Elliot-Page-claims-sex-Juno-star-Olivia-Thirlby-time-filming.html,0,0.134,0.051,0.815,0.9985,Daily Mail,2023-06-07,20
+2,"Ariana Madix and Katie Maloney comfort sobbing former Vanderpump Rules co-star Dayna Kathan after the tragic death of her beloved cat Leo 
+",https://www.dailymail.co.uk/tvshowbiz/article-12166559/Ariana-Madix-comforts-former-Vanderpump-Rules-star-Dayna-Kathan-death-cat.html,1,0.135,0.072,0.792,0.9937,Daily Mail,2023-06-07,20
+3,"Terrifying moment gunman opens fire at Virginia high school graduation as students duck for cover in mass shooting that left two men, 18 and 36, dead and seven hospitalized: Cops arrest suspect, 19, who 'knew one of the victims' 
+",https://www.dailymail.co.uk/news/article-12167101/At-four-shot-Virginia-high-school-graduation-ceremony.html,2,0.057,0.146,0.797,-0.9988,Daily Mail,2023-06-07,20
+4,"EXCLUSIVE: From jailbird to lovebird! Elizabeth Holmes BREAKS prison protocol by holding hands with husband Billy Evans as he and her parents make emotional seven-hour visit to see the fraudster in Texas Club Fed
+",https://www.dailymail.co.uk/news/article-12166079/Elizabeth-Holmes-husband-Billy-Evans-visits-federal-prison.html,3,0.065,0.111,0.823,-0.9943,Daily Mail,2023-06-07,20
+5,"Prince Harry tells High Court what he thinks is in the public interest on second day of his evidence at phone hacking trial - amid testy exchange with lawyer who tells him, 'Could I ask the questions?'
+",https://www.dailymail.co.uk/news/article-12168089/Prince-Harrys-phone-hacking-trial-enters-second-day.html,4,0.054,0.059,0.887,-0.2775,Daily Mail,2023-06-07,20
+6,"Prince Harry admits his Spare memoir contradicts his evidence at hacking trial as he denies solicitors drafted witness statement for him - and tries to turn questions on lawyer as court hears story 'came from a palace press release' 
+",https://www.dailymail.co.uk/news/article-12166105/Harry-admits-Spare-contradicts-evidence-hacking-trial-tries-turn-questions-lawyer.html,5,0.068,0.091,0.842,-0.9985,Daily Mail,2023-06-07,20
+7,"Primal Scream star Martin Duffy was in debt and 'drinking heavily' when he died in fall at home after he became 'distraught' when his bandmates 'abandoned him and cut him out of £5M deal to sell back catalogue', his son tells inquest
+",https://www.dailymail.co.uk/news/article-12165731/Primal-Scream-star-Martin-Duffy-debt-drinking-heavily-died-inquest-hears.html,6,0.103,0.181,0.716,-0.9988,Daily Mail,2023-06-07,20
+8,"Heather Graham, 53, shows off her incredible bikini body in a white two-piece as she frolics on the beach in Jamaica in new Instagram snaps
+",https://www.dailymail.co.uk/tvshowbiz/article-12167805/Heather-Graham-53-shows-incredible-bikini-body-white-two-piece.html,7,0.191,0.016,0.793,0.999,Daily Mail,2023-06-07,20
+9,"White neighbor, 58, is arrested for fatally shooting single black mom-of-four through her front door - as her terrified son, 10, looked on - after TWO YEAR-long dispute over her kids playing outside
+",https://www.dailymail.co.uk/news/article-12168297/Woman-fatally-shot-Florida-mom-four-son-charged-manslaughter.html,8,0.059,0.159,0.782,-0.9998,Daily Mail,2023-06-07,20
+10,"The purr-fect catfish! World record 9ft 4¼in fish is caught in Italian river after the 'monster' put up a 43-minute struggle 
+",https://www.dailymail.co.uk/news/article-12160719/World-record-9ft-4-fish-caught-Italian-river-43-minute-struggle.html,9,0.12,0.102,0.778,0.938,Daily Mail,2023-06-07,20
+1,‘It’s been hell’: Briton tells of harassment in French bridle path dispute,https://www.theguardian.com/world/2023/jun/07/briton-roderick-sinclair-harassment-french-bridle-path-dispute-montjoi,0,0.093,0.126,0.782,-0.9927,Guardian,2023-06-07,20
+2,Boris and Carrie Johnson ‘hosted friend at Chequers during Covid restrictions’ ,https://www.theguardian.com/uk-news/2023/jun/07/boris-and-carrie-johnson-hosted-friend-at-chequers-during-covid-restrictions,1,0.027,0.048,0.925,-0.9211,Guardian,2023-06-07,20
+3,Rish! demonstrates the incapabilities of artificial stupidity during US jolly,https://www.theguardian.com/politics/2023/jun/07/rish-demonstrates-incapabilities-artificial-stupidity-us-jolly,2,0.104,0.141,0.755,-0.9953,Guardian,2023-06-07,20
+4,Chaos on frontlines as Ukraine war threatens to come home for Russia,https://www.theguardian.com/world/2023/jun/07/chaos-on-frontlines-as-ukraine-war-threatens-to-come-home-for-russia,3,0.067,0.132,0.802,-0.9979,Guardian,2023-06-07,20
+5,"Greggs and Pret index reveals England’s true north-south divide, say scientists",https://www.theguardian.com/society/2023/jun/07/greggs-pret-index-north-south-divide-england-scientists,4,0.037,0.041,0.922,-0.7553,Guardian,2023-06-07,20
+6,Fiorentina v West Ham: Europa Conference League final – live,https://www.theguardian.com/football/live/2023/jun/07/fiorentina-v-west-ham-europa-conference-league-final-live-updates,5,0.144,0.067,0.79,0.9995,Guardian,2023-06-07,20
+7,"Russia-Ukraine war live: counteroffensive not yet launched, says senior Kyiv official; Britain ‘cannot yet say Russia responsible for dam destruction’",https://www.theguardian.com/world/live/2023/jun/07/russia-ukraine-war-live-updates-nova-kakhovka-dam-collapse-kherson-oblast-floods-evacuations-flood-flooding-latest-news,6,0.068,0.137,0.795,-0.9998,Guardian,2023-06-07,20
+8,"Lucy Letby texted about doctor ‘crush’ hours before attempt on baby boy’s life, court told",https://www.theguardian.com/uk-news/2023/jun/07/lucy-letby-texted-about-doctor-crush-hours-before-attempt-on-boys-life-court-told,7,0.038,0.069,0.893,-0.9371,Guardian,2023-06-07,20
+9,Heat health alert issued for England this weekend,https://www.theguardian.com/uk-news/2023/jun/07/heat-health-alert-issued-for-england-this-weekend,8,0.087,0.023,0.89,0.97,Guardian,2023-06-07,20
+10,Woking council declares bankruptcy with £1.2bn deficit,https://www.theguardian.com/politics/2023/jun/07/woking-council-declares-bankruptcy-with-12bn-deficit,9,0.056,0.064,0.88,-0.8405,Guardian,2023-06-07,20
