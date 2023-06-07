@@ -7319,3 +7319,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,From the gents to the witness box – Harry has little to say,https://www.theguardian.com/uk-news/2023/jun/06/from-the-gents-to-the-witness-box-harry-has-little-to-say,7,0.126,0.08,0.794,0.9959,Guardian,2023-06-06,20
 9,London school drops ‘Sir’ and ‘Miss’ honorifics to fight cultural misogyny,https://www.theguardian.com/education/2023/jun/06/london-school-drops-sir-and-miss-honorifics-to-fight-cultural-misogyny,8,0.136,0.036,0.828,0.9966,Guardian,2023-06-06,20
 10,Walking and yoga ‘can cut risk of cancer spreading or returning’,https://www.theguardian.com/society/2023/jun/06/walking-and-yoga-can-cut-risk-of-cancer-spreading-or-returning,9,0.098,0.131,0.771,-0.9906,Guardian,2023-06-06,20
+1,Canada wildfire smoke threatens health of millions,https://www.bbc.co.uk/news/world-us-canada-65828469,0,0.028,0.041,0.931,-0.8654,BBC,2023-06-07,8
+2,Why is Japan redefining rape?,https://www.bbc.co.uk/news/world-asia-65762707,1,0.083,0.196,0.721,-0.9998,BBC,2023-06-07,8
+3,Seven shot at Virginia high school graduation,https://www.bbc.co.uk/news/world-us-canada-65829241,2,0.057,0.122,0.821,-0.975,BBC,2023-06-07,8
+4,Breaching the Kakhovka dam – who benefits?,https://www.bbc.co.uk/news/world-europe-65821052,3,0.055,0.096,0.849,-0.9819,BBC,2023-06-07,8
+5,Chris Mason: What Sunak is trying to achieve in the US,https://www.bbc.co.uk/news/uk-politics-65829915,4,0.088,0.027,0.885,0.9881,BBC,2023-06-07,8
+6,"BBC editor tries out Apple's $3,499 headset",https://www.bbc.co.uk/news/technology-65829689,5,0.121,0.037,0.841,0.9985,BBC,2023-06-07,8
+7,'From shock to anger' - how golf reacted to merger,https://www.bbc.co.uk/sport/golf/65827786,6,0.0,0.0,0.0,0.0,BBC,2023-06-07,8
+8,‘My black skin says I don’t belong in Tunisia’,https://www.bbc.co.uk/news/world-africa-65808661,7,0.078,0.119,0.803,-0.9945,BBC,2023-06-07,8
+9,Andrew Tate 'choked me until I passed out',https://www.bbc.co.uk/news/uk-65822365,8,0.058,0.158,0.784,-0.9975,BBC,2023-06-07,8
+10,Russia and Wagner clash over Ukraine attack claims,https://www.bbc.co.uk/news/world-europe-65825304,9,0.063,0.179,0.758,-0.9974,BBC,2023-06-07,8
+1,"Elliot Page claims he had sex with Juno co-star Olivia Thirlby 'all the time' as they filmed hit 2007 movie: 'I had an all-encompassing desire for her'
+",https://www.dailymail.co.uk/tvshowbiz/article-12166997/Elliot-Page-claims-sex-Juno-star-Olivia-Thirlby-time-filming.html,0,0.134,0.051,0.815,0.9985,Daily Mail,2023-06-07,8
+2,"Terrifying moment gunman opens fire at Virginia high school graduation as students duck for cover in mass shooting that left two men, 18 and 36, dead and seven hospitalized: Cops arrest suspect, 19, who 'knew one of the victims' 
+",https://www.dailymail.co.uk/news/article-12167101/At-four-shot-Virginia-high-school-graduation-ceremony.html,1,0.06,0.144,0.797,-0.9987,Daily Mail,2023-06-07,8
+3,"Prince Harry brands UK government 'rock bottom', calls Diana's butler a 'two-faced s***' and says stories that 'James Hewitt was his father' made him fear 'he'd be ousted from the Royal Family' in statement at Mirror publisher hacking case
+",https://www.dailymail.co.uk/news/article-12164519/Prince-Harry-brands-government-rock-bottom-statement-Mirror-publisher-hacking-case.html,2,0.07,0.089,0.842,-0.9978,Daily Mail,2023-06-07,8
+4,"Lawyer accuses Prince Harry of being 'in the realms of total speculation' after Duke tells court he 'isn't sure' whether his phone was hacked - as he suggests Charles's voicemails were intercepted 
+",https://www.dailymail.co.uk/news/article-12165259/Prince-Harry-accused-realms-total-speculation-hacking-trial.html,3,0.068,0.08,0.852,-0.997,Daily Mail,2023-06-07,8
+5,"Prince Harry admits his Spare memoir contradicts his evidence at hacking trial as he denies solicitors drafted witness statement for him - and tries to turn questions on lawyer as court hears story 'came from a palace press release' 
+",https://www.dailymail.co.uk/news/article-12166105/Harry-admits-Spare-contradicts-evidence-hacking-trial-tries-turn-questions-lawyer.html,4,0.068,0.091,0.842,-0.9985,Daily Mail,2023-06-07,8
+6,"EXCLUSIVE: From jailbird to lovebird! Elizabeth Holmes BREAKS prison protocol by holding hands with husband Billy Evans as he and her parents make emotional seven-hour visit to see the fraudster in Texas Club Fed
+",https://www.dailymail.co.uk/news/article-12166079/Elizabeth-Holmes-husband-Billy-Evans-visits-federal-prison.html,5,0.065,0.111,0.823,-0.9943,Daily Mail,2023-06-07,8
+7,"EXCLUSIVE: Vanderpump Rules vet Brittany Cartwright shows off stunning figure for Cupshe bikini shoot after 40lb weight loss: 'I've been working out hard'
+",https://www.dailymail.co.uk/tvshowbiz/article-12150361/Vanderpump-Rules-vet-Brittany-Cartwright-shows-stunning-figure-Cupshe.html,6,0.22,0.04,0.74,0.9989,Daily Mail,2023-06-07,8
+8,"Are YOU guilty of these bad habits? Neuroscientist reveals the three things she AVOIDS at all costs in order to maintain a healthy brain
+",https://www.dailymail.co.uk/femail/article-12166065/Im-neuroscientist-never-things-want-healthy-brain.html,7,0.071,0.077,0.853,-0.3241,Daily Mail,2023-06-07,8
+9,"Military whistleblower says US has recovered 'dead pilots' from craft of 'non-human origin' and that world powers are involved in an 'arms-race' to reverse engineer crashed UFOs
+",https://www.dailymail.co.uk/news/article-12165669/Military-whistleblower-says-recovered-dead-pilots-craft-non-human-origin.html,8,0.074,0.027,0.899,0.9941,Daily Mail,2023-06-07,8
+10,"Deadly bacteria that kills up to 50% of patients now ENDEMIC to US gulf coast, CDC expert says, just a year after it was first detected in the country
+",https://www.dailymail.co.uk/health/article-12165835/Deadly-bacteria-kills-50-patients-ENDEMIC-gulf-coast-CDC-expert-says.html,9,0.038,0.098,0.864,-0.9912,Daily Mail,2023-06-07,8
+1,"£150,000 levelling up grant awarded to Tory donor’s amusement centre in Hastings",https://www.theguardian.com/politics/2023/jun/07/150000-levelling-up-grant-went-to-tory-donor-lubov-chernukhi-amusement-centre-in-hastings,0,0.14,0.014,0.846,0.9984,Guardian,2023-06-07,8
+2,"Russia-Ukraine war live: Kyiv says 42,000 at risk from dam flooding as fears grow for missing people",https://www.theguardian.com/world/live/2023/jun/07/russia-ukraine-war-live-updates-nova-kakhovka-dam-collapse-kherson-oblast-floods-evacuations-flood-flooding-latest-news,1,0.036,0.124,0.84,-0.9993,Guardian,2023-06-07,8
+3,Kakhovka dam flooding before and after: satellite images reveal extent of disaster in Ukraine,https://www.theguardian.com/world/2023/jun/07/kakhovka-dam-flooding-ukraine-before-and-after-satellite-images-reservoir-kherson-oblast,2,0.032,0.154,0.814,-0.9952,Guardian,2023-06-07,8
+4,US urged to reveal UFO evidence after claim that it has intact alien vehicles,https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft,3,0.068,0.041,0.891,0.9682,Guardian,2023-06-07,8
+5,From the gents to the witness box – Harry has little to say,https://www.theguardian.com/uk-news/2023/jun/06/from-the-gents-to-the-witness-box-harry-has-little-to-say,4,0.126,0.08,0.794,0.9959,Guardian,2023-06-07,8
+6,Origins of masturbation traced back to primates 40m years ago,https://www.theguardian.com/science/2023/jun/07/origins-masturbation-traced-back-primates-40m-years-ago,5,0.105,0.031,0.864,0.9895,Guardian,2023-06-07,8
+7,"Oldest carved piece of wood to be found in Britain dates back 6,000 years",https://www.theguardian.com/science/2023/jun/07/oldest-carved-piece-of-wood-to-be-found-in-britain-dates-back-6000-years,6,0.104,0.008,0.888,0.9949,Guardian,2023-06-07,8
+8,And a big welcome back to Holly! But lose the sanctimony – it’s not OK with the British public ,https://www.theguardian.com/commentisfree/2023/jun/06/this-morning-holly-willoughby-phillip-schofield-sanctimony-crystals,7,0.102,0.075,0.823,0.9862,Guardian,2023-06-07,8
+9,"No milk, no rolled oats and always add salt: how to make porridge like a champion",https://www.theguardian.com/food/2023/jun/06/how-to-make-porridge-like-a-champion-toby-wilson-australian-chef-world-porridge-making-championship,8,0.154,0.03,0.817,0.9989,Guardian,2023-06-07,8
+10,Rishi Sunak’s White House jolly can’t mask the fact that Brexit Britain is a fading power ,https://www.theguardian.com/commentisfree/2023/jun/07/rishi-sunak-white-house-summit-brexit-britain-washington-europe-joe-biden,9,0.116,0.048,0.836,0.9977,Guardian,2023-06-07,8
