@@ -7439,3 +7439,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Rishi Sunak reportedly set to accept Boris Johnson’s honours list,https://www.theguardian.com/politics/2023/jun/07/rishi-sunak-reportedly-set-to-accept-boris-johnsons-honours-list,7,0.128,0.075,0.797,0.9817,Guardian,2023-06-08,8
 9,Jodie Comer stops stage performance because of New York air: ‘I can’t breathe’,https://www.theguardian.com/culture/2023/jun/07/jodie-comer-broadway-prima-facie-air-new-york,8,0.118,0.067,0.815,0.9794,Guardian,2023-06-08,8
 10,Russia-Ukraine war live: first Kherson dam flooding deaths; UN nuclear watchdog to strengthen presence at Zaporizhzhia plant,https://www.theguardian.com/world/live/2023/jun/08/russia-ukraine-war-live-first-kherson-dam-flooding-deaths-un-nuclear-watchdog-to-strengthen-presence-at-zaporizhzhia-plant,9,0.07,0.096,0.834,-0.9982,Guardian,2023-06-08,8
+1,Four pre-school children stabbed in French playground,https://www.bbc.co.uk/news/world-europe-65841666,0,0.052,0.17,0.778,-0.9991,BBC,2023-06-08,20
+2,El Niño planet-warming weather phase has begun,https://www.bbc.co.uk/news/science-environment-65839060,1,0.093,0.021,0.886,0.995,BBC,2023-06-08,20
+3,Natalee Holloway disappearance suspect extradited,https://www.bbc.co.uk/news/world-latin-america-65846860,2,0.02,0.106,0.874,-0.9935,BBC,2023-06-08,20
+4,Ammonia pipeline blast may end grain deal - Russia,https://www.bbc.co.uk/news/world-europe-65845441,3,0.044,0.144,0.812,-0.9972,BBC,2023-06-08,20
+5,Catching the men who sell subway groping videos,https://www.bbc.co.uk/news/world-asia-65811838,4,0.082,0.116,0.803,-0.9985,BBC,2023-06-08,20
+6,Rammstein fan alleges she was groomed for sex,https://www.bbc.co.uk/news/uk-northern-ireland-65843882,5,0.058,0.074,0.868,-0.8292,BBC,2023-06-08,20
+7,"Alabama violated voting rights law, top court rules",https://www.bbc.co.uk/news/world-us-canada-65848749,6,0.071,0.048,0.881,0.8078,BBC,2023-06-08,20
+8,Should you wear a mask because of wildfire smoke?,https://www.bbc.co.uk/news/world-us-canada-65843485,7,0.066,0.099,0.834,-0.9842,BBC,2023-06-08,20
+9,Surreal skies grip New Yorkers - in pictures,https://www.bbc.co.uk/news/in-pictures-65843841,8,0.038,0.054,0.907,-0.5267,BBC,2023-06-08,20
+10,Trump told he could face charges over documents,https://www.bbc.co.uk/news/world-us-canada-65839912,9,0.061,0.093,0.847,-0.9575,BBC,2023-06-08,20
+1,"What started the Canadian wildfires? Experts reveal root cause of toxic smoke suffocating America
+",https://www.dailymail.co.uk/news/article-12171711/What-sparked-Canadian-wildfires-wreaking-havoc-US.html,0,0.065,0.106,0.83,-0.9958,Daily Mail,2023-06-08,20
+2,"Never-before-seen CCTV footage from night Brittany Higgins accused Bruce Lehrmann of raping her is revealed - as he alleges it all started with a 'white lie' to keep her job and claims infamous photo of her bruise was 'fabricated' 
+",https://www.dailymail.co.uk/news/article-12157175/Bruce-Lehrmann-breaks-silence-Brittany-Higgins-rape-allegations-7News-Spotlight-TV-interview.html,1,0.074,0.079,0.847,-0.9203,Daily Mail,2023-06-08,20
+3,"EXCLUSIVE: 'She seduced my husband and ruined my life.' Wife of Lauren Boebert's former restaurant chef claims the married politician had him cook intimate meals for her at her home and lavished him with gifts like a $700 golf club and cruise tickets
+",https://www.dailymail.co.uk/news/article-12161681/Lauren-Boebert-accused-seducing-married-man-worked-Colorado-restaurant.html,2,0.071,0.101,0.829,-0.9965,Daily Mail,2023-06-08,20
+4,"So who is Kim Kardashian's mystery guy? Billionaire singleton reveals she had date with 'Fred' at same NYC hotspot where she enjoyed 'secret dinners' with Pete Davidson as she gets grilled about new romance
+",https://www.dailymail.co.uk/tvshowbiz/article-12168029/So-Kim-Kardashians-mystery-guy-Billionaire-singleton-reveals-dined-Fred-NYC.html,3,0.122,0.036,0.841,0.9971,Daily Mail,2023-06-08,20
+5,"NYC Mayor Eric Adams tells ENTIRE city to stay indoors to avoid 'nicotine yellow' wildfire smoke containing toxic nanoparticles - as air pollution in Big Apple becomes the worst on EARTH 
+",https://www.dailymail.co.uk/news/article-12169409/NYC-topped-list-worlds-polluted-cities-overnight-150-Canadian-wildfires.html,4,0.04,0.135,0.825,-0.9996,Daily Mail,2023-06-08,20
+6,"Pat Cooper, stand-up comedian and Robert De Niro's co-star on Analyze This, dead at 93
+",https://www.dailymail.co.uk/tvshowbiz/article-12171603/Pat-Cooper-stand-comedian-Robert-Niros-star-Analyze-dead-93.html,5,0.107,0.057,0.836,0.975,Daily Mail,2023-06-08,20
+7,"'He's going to kill me': Raquel Leviss breaks down in tears as she FINALLY comes clean about secret sex romps with Tom Sandoval while Ariana Madix was at a funeral and reveals she wanted to be in a THROUPLE with them
+",https://www.dailymail.co.uk/tvshowbiz/article-12172213/Raquel-Leviss-cries-FINALLY-comes-clean-post-reunion-secret-sex-romps-Tom-Sandoval.html,6,0.123,0.132,0.744,-0.9824,Daily Mail,2023-06-08,20
+8,"Jennifer Aniston, 54, reveals she has MANY injuries from working out 'too hard' over the past 15 years: 'I just burnt out and broke my body'
+",https://www.dailymail.co.uk/tvshowbiz/article-12166109/Jennifer-Aniston-54-reveals-injuries-working-hard.html,7,0.171,0.053,0.776,0.9994,Daily Mail,2023-06-08,20
+9,"Syrian refugee screaming 'in the name of Jesus Christ' stabs a child in their pram in front of mother as four kids aged 22 months to three - including British girl - are knifed while holidaying at French resort before cops shoot and arrest him
+",https://www.dailymail.co.uk/news/article-12173067/Eight-children-stabbed-knifeman-French-playground-attacker-subdued.html,8,0.05,0.171,0.779,-0.9999,Daily Mail,2023-06-08,20
+10,"Beverly Hills 90210 star Shannen Doherty reveals her breast cancer spread to her brain: Deadly disease has less than five-year survival rate as actress shares images of her undergoing treatment, telling fans: 'This is what cancer can look like'
+",https://www.dailymail.co.uk/health/article-12170125/Shannen-Doherty-reveals-breast-cancer-spread-brain-five-year-survival-rate.html,9,0.065,0.179,0.757,-0.9993,Daily Mail,2023-06-08,20
+1,"Boris Johnson has been given Commons Partygate inquiry findings, say sources",https://www.theguardian.com/politics/2023/jun/08/boris-johnson-has-been-given-commons-partygate-inquiry-findings-say-sources,0,0.056,0.041,0.902,0.8014,Guardian,2023-06-08,20
+2,"Teenage girl who pretended to be boy for sex duped second girl, court told",https://www.theguardian.com/uk-news/2023/jun/08/teenage-girl-georgia-bilham-pretended-to-be-boy-duped-second-girl-sex-court-hears,1,0.024,0.068,0.907,-0.9416,Guardian,2023-06-08,20
+3,Rishi Sunak and Joe Biden seal landmark deal on UK-US cooperation,https://www.theguardian.com/politics/2023/jun/08/rishi-sunak-joe-biden-landmark-deal-uk-us-cooperation-washington-declaration,2,0.103,0.032,0.866,0.9945,Guardian,2023-06-08,20
+4,‘Special’ humpback whale sighting off Cornwall coast delights conservationists,https://www.theguardian.com/uk-news/2023/jun/08/special-humpback-whale-sighting-off-coast-of-cornwall-delights-conservationists,3,0.131,0.01,0.859,0.9978,Guardian,2023-06-08,20
+5,"Ozempic has won, body positivity has lost. And I want no part of it",https://www.theguardian.com/lifeandstyle/2023/jun/08/ozempic-weight-loss-body-positivity,4,0.137,0.091,0.773,0.999,Guardian,2023-06-08,20
+6,Biden and Sunak hold press conference as new transatlantic deal unveiled – as it happened,https://www.theguardian.com/uk-news/live/2023/jun/08/rishi-sunak-joe-biden-washington-white-house-caroline-lucas-latest-politics-updates,5,0.152,0.076,0.772,0.9965,Guardian,2023-06-08,20
+7,Four children and two adults injured in knife attack in French Alps,https://www.theguardian.com/world/2023/jun/08/knife-attack-french-alps-annecy,6,0.06,0.109,0.83,-0.992,Guardian,2023-06-08,20
+8,"Too straight, too samey: How Love Island bored away millions of viewers",https://www.theguardian.com/tv-and-radio/2023/jun/08/too-straight-too-samey-how-love-island-bored-away-millions-of-viewers,7,0.147,0.072,0.781,0.9984,Guardian,2023-06-08,20
+9,Succession withdrawal? Here are the shows to help scratch that itch,https://www.theguardian.com/tv-and-radio/2023/jun/08/succession-like-shows-streaming,8,0.124,0.085,0.79,0.9977,Guardian,2023-06-08,20
+10,My boyfriend’s aggressive dog has stalled our plans to move in together. How can we move forwards?,https://www.theguardian.com/lifeandstyle/2023/jun/09/my-boyfriends-aggressive-dog-has-stalled-our-plans-to-move-in-together-how-can-we-move-forwards,9,0.109,0.107,0.784,0.8141,Guardian,2023-06-08,20
