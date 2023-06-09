@@ -7479,3 +7479,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Too straight, too samey: How Love Island bored away millions of viewers",https://www.theguardian.com/tv-and-radio/2023/jun/08/too-straight-too-samey-how-love-island-bored-away-millions-of-viewers,7,0.147,0.072,0.781,0.9984,Guardian,2023-06-08,20
 9,Succession withdrawal? Here are the shows to help scratch that itch,https://www.theguardian.com/tv-and-radio/2023/jun/08/succession-like-shows-streaming,8,0.124,0.085,0.79,0.9977,Guardian,2023-06-08,20
 10,My boyfriend’s aggressive dog has stalled our plans to move in together. How can we move forwards?,https://www.theguardian.com/lifeandstyle/2023/jun/09/my-boyfriends-aggressive-dog-has-stalled-our-plans-to-move-in-together-how-can-we-move-forwards,9,0.109,0.107,0.784,0.8141,Guardian,2023-06-08,20
+1,'The level of cruelty... it's like Stalin's time',https://www.bbc.co.uk/news/world-europe-65838473,0,0.093,0.139,0.768,-0.9925,BBC,2023-06-09,8
+2,Donald Trump faces seven charges over secret files,https://www.bbc.co.uk/news/world-us-canada-65852062,1,0.096,0.059,0.844,0.9832,BBC,2023-06-09,8
+3,Canada fires spread quickly - help is on the way,https://www.bbc.co.uk/news/world-us-canada-65850628,2,0.089,0.078,0.833,0.4909,BBC,2023-06-09,8
+4,Children stabbed in French park in stable condition,https://www.bbc.co.uk/news/world-europe-65841666,3,0.052,0.173,0.776,-0.9988,BBC,2023-06-09,8
+5,Ukraine army attacks Russian forces in southern region,https://www.bbc.co.uk/news/world-europe-65851760,4,0.053,0.126,0.821,-0.9915,BBC,2023-06-09,8
+6,"Lost girl, 10, survives night in frigid mountains",https://www.bbc.co.uk/news/world-us-canada-65839797,5,0.105,0.066,0.829,0.9792,BBC,2023-06-09,8
+7,Supreme Court backs Jack Daniel's in dog toy row,https://www.bbc.co.uk/news/world-us-canada-65839800,6,0.129,0.035,0.836,0.9922,BBC,2023-06-09,8
+8,The divisive debate over California's anti-caste bill,https://www.bbc.co.uk/news/world-asia-india-65819688,7,0.057,0.075,0.868,-0.9737,BBC,2023-06-09,8
+9,El Niño planet-warming weather phase has begun,https://www.bbc.co.uk/news/science-environment-65839060,8,0.093,0.021,0.886,0.995,BBC,2023-06-09,8
+10,Airline Qantas relaxes gender-based uniform rules,https://www.bbc.co.uk/news/business-65852256,9,0.055,0.047,0.898,0.5563,BBC,2023-06-09,8
+1,"EXCLUSIVE: Hunter Biden laid BARE! Nearly 9,000 photos from his laptop are published by right wing group Marco Polo - a bizarre mix of the First Son taking drugs, frolicking naked with prostitutes and fetching family snaps
+",https://www.dailymail.co.uk/news/article-12166759/Drugs-Naked-women-Family-snapshots-Theyre-mix-9-000-photos-Hunter-Bidens-laptop.html,0,0.061,0.101,0.838,-0.9933,Daily Mail,2023-06-09,8
+2,"Her milkshake brings Bill Murray to the yard! Singer Kelis, 43, 'is dating' funnyman, 72, one year after the death of her husband Mike Mora
+",https://www.dailymail.co.uk/tvshowbiz/article-12175773/Milkshake-singer-Kelis-43-Bill-Murray-72-dating-year-husbands-death.html,1,0.049,0.065,0.886,-0.8762,Daily Mail,2023-06-09,8
+3,"J&J's COVID vaccine taken by 19 million Americans is PULLED by FDA after it was paused 'out of an abundance of caution' over rare blood clot concerns - which led to a plummet in demand 
+",https://www.dailymail.co.uk/health/article-12174791/J-Js-COVID-vaccine-taken-19-MILLION-Americans-pulled-FDA-plummeting-demand.html,2,0.082,0.086,0.833,0.3004,Daily Mail,2023-06-09,8
+4,"EXCLUSIVE: 'She seduced my husband and ruined my life.' Wife of Lauren Boebert's former restaurant chef claims the married politician had him cook intimate meals for her at her home and lavished him with gifts like a $700 golf club and cruise tickets
+",https://www.dailymail.co.uk/news/article-12161681/Lauren-Boebert-accused-seducing-married-man-worked-Colorado-restaurant.html,3,0.071,0.101,0.829,-0.9965,Daily Mail,2023-06-09,8
+5,"So who is Kim Kardashian's mystery guy? Billionaire singleton reveals she had date with 'Fred' at same NYC hotspot where she enjoyed 'secret dinners' with Pete Davidson as she gets grilled about new romance
+",https://www.dailymail.co.uk/tvshowbiz/article-12168029/So-Kim-Kardashians-mystery-guy-Billionaire-singleton-reveals-dined-Fred-NYC.html,4,0.12,0.036,0.844,0.9971,Daily Mail,2023-06-09,8
+6,"Her mother is a very famous movie star who now heads up a massive company. Her dad worked on a Marvel movie. Her grandfather was a big '70s actor. Who is she?
+",https://www.dailymail.co.uk/tvshowbiz/article-12174281/Her-mother-famous-movie-star-heads-massive-company-she.html,5,0.226,0.044,0.73,0.9997,Daily Mail,2023-06-09,8
+7,"What started the Canadian wildfires? Experts reveal root cause of toxic smoke suffocating America
+",https://www.dailymail.co.uk/news/article-12171711/What-sparked-Canadian-wildfires-wreaking-havoc-US.html,6,0.065,0.106,0.83,-0.9958,Daily Mail,2023-06-09,8
+8,"Syrian refugee screaming 'in the name of Jesus Christ' stabs a child in their pram in front of mother as four kids aged 22 months to three - including British girl - are knifed while holidaying at French resort before cops shoot and arrest him 
+",https://www.dailymail.co.uk/news/article-12173067/Eight-children-stabbed-knifeman-French-playground-attacker-subdued.html,7,0.051,0.182,0.767,-0.9999,Daily Mail,2023-06-09,8
+9,"EXCLUSIVE: Atlantic Crossing! Rod Stewart has QUIT his life in LA after growing tired of its 'toxic' culture - and at the behest of wife Penny who hates 'nuisance' of traveling and just wants to focus on her job as a volunteer cop
+",https://www.dailymail.co.uk/tvshowbiz/article-12170487/Rod-Stewart-wife-Penny-toxic-LA-putting-home-market-70-million.html,8,0.103,0.043,0.854,0.9966,Daily Mail,2023-06-09,8
+10,"Frodo, is that you? Face of a 'real-life HOBBIT' who lived in Indonesia 60,000 years ago is revealed for the first time
+",https://www.dailymail.co.uk/sciencetech/article-12173187/Frodo-Face-real-life-HOBBIT-lived-Indonesia-60-000-years-ago-revealed.html,9,0.037,0.037,0.926,0.4946,Daily Mail,2023-06-09,8
+1,Donald Trump charged with illegal retention of classified documents,https://www.theguardian.com/us-news/2023/jun/08/donald-trump-charged-retention-classified-documents,0,0.099,0.065,0.836,0.988,Guardian,2023-06-09,8
+2,Which? reports Tesco to CMA over pricing of Clubcard offers,https://www.theguardian.com/business/2023/jun/09/which-reports-tesco-to-cma-over-pricing-of-clubcard-offers,1,0.151,0.062,0.787,0.9965,Guardian,2023-06-09,8
+3,Russia-Ukraine war live: Kyiv claims it has proof Russia blew up Kakhovka dam,https://www.theguardian.com/world/live/2023/jun/09/russia-ukraine-war-live-zelenskiy-hails-results-amid-heavy-fighting-in-donetsk-biden-and-sunak-reaffirm-commitment-to-ukraine,2,0.084,0.082,0.834,0.3418,Guardian,2023-06-09,8
+4,Could Trump go to jail? Federal charges over classified docs show momentum is building ,https://www.theguardian.com/us-news/2023/jun/09/could-trump-go-to-jail-federal-charges-over-classified-docs-show-momentum-is-building,3,0.082,0.098,0.82,-0.9084,Guardian,2023-06-09,8
+5,Davina McCall’s Pill Revolution review – this powerful documentary could save lives,https://www.theguardian.com/tv-and-radio/2023/jun/08/davina-mccalls-pill-revolution-review-this-powerful-documentary-could-save-lives,4,0.099,0.073,0.828,0.9864,Guardian,2023-06-09,8
+6,HSBC temporarily withdraws mortgage deals for new borrowers ,https://www.theguardian.com/business/2023/jun/08/hsbc-temporarily-withdraws-mortgage-deals-for-new-borrowers,5,0.047,0.03,0.923,0.7361,Guardian,2023-06-09,8
+7,"Too straight, too samey: How Love Island bored away millions of viewers",https://www.theguardian.com/tv-and-radio/2023/jun/08/too-straight-too-samey-how-love-island-bored-away-millions-of-viewers,6,0.147,0.072,0.781,0.9984,Guardian,2023-06-09,8
+8,"Ozempic has won, body positivity has lost. And I want no part of it",https://www.theguardian.com/lifeandstyle/2023/jun/08/ozempic-weight-loss-body-positivity,7,0.137,0.091,0.773,0.999,Guardian,2023-06-09,8
+9,"As Russia’s armed forces fight among themselves, it’s hard to know who’s in control",https://www.theguardian.com/commentisfree/2023/jun/09/russian-armed-forces-infighting-yevgeny-prigozhin,8,0.074,0.108,0.818,-0.9932,Guardian,2023-06-09,8
+10,Key plank of new UK asylum law dropped to cut backlog,https://www.theguardian.com/uk-news/2023/jun/08/key-plank-of-new-uk-asylum-law-dropped-to-cut-backlog,9,0.074,0.074,0.852,-0.5789,Guardian,2023-06-09,8
