@@ -7599,3 +7599,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Blind date: ‘I guessed she was Canadian – she’s from Glasgow’,https://www.theguardian.com/lifeandstyle/2023/jun/10/blind-date-alison-emma,7,0.133,0.051,0.816,0.9971,Guardian,2023-06-10,8
 9,Boris Johnson’s hopes for a comeback must surely now be futile ,https://www.theguardian.com/politics/2023/jun/09/boris-johnsons-hopes-for-a-comeback-must-surely-now-be-futile-ones,8,0.141,0.057,0.802,0.9973,Guardian,2023-06-10,8
 10,"Elliot Page on Juno, Hollywood’s dark side and coming out twice: ‘Living my life was more important than being in movies’",https://www.theguardian.com/film/2023/jun/10/elliot-page-juno-hollywoods-dark-side-coming-out-twice,9,0.143,0.092,0.766,0.9997,Guardian,2023-06-10,8
+1,Trump calls federal charges ridiculous in Georgia speech,https://www.bbc.co.uk/news/world-us-canada-65868294,0,0.051,0.104,0.845,-0.9747,BBC,2023-06-10,20
+2,"Ted Kaczynski, the Unabomber, found dead in prison",https://www.bbc.co.uk/news/world-us-canada-65867291,1,0.053,0.129,0.817,-0.9967,BBC,2023-06-10,20
+3,Children found alive in jungle month after plane crash,https://www.bbc.co.uk/news/world-latin-america-65864158,2,0.089,0.046,0.865,0.9712,BBC,2023-06-10,20
+4,"Ukraine counter-offensive has begun, Zelensky says",https://www.bbc.co.uk/news/world-europe-65866880,3,0.062,0.152,0.786,-0.997,BBC,2023-06-10,20
+5,US couple struggle to bank huge haul of pennies,https://www.bbc.co.uk/news/world-us-canada-65839799,4,0.038,0.043,0.919,-0.6369,BBC,2023-06-10,20
+6,How Republican voters reacted to Trump's indictment,https://www.bbc.co.uk/news/world-us-canada-65862990,5,0.143,0.071,0.787,0.9952,BBC,2023-06-10,20
+7,Why Trump indictment revelations could be so damaging,https://www.bbc.co.uk/news/world-us-canada-65863396,6,0.049,0.082,0.868,-0.9765,BBC,2023-06-10,20
+8,Romania recalls Kenya ambassador over racist monkey slur,https://www.bbc.co.uk/news/world-africa-65867104,7,0.034,0.081,0.885,-0.9497,BBC,2023-06-10,20
+9,"One doctor. 13,000 remote islanders. A near-impossible task",https://www.bbc.co.uk/news/world-asia-64948453,8,0.063,0.087,0.85,-0.9959,BBC,2023-06-10,20
+10,Ukraine's counter-offensive against Russia under way,https://www.bbc.co.uk/news/world-europe-65860294,9,0.057,0.089,0.854,-0.9925,BBC,2023-06-10,20
+1,"EDEN CONFIDENTIAL: No invitation to the King's birthday parade for Prince Harry
+",https://www.dailymail.co.uk/tvshowbiz/article-12179895/EDEN-CONFIDENTIAL-No-invitation-Kings-birthday-parade-Prince-Harry.html,0,0.045,0.053,0.901,-0.4176,Daily Mail,2023-06-10,20
+2,"Charlie Sheen and Denise Richards' daughter Sami Sheen, 19, gets ready for 'sex worker' job in shock TikTok - as she reveals plans to get boob job and marks one year anniversary of her OnlyFans
+",https://www.dailymail.co.uk/tvshowbiz/article-12179333/Charlie-Sheen-Denise-Richards-Sami-Sheen-19-reveals-plans-sex-worker.html,1,0.131,0.045,0.824,0.9961,Daily Mail,2023-06-10,20
+3,"EXCLUSIVE: Marine vet breaks 14-year silence to make astonishing claim that his six-man unit saw a hovering octagonal UFO being loaded with WEAPONS by unmarked US forces who threatened them at gunpoint while serving in Indonesia in 2009
+",https://www.dailymail.co.uk/news/article-12177943/Marine-vet-breaks-14-year-silence-make-astonishing-claim-six-man-unit-saw-UFO.html,2,0.058,0.079,0.863,-0.9949,Daily Mail,2023-06-10,20
+4,"Miracle in the Amazon: Four children aged 13, nine, four and 12 months are found ALIVE deep in the Colombian jungle FORTY DAYS after surviving plane crash that killed all the adults on board - kids are malnourished and insect-bitten but otherwise OK
+",https://www.dailymail.co.uk/news/article-12179793/Four-children-missing-six-weeks-plane-crashed-Amazon-jungle-ALIVE.html,3,0.132,0.054,0.814,0.9977,Daily Mail,2023-06-10,20
+5,"Tucker Carlson takes aim at Barack Obama with bizarre remark about his 'strange and highly creepy personal life' in second Twitter show - as more than 40 million people tune in 
+",https://www.dailymail.co.uk/news/article-12178089/Tucker-Carlson-tells-America-embrace-taboos-rails-against-pedophiles-second-Twitter-show.html,4,0.077,0.109,0.815,-0.9851,Daily Mail,2023-06-10,20
+6,"Nicola Peltz makes jaws drop as she flaunts her VERY svelte figure in a see-through catsuit for date night in LA with Brooklyn Beckham
+",https://www.dailymail.co.uk/tvshowbiz/article-12180265/Nicola-Peltz-makes-jaws-drop-catsuit-date-night-LA-Brooklyn-Beckham.html,5,0.116,0.019,0.866,0.9973,Daily Mail,2023-06-10,20
+7,"My granddaughter is heroine of miracle jungle rescue: Elderly relative of four siblings found ALIVE after 40 days lost in Amazon hails Lesly, 13, who used skills learned babysitting her brothers aged 9, 4 and 1 to keep them all safe after plane crash
+",https://www.dailymail.co.uk/news/article-12180435/Emotional-moment-four-children-aged-13-nine-four-one-airlifted-Colombian-jungle.html,6,0.113,0.029,0.859,0.9987,Daily Mail,2023-06-10,20
+8,"Jennifer Aniston, 54, shares the one compliment that she does NOT like about her appearance... after revealing cardio 'broke' her body
+",https://www.dailymail.co.uk/tvshowbiz/article-12178593/Jennifer-Aniston-54-reveals-one-compliment-does-NOT-like.html,7,0.164,0.056,0.78,0.9994,Daily Mail,2023-06-10,20
+9,"EXCLUSIVE: Crashed UFO recovered by the US military 'distorted space and time,' leaving one investigator 'nauseous and disoriented' when he went in and discovered it was much larger inside than out, attorney for whistleblowers reveals
+",https://www.dailymail.co.uk/news/article-12175195/Crashed-UFO-recovered-military-distorted-space-time.html,8,0.097,0.066,0.838,0.9952,Daily Mail,2023-06-10,20
+10,"'Wouldn't it be better if we just told FBI we don't have anything here?' What brazen Trump told aide about top secret state documents in 120 boxes - just one of devastating details in bombshell indictment that could see him jailed 
+",https://www.dailymail.co.uk/news/article-12178981/Indictment-says-Trump-stored-plans-possible-retaliation-against-foreign-attack.html,9,0.056,0.042,0.901,0.977,Daily Mail,2023-06-10,20
+1,Boris Johnson ally becomes third Tory MP to resign within 24 hours – as it happened,https://www.theguardian.com/politics/live/2023/jun/10/boris-johnson-resigns-quits-mp-conservatives-tories-latest-news,0,0.077,0.075,0.848,0.6432,Guardian,2023-06-10,20
+2,Manchester City v Inter: Champions League final – live,https://www.theguardian.com/football/live/2023/jun/10/manchester-city-v-inter-champions-league-final-2023-live-score-updates,1,0.14,0.081,0.778,0.9997,Guardian,2023-06-10,20
+3,Furious Tories turn against Boris Johnson after ‘bias’ outburst,https://www.theguardian.com/politics/2023/jun/10/furious-tories-boris-johnson-bias-outburst-rishi-sunak-nigel-adams-byelection,2,0.065,0.096,0.839,-0.9858,Guardian,2023-06-10,20
+4,Guardsmen faint as UK temperatures hit 30C for first time this year,https://www.theguardian.com/uk-news/2023/jun/10/uk-weather-thunderstorm-warnings-across-country-as-temperatures-soar,3,0.089,0.055,0.856,0.9585,Guardian,2023-06-10,20
+5,"Boy, 16, charged with attempted murder after Devon school attack",https://www.theguardian.com/uk-news/2023/jun/10/boy-16-charged-with-attempted-after-devon-school-attack,4,0.039,0.097,0.864,-0.9361,Guardian,2023-06-10,20
+6,"Boris Johnson scuttles away from his flagrant crimes, like a whingeing guilty schoolboy",https://www.theguardian.com/commentisfree/2023/jun/10/boris-johnson-is-coward-scarpering-from-crimes-to-avoid-punishment,5,0.092,0.146,0.762,-0.9985,Guardian,2023-06-10,20
+7,‘He’s ruined the place’: relief in Uxbridge at Boris Johnson’s resignation,https://www.theguardian.com/politics/2023/jun/10/relief-uxbridge-boris-johnson-resignation,6,0.147,0.066,0.787,0.9986,Guardian,2023-06-10,20
+8,"Britain is ‘recklessly exposed’ to new pandemics, expert warns",https://www.theguardian.com/world/2023/jun/10/uk-recklessly-exposed-to-new-pandemics-expert-warns,7,0.066,0.07,0.865,-0.2535,Guardian,2023-06-10,20
+9,"No sex on the beach, please: Dutch town tells nude sunbathers to put a lid on lust",https://www.theguardian.com/world/2023/jun/10/no-sex-on-the-beach-please-dutch-town-tells-nude-sunbathers-to-put-a-lid-on-lust,8,0.12,0.055,0.825,0.9929,Guardian,2023-06-10,20
+10,Primal Scream musician’s son says band’s ‘tough love’ isolated father before death,https://www.theguardian.com/music/2023/jun/10/primal-scream-musicians-son-says-bands-tough-love-isolated-father-before-death,9,0.1,0.136,0.765,-0.9883,Guardian,2023-06-10,20
