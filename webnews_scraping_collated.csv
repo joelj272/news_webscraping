@@ -7559,3 +7559,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Weapons found at Devon private school where two boys and a teacher were attacked,https://www.theguardian.com/uk-news/2023/jun/09/students-injured-attack-blundells-school-tiverton-devon,7,0.063,0.083,0.853,-0.6433,Guardian,2023-06-09,20
 9,Sunak approves Boris Johnson honours list including aides linked to Partygate,https://www.theguardian.com/politics/2023/jun/09/rishi-sunak-approves-boris-johnson-resignation-honours-list,8,0.081,0.066,0.853,0.9348,Guardian,2023-06-09,20
 10,Disney’s Little Mermaid flops in China amid racist backlash over casting,https://www.theguardian.com/film/2023/jun/09/disney-little-mermaid-flops-china-racist-backlash-casting,9,0.064,0.091,0.846,-0.9077,Guardian,2023-06-09,20
+1,Children found alive in jungle month after plane crash,https://www.bbc.co.uk/news/world-latin-america-65864158,0,0.093,0.048,0.858,0.9631,BBC,2023-06-10,8
+2,US couple struggle to bank huge haul of pennies,https://www.bbc.co.uk/news/world-us-canada-65839799,1,0.038,0.043,0.919,-0.6369,BBC,2023-06-10,8
+3,"Donald Trump took US nuclear secrets, charges say",https://www.bbc.co.uk/news/world-us-canada-65852286,2,0.038,0.101,0.86,-0.9932,BBC,2023-06-10,8
+4,Ukraine's counter-offensive against Russia under way,https://www.bbc.co.uk/news/world-europe-65860294,3,0.057,0.089,0.854,-0.9925,BBC,2023-06-10,8
+5,Canada official probing China election claim quits,https://www.bbc.co.uk/news/world-us-canada-65864164,4,0.11,0.073,0.817,0.9505,BBC,2023-06-10,8
+6,How Republican voters reacted to Trump's indictment,https://www.bbc.co.uk/news/world-us-canada-65862990,5,0.143,0.071,0.786,0.9952,BBC,2023-06-10,8
+7,Breaking Bad actor Mike Batayeh dies aged 52,https://www.bbc.co.uk/news/world-us-canada-65851444,6,0.105,0.114,0.781,-0.5882,BBC,2023-06-10,8
+8,"One doctor. 13,000 remote islanders. A near-impossible task",https://www.bbc.co.uk/news/world-asia-64948453,7,0.063,0.088,0.85,-0.9962,BBC,2023-06-10,8
+9,I've been forced out over Partygate report - Johnson,https://www.bbc.co.uk/news/uk-politics-65863267,8,0.079,0.084,0.837,-0.4464,BBC,2023-06-10,8
+10,Canadian province sees progress in wildfire battle,https://www.bbc.co.uk/news/world-us-canada-65864198,9,0.084,0.096,0.82,-0.9379,BBC,2023-06-10,8
+1,"Tucker Carlson takes aim at Barack Obama with bizarre remark about his 'strange and highly creepy personal life' in second Twitter show - as more than 40 million people tune in 
+",https://www.dailymail.co.uk/news/article-12178089/Tucker-Carlson-tells-America-embrace-taboos-rails-against-pedophiles-second-Twitter-show.html,0,0.077,0.109,0.815,-0.9851,Daily Mail,2023-06-10,8
+2,"Miracle in the Amazon: Four children aged 13, nine, four and 12 months are found ALIVE deep in the Colombian jungle FORTY DAYS after surviving plane crash that killed all the adults on board - kids are malnourished and insect-bitten but otherwise OK
+",https://www.dailymail.co.uk/news/article-12179793/Four-children-missing-six-weeks-plane-crashed-Amazon-jungle-ALIVE.html,1,0.132,0.054,0.814,0.9977,Daily Mail,2023-06-10,8
+3,"Charlie Sheen and Denise Richards' daughter Sami Sheen, 19, gets ready for 'sex worker' job in shock TikTok - as she reveals plans to get boob job and marks one year anniversary of her OnlyFans
+",https://www.dailymail.co.uk/tvshowbiz/article-12179333/Charlie-Sheen-Denise-Richards-Sami-Sheen-19-reveals-plans-sex-worker.html,2,0.131,0.045,0.824,0.9961,Daily Mail,2023-06-10,8
+4,"Father describes how he was forced to watch helplessly while 'meat grinder' tiger shark mauled his son to death as he screamed 'Papa, save me!': Predator is caught and brutally killed on beach 
+",https://www.dailymail.co.uk/news/article-12176955/Father-describes-forced-watch-helplessly-tiger-shark-mauled-son-death.html,3,0.06,0.165,0.775,-0.9993,Daily Mail,2023-06-10,8
+5,"'Wouldn't it be better if we just told FBI we don't have anything here?' What brazen Trump told aide about top secret state documents in 120 boxes - just one of devastating details in bombshell indictment that could see him jailed 
+",https://www.dailymail.co.uk/news/article-12178981/Indictment-says-Trump-stored-plans-possible-retaliation-against-foreign-attack.html,4,0.056,0.042,0.901,0.977,Daily Mail,2023-06-10,8
+6,"EXCLUSIVE: Marine vet breaks 14-year silence to make astonishing claim that his six-man unit saw a hovering octagonal UFO being loaded with WEAPONS by unmarked US forces who threatened them at gunpoint while serving in Indonesia in 2009
+",https://www.dailymail.co.uk/news/article-12177943/Marine-vet-breaks-14-year-silence-make-astonishing-claim-six-man-unit-saw-UFO.html,5,0.058,0.079,0.863,-0.9949,Daily Mail,2023-06-10,8
+7,"Her milkshake brings Bill Murray to the yard! Singer Kelis, 43, 'is dating' funnyman, 72, one year after the death of her husband Mike Mora
+",https://www.dailymail.co.uk/tvshowbiz/article-12175773/Milkshake-singer-Kelis-43-Bill-Murray-72-dating-year-husbands-death.html,6,0.049,0.065,0.886,-0.8762,Daily Mail,2023-06-10,8
+8,"Trump faces 100 YEARS behind bars if he's convicted of federal charges - including espionage - over classified documents, as sources claim outraged ex-president was blindsided by indictment 
+",https://www.dailymail.co.uk/news/article-12176615/Trump-faces-100-YEARS-bars-convicted-historic-federal-charges-including-espionage.html,7,0.085,0.098,0.817,-0.9016,Daily Mail,2023-06-10,8
+9,"'This is something from The Twilight Zone': Fans baffled by rumours Kelis, 43, and Bill Murray, 72, are dating as their huge age difference is brought into question
+",https://www.dailymail.co.uk/tvshowbiz/article-12177159/Milkshake-singer-Kelis-Bill-Murray-dating-rumours-baffle-shocked-fans-huge-age-gap.html,8,0.079,0.06,0.861,0.5859,Daily Mail,2023-06-10,8
+10,"Jennifer Aniston, 54, shares the one compliment that she does NOT like about her appearance... after revealing cardio 'broke' her body
+",https://www.dailymail.co.uk/tvshowbiz/article-12178593/Jennifer-Aniston-54-reveals-one-compliment-does-NOT-like.html,9,0.164,0.056,0.78,0.9994,Daily Mail,2023-06-10,8
+1,Colombian ‘miracle’ children found alive 40 days after Amazon jungle plane crash,https://www.theguardian.com/world/2023/jun/10/colombian-children-found-alive-five-weeks-after-amazon-jungle-plane-crash,0,0.103,0.046,0.851,0.9934,Guardian,2023-06-10,8
+2,"Boris Johnson leaving the Commons in ‘disgrace’, says standards committee chair – UK politics live",https://www.theguardian.com/politics/live/2023/jun/10/boris-johnson-resigns-quits-mp-conservatives-tories-latest-news,1,0.121,0.112,0.768,0.9921,Guardian,2023-06-10,8
+3,"‘Party’s over, Boris’: what the UK papers say about Johnson’s Partygate resignation",https://www.theguardian.com/politics/2023/jun/10/partys-over-boris-what-the-uk-papers-say-about-johnsons-partygate-resignation,2,0.044,0.111,0.846,-0.993,Guardian,2023-06-10,8
+4,Boris Johnson resigns as MP with immediate effect over Partygate report,https://www.theguardian.com/politics/2023/jun/09/boris-johnson-resigns-as-mp-with-immediate-effect-over-partygate-report,3,0.071,0.102,0.827,-0.9849,Guardian,2023-06-10,8
+5,‘Help me’: South Carolina woman shops passenger to police with silent message,https://www.theguardian.com/us-news/2023/jun/10/south-carolina-woman-police-collin-bates-traffic-stop,4,0.035,0.082,0.884,-0.9267,Guardian,2023-06-10,8
+6,"‘Three months ago, this wasn’t possible’: exiled Russians dare to dream of Putin’s fall",https://www.theguardian.com/world/2023/jun/10/russia-exiles-life-after-vladimir-putin,5,0.082,0.083,0.835,-0.6894,Guardian,2023-06-10,8
+7,Nationwide’s £100 payouts labelled ‘unfair’ by some customers,https://www.theguardian.com/business/2023/jun/10/nationwides-100-payouts-labelled-unfair-by-some-customers,6,0.071,0.041,0.888,0.9727,Guardian,2023-06-10,8
+8,Blind date: ‘I guessed she was Canadian – she’s from Glasgow’,https://www.theguardian.com/lifeandstyle/2023/jun/10/blind-date-alison-emma,7,0.133,0.051,0.816,0.9971,Guardian,2023-06-10,8
+9,Boris Johnson’s hopes for a comeback must surely now be futile ,https://www.theguardian.com/politics/2023/jun/09/boris-johnsons-hopes-for-a-comeback-must-surely-now-be-futile-ones,8,0.141,0.057,0.802,0.9973,Guardian,2023-06-10,8
+10,"Elliot Page on Juno, Hollywood’s dark side and coming out twice: ‘Living my life was more important than being in movies’",https://www.theguardian.com/film/2023/jun/10/elliot-page-juno-hollywoods-dark-side-coming-out-twice,9,0.143,0.092,0.766,0.9997,Guardian,2023-06-10,8
