@@ -7839,3 +7839,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"AI could be most substantial policy challenge ever, say Blair and Hague",https://www.theguardian.com/technology/2023/jun/13/ai-could-be-most-substantial-policy-challenge-ever-say-blair-and-hague,7,0.114,0.023,0.863,0.9947,Guardian,2023-06-13,8
 9,Kylian Mbappé stuns PSG with formal decision not to renew contract in 2024,https://www.theguardian.com/football/2023/jun/12/kylian-mbappe-stuns-psg-with-formal-decision-not-to-renew-contract-real-madrid,8,0.168,0.044,0.788,0.9976,Guardian,2023-06-13,8
 10,UK exports in last decade worse than any G7 country except Japan,https://www.theguardian.com/politics/2023/jun/13/uk-exports-record-worse-than-any-g7-country-except-japan-in-last-decade,9,0.082,0.05,0.868,0.9775,Guardian,2023-06-13,8
+1,Trump pleads not guilty in classified files case,https://www.bbc.co.uk/news/world-us-canada-65877764,0,0.082,0.114,0.804,-0.9833,BBC,2023-06-13,20
+2,BBC goes inside village just freed from Russian forces,https://www.bbc.co.uk/news/world-europe-65894743,1,0.035,0.077,0.887,-0.9558,BBC,2023-06-13,20
+3,Malaysia seeks New York comedian over MH370 joke,https://www.bbc.co.uk/news/world-asia-65894721,2,0.08,0.093,0.827,-0.7875,BBC,2023-06-13,20
+4,What we know so far about the Nottingham attacks,https://www.bbc.co.uk/news/uk-65890403,3,0.047,0.144,0.809,-0.9977,BBC,2023-06-13,20
+5,'Dead' woman found breathing in coffin,https://www.bbc.co.uk/news/world-latin-america-65886245,4,0.061,0.166,0.773,-0.9958,BBC,2023-06-13,20
+6,US actor Treat Williams dies in motorbike accident,https://www.bbc.co.uk/news/world-us-canada-65886521,5,0.127,0.099,0.775,0.8708,BBC,2023-06-13,20
+7,Canada police investigating China meddling claims,https://www.bbc.co.uk/news/world-us-canada-65897821,6,0.027,0.097,0.876,-0.9694,BBC,2023-06-13,20
+8,"Who is Walt Nauta, the indicted Trump aide?",https://www.bbc.co.uk/news/65862112,7,0.052,0.051,0.897,0.775,BBC,2023-06-13,20
+9,Bowie died from complications in childbirth,https://www.bbc.co.uk/sport/athletics/65887510,8,0.0,0.0,0.0,0.0,BBC,2023-06-13,20
+10,Man on trial for killing three female job managers,https://www.bbc.co.uk/news/world-europe-65890869,9,0.025,0.144,0.831,-0.9941,BBC,2023-06-13,20
+1,"Hair star Treat Williams, 71, is killed in crash near his $1M Vermont home after slamming his motorbike into oncoming Honda being driven by man, 35, who was turning left into parking lot 
+",https://www.dailymail.co.uk/news/article-12188037/Treat-Williams-71-killed-motorbike-crash-car-cut-turn.html,0,0.139,0.131,0.731,0.8667,Daily Mail,2023-06-13,20
+2,"Kanye West's new Sunday Service shows attendees wear bizarre white hooded outfits as they eat salmon and steak with their HANDS off autopsy tables - but rapper is nowhere to be seen after raucous 46th birthday bash
+",https://www.dailymail.co.uk/tvshowbiz/article-12186837/Kanye-Wests-new-Sunday-Service-Attendees-wear-hooded-outfits-eat-HANDS-autopsy-tables.html,1,0.107,0.045,0.847,0.9882,Daily Mail,2023-06-13,20
+3,"EXCLUSIVE: Ab-flashing Zendaya has an embarrassing moment as she's rejected entry to upscale restaurant in Rome because of her outfit
+",https://www.dailymail.co.uk/tvshowbiz/article-12187107/Zendaya-embarrassing-moment-shes-rejected-entry-upscale-restaurant-Rome.html,2,0.1,0.037,0.862,0.9933,Daily Mail,2023-06-13,20
+4,"Veteran actress who is best known starring alongside Tom Hanks in iconic 1980s film and has maintained steady career is seen in rare LA outing - can you guess who this star is?
+",https://www.dailymail.co.uk/tvshowbiz/article-12186979/Veteran-actress-best-known-starring-Tom-Hanks-iconic-1980s-film-seen-guess.html,3,0.092,0.005,0.903,0.9904,Daily Mail,2023-06-13,20
+5,"Mazel tov! Ivanka Trump dons same $5,000 Jenny Packham gown Princess Kate once  dazzled in as she celebrates daughter Arabella's Bat Mitzvah - with indicted grandpa Donald joining in the fun too 
+",https://www.dailymail.co.uk/news/article-12188027/Donald-Melania-Trump-pose-granddaughter-Arabella-11-celebrates-Bat-Mitzvah.html,4,0.157,0.016,0.827,0.9957,Daily Mail,2023-06-13,20
+6,"Biden LGBT Pride party guest goes TOPLESS in White House garden: Transgender model bares breasts on South Lawn after posing for snaps with president and first lady 
+",https://www.dailymail.co.uk/news/article-12188197/Bidens-biggest-boob-Transgender-model-bares-BREASTS-White-House-South-Lawn.html,5,0.088,0.06,0.853,0.9692,Daily Mail,2023-06-13,20
+7,"San Fran's dying downtown is dealt another blow as Westfield stops making mortgage payments on $550M loan for massive mall - blaming crime for falling sales and Nordstrom closure
+",https://www.dailymail.co.uk/news/article-12187671/San-Franciscos-dying-downtown-hit-Westfield-stops-making-mortgage-payments-mall.html,6,0.046,0.122,0.831,-0.9965,Daily Mail,2023-06-13,20
+8,"Body parts of Russian man eaten alive by shark are found inside the captured predator after it was beaten to death on Egyptian beach in 'revenge'
+",https://www.dailymail.co.uk/news/article-12186921/Body-parts-Russian-man-eaten-alive-Egypt-beach-inside-captured-shark.html,7,0.059,0.159,0.782,-0.9993,Daily Mail,2023-06-13,20
+9,"Fundraiser, 28, who survived White House lightning strike that killed three reveals how 950M volts fried her NERVES, melted her watch to her wrist and forced her to take three-hour showers while screaming in pain
+",https://www.dailymail.co.uk/news/article-12187607/Woman-28-survived-White-House-lightning-strike-reveals-950M-volts-fried-NERVES.html,8,0.106,0.134,0.76,-0.9505,Daily Mail,2023-06-13,20
+10,"Amazon billionaire Jeff Bezos is the perfect Instagram boyfriend as he takes photos of fiancée Lauren Sanchez aboard $500M superyacht in Portofino
+",https://www.dailymail.co.uk/femail/article-12186883/Jeff-Bezos-Lauren-Sanchez-arrive-helicopter-deck-superyacht-Portofino.html,9,0.082,0.029,0.889,0.9959,Daily Mail,2023-06-13,20
+1,"Nottingham: suspect believed to have killed man and used van to drive at people, police say, after three die in attack – latest updates",https://www.theguardian.com/uk-news/live/2023/jun/13/nottingham-people-killed-major-incident-police-latest-updates,0,0.097,0.13,0.773,-0.9967,Guardian,2023-06-13,20
+2,Partygate report likely to be delayed after intervention by Boris Johnson,https://www.theguardian.com/politics/2023/jun/13/partygate-report-likely-to-be-delayed-after-intervention-by-boris-johnson,1,0.152,0.084,0.764,0.9951,Guardian,2023-06-13,20
+3,Donald Trump leaves court after pleading not guilty to federal criminal charges at Miami indictment hearing – live,https://www.theguardian.com/us-news/live/2023/jun/13/trump-indictment-arraignment-miami-classified-documents-live-updates,2,0.074,0.065,0.86,0.882,Guardian,2023-06-13,20
+4,"Sad, confused, deluded: spare a thought for the friends of Boris Johnson at this difficult time",https://www.theguardian.com/commentisfree/2023/jun/13/boris-johnson-nadine-dorries-tory-infighting,3,0.11,0.107,0.783,0.5859,Guardian,2023-06-13,20
+5,Judge jails barrister who tried to buy drugs from two men he represented,https://www.theguardian.com/uk-news/2023/jun/13/judge-jails-barrister-who-tried-to-buy-drugs-from-two-men-he-represented,4,0.068,0.092,0.839,-0.9634,Guardian,2023-06-13,20
+6,Heatwave piles torpor on paralysis as Tories face up to their doom,https://www.theguardian.com/politics/2023/jun/13/heatwave-piles-torpor-on-paralysis-as-tories-face-up-to-their-doom,5,0.122,0.104,0.775,0.9742,Guardian,2023-06-13,20
+7,Parts of UK exceed heatwave threshold with temperatures predicted to ease,https://www.theguardian.com/uk-news/2023/jun/13/uk-exceeds-heatwave-threshold-but-extreme-heat-due-to-drop,6,0.102,0.025,0.873,0.9749,Guardian,2023-06-13,20
+8,The hedonist’s hedonist: why Jack Grealish is having the best week of his life,https://www.theguardian.com/football/2023/jun/13/jack-grealish-is-having-the-best-week-of-his-life-manchester-city-treble,7,0.169,0.053,0.778,0.9986,Guardian,2023-06-13,20
+9,"As the ice melts, a perilous Russian threat is emerging in the Arctic ",https://www.theguardian.com/commentisfree/2023/jun/13/arctic-russia-nato-putin-climate,8,0.066,0.105,0.829,-0.9919,Guardian,2023-06-13,20
+10,Call for Uefa to investigate Ukraine flag incident at Champions League final,https://www.theguardian.com/football/2023/jun/13/call-for-uefa-to-investigate-ukraine-flag-incident-at-champions-league-final,9,0.08,0.063,0.857,0.9317,Guardian,2023-06-13,20
