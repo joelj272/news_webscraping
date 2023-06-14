@@ -7919,3 +7919,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,The Full Monty TV review – boring and badly written,https://www.theguardian.com/tv-and-radio/2023/jun/14/the-full-monty-tv-review-boring-and-badly-written,7,0.118,0.092,0.791,0.9696,Guardian,2023-06-14,8
 9,TV tonight: Michael Sheen and David Tennant return with their strangely enjoyable comedy,https://www.theguardian.com/tv-and-radio/2023/jun/14/tv-tonight-michael-sheen-and-david-tennant-return-with-their-strangely-enjoyable-comedy,8,0.129,0.051,0.82,0.9893,Guardian,2023-06-14,8
 10,Partygate report likely to be delayed after intervention by Boris Johnson,https://www.theguardian.com/politics/2023/jun/13/partygate-report-likely-to-be-delayed-after-intervention-by-boris-johnson,9,0.152,0.084,0.764,0.9951,Guardian,2023-06-14,8
+1,North Koreans tell of neighbours starving to death,https://www.bbc.co.uk/news/world-asia-65881803,0,0.048,0.139,0.813,-0.9992,BBC,2023-06-14,20
+2,Elizabeth Holmes says she cannot pay back victims,https://www.bbc.co.uk/news/world-us-canada-65905923,1,0.077,0.138,0.785,-0.9874,BBC,2023-06-14,20
+3,Canada puts on hold deportation of India students,https://www.bbc.co.uk/news/world-us-canada-65899113,2,0.051,0.086,0.863,-0.9688,BBC,2023-06-14,20
+4,'Extremely fierce battles' as Kyiv seeks to advance,https://www.bbc.co.uk/news/world-europe-65905021,3,0.062,0.182,0.756,-0.9992,BBC,2023-06-14,20
+5,Beyoncé blamed for inflation surprise in Sweden,https://www.bbc.co.uk/news/business-65908054,4,0.038,0.057,0.906,-0.5873,BBC,2023-06-14,20
+6,Bud Light loses top spot in US after boycott,https://www.bbc.co.uk/news/business-65899714,5,0.039,0.029,0.932,0.5574,BBC,2023-06-14,20
+7,Mystery over Chechen MP reported wounded in Ukraine,https://www.bbc.co.uk/news/world-europe-65900913,6,0.112,0.118,0.77,-0.7783,BBC,2023-06-14,20
+8,US comic calls reaction to MH370 joke 'ridiculous',https://www.bbc.co.uk/news/world-asia-65900089,7,0.11,0.143,0.747,-0.9796,BBC,2023-06-14,20
+9,Rust weapons expert likely hungover - prosecutors,https://www.bbc.co.uk/news/entertainment-arts-65901426,8,0.024,0.2,0.776,-0.9959,BBC,2023-06-14,20
+10,Pyrex and Instant Pot maker files for bankruptcy,https://www.bbc.co.uk/news/business-65899710,9,0.052,0.067,0.881,-0.6908,BBC,2023-06-14,20
+1,"Kevin Costner says estranged wife Christine refuses to move out of his home after filing for divorce in violation of their prenup... despite giving her $1.45M for a new place
+",https://www.dailymail.co.uk/tvshowbiz/article-12191849/Kevin-Costner-says-estranged-wife-Christine-Baumgartner-not-home-despite-prenup.html,0,0.04,0.03,0.929,0.6623,Daily Mail,2023-06-14,20
+2,"Amy Schumer BLASTS 'sociopath' Hilaria Baldwin, takes aim at star 'pretending to be from Spain' and her 'Von Trapp amount of kids' in blistering new Netflix special
+",https://www.dailymail.co.uk/tvshowbiz/article-12191043/Amy-Schumer-BLASTS-sociopath-Hilaria-Baldwin-takes-aim-star-pretending-Spain.html,1,0.116,0.102,0.782,0.9572,Daily Mail,2023-06-14,20
+3,"Emma Roberts displays her slender figure in a green bikini as she adds platform heels and a fun cat cap: 'Candy crush'
+",https://www.dailymail.co.uk/tvshowbiz/article-12191513/Emma-Roberts-displays-slender-figure-green-bikini-platform-heels.html,2,0.147,0.051,0.802,0.9957,Daily Mail,2023-06-14,20
+4,"South Korean actress Park Soo Ryun who starred in Disney+ K-drama Snowdrop dies aged 29 after fall down stairs
+",https://www.dailymail.co.uk/news/article-12190459/South-Korean-actress-Park-Soo-Ryun-dies-aged-29-fall-stairs.html,3,0.064,0.1,0.836,-0.8592,Daily Mail,2023-06-14,20
+5,"Indiana mother is jailed for a year after she was seen biking across city with her crying two-month-old twins in a MILK CRATE 
+",https://www.dailymail.co.uk/news/article-12191507/Indiana-mother-jailed-biking-city-crying-twins-MILK-CRATE.html,4,0.027,0.079,0.895,-0.9584,Daily Mail,2023-06-14,20
+6,"White Starbucks manager who ran Philly store where two black men were refused access to bathroom - sparking protests - is awarded $25M as jury finds she was fired because of her race
+",https://www.dailymail.co.uk/news/article-12193961/Starbucks-manager-ran-Philly-store-two-black-men-refused-access-bathroom-gets-25M.html,5,0.081,0.146,0.773,-0.9912,Daily Mail,2023-06-14,20
+7,"PICTURE EXCLUSIVE: Giving her butterflies! Amazon billionaire Jeff Bezos and his fiancée Lauren Sanchez are beaming as they hold hands in Portofino before sitting down to dinner with their children
+",https://www.dailymail.co.uk/femail/article-12189977/Jeff-Bezos-fianc-e-Lauren-Sanchez-enjoy-dinner-Portofino-children.html,6,0.083,0.028,0.889,0.9971,Daily Mail,2023-06-14,20
+8,"Massachusetts middle school students tear down rainbow decorations and chant their pronouns are 'U.S.A.' during Pride celebration: Officials slam 'intolerance and homophobia' 
+",https://www.dailymail.co.uk/news/article-12190331/Massachusetts-students-tear-rainbow-decorations-chant-pronouns-U-S-A.html,7,0.114,0.087,0.798,0.9506,Daily Mail,2023-06-14,20
+9,"Fox News chyron calls Biden a 'wannabe dictator' who had his 'political rival arrested' as president spoke at the White House after Trump indictment 
+",https://www.dailymail.co.uk/news/article-12192257/Fox-News-chyron-calls-Biden-wannabe-dictator-political-rival-arrested.html,8,0.065,0.159,0.776,-0.995,Daily Mail,2023-06-14,20
+10,"Kanye West and 'wife' Bianca Censori pack on the PDA while grabbing lunch in Los Angeles... after he was slammed for 'misogynistic' birthday bash
+",https://www.dailymail.co.uk/tvshowbiz/article-12192839/Kanye-West-wife-Bianca-Censori-pack-PDA-grabbing-lunch-LA.html,9,0.091,0.022,0.887,0.977,Daily Mail,2023-06-14,20
+1,River in ‘wettest place in England’ in Lake District almost completely dry,https://www.theguardian.com/uk-news/2023/jun/14/wettest-place-in-england-lake-district-almost-completely-dry-river-derwent-borrowdale,0,0.111,0.067,0.822,0.9808,Guardian,2023-06-14,20
+2,Nottingham attack: thousands join vigil outside Nottingham University students’ union – latest updates ,https://www.theguardian.com/uk-news/live/2023/jun/14/nottingham-attacks-police-latest-news-updates,1,0.137,0.105,0.758,0.9988,Guardian,2023-06-14,20
+3,Boris Johnson calls for Tory MP on privileges committee to resign,https://www.theguardian.com/politics/2023/jun/14/boris-johnson-calls-for-tory-mp-on-privileges-committee-to-resign,2,0.06,0.081,0.86,-0.9554,Guardian,2023-06-14,20
+4,Synthetic human embryos created in groundbreaking advance,https://www.theguardian.com/science/2023/jun/14/synthetic-human-embryos-created-in-groundbreaking-advance,3,0.077,0.04,0.883,0.98,Guardian,2023-06-14,20
+5,"Nauseating, hateful TV: how The Idol has single-handedly resurrected torture porn",https://www.theguardian.com/tv-and-radio/2023/jun/14/nauseating-hateful-tv-how-the-idol-has-single-handedly-resurrected-torture-porn,4,0.096,0.232,0.672,-0.9994,Guardian,2023-06-14,20
+6,Ukraine’s failed Mala Tokmachka assault lays bare counteroffensive challenges,https://www.theguardian.com/world/2023/jun/14/ukraine-failed-assault-near-mala-tokmachka-raises-counteroffensive-challenges,5,0.06,0.141,0.799,-0.9983,Guardian,2023-06-14,20
+7,Manchester United pull out of Harry Kane chase as cost proves out of reach,https://www.theguardian.com/football/2023/jun/14/manchester-united-pull-out-of-harry-kane-chase-tottenham-transfer,6,0.18,0.045,0.775,0.994,Guardian,2023-06-14,20
+8,Woman accused of posing as a male found guilty of sexual assault by kissing ,https://www.theguardian.com/uk-news/2023/jun/14/georgia-bilham-woman-accused-of-posing-as-male-found-guilty-of-sexual-assault-by-kissing,7,0.056,0.145,0.799,-0.9972,Guardian,2023-06-14,20
+9,Home Office U-turn on festival drug tests ‘puts people at risk’,https://www.theguardian.com/politics/2023/jun/14/home-office-u-turn-on-festival-drug-tests-puts-people-at-risk,8,0.16,0.049,0.791,0.9987,Guardian,2023-06-14,20
+10,Privileges committee signs off Boris Johnson Partygate report,https://www.theguardian.com/politics/2023/jun/14/privileges-committee-signs-off-boris-johnson-partygate-report,9,0.094,0.069,0.837,0.8677,Guardian,2023-06-14,20
