@@ -7879,3 +7879,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,The hedonist’s hedonist: why Jack Grealish is having the best week of his life,https://www.theguardian.com/football/2023/jun/13/jack-grealish-is-having-the-best-week-of-his-life-manchester-city-treble,7,0.169,0.053,0.778,0.9986,Guardian,2023-06-13,20
 9,"As the ice melts, a perilous Russian threat is emerging in the Arctic ",https://www.theguardian.com/commentisfree/2023/jun/13/arctic-russia-nato-putin-climate,8,0.066,0.105,0.829,-0.9919,Guardian,2023-06-13,20
 10,Call for Uefa to investigate Ukraine flag incident at Champions League final,https://www.theguardian.com/football/2023/jun/13/call-for-uefa-to-investigate-ukraine-flag-incident-at-champions-league-final,9,0.08,0.063,0.857,0.9317,Guardian,2023-06-13,20
+1,Thieves stole from US honeymooner after he drowned,https://www.bbc.co.uk/news/world-us-canada-65881076,0,0.107,0.12,0.773,-0.3182,BBC,2023-06-14,8
+2,Disney delays Avatar and Avengers films in shake-up,https://www.bbc.co.uk/news/entertainment-arts-65899276,1,0.08,0.048,0.872,0.8895,BBC,2023-06-14,8
+3,Stony-faced Donald Trump sat silently through hearing,https://www.bbc.co.uk/news/world-us-canada-65898304,2,0.049,0.062,0.889,-0.7841,BBC,2023-06-14,8
+4,Students among three killed in Nottingham attacks,https://www.bbc.co.uk/news/uk-england-nottinghamshire-65893694,3,0.077,0.151,0.772,-0.9987,BBC,2023-06-14,8
+5,Malaysia seeks New York comedian over MH370 joke,https://www.bbc.co.uk/news/world-asia-65894721,4,0.061,0.111,0.828,-0.9676,BBC,2023-06-14,8
+6,White House bans trans woman after topless video,https://www.bbc.co.uk/news/world-us-canada-65898998,5,0.139,0.033,0.828,0.9895,BBC,2023-06-14,8
+7,Trump defiant after pleading not guilty in files case,https://www.bbc.co.uk/news/world-us-canada-65877764,6,0.115,0.09,0.795,0.9756,BBC,2023-06-14,8
+8,Italy mourns and asks who will succeed Berlusconi,https://www.bbc.co.uk/news/world-europe-65891251,7,0.12,0.094,0.786,0.936,BBC,2023-06-14,8
+9,Pyrex and Instant Pot maker files for bankruptcy,https://www.bbc.co.uk/news/business-65899710,8,0.052,0.067,0.881,-0.6908,BBC,2023-06-14,8
+10,Migrants kidnapped and tortured on Iran-Turkey border,https://www.bbc.co.uk/news/world-asia-65749889,9,0.055,0.138,0.807,-0.9991,BBC,2023-06-14,8
+1,"Hair star Treat Williams, 71, is killed in crash near his $1M Vermont home after slamming his motorbike into oncoming Honda being driven by man, 35, who was turning left into parking lot 
+",https://www.dailymail.co.uk/news/article-12188037/Treat-Williams-71-killed-motorbike-crash-car-cut-turn.html,0,0.139,0.131,0.731,0.8667,Daily Mail,2023-06-14,8
+2,"Amy Schumer BLASTS 'sociopath' Hilaria Baldwin, takes aim at star 'pretending to be from Spain' and her 'Von Trapp amount of kids' in blistering new Netflix special
+",https://www.dailymail.co.uk/tvshowbiz/article-12191043/Amy-Schumer-BLASTS-sociopath-Hilaria-Baldwin-takes-aim-star-pretending-Spain.html,1,0.116,0.102,0.782,0.9572,Daily Mail,2023-06-14,8
+3,"South Korean actress Park Soo Ryun who starred in Disney+ K-drama Snowdrop dies aged 29 after fall down stairs
+",https://www.dailymail.co.uk/news/article-12190459/South-Korean-actress-Park-Soo-Ryun-dies-aged-29-fall-stairs.html,2,0.064,0.1,0.836,-0.8592,Daily Mail,2023-06-14,8
+4,"Biden LGBT Pride party guest goes TOPLESS in White House garden: Transgender model bares breasts on South Lawn after posing for snaps with president and first lady 
+",https://www.dailymail.co.uk/news/article-12188197/Bidens-biggest-boob-Transgender-model-bares-BREASTS-White-House-South-Lawn.html,3,0.088,0.06,0.853,0.9692,Daily Mail,2023-06-14,8
+5,"Kanye West's new Sunday Service shows attendees wear bizarre white hooded outfits as they eat salmon and steak with their HANDS off autopsy tables - but rapper is nowhere to be seen after raucous 46th birthday bash
+",https://www.dailymail.co.uk/tvshowbiz/article-12186837/Kanye-Wests-new-Sunday-Service-Attendees-wear-hooded-outfits-eat-HANDS-autopsy-tables.html,4,0.107,0.045,0.847,0.9882,Daily Mail,2023-06-14,8
+6,"Mazel tov! Ivanka Trump dons same $5,000 Jenny Packham gown Princess Kate once  dazzled in as she celebrates daughter Arabella's Bat Mitzvah - with indicted grandpa Donald joining in the fun too 
+",https://www.dailymail.co.uk/news/article-12188027/Donald-Melania-Trump-pose-granddaughter-Arabella-11-celebrates-Bat-Mitzvah.html,5,0.157,0.016,0.827,0.9957,Daily Mail,2023-06-14,8
+7,"Kevin Costner says estranged wife Christine refuses to move out of his home after filing for divorce in violation of their prenup... despite giving her $1.45M for a new place
+",https://www.dailymail.co.uk/tvshowbiz/article-12191849/Kevin-Costner-says-estranged-wife-Christine-Baumgartner-not-home-despite-prenup.html,6,0.042,0.029,0.929,0.7247,Daily Mail,2023-06-14,8
+8,"'It's a disgrace': Gavin Newsom admits California's homeless situation is out of control but blames Republicans despite being in power for four years - during which time vagrancy has risen 13 percent
+",https://www.dailymail.co.uk/news/article-12189745/Its-disgrace-Gavin-Newsom-admits-Californias-homeless-situation-control.html,7,0.067,0.068,0.865,-0.3989,Daily Mail,2023-06-14,8
+9,"'This is the White House not a hookers-n-blow photo from Hunter's laptop': Conservatives slam White House Pride party as a 'disgrace to our country' after trans model bared her breasts 
+",https://www.dailymail.co.uk/news/article-12189617/Conservatives-slam-White-House-Pride-party-trans-model-bared-breasts.html,8,0.158,0.037,0.806,0.9987,Daily Mail,2023-06-14,8
+10,"Why mum has been slammed by 'furious' critics for posting a photo of her teenager's messy room transformation 
+",https://www.dailymail.co.uk/femail/cleaning/article-12187641/Mum-slammed-babying-teenager-cleaning-childs-messy-room.html,9,0.112,0.084,0.804,0.9621,Daily Mail,2023-06-14,8
+1,Trump claims ‘political persecution’ in speech after arraignment,https://www.theguardian.com/us-news/2023/jun/13/trump-new-jersey-speech-after-arraignment,0,0.106,0.11,0.784,-0.5863,Guardian,2023-06-14,8
+2,Nottingham: victim’s family tell of ‘complete devastation’ after ‘senseless’ killing – latest updates,https://www.theguardian.com/uk-news/live/2023/jun/14/nottingham-attacks-police-latest-news-updates,1,0.121,0.127,0.752,-0.9765,Guardian,2023-06-14,8
+3,UK public buildings feared to be at risk of collapse as concrete crumbles,https://www.theguardian.com/education/2023/jun/14/uk-public-buildings-feared-to-be-at-risk-of-collapse-as-concrete-crumbles,2,0.062,0.056,0.882,0.7882,Guardian,2023-06-14,8
+4,Malaysia to ask Interpol for help to track down comedian over MH370 joke,https://www.theguardian.com/world/2023/jun/14/malaysia-to-ask-interpol-for-help-to-track-down-comedian-over-mh370-joke,3,0.082,0.113,0.805,-0.8978,Guardian,2023-06-14,8
+5,Nottingham in shock after three die in early morning attacks,https://www.theguardian.com/global/2023/jun/13/nottingham-in-shock-after-three-die-in-early-morning-attacks,4,0.031,0.159,0.811,-0.9993,Guardian,2023-06-14,8
+6,Fox News labels Joe Biden a ‘wannabe dictator’ during Trump speech,https://www.theguardian.com/media/2023/jun/14/fox-news-labels-joe-biden-a-wannabe-dictator-during-trump-speech,5,0.03,0.073,0.897,-0.9321,Guardian,2023-06-14,8
+7,"Boris Johnson is gone, but his toxic Brexit myths will go on poisoning UK politics",https://www.theguardian.com/commentisfree/2023/jun/14/boris-johnson-brexit-uk-politics,6,0.075,0.176,0.749,-0.9987,Guardian,2023-06-14,8
+8,The Full Monty TV review – boring and badly written,https://www.theguardian.com/tv-and-radio/2023/jun/14/the-full-monty-tv-review-boring-and-badly-written,7,0.118,0.092,0.791,0.9696,Guardian,2023-06-14,8
+9,TV tonight: Michael Sheen and David Tennant return with their strangely enjoyable comedy,https://www.theguardian.com/tv-and-radio/2023/jun/14/tv-tonight-michael-sheen-and-david-tennant-return-with-their-strangely-enjoyable-comedy,8,0.129,0.051,0.82,0.9893,Guardian,2023-06-14,8
+10,Partygate report likely to be delayed after intervention by Boris Johnson,https://www.theguardian.com/politics/2023/jun/13/partygate-report-likely-to-be-delayed-after-intervention-by-boris-johnson,9,0.152,0.084,0.764,0.9951,Guardian,2023-06-14,8
