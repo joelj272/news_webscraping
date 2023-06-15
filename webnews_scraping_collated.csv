@@ -7999,3 +7999,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Call it the Rod Stewart manoeuvre. Who hasn’t had to dump a really appalling friend?,https://www.theguardian.com/commentisfree/2023/jun/15/rod-stewart-manoeuvre-dump-appalling-friend-donald-trump,7,0.125,0.067,0.808,0.994,Guardian,2023-06-15,8
 9,‘Drought is on the verge of becoming the next pandemic’,https://www.theguardian.com/news/2023/jun/15/drought-is-on-the-verge-of-becoming-the-next-pandemic,8,0.067,0.091,0.843,-0.9987,Guardian,2023-06-15,8
 10,"Et tu, Phil? Boris runs out of supporters as Rish! runs out of ideas ",https://www.theguardian.com/politics/2023/jun/14/et-tu-phil-boris-runs-out-of-supporters-as-rish-runs-out-of-ideas,9,0.124,0.098,0.778,0.9902,Guardian,2023-06-15,8
+1,US man held after fatal attack at German castle,https://www.bbc.co.uk/news/world-europe-65917991,0,0.049,0.081,0.869,-0.6813,BBC,2023-06-15,20
+2,"Capsized boat had 100 children in hold, BBC told",https://www.bbc.co.uk/news/world-europe-65914476,1,0.059,0.121,0.82,-0.9976,BBC,2023-06-15,20
+3,‘People are waiting for any piece of good news’,https://www.bbc.co.uk/news/world-europe-65923156,2,0.071,0.162,0.768,-0.9982,BBC,2023-06-15,20
+4,US top court upholds Native American adoptions law,https://www.bbc.co.uk/news/world-us-canada-65897827,3,0.113,0.044,0.842,0.9783,BBC,2023-06-15,20
+5,First synthetic human embryo raises ethical issues,https://www.bbc.co.uk/news/health-65914934,4,0.109,0.041,0.85,0.992,BBC,2023-06-15,20
+6,Sir Michael Caine leads tributes to Glenda Jackson,https://www.bbc.co.uk/news/uk-65916692,5,0.144,0.041,0.815,0.9987,BBC,2023-06-15,20
+7,US synagogue attack accused 'filled with hatred',https://www.bbc.co.uk/news/world-us-canada-65881077,6,0.045,0.147,0.808,-0.9955,BBC,2023-06-15,20
+8,Brutal report is devastating for Boris Johnson,https://www.bbc.co.uk/news/uk-politics-65913299,7,0.085,0.051,0.864,0.9124,BBC,2023-06-15,20
+9,Nine women sue Bill Cosby over sexual assault,https://www.bbc.co.uk/news/entertainment-arts-65913991,8,0.054,0.15,0.796,-0.9897,BBC,2023-06-15,20
+10,Ancient mummy found under rubbish dump in Peru,https://www.bbc.co.uk/news/world-latin-america-65915074,9,0.027,0.016,0.957,0.3818,BBC,2023-06-15,20
+1,"An error of biblical proportions: Jeopardy! fans explode after ALL three contestants fail to solve simple puzzle about the Lord's Prayer - so do you know the answer? 
+",https://www.dailymail.co.uk/news/article-12196487/Jeopardy-fans-explode-three-contestants-fail-solve-puzzle-Lords-Prayer.html,0,0.06,0.129,0.811,-0.9782,Daily Mail,2023-06-15,20
+2,"EXCLUSIVE: Kevin Costner's estranged wife Christine remains at their $145M coastal California compound as she refuses to leave following divorce filing in violation of their prenup ... as inspectors seen on scene
+",https://www.dailymail.co.uk/tvshowbiz/article-12196649/Kevin-Costners-estranged-wife-Christine-remains-145M-compound-refuses-leave.html,1,0.034,0.03,0.936,0.3012,Daily Mail,2023-06-15,20
+3,"Emirates says airline is 'investigating' after passenger with celiac disease was left in tears because she was served the wrong croissant which made her 'throw up for an hour' 
+",https://www.dailymail.co.uk/femail/article-12193023/Emirates-investigating-passenger-celiac-disease-threw-hour-flight.html,2,0.067,0.113,0.821,-0.9952,Daily Mail,2023-06-15,20
+4,"EXCLUSIVE: Inside Kevin Costner's very bitter divorce from estranged wife Christine: Explosive claims that star is now 'homeless', she splurged $95k on his credit card and has a restraining order against him
+",https://www.dailymail.co.uk/tvshowbiz/article-12197875/Kevin-Costners-divorce-estranged-wife-Christine-got-explosive.html,3,0.127,0.043,0.829,0.9996,Daily Mail,2023-06-15,20
+5,"To Bedminster? Melania and Barron are seen leaving Trump Tower on Donald's 77th birthday with trolley of Louis Vuitton bags - as former First Lady is said to be 'hurting' over his jail risk
+",https://www.dailymail.co.uk/news/article-12195803/Melania-Barron-leave-Trump-Tower-travel-Bedminster-Donalds-77th-birthday.html,4,0.151,0.066,0.783,0.9991,Daily Mail,2023-06-15,20
+6,"EXCLUSIVE: The depraved texts from girlfriend that 'drove Army veteran to suicide': Mother of his child said he would never see their daughter, 4, again, sent video of her giving oral sex to new man while mocking death of his dog
+",https://www.dailymail.co.uk/news/article-12195333/The-depraved-texts-girlfriend-Mandie-Reusch-drove-Army-veteran-suicide.html,5,0.06,0.141,0.799,-0.999,Daily Mail,2023-06-15,20
+7,"US man throws two American women into ravine at Germany's famous Cinderella castle tourist spot, killing one, 'after he sexually assaulted one and her friend tried to fight him off' 
+",https://www.dailymail.co.uk/news/article-12198677/Man-throws-women-bridge-German-castle-tourist-spot-killing-one.html,6,0.07,0.124,0.806,-0.9953,Daily Mail,2023-06-15,20
+8,"Reporter who stiff-armed fan at Stanley Cup Finals has been receiving 'hate messages' since the viral moment as another journalist labels the comments 'straight criminal'
+",https://www.dailymail.co.uk/sport/nhl/article-12192111/Reporter-stiff-armed-fan-Stanley-Cup-Finals-receiving-hate-messages.html,7,0.104,0.069,0.827,0.7504,Daily Mail,2023-06-15,20
+9,"Harvard Medical School morgue manager 'stole heads, brains, skin, bones from donated bodies and took them to his New Hampshire home where he and his wife sold them'
+",https://www.dailymail.co.uk/news/article-12195617/Harvard-Medical-School-morgue-manager-stole-heads-brains-skin-bones-donated-bodies.html,8,0.069,0.106,0.825,-0.9826,Daily Mail,2023-06-15,20
+10,"'My biggest turn on!': Kim Kardashian reveals what REALLY makes her 'horny' (and you'll never guess what it is) after writing LONG 'man list' in search for her dream guy
+",https://www.dailymail.co.uk/tvshowbiz/article-12192833/My-biggest-turn-Kim-Kardashian-reveals-REALLY-makes-horny.html,9,0.185,0.038,0.777,1.0,Daily Mail,2023-06-15,20
+1,Nottingham attacks suspect is former Nottingham University student,https://www.theguardian.com/uk-news/2023/jun/15/nottingham-attacks-suspect-is-former-nottingham-university-student,0,0.048,0.09,0.862,-0.9873,Guardian,2023-06-15,20
+2,Boris Johnson allies threaten to target Tories who back Partygate report for deselection,https://www.theguardian.com/politics/2023/jun/15/boris-johnson-allies-fury-partygate-report,1,0.107,0.098,0.795,0.6633,Guardian,2023-06-15,20
+3,Glum Chinese graduates go viral with pictures of misery amid jobs anxiety,https://www.theguardian.com/world/2023/jun/15/glum-chinese-graduates-go-viral-with-pictures-of-misery-amid-jobs-anxiety,2,0.097,0.053,0.851,0.9716,Guardian,2023-06-15,20
+4,"Snarls and smears from disgraced Boris Johnson, readying his troops for civil war ",https://www.theguardian.com/commentisfree/2023/jun/15/snarls-smears-disgraced-boris-johnson-partygate-civil-war,3,0.085,0.17,0.744,-0.9988,Guardian,2023-06-15,20
+5,Boris Johnson goes down fighting but runs head first into Partygate reality,https://www.theguardian.com/politics/2023/jun/15/boris-johnson-privileges-report-character-mislead,4,0.08,0.083,0.836,0.1817,Guardian,2023-06-15,20
+6,"Boris Johnson would face 90-day suspension if he were still MP, says privileges committee – as it happened",https://www.theguardian.com/politics/live/2023/jun/15/boris-johnson-partygate-privileges-committee-report-conservatives-uk-politics-live,5,0.088,0.099,0.813,-0.9962,Guardian,2023-06-15,20
+7,‘Where are they?’ Hope fades among relatives of missing after Greek shipwreck,https://www.theguardian.com/world/2023/jun/15/where-are-they-hope-fades-among-relatives-of-missing-after-greek-shipwreck,6,0.091,0.11,0.799,-0.9853,Guardian,2023-06-15,20
+8,Gary Lineker joins Michael Eavis to celebrate social homes built near Glastonbury site,https://www.theguardian.com/society/2023/jun/15/gary-lineker-michael-eavis-social-homes-near-glastonbury-site,7,0.172,0.012,0.816,0.9992,Guardian,2023-06-15,20
+9,The 25 best stunts in cinema – ranked!,https://www.theguardian.com/film/2023/jun/15/25-best-stunts-ranked,8,0.108,0.059,0.834,0.9977,Guardian,2023-06-15,20
+10,"Greece shipwreck: up to 100 children were below deck, survivors say",https://www.theguardian.com/world/2023/jun/15/greece-refugee-shipwreck-rescuers-scour-sea-for-survivors,9,0.03,0.117,0.852,-0.9985,Guardian,2023-06-15,20
