@@ -8039,3 +8039,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Gary Lineker joins Michael Eavis to celebrate social homes built near Glastonbury site,https://www.theguardian.com/society/2023/jun/15/gary-lineker-michael-eavis-social-homes-near-glastonbury-site,7,0.172,0.012,0.816,0.9992,Guardian,2023-06-15,20
 9,The 25 best stunts in cinema – ranked!,https://www.theguardian.com/film/2023/jun/15/25-best-stunts-ranked,8,0.108,0.059,0.834,0.9977,Guardian,2023-06-15,20
 10,"Greece shipwreck: up to 100 children were below deck, survivors say",https://www.theguardian.com/world/2023/jun/15/greece-refugee-shipwreck-rescuers-scour-sea-for-survivors,9,0.03,0.117,0.852,-0.9985,Guardian,2023-06-15,20
+1,Spotify ends podcast deal with Harry and Meghan,https://www.bbc.co.uk/news/uk-65924584,0,0.101,0.021,0.879,0.9747,BBC,2023-06-16,8
+2,Canada highway crash leaves at least 15 dead,https://www.bbc.co.uk/news/world-us-canada-65897829,1,0.01,0.153,0.837,-0.9939,BBC,2023-06-16,8
+3,McGregor accused of sex assault after NBA game,https://www.bbc.co.uk/news/world-us-canada-65924407,2,0.076,0.06,0.864,0.6809,BBC,2023-06-16,8
+4,iPhone maker to shift to cars as US-China ties sour,https://www.bbc.co.uk/news/business-65886658,3,0.092,0.061,0.847,0.9911,BBC,2023-06-16,8
+5,Japan rewrites sex crime laws in landmark move,https://www.bbc.co.uk/news/world-asia-65887198,4,0.068,0.183,0.749,-0.9989,BBC,2023-06-16,8
+6,The workers already replaced by artificial intelligence,https://www.bbc.co.uk/news/business-65906521,5,0.088,0.066,0.846,0.9545,BBC,2023-06-16,8
+7,Branson to launch space tourism flights this month,https://www.bbc.co.uk/news/business-65924495,6,0.043,0.035,0.922,-0.0608,BBC,2023-06-16,8
+8,US man held after fatal attack at German castle,https://www.bbc.co.uk/news/world-europe-65917991,7,0.049,0.081,0.869,-0.6813,BBC,2023-06-16,8
+9,'Survivors took refuge in trees - and died of hunger',https://www.bbc.co.uk/news/world-asia-india-65912680,8,0.064,0.096,0.841,-0.9836,BBC,2023-06-16,8
+10,"Capsized boat had 100 children in hold, BBC told",https://www.bbc.co.uk/news/world-europe-65914476,9,0.059,0.121,0.82,-0.9976,BBC,2023-06-16,8
+1,"Emirates says airline is 'investigating' after passenger with celiac disease was left in tears because she was served the wrong croissant which made her 'throw up for an hour' 
+",https://www.dailymail.co.uk/femail/article-12193023/Emirates-investigating-passenger-celiac-disease-threw-hour-flight.html,0,0.067,0.113,0.821,-0.9952,Daily Mail,2023-06-16,8
+2,"EXCLUSIVE: Inside Kevin Costner's very bitter divorce from estranged wife Christine: Explosive claims that star is now 'homeless', she splurged $95k on his credit card and has a restraining order against him
+",https://www.dailymail.co.uk/tvshowbiz/article-12197875/Kevin-Costners-divorce-estranged-wife-Christine-got-explosive.html,1,0.127,0.043,0.829,0.9996,Daily Mail,2023-06-16,8
+3,"War of the willies! Data reveals the average penis sizes around the world... and you won't like where the US and UK rank
+",https://www.dailymail.co.uk/health/article-12198649/War-willies-Data-reveals-average-penis-sizes-world.html,2,0.045,0.04,0.915,0.1352,Daily Mail,2023-06-16,8
+4,"US man throws two American women into ravine at Germany's famous Cinderella castle tourist spot, killing one, 'after he sexually assaulted one and her friend tried to fight him off' 
+",https://www.dailymail.co.uk/news/article-12198677/Man-throws-women-bridge-German-castle-tourist-spot-killing-one.html,3,0.07,0.124,0.806,-0.9953,Daily Mail,2023-06-16,8
+5,"EXCLUSIVE: The depraved texts from girlfriend that 'drove Army veteran to suicide': Mother of his child said he would never see their daughter, 4, again, sent video of her giving oral sex to new man while mocking death of his dog
+",https://www.dailymail.co.uk/news/article-12195333/The-depraved-texts-girlfriend-Mandie-Reusch-drove-Army-veteran-suicide.html,4,0.06,0.141,0.799,-0.999,Daily Mail,2023-06-16,8
+6,"An error of biblical proportions: Jeopardy! fans explode after ALL three contestants fail to solve simple puzzle about the Lord's Prayer - so do you know the answer? 
+",https://www.dailymail.co.uk/news/article-12196487/Jeopardy-fans-explode-three-contestants-fail-solve-puzzle-Lords-Prayer.html,5,0.06,0.129,0.811,-0.9782,Daily Mail,2023-06-16,8
+7,"'There was survivor's guilt': Gavin Newsom's wife reveals she killed her older sister in a tragic golf cart accident 41 years ago in Hawaii - as she discusses 'traumas' that shaped her life in new interview
+",https://www.dailymail.co.uk/news/article-12199317/Gavin-Newsoms-wife-reveals-killed-older-sister-tragic-golf-cart-accident.html,6,0.091,0.126,0.783,-0.9828,Daily Mail,2023-06-16,8
+8,"Meghan Markle's Archetypes podcast is AXED by Spotify: Streaming platform and Sussexes 'agree to part ways' with royal pair 'set to lose full payout due to low productivity' 
+",https://www.dailymail.co.uk/news/article-12200875/Meghan-Markles-Spotify-podcast-set-axed-streaming-platform-revamps-output.html,7,0.079,0.029,0.892,0.9797,Daily Mail,2023-06-16,8
+9,"Gwyneth Paltrow's daughter Apple, 18, looks incredible as she tries on her mother's famous 2002 gothic Alexander McQueen Oscars gown
+",https://www.dailymail.co.uk/tvshowbiz/gwyneth-paltrow/article-12198905/Gwyneth-Paltrows-daughter-Apple-18-tries-mothers-glamorous-2002-Oscars-gown.html,8,0.172,0.056,0.772,0.9978,Daily Mail,2023-06-16,8
+10,"Are these foods behind the epidemic of colon cancer in young people? Researchers suggest two staples of the Western diet could be to blame for spike among people under 50
+",https://www.dailymail.co.uk/health/article-12195757/Researchers-point-red-meat-sugar-culprits-disease-spike-people-50.html,9,0.046,0.182,0.772,-0.9995,Daily Mail,2023-06-16,8
+1,Prince Harry and Meghan’s multimillion-dollar deal with Spotify to end,https://www.theguardian.com/media/2023/jun/16/prince-harry-and-meghans-multimillion-dollar-deal-with-spotify-to-end,0,0.098,0.028,0.874,0.9709,Guardian,2023-06-16,8
+2,‘End of the road for Johnson’: what the papers say as the privileges committee delivers its verdict,https://www.theguardian.com/media/2023/jun/16/end-of-the-road-for-johnson-what-the-papers-say-as-the-privileges-committee-delivers-its-verdict,1,0.033,0.121,0.846,-0.9966,Guardian,2023-06-16,8
+3,Boris Johnson allies threaten to target Tories who back Partygate report for deselection,https://www.theguardian.com/politics/2023/jun/15/boris-johnson-allies-fury-partygate-report,2,0.107,0.098,0.795,0.6633,Guardian,2023-06-16,8
+4,Speed-cubing world record broken: Max Park takes astonishing 3.13 seconds to solve 3x3x3 cube,https://www.theguardian.com/games/2023/jun/16/speed-cubing-world-record-broken-max-park-3-13-seconds-rubiks-cube-like-3x3x3-puzzle,3,0.12,0.037,0.843,0.9848,Guardian,2023-06-16,8
+5,‘Lunch of suffering’: plain ‘white people food’ goes viral in China,https://www.theguardian.com/food/2023/jun/15/lunch-of-suffering-plain-white-people-food-goes-viral-in-china,4,0.071,0.02,0.909,0.9636,Guardian,2023-06-16,8
+6,Bryan Cranston: ‘My dad wanted to be a star. How futile is that?’,https://www.theguardian.com/film/2023/jun/16/bryan-cranston-asteroid-city-interview,5,0.162,0.062,0.776,0.9997,Guardian,2023-06-16,8
+7,Boris Johnson Partygate report findings threaten to further derail Tories,https://www.theguardian.com/politics/2023/jun/15/johnson-deliberately-misled-parliament-over-partygate-damning-report-finds,6,0.088,0.121,0.792,-0.9933,Guardian,2023-06-16,8
+8,Western firms snub ‘Russian Davos’ as its prestige evaporates,https://www.theguardian.com/world/2023/jun/15/western-firms-snub-russian-davos-prestige-evaporates,7,0.065,0.064,0.872,-0.798,Guardian,2023-06-16,8
+9,Exotic bee-eater returns to UK for second summer in a row,https://www.theguardian.com/environment/2023/jun/15/exotic-bee-eater-returns-to-uk-for-second-summer-in-a-row,8,0.076,0.01,0.914,0.9609,Guardian,2023-06-16,8
+10,‘Horrific’ Canada highway crash leaves at least 15 dead,https://www.theguardian.com/world/2023/jun/15/canada-highway-crash-manitoba-mass-casualty,9,0.063,0.189,0.748,-0.9984,Guardian,2023-06-16,8
