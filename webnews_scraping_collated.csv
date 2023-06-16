@@ -8079,3 +8079,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Western firms snub ‘Russian Davos’ as its prestige evaporates,https://www.theguardian.com/world/2023/jun/15/western-firms-snub-russian-davos-prestige-evaporates,7,0.065,0.064,0.872,-0.798,Guardian,2023-06-16,8
 9,Exotic bee-eater returns to UK for second summer in a row,https://www.theguardian.com/environment/2023/jun/15/exotic-bee-eater-returns-to-uk-for-second-summer-in-a-row,8,0.076,0.01,0.914,0.9609,Guardian,2023-06-16,8
 10,‘Horrific’ Canada highway crash leaves at least 15 dead,https://www.theguardian.com/world/2023/jun/15/canada-highway-crash-manitoba-mass-casualty,9,0.063,0.189,0.748,-0.9984,Guardian,2023-06-16,8
+1,Putin confirms first nuclear weapons moved to Belarus,https://www.bbc.co.uk/news/world-europe-65932700,0,0.074,0.089,0.838,-0.4952,BBC,2023-06-16,20
+2,"Court artists on their three, very different Trumps",https://www.bbc.co.uk/news/world-us-canada-65905926,1,0.085,0.104,0.811,-0.9657,BBC,2023-06-16,20
+3,Up to 500 missing in migrant boat disaster - UN,https://www.bbc.co.uk/news/world-europe-65925558,2,0.05,0.093,0.857,-0.992,BBC,2023-06-16,20
+4,Pentagon Papers whistleblower Ellsberg dies aged 92,https://www.bbc.co.uk/news/world-us-canada-65932944,3,0.043,0.173,0.785,-0.9889,BBC,2023-06-16,20
+5,Canada top court upholds migrant pact with the US,https://www.bbc.co.uk/news/world-us-canada-65931642,4,0.135,0.085,0.78,0.9917,BBC,2023-06-16,20
+6,Massive rockfall stops just short of Swiss village,https://www.bbc.co.uk/news/world-europe-65926381,5,0.078,0.111,0.811,-0.8548,BBC,2023-06-16,20
+7,Spotify ends podcast deal with Harry and Meghan,https://www.bbc.co.uk/news/uk-65924584,6,0.101,0.021,0.879,0.9747,BBC,2023-06-16,20
+8,Bali 'suitcase murder' suspect pleads guilty in US,https://www.bbc.co.uk/news/world-us-canada-65931185,7,0.069,0.179,0.752,-0.9953,BBC,2023-06-16,20
+9,Man charged with murders after Nottingham attacks,https://www.bbc.co.uk/news/uk-england-nottinghamshire-65912592,8,0.095,0.112,0.793,-0.8998,BBC,2023-06-16,20
+10,"Mader, 26, dies after Tour de Suisse crash",https://www.bbc.co.uk/sport/cycling/65926606,9,0.0,0.0,0.0,0.0,BBC,2023-06-16,20
+1,"Meghan Markle's Archetypes podcast is AXED by Spotify: Streaming platform and Sussexes 'agree to part ways' with royal pair 'set to lose full payout due to low productivity' 
+",https://www.dailymail.co.uk/news/article-12200875/Meghan-Markles-Spotify-podcast-set-axed-streaming-platform-revamps-output.html,0,0.08,0.029,0.891,0.9797,Daily Mail,2023-06-16,20
+2,"Emirates says airline is 'investigating' after passenger with celiac disease was left in tears because she was served the wrong croissant which made her 'throw up for an hour' 
+",https://www.dailymail.co.uk/femail/article-12193023/Emirates-investigating-passenger-celiac-disease-threw-hour-flight.html,1,0.067,0.113,0.821,-0.9952,Daily Mail,2023-06-16,20
+3,"31-year-old mother of twins who was diagnosed with stage 3 colorectal cancer reveals the warning symptoms she wrote off for MONTHS as signs of stress and IBS
+",https://www.dailymail.co.uk/femail/article-12199943/My-IBS-turned-colorectal-cancer-symptoms-ignored.html,2,0.048,0.192,0.76,-0.9994,Daily Mail,2023-06-16,20
+4,"Video shows the moment Conor McGregor led sexual assault accuser into VIP men's bathroom at NBA Finals and how his entourage of security guarded the door: Miami cops investigating
+",https://www.dailymail.co.uk/sport/mma/article-12203215/Video-shows-Conor-McGregor-leading-sexual-assault-accuser-bathroom.html,3,0.065,0.093,0.842,-0.9826,Daily Mail,2023-06-16,20
+5,"EXCLUSIVE: It's a BOY! Al Pacino, 83, and Noor Alfallah, 29, have welcomed a son - as his adorable name is revealed 
+",https://www.dailymail.co.uk/tvshowbiz/article-12200473/Its-BOY-Al-Pacino-83-Noor-Alfallah-29-welcomed-son-reveal-name.html,4,0.084,0.033,0.883,0.9829,Daily Mail,2023-06-16,20
+6,"Former college football star Ray Lewis III - son of legendary NFL linebacker Ray Lewis - mysteriously dies at age 28
+",https://www.dailymail.co.uk/sport/football/article-12200901/Former-college-football-star-Ray-Lewis-III-son-linebacker-Ray-Lewis-dies-aged-28.html,5,0.151,0.058,0.791,0.9963,Daily Mail,2023-06-16,20
+7,"Why Harry and Meghan's brand could come crashing down: Experts warn Sussexes could lose up to $10m in deals after Spotify parted ways with royal pair - but Duchess could build an empire like Gwyneth Paltrow or the Kardashians
+",https://www.dailymail.co.uk/news/article-12201801/Harry-Meghans-brand-come-crashing-end-Spotify-deal.html,6,0.087,0.042,0.871,0.9994,Daily Mail,2023-06-16,20
+8,"Michael Strahan is every bit the supportive 'girl dad' as his twin daughters graduate high school and are headed to prestigious universities: 'So proud of you'
+",https://www.dailymail.co.uk/tvshowbiz/article-12199613/Michael-Strahan-proud-twin-daughters-graduate-high-school-headed-prestigious-universities.html,7,0.184,0.003,0.813,0.9978,Daily Mail,2023-06-16,20
+9,"War of the willies! Data reveals the average penis sizes around the world... and you won't like where the US and UK rank
+",https://www.dailymail.co.uk/health/article-12198649/War-willies-Data-reveals-average-penis-sizes-world.html,8,0.045,0.04,0.915,0.1352,Daily Mail,2023-06-16,20
+10,"'There was survivor's guilt': Gavin Newsom's wife reveals she killed her older sister in a tragic golf cart accident 41 years ago in Hawaii - as she discusses 'traumas' that shaped her life in new interview
+",https://www.dailymail.co.uk/news/article-12199317/Gavin-Newsoms-wife-reveals-killed-older-sister-tragic-golf-cart-accident.html,9,0.091,0.126,0.783,-0.9828,Daily Mail,2023-06-16,20
+1,Man charged with murder after Nottingham stabbing deaths,https://www.theguardian.com/uk-news/2023/jun/16/man-charged-after-nottingham-stabbing-deaths,0,0.092,0.16,0.748,-0.9892,Guardian,2023-06-16,20
+2,"The Ashes first Test, day one: England declare on 393-8 against Australia – as it happened",https://www.theguardian.com/sport/live/2023/jun/16/the-ashes-2023-england-vs-australia-live-updates-first-test-cricket-eng-v-aus-latest-score-day-one-egdbaston,1,0.119,0.044,0.836,0.9998,Guardian,2023-06-16,20
+3,Boris Johnson tells allies not to vote against Partygate report,https://www.theguardian.com/politics/2023/jun/16/divided-tories-prepare-for-free-vote-on-boris-johnson-partygate-report,2,0.085,0.11,0.805,-0.9724,Guardian,2023-06-16,20
+4,Malta v England: Euro 2024 qualifier – live,https://www.theguardian.com/football/live/2023/jun/16/malta-v-england-euro-2024-qualifier-live,3,0.147,0.043,0.81,0.9996,Guardian,2023-06-16,20
+5,"Are Tory MPs as deluded as Boris Johnson? It’s a tough act to follow, but they’re doing their best",https://www.theguardian.com/commentisfree/2023/jun/16/tory-mps-boris-johnson-partygate-report,4,0.06,0.105,0.835,-0.9936,Guardian,2023-06-16,20
+6,"Victims speak out over ‘tsunami’ of fraud on Instagram, Facebook and WhatsApp",https://www.theguardian.com/technology/2023/jun/16/victims-speak-out-over-fraud-on-instagram-facebook-and-whatsapp,5,0.067,0.197,0.735,-0.9995,Guardian,2023-06-16,20
+7,"‘Almost still shines’: 3,000-year-old sword unearthed in Germany",https://www.theguardian.com/world/2023/jun/16/till-shines-3300-year-old-sword-found-in-germany-bronze-age-grave-bavaria,6,0.023,0.017,0.96,0.3089,Guardian,2023-06-16,20
+8,What does end of Spotify deal mean for Harry and Meghan?,https://www.theguardian.com/uk-news/2023/jun/16/what-does-end-spotify-deal-mean-harry-meghan,7,0.084,0.044,0.871,0.9857,Guardian,2023-06-16,20
+9,Joe Root scores superb Ashes century before England declare against Australia,https://www.theguardian.com/sport/2023/jun/16/england-australia-ashes-first-test-day-1-match-report,8,0.093,0.044,0.863,0.9948,Guardian,2023-06-16,20
+10,Boris Johnson: the week the wheels finally came off the bandwagon,https://www.theguardian.com/politics/2023/jun/16/boris-johnson-the-week-the-wheels-finally-came-off-the-bandwagon,9,0.135,0.109,0.756,0.9773,Guardian,2023-06-16,20
