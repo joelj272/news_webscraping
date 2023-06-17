@@ -8119,3 +8119,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,What does end of Spotify deal mean for Harry and Meghan?,https://www.theguardian.com/uk-news/2023/jun/16/what-does-end-spotify-deal-mean-harry-meghan,7,0.084,0.044,0.871,0.9857,Guardian,2023-06-16,20
 9,Joe Root scores superb Ashes century before England declare against Australia,https://www.theguardian.com/sport/2023/jun/16/england-australia-ashes-first-test-day-1-match-report,8,0.093,0.044,0.863,0.9948,Guardian,2023-06-16,20
 10,Boris Johnson: the week the wheels finally came off the bandwagon,https://www.theguardian.com/politics/2023/jun/16/boris-johnson-the-week-the-wheels-finally-came-off-the-bandwagon,9,0.135,0.109,0.756,0.9773,Guardian,2023-06-16,20
+1,Why Spotify's big bet on Meghan fell flat,https://www.bbc.co.uk/news/business-65936228,0,0.102,0.042,0.855,0.9946,BBC,2023-06-17,8
+2,Dazzling ancient bronze sword found in Germany,https://www.bbc.co.uk/news/world-europe-65936594,1,0.039,0.068,0.893,-0.5204,BBC,2023-06-17,8
+3,Putin confirms first nuclear weapons moved to Belarus,https://www.bbc.co.uk/news/world-europe-65932700,2,0.062,0.105,0.833,-0.9519,BBC,2023-06-17,8
+4,Padam! Kylie scores her first top 10 hit since 2010,https://www.bbc.co.uk/news/entertainment-arts-65932878,3,0.113,0.004,0.883,0.9971,BBC,2023-06-17,8
+5,25 killed by rebels in Uganda school attack,https://www.bbc.co.uk/news/world-africa-65937484,4,0.02,0.19,0.79,-0.9977,BBC,2023-06-17,8
+6,"Court artists on their three, very different Trumps",https://www.bbc.co.uk/news/world-us-canada-65905926,5,0.085,0.104,0.811,-0.9657,BBC,2023-06-17,8
+7,The women baring all in Smoke Sauna Sisterhood film,https://www.bbc.co.uk/news/entertainment-arts-65855142,6,0.117,0.079,0.803,0.9915,BBC,2023-06-17,8
+8,Michael Jordan to sell Charlotte Hornets NBA team,https://www.bbc.co.uk/news/world-us-canada-65933099,7,0.063,0.006,0.931,0.9655,BBC,2023-06-17,8
+9,Six remain critical after deadly Canada crash,https://www.bbc.co.uk/news/world-us-canada-65931655,8,0.013,0.111,0.875,-0.988,BBC,2023-06-17,8
+10,Mali asks UN peacekeepers to leave,https://www.bbc.co.uk/news/world-africa-65936597,9,0.066,0.099,0.836,-0.9123,BBC,2023-06-17,8
+1,"Video shows the moment Conor McGregor led sexual assault accuser into VIP men's bathroom at NBA Finals and how his entourage of security guarded the door: Miami cops investigating
+",https://www.dailymail.co.uk/sport/mma/article-12203215/Video-shows-Conor-McGregor-leading-sexual-assault-accuser-bathroom.html,0,0.065,0.093,0.842,-0.9826,Daily Mail,2023-06-17,8
+2,"Why Harry and Meghan's brand could come crashing down: Experts warn Sussexes could lose up to $10m in deals after Spotify parted ways with royal pair - but Duchess could build an empire like Gwyneth Paltrow or the Kardashians
+",https://www.dailymail.co.uk/news/article-12201801/Harry-Meghans-brand-come-crashing-end-Spotify-deal.html,1,0.087,0.042,0.871,0.9994,Daily Mail,2023-06-17,8
+3,"Prince Harry and Meghan Markle are called 'f*****g grifters' by Spotify exec Bill Simmons after their $20M Archetypes podcast is axed
+",https://www.dailymail.co.uk/news/article-12204399/Prince-Harry-Meghan-Markle-called-f-g-grifters-Spotify-exec-Bill-Simmons.html,2,0.064,0.032,0.904,0.9554,Daily Mail,2023-06-17,8
+4,"Swollen eyes, a hunchback and claw-like hands: Grotesque model reveals what remote-workers will look like in 70 years
+",https://www.dailymail.co.uk/sciencetech/article-12202209/Swollen-eyes-hunchback-claw-like-hands-remote-workers-look-like-2100.html,3,0.143,0.072,0.785,0.9909,Daily Mail,2023-06-17,8
+5,"Emirates says airline is 'investigating' after passenger with celiac disease was left in tears because she was served the wrong croissant which made her 'throw up for an hour' 
+",https://www.dailymail.co.uk/femail/article-12193023/Emirates-investigating-passenger-celiac-disease-threw-hour-flight.html,4,0.067,0.113,0.821,-0.9952,Daily Mail,2023-06-17,8
+6,"Babbling Biden tells Connecticut crowd 'God save the queen, man' at end of baffling speech where he joked about being 110 and said 'don't make me a dog-faced lying pony soldier' 
+",https://www.dailymail.co.uk/news/article-12203923/Babbling-Biden-tells-Connecticut-crowd-God-save-queen-man.html,5,0.052,0.188,0.76,-0.9976,Daily Mail,2023-06-17,8
+7,"EXCLUSIVE: US woman killed when she was thrown down 'Cinderella' castle ravine is identified as recent Illinois graduate, 21, on European trip with her friend as it is revealed her alleged killer stayed at same hotel
+",https://www.dailymail.co.uk/news/article-12201999/US-tourist-thrown-ravine-castle-miraculously-suffered-light-injuries-say-German-police.html,6,0.062,0.114,0.824,-0.9988,Daily Mail,2023-06-17,8
+8,"Former E! News host Catt Sadler reveals she's had a FACELIFT at age 48: 'I give zero f***s what people think' 
+",https://www.dailymail.co.uk/tvshowbiz/article-12203899/E-News-host-Catt-Sadler-reveals-shes-facelift-age-48.html,7,0.123,0.076,0.801,0.9752,Daily Mail,2023-06-17,8
+9,"EXCLUSIVE: Hunter Biden FINALLY answers questions about his shady finances in Arkansas as baby mama Lunden Roberts surprises First Son by showing up to hear him be deposed in battle over child support
+",https://www.dailymail.co.uk/news/article-12191535/Hunter-Biden-FINALLY-answers-questions-shady-finances-deposition.html,8,0.072,0.069,0.859,0.6382,Daily Mail,2023-06-17,8
+10,"EXCLUSIVE: 'She's no gold digger - this isn't about money.' Kevin Costner's estranged wife Christine wants keep things normal for the kids, say friends, insisting he was never home anyway and he's lashing out because she ended marriage
+",https://www.dailymail.co.uk/tvshowbiz/article-12202653/Shes-no-gold-digger-Kevin-Costners-estranged-wife-Christine-wants-things-normal-kids.html,9,0.108,0.039,0.853,0.9993,Daily Mail,2023-06-17,8
+1,UK homeowners face huge rise in payments when fixed-rate mortgages expire,https://www.theguardian.com/money/2023/jun/17/uk-homeowners-face-huge-rise-in-payments-when-fixed-rate-mortgages-expire,0,0.041,0.081,0.877,-0.9888,Guardian,2023-06-17,8
+2,Blind date: ‘I may have embarrassed him by asking if he was rich’,https://www.theguardian.com/lifeandstyle/2023/jun/17/blind-date-david-jacqueline,1,0.185,0.056,0.76,0.999,Guardian,2023-06-17,8
+3,"Warning of floods over weekend, with storms set to hit parts of UK",https://www.theguardian.com/uk-news/2023/jun/16/warning-of-floods-over-weekend-with-storms-set-to-hit-parts-of-uk,2,0.065,0.068,0.867,0.0599,Guardian,2023-06-17,8
+4,"‘I got consumed by the hatred, by how many people were upset because I wore an armband’: Alex Scott on love, Lineker and standing up for LGBTQ+ rights",https://www.theguardian.com/football/2023/jun/17/alex-scott-interview-womens-world-cup-hatred-because-i-wore-an-armband,3,0.127,0.097,0.776,0.9992,Guardian,2023-06-17,8
+5,"‘Almost still shines’: 3,000-year-old sword unearthed in Germany",https://www.theguardian.com/world/2023/jun/16/till-shines-3300-year-old-sword-found-in-germany-bronze-age-grave-bavaria,4,0.023,0.017,0.96,0.3089,Guardian,2023-06-17,8
+6,Russia-Ukraine war live: counteroffensive records ‘tactical successes’ as troops advance south,https://www.theguardian.com/world/live/2023/jun/17/russia-ukraine-war-live-counteroffensive-records-tactical-successes-as-troops-advance-south,5,0.096,0.111,0.793,-0.9946,Guardian,2023-06-17,8
+7,Queen of Oz review – Catherine Tate is truly monstrous in her new BBC sitcom,https://www.theguardian.com/tv-and-radio/2023/jun/16/queen-of-oz-review-catherine-tate-is-truly-monstrous-in-her-new-bbc-sitcom,6,0.144,0.055,0.8,0.9959,Guardian,2023-06-17,8
+8,Tim Dowling: is this a hangover – or just what being 60 feels like?,https://www.theguardian.com/lifeandstyle/2023/jun/17/tim-dowling-is-this-a-hangover-or-just-what-being-60-feels-like,7,0.149,0.072,0.779,0.997,Guardian,2023-06-17,8
+9,"Martin Amis, Ian McEwan and Anna Wintour honoured in king’s birthday list",https://www.theguardian.com/uk-news/2023/jun/16/martin-amis-ian-mcewan-and-anna-wintour-honoured-in-kings-birthday-list,8,0.154,0.031,0.815,0.9994,Guardian,2023-06-17,8
+10,"Are Tory MPs as deluded as Boris Johnson? It’s a tough act to follow, but they’re doing their best",https://www.theguardian.com/commentisfree/2023/jun/16/tory-mps-boris-johnson-partygate-report,9,0.06,0.105,0.835,-0.9936,Guardian,2023-06-17,8
