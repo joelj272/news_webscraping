@@ -8199,3 +8199,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"This is how we do it: ‘We just watch for now, but soon we plan to have sex with another couple’",https://www.theguardian.com/lifeandstyle/2023/jun/17/this-is-how-we-do-it-we-just-watch-for-now-but-soon-we-plan-to-have-sex-with-another-couple,7,0.161,0.045,0.794,0.9987,Guardian,2023-06-17,20
 9,Schools across England face unprecedented struggle to hire English teachers as recruitment crisis grows,https://www.theguardian.com/education/2023/jun/17/schools-across-england-face-unprecedented-struggle-to-hire-english-teachers-as-recruitment-crisis-grows,8,0.097,0.096,0.808,-0.5354,Guardian,2023-06-17,20
 10,"Boris Johnson has been utterly disgraced, so why does Rishi Sunak flinch from condemning him?",https://www.theguardian.com/commentisfree/2023/jun/17/johnson-has-been-utterly-disgraced-so-why-does-mr-sunak-flinch-from-condemning-him,9,0.094,0.115,0.792,-0.9899,Guardian,2023-06-17,20
+1,US's Blinken begins talks in high-stakes Beijing visit,https://www.bbc.co.uk/news/world-us-canada-65941659,0,0.042,0.051,0.907,-0.4525,BBC,2023-06-18,8
+2,Video emerges of Tory staff partying during Covid,https://www.bbc.co.uk/news/uk-politics-65941549,1,0.073,0.055,0.873,0.7065,BBC,2023-06-18,8
+3,"War must end, South African president tells Putin",https://www.bbc.co.uk/news/world-europe-65940655,2,0.047,0.16,0.793,-0.9972,BBC,2023-06-18,8
+4,She was denied an abortion - then she almost died,https://www.bbc.co.uk/news/world-us-canada-65935189,3,0.067,0.118,0.814,-0.9984,BBC,2023-06-18,8
+5,Why Spotify's big bet on Meghan fell flat,https://www.bbc.co.uk/news/business-65936228,4,0.102,0.042,0.855,0.9946,BBC,2023-06-18,8
+6,Trauma of deepfake porn can be 'life-shattering',https://www.bbc.co.uk/news/entertainment-arts-65854112,5,0.07,0.129,0.8,-0.9981,BBC,2023-06-18,8
+7,Louis delights crowd at King's birthday parade,https://www.bbc.co.uk/news/uk-65939822,6,0.055,0.041,0.904,0.5312,BBC,2023-06-18,8
+8,Influencers in firing line as France tackles scams,https://www.bbc.co.uk/news/world-europe-65916250,7,0.075,0.203,0.722,-0.9993,BBC,2023-06-18,8
+9,Suspended Conservative MP David Warburton resigns,https://www.bbc.co.uk/news/uk-politics-65941710,8,0.06,0.175,0.765,-0.9951,BBC,2023-06-18,8
+10,"Quake damages French homes, schools and churches",https://www.bbc.co.uk/news/world-europe-65940654,9,0.066,0.105,0.83,-0.8584,BBC,2023-06-18,8
+1,"Downcast duchess: Make-up free Meghan Markle looks glum as she is spotted in public for first time since her $20million Spotify podcast deal ended and streaming service's head of innovation called her and Harry 'f***ing grifters' 
+",https://www.dailymail.co.uk/news/article-12205017/Make-free-Meghan-Markle-looks-glum-spotted-time-Spotify-deal-ended.html,0,0.115,0.059,0.826,0.9854,Daily Mail,2023-06-18,8
+2,"Kourtney Kardashian is PREGNANT! Reality TV star, 44, surprises husband Travis Barker, 47, with baby news at concert - over a year after stopping IVF journey due to health effects
+",https://www.dailymail.co.uk/tvshowbiz/article-12205343/Kourtney-Kardashian-44-PREGNANT-child-Travis-Barker.html,1,0.108,0.023,0.869,0.9957,Daily Mail,2023-06-18,8
+3,"Royal fans think Sophie gave Princess Charlotte a telling off - but others are not convinced
+",https://www.dailymail.co.uk/femail/article-12206017/Royal-fans-think-Sophie-gave-Princess-Charlotte-telling-not-convinced.html,2,0.075,0.022,0.903,0.9429,Daily Mail,2023-06-18,8
+4,"Kate is gorgeous in green! Princess of Wales puts on an elegant display at Trooping the Colour (and pays sweet tribute to Diana)
+",https://www.dailymail.co.uk/femail/article-12203547/Kate-Middleton-puts-elegant-display-attends-Trooping-Colour-green-outfit.html,3,0.076,0.021,0.903,0.9956,Daily Mail,2023-06-18,8
+5,"He makes Biden look coherent! Stroke victim Senator John Fetterman mispronounces 'infrastructure' and 'delegation' after wearing hoodie and shorts to inspect collapsed Philly freeway with president 
+",https://www.dailymail.co.uk/news/article-12206023/Dem-Sen-John-Fetterman-slammed-wearing-hoodie-shorts-accompany-Biden.html,4,0.071,0.067,0.862,-0.4659,Daily Mail,2023-06-18,8
+6,"'I, uh, would just, um, really like to, you know - the 95, 95, 95. You know?': John Fetterman's bizarre response when asked about Philadelphia highway collapse in the Senate
+",https://www.dailymail.co.uk/news/article-12204965/John-Fettermans-bizarre-response-asked-Philadelphia-highway-collapse-Senate.html,5,0.091,0.13,0.778,-0.9876,Daily Mail,2023-06-18,8
+7,"Emirates says airline is 'investigating' after passenger with celiac disease was left in tears because she was served the wrong croissant which made her 'throw up for an hour' 
+",https://www.dailymail.co.uk/femail/article-12193023/Emirates-investigating-passenger-celiac-disease-threw-hour-flight.html,6,0.067,0.113,0.821,-0.9952,Daily Mail,2023-06-18,8
+8,"Inside the world of Joseph Baena amid dad Arnold Schwarzenegger's tell-all Netflix documentary and claims actor's other children have shunned bodybuilder half-brother
+",https://www.dailymail.co.uk/tvshowbiz/article-12199873/Inside-world-Joseph-Baena-amid-dad-Arnold-Schwarzeneggers-tell-Netflix-documentary.html,7,0.113,0.081,0.806,0.9982,Daily Mail,2023-06-18,8
+9,"MEGHAN MCCAIN: 'The f***ing grifters' - three shattering words that MUST make the Duke and Duchess of Delusion realize their Land Of Make Believe is crashing down before their very eyes
+",https://www.dailymail.co.uk/news/article-12204293/MEGHAN-MCCAIN-Harry-Meghans-Land-Make-Believe-crashing-eyes.html,8,0.115,0.131,0.754,-0.9684,Daily Mail,2023-06-18,8
+10,"Man falls to his death from Grand Canyon's Skywalk overlook - namesake national park is America's most dangerous, with highest numbers of deaths 
+",https://www.dailymail.co.uk/news/article-12204865/Man-falls-death-Skywalk-overlook-Grand-Canyon-Americas-dangerous-national-park.html,9,0.112,0.117,0.771,0.1219,Daily Mail,2023-06-18,8
+1,Video emerges of Conservative HQ Christmas party during Covid,https://www.theguardian.com/politics/2023/jun/17/video-emerges-of-conservative-hq-christmas-party-during-covid,0,0.095,0.066,0.839,0.9081,Guardian,2023-06-18,8
+2,Adam Kay tells of life ‘transformed’ by two babies,https://www.theguardian.com/tv-and-radio/2023/jun/18/adam-kay-tells-of-life-transformed-by-two-babies,1,0.085,0.088,0.827,0.0658,Guardian,2023-06-18,8
+3,Our son is refusing to go to school – and we feel so isolated,https://www.theguardian.com/lifeandstyle/2023/jun/18/our-son-is-refusing-to-go-to-school---and-we-feel-so-isolated,2,0.113,0.123,0.763,-0.911,Guardian,2023-06-18,8
+4,"Mortgage ‘catastrophe’ will lose us the election, warn Tory MPs",https://www.theguardian.com/politics/2023/jun/18/mortgage-catastrophe-will-lose-us-the-election-warn-tory-mp,3,0.097,0.071,0.832,0.8973,Guardian,2023-06-18,8
+5,"Russia-Ukraine war live: Ukraine destroys Russian ammunition depot in Kherson, says Odesa official",https://www.theguardian.com/world/live/2023/jun/18/russia-ukraine-war-live-ukraine-destroys-russian-ammunition-depot-in-kherson-says-odesa-official,4,0.051,0.102,0.847,-0.9987,Guardian,2023-06-18,8
+6,"Sunak, Hunt and homebuyers brace for an economic Big Wednesday",https://www.theguardian.com/business/2023/jun/18/sunak-hunt-and-homebuyers-brace-for-an-economic-big-wednesday,5,0.062,0.071,0.866,-0.9081,Guardian,2023-06-18,8
+7,Schools across England face unprecedented struggle to hire English teachers as recruitment crisis grows,https://www.theguardian.com/education/2023/jun/17/schools-across-england-face-unprecedented-struggle-to-hire-english-teachers-as-recruitment-crisis-grows,6,0.097,0.096,0.808,-0.5354,Guardian,2023-06-18,8
+8,Pakistanis ‘were forced below deck’ on refugee boat in Greece disaster ,https://www.theguardian.com/world/2023/jun/18/pakistanis-were-forced-below-deck-on-refugee-boat-in-greece-disaster,7,0.063,0.096,0.841,-0.9749,Guardian,2023-06-18,8
+9,"No swimming, no surfing: how a summer of sewage is ruining the British seaside day out",https://www.theguardian.com/environment/2023/jun/18/no-swimming-no-surfing-how-a-summer-of-sewage-is-ruining-the-british-seaside-day-out,8,0.107,0.075,0.818,0.9954,Guardian,2023-06-18,8
+10,David Warburton: Conservative MP suspended over drugs allegations to resign seat,https://www.theguardian.com/uk-news/2023/jun/17/david-warburton-conservative-mp-suspended-over-drugs-allegations-to-resign-seat,9,0.092,0.14,0.769,-0.9575,Guardian,2023-06-18,8
