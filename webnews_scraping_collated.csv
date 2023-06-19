@@ -8279,3 +8279,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Owners of the most polluting cars to pay double for parking across England,https://www.theguardian.com/uk-news/2023/jun/18/owners-of-most-polluting-cars-to-pay-double-for-parking-england,7,0.037,0.062,0.901,-0.9391,Guardian,2023-06-18,20
 9,‘The UK today doesn’t feel like my country’: six Britons who moved to the EU reflect on expat life post-Brexit,https://www.theguardian.com/global/2023/jun/18/six-britons-who-moved-to-the-eu-expat-life-post-brexit,8,0.104,0.058,0.838,0.9991,Guardian,2023-06-18,20
 10,Johnson’s legacy haunts Sunak as Met ‘considering’ Partygate video,https://www.theguardian.com/politics/2023/jun/18/boris-johnson-legacy-rishi-sunak-met-considers-partygate-video-tories-footage-hq,9,0.122,0.12,0.758,-0.823,Guardian,2023-06-18,20
+1,On the front line as Ukraine attacks Russian trenches,https://www.bbc.co.uk/news/world-europe-65921377,0,0.067,0.127,0.806,-0.9983,BBC,2023-06-19,8
+2,Italy blocks Chinese control of tyre giant Pirelli,https://www.bbc.co.uk/news/business-65947050,1,0.039,0.025,0.936,0.4601,BBC,2023-06-19,8
+3,What's drawing so many Indians to Australia?,https://www.bbc.co.uk/news/world-asia-india-65889047,2,0.076,0.031,0.893,0.9889,BBC,2023-06-19,8
+4,Tracking data contradicts account of migrant shipwreck,https://www.bbc.co.uk/news/world-europe-65942426,3,0.068,0.106,0.826,-0.9822,BBC,2023-06-19,8
+5,India film dialogue sparks Bollywood ban in Nepal,https://www.bbc.co.uk/news/world-asia-india-65947197,4,0.044,0.084,0.873,-0.9683,BBC,2023-06-19,8
+6,"First power, now water: South Africa's taps run dry",https://www.bbc.co.uk/news/world-africa-65933882,5,0.087,0.098,0.815,-0.9267,BBC,2023-06-19,8
+7,Navalny facing decades in prison in new trial,https://www.bbc.co.uk/news/world-europe-65946891,6,0.061,0.139,0.799,-0.9799,BBC,2023-06-19,8
+8,Woman dies days after being found alive in coffin,https://www.bbc.co.uk/news/world-latin-america-65942430,7,0.026,0.209,0.765,-0.9967,BBC,2023-06-19,8
+9,Two million on antidepressants for five years,https://www.bbc.co.uk/news/uk-65825012,8,0.076,0.115,0.809,-0.997,BBC,2023-06-19,8
+10,Swiss voters back carbon cuts as glaciers melt,https://www.bbc.co.uk/news/world-europe-65946888,9,0.186,0.036,0.778,0.9927,BBC,2023-06-19,8
+1,"Juneteenth holiday horror: Four people are shot dead and at least 42 others  injured so far this weekend as gun violence erupts across the nation - from Illinois to Missouri 
+",https://www.dailymail.co.uk/news/article-12207611/Multiple-people-shot-Illinois-shopping-mall.html,0,0.033,0.161,0.806,-0.9986,Daily Mail,2023-06-19,8
+2,"EXCLUSIVE: Abandoned stores, streets overtaken by the homeless and drug-addled, theft so rampant that CANDY is locked away: Welcome to San Francisco's ghost town downtown 
+",https://www.dailymail.co.uk/news/article-12185831/Tourists-workers-shoppers-abandon-San-Francisco-leaving-homeless-drug-addled.html,1,0.076,0.073,0.851,0.9715,Daily Mail,2023-06-19,8
+3,"Meghan Markle could become world's highest-paid influencer: Duchess could rake in £200,000 per post after befriending guru behind Cindy Crawford and JLo's beauty lines and could rival Kim Kardashian's Dolce & Gabbana campaign if she signs Dior fashion deal
+",https://www.dailymail.co.uk/news/article-12207415/How-Meghan-Markle-highest-paid-influencer-world.html,2,0.1,0.002,0.898,0.9988,Daily Mail,2023-06-19,8
+4,"'I've known for weeks!': Travis Barker's ex-wife Shanna Moakler breaks silence on Kourtney Kardashian's 'surprise' pregnancy reveal at Blink-182 gig as she reveals it 'is not new news to her'
+",https://www.dailymail.co.uk/tvshowbiz/article-12207625/Travis-Barkers-ex-wife-Shanna-Moakler-breaks-silence-Kourtney-Kardashians-pregnancy.html,3,0.097,0.03,0.873,0.9891,Daily Mail,2023-06-19,8
+5,"He makes Biden look coherent! Stroke victim Senator John Fetterman mispronounces 'infrastructure' and 'delegation' after wearing hoodie and shorts to inspect collapsed Philly freeway with president 
+",https://www.dailymail.co.uk/news/article-12206023/Dem-Sen-John-Fetterman-slammed-wearing-hoodie-shorts-accompany-Biden.html,4,0.071,0.067,0.862,-0.4659,Daily Mail,2023-06-19,8
+6,"DEAR JANE: My wife gained 50LBS after giving birth... now I don't want to have sex with her because I'm NOT attracted to larger women. How do I tell her she's let herself go? 
+",https://www.dailymail.co.uk/femail/article-12200545/My-wife-gained-50lbs-giving-birth-Im-not-attracted-anymore.html,5,0.201,0.085,0.715,0.9996,Daily Mail,2023-06-19,8
+7,"'New shiny bull market' could be a mirage and Wall Street should brace for a 'big collapse' after recent rally, warns Bank of America analyst
+",https://www.dailymail.co.uk/news/article-12206901/Wall-Street-brace-big-collapse-recent-rally-warns-Bank-America-analyst.html,6,0.084,0.117,0.799,-0.9538,Daily Mail,2023-06-19,8
+8,"Inside the wholesome life of Bianca Censori before she met 'kooky Kanye': Model lived in quiet Melbourne street before her bizarre transformation in LA - as her glamorous mum is seen for first time since her 'wedding' to West
+",https://www.dailymail.co.uk/tvshowbiz/article-12197231/Bianca-Censoris-wholesome-life-met-Kanye-West.html,7,0.135,0.018,0.847,0.9992,Daily Mail,2023-06-19,8
+9,"'Daddy appreciation post!': Jennifer Lopez shares raunchy shirtless selfie of Ben Affleck on Father's Day... and he gets a shout out from ex wife Jennifer Garner too
+",https://www.dailymail.co.uk/tvshowbiz/article-12209075/Daddy-appreciation-post-Jennifer-Lopez-shares-shirtless-selfie-Ben-Affleck-Fathers-Day.html,8,0.234,0.016,0.751,0.9996,Daily Mail,2023-06-19,8
+10,"Kourtney Kardashian's big baby bump revealed! Travis Barker proudly kisses wife's tummy in tender snaps as couple marvel at 'God's blessing' following IVF struggle 
+",https://www.dailymail.co.uk/tvshowbiz/article-12208377/Travis-Barker-kisses-wife-Kourtney-Kardashians-baby-bump-pics-pregnancy-reveal.html,9,0.11,0.013,0.877,0.994,Daily Mail,2023-06-19,8
+1,Spotify executive calls Harry and Meghan ‘grifters’ after podcast deal ends,https://www.theguardian.com/media/2023/jun/19/spotify-executive-calls-harry-and-meghan-grifters-after-podcast-deal-ends,0,0.079,0.058,0.862,0.91,Guardian,2023-06-19,8
+2,Dozens of Tory MPs expected to abstain in vote on committee’s Partygate report,https://www.theguardian.com/politics/2023/jun/19/dozens-of-tory-mps-expected-to-abstain-in-vote-on-committees-partygate-report,1,0.118,0.031,0.851,0.9962,Guardian,2023-06-19,8
+3,The great face off: 16 of the most wonderful portraits ever painted ,https://www.theguardian.com/artanddesign/2023/jun/19/the-great-face-off-16-of-the-most-wonderful-portraits-ever-painted,2,0.114,0.103,0.783,0.9856,Guardian,2023-06-19,8
+4,People voted for Boris Johnson knowing he was a liar. It’s too late to start shifting the blame,https://www.theguardian.com/commentisfree/2023/jun/19/boris-johnson-brexit-partygate-tories,3,0.129,0.104,0.767,0.9899,Guardian,2023-06-19,8
+5,Who was at Conservative HQ Christmas party during Covid lockdown?,https://www.theguardian.com/politics/2023/jun/18/who-was-at-conservative-hq-christmas-party-during-covid-lockdown-partygate-video,4,0.105,0.067,0.828,0.9624,Guardian,2023-06-19,8
+6,"‘I was being bullied – on a global scale!’ Peter Crouch on mockery, marriage and having the last laugh",https://www.theguardian.com/lifeandstyle/2023/jun/19/i-was-being-bullied-on-a-global-scale-peter-crouch-on-mockery-marriage-and-having-the-last-laugh,5,0.131,0.066,0.803,0.9994,Guardian,2023-06-19,8
+7,India heatwave: nearly 100 dead amid warnings to stay indoors,https://www.theguardian.com/world/2023/jun/19/india-heatwave-scores-dead-warning-stay-indoors-during-day-heat-wave-uttar-pradesh-eastern-bihar,6,0.018,0.087,0.895,-0.9883,Guardian,2023-06-19,8
+8,Retired British woman volunteering in Ukraine has bank account shut by Lloyds,https://www.theguardian.com/business/2023/jun/18/retired-british-woman-volunteering-in-ukraine-has-bank-account-shut-by-lloyds,7,0.036,0.069,0.895,-0.8895,Guardian,2023-06-19,8
+9,Suella Braverman tells police to ramp up use of stop and search,https://www.theguardian.com/uk-news/2023/jun/19/suella-braverman-tells-police-to-ramp-up-use-of-stop-and-search,8,0.063,0.134,0.802,-0.9854,Guardian,2023-06-19,8
+10,"Rishi Sunak rules out extra mortgage help, as average two-year fixed rate hit 6% – business live",https://www.theguardian.com/business/live/2023/jun/19/uk-mortgage-rates-housing-summer-slowdown-rightmove-interest-rates-bank-of-england-business-live,9,0.103,0.05,0.848,0.9992,Guardian,2023-06-19,8
