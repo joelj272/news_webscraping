@@ -8399,3 +8399,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Celebrities are smoking again: ‘Things are grungier, edgier, sleazier’",https://www.theguardian.com/society/2023/jun/20/celebrities-smoking-lily-rose-depp-anya-taylor-joy,7,0.095,0.077,0.827,0.9818,Guardian,2023-06-20,8
 9,"Short daytime naps may keep brain healthy as it ages, study says",https://www.theguardian.com/science/2023/jun/20/short-daytime-naps-may-keep-brain-healthy-as-it-ages-study-says,8,0.07,0.027,0.903,0.9761,Guardian,2023-06-20,8
 10,Missing Titanic submersible: what is the Titan tourist sub and what might have happened to it?,https://www.theguardian.com/uk-news/2023/jun/20/missing-titanic-sub-titan-submersible-tourist-oceangate-what-is-it-and-what-might-have-happened,9,0.066,0.067,0.867,-0.6414,Guardian,2023-06-20,8
+1,"British father, his son and explorer among missing",https://www.bbc.co.uk/news/uk-65955554,0,0.08,0.053,0.867,0.9821,BBC,2023-06-20,20
+2,"Titan sub: Narrow, dimly lit tube with curtained-off toilet",https://www.bbc.co.uk/news/world-us-canada-65960217,1,0.061,0.048,0.891,0.9214,BBC,2023-06-20,20
+3,Andrew Tate charged with rape and human trafficking,https://www.bbc.co.uk/news/world-europe-65959097,2,0.097,0.137,0.765,-0.9301,BBC,2023-06-20,20
+4,Hunter Biden charged with tax and gun offences,https://www.bbc.co.uk/news/world-us-canada-65965473,3,0.128,0.085,0.787,0.9894,BBC,2023-06-20,20
+5,What we know so far about the missing Titanic sub,https://www.bbc.co.uk/news/world-us-canada-65934887,4,0.048,0.068,0.884,-0.9857,BBC,2023-06-20,20
+6,Japan outrage as child sterilisations revealed,https://www.bbc.co.uk/news/world-asia-65958119,5,0.075,0.126,0.799,-0.9619,BBC,2023-06-20,20
+7,War of words over Ukrainian POWs handed to Hungary,https://www.bbc.co.uk/news/world-europe-65959146,6,0.084,0.156,0.76,-0.9969,BBC,2023-06-20,20
+8,Global monkey torture ring exposed by BBC,https://www.bbc.co.uk/news/world-65951188,7,0.067,0.166,0.767,-0.9989,BBC,2023-06-20,20
+9,Teenage Anglo-Saxon girl's face revealed,https://www.bbc.co.uk/news/uk-england-cambridgeshire-65919518,8,0.032,0.036,0.932,-0.4791,BBC,2023-06-20,20
+10,Missing Titanic sub may have 70 hours of oxygen left,https://www.bbc.co.uk/news/world-us-canada-65953872,9,0.07,0.069,0.861,-0.3773,BBC,2023-06-20,20
+1,"Titanic tourist submarine 'may be stuck in ship's wreckage 12,500ft below Atlantic': Cold War sonar plane and second sub deployed in race against time hunt for vessel that has 60 hours of air left and has been missing for more than 24 hours
+",https://www.dailymail.co.uk/news/article-12210873/Tourist-sub-taking-groups-Titanic-wreckage-goes-missing.html,0,0.081,0.062,0.857,0.9856,Daily Mail,2023-06-20,20
+2,"Meghan Markle is accused of FAKING interviews for axed Spotify podcast: Industry sources claim the Duchess got staff to do chats with Archetypes guests then had audio of her voice edited in to the final episodes
+",https://www.dailymail.co.uk/femail/article-12211809/Meghan-Markle-accused-FAKING-interviews-axed-Spotify-podcast.html,1,0.102,0.049,0.849,0.9954,Daily Mail,2023-06-20,20
+3,"Last ping from Titanic: Tourist submarine with five aboard including British billionaire was just above wreck when comms suddenly died at 12,500ft down - amid fears it is stuck too deep for manned rescue sub and with air to last until 12pm Thursday 
+",https://www.dailymail.co.uk/news/article-12212545/Titanic-tourist-sub-five-aboard-just-wreck-communications-went-dead.html,2,0.082,0.079,0.839,-0.169,Daily Mail,2023-06-20,20
+4,"Cut off from the world in a freezing 22ft tube, no seats, one toilet and a single window to look out into blackness: The claustrophobic conditions inside missing Titanic vessel
+",https://www.dailymail.co.uk/news/article-12213437/The-claustrophobic-conditions-inside-missing-Titanic-vessel.html,3,0.072,0.084,0.844,-0.9887,Daily Mail,2023-06-20,20
+5,"Tributes pour in for Friends star Paxton Whitehead after his death aged 85: Theatre veteran is remembered for his 'extraordinary' acting and 'bringing a smile to the face of everyone he met'
+",https://www.dailymail.co.uk/tvshowbiz/article-12213569/Friends-star-theatre-veteran-Paxton-Whitehead-dies-aged-85.html,4,0.143,0.041,0.817,0.9954,Daily Mail,2023-06-20,20
+6,"The deepest undersea rescue mission ever: Race to get drone to Titanic wreck and search for missing tourist sub in operation that would be 11,000 feet deeper than the deepest successful undersea rescue so far 
+",https://www.dailymail.co.uk/news/article-12212237/Race-missing-Titanic-tourist-sub-deepest-undersea-rescue-mission-ever.html,5,0.091,0.062,0.847,0.9914,Daily Mail,2023-06-20,20
+7,"EXCLUSIVE: Turn that frown upside down! Forlorn Heather Locklear looks lost in thought as she sits on a curb waiting for fiancé Chris Heisser - but she lights up when he shows up30 minutes later
+",https://www.dailymail.co.uk/tvshowbiz/article-12211313/Heather-Locklear-looks-lost-thought-sits-curb-waiting-fianc-Chris-Heisser.html,6,0.084,0.069,0.848,0.6115,Daily Mail,2023-06-20,20
+8,"One of Pakistan's richest men - a UK-based board member of the Prince's Trust charity - and his son are trapped alongside British billionaire on missing Titanic sub: Desperate search in the Atlantic as air runs out hours after last ping above wreck
+",https://www.dailymail.co.uk/news/article-12213257/One-Pakistans-richest-men-son-trapped-Titanic-sub-passengers-family-reveals.html,7,0.099,0.081,0.82,0.9932,Daily Mail,2023-06-20,20
+9,"Final text of British billionaire trapped inside missing Titanic sub sent to friend is revealed... as urgent hunt is on to find vessel which vanished on journey to the shipwreck
+",https://www.dailymail.co.uk/news/article-12213297/Friend-British-billionaire-trapped-inside-Titanic-sub-reveals-tycoons-final-text.html,8,0.074,0.065,0.861,0.8408,Daily Mail,2023-06-20,20
+10,"Pictured: UK-based father and son trapped on lost Titanic submarine alongside billionaire Brit as former navy commander warns 'there's no way of rescuing them' if they are stuck deep below the waves
+",https://www.dailymail.co.uk/news/article-12214091/Shahzada-Dawood-Sulaiman-pictured-Father-son-trapped-OceanGate-Titanic-submarine.html,9,0.11,0.087,0.803,0.998,Daily Mail,2023-06-20,20
+1,The Ashes: Australia beat England by two wickets in thrilling first Test – as it happened,https://www.theguardian.com/sport/live/2023/jun/20/the-ashes-2023-england-vs-australia-live-updates-first-test-cricket-eng-v-aus-latest-score-day-five-egdbaston-weather,0,0.165,0.055,0.78,0.9997,Guardian,2023-06-20,20
+2,"Mortgage ‘ticking timebomb’ I warned of has exploded, says Martin Lewis",https://www.theguardian.com/money/2023/jun/20/mortgage-ticking-timebomb-i-warned-of-has-exploded-says-martin-lewis,1,0.073,0.047,0.88,0.9606,Guardian,2023-06-20,20
+3,"Titanic sub: Joe Biden watching search closely, says White House, as vessel has about 40 hours of oxygen left – latest updates",https://www.theguardian.com/uk-news/live/2023/jun/20/titanic-submarine-rescuers-missing-titan-submersible-search-latest-news,2,0.067,0.055,0.879,0.9856,Guardian,2023-06-20,20
+4,Privacy trial judge asks why Piers Morgan has not given evidence,https://www.theguardian.com/uk-news/2023/jun/20/privacy-trial-judge-asks-why-piers-morgan-has-not-given-evidence,3,0.051,0.052,0.897,-0.0626,Guardian,2023-06-20,20
+5,Joe Lycett backs out of award ceremony over fossil fuel links,https://www.theguardian.com/culture/2023/jun/20/exclusive-joe-lycett-backs-out-award-ceremony-over-fossil-fuel-links,4,0.171,0.117,0.712,0.9967,Guardian,2023-06-20,20
+6,Taylor Swift’s Eras tour to reach the UK and Europe in summer 2024,https://www.theguardian.com/music/2023/jun/20/taylor-swift-eras-tour-to-reach-the-uk-and-europe-in-summer-2024,5,0.093,0.073,0.834,0.9305,Guardian,2023-06-20,20
+7,"The curse of the Harry and Meghan media empire: so much content, but we only care about the Windsors",https://www.theguardian.com/commentisfree/2023/jun/20/harry-meghan-media-empire-windsors-archetypes,6,0.095,0.057,0.848,0.9918,Guardian,2023-06-20,20
+8,Johnson inquiry report on attack by MPs could prompt fresh Tory infighting,https://www.theguardian.com/politics/2023/jun/20/johnson-inquiry-report-on-attack-by-mps-could-prompt-fresh-tory-infighting,7,0.102,0.084,0.814,0.9091,Guardian,2023-06-20,20
+9,Scotland v Georgia: Euro 2024 qualifier suspended after torrential rain – live,https://www.theguardian.com/football/live/2023/jun/20/scotland-v-georgia-euro-2024-qualifier-live-score-updates,8,0.132,0.061,0.807,0.9995,Guardian,2023-06-20,20
+10,George Osborne sings praises of true pandemic hero – himself,https://www.theguardian.com/politics/2023/jun/20/george-osborne-sings-praises-of-true-pandemic-hero-himself,9,0.124,0.126,0.75,0.229,Guardian,2023-06-20,20
