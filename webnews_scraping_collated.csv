@@ -8359,3 +8359,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Liz Truss says lettuce joke was ‘puerile’ and media did not understand her ideas,https://www.theguardian.com/politics/2023/jun/19/liz-truss-lettuce-joke-puerile-media,7,0.092,0.051,0.857,0.9506,Guardian,2023-06-19,20
 9,‘Unheard of’ marine heatwave off UK and Irish coasts poses serious threat,https://www.theguardian.com/environment/2023/jun/19/marine-heatwave-uk-irish-coasts-threat-oysters-fish-high-temperatures,8,0.056,0.075,0.868,-0.9797,Guardian,2023-06-19,20
 10,"Angela Thorne, actor best known for To The Manor Born, dies aged 84",https://www.theguardian.com/tv-and-radio/2023/jun/19/angela-thorne-actor-best-known-for-to-the-manor-born-dies-aged-84,9,0.109,0.06,0.83,0.9186,Guardian,2023-06-19,20
+1,My trip aboard the missing Titanic tourist sub,https://www.bbc.co.uk/news/world-us-canada-65957709,0,0.061,0.08,0.86,-0.9062,BBC,2023-06-20,8
+2,Global monkey torture ring exposed by BBC,https://www.bbc.co.uk/news/world-65951188,1,0.067,0.166,0.767,-0.9989,BBC,2023-06-20,8
+3,What we know so far about the missing Titanic sub,https://www.bbc.co.uk/news/world-us-canada-65934887,2,0.064,0.072,0.864,-0.9003,BBC,2023-06-20,8
+4,Taiwan reels from kindergarten druggings scandal,https://www.bbc.co.uk/news/world-asia-65947346,3,0.043,0.142,0.814,-0.9944,BBC,2023-06-20,8
+5,Missing Titanic sub may have 70 hours of oxygen left,https://www.bbc.co.uk/news/world-us-canada-65953872,4,0.072,0.068,0.86,-0.197,BBC,2023-06-20,8
+6,Teenage Anglo-Saxon girl's face revealed,https://www.bbc.co.uk/news/uk-england-cambridgeshire-65919518,5,0.032,0.036,0.932,-0.4791,BBC,2023-06-20,8
+7,British adventurer among missing on Titanic sub,https://www.bbc.co.uk/news/uk-65955554,6,0.042,0.049,0.909,-0.7465,BBC,2023-06-20,8
+8,A daytime nap is good for the brain,https://www.bbc.co.uk/news/health-65950168,7,0.127,0.057,0.816,0.9903,BBC,2023-06-20,8
+9,Anxious neighbours sigh in relief as US and China talk,https://www.bbc.co.uk/news/65947193,8,0.09,0.092,0.818,-0.4051,BBC,2023-06-20,8
+10,MMA fighter Lencioni suffers cardiac arrest,https://www.bbc.co.uk/sport/mixed-martial-arts/65958705,9,0.0,0.0,0.0,0.0,BBC,2023-06-20,8
+1,"Titanic tourist submarine 'may be stuck in ship's wreckage 12,500ft below Atlantic': Cold War sonar plane and second sub deployed in race against time hunt for vessel that has 60 hours of air left and has been missing for more than 24 hours
+",https://www.dailymail.co.uk/news/article-12210873/Tourist-sub-taking-groups-Titanic-wreckage-goes-missing.html,0,0.081,0.062,0.857,0.9856,Daily Mail,2023-06-20,8
+2,"Moment Bebe Rexha is smashed in the FACE by cell phone thrown from NYC crowd - before man, 27, is arrested on assault charge and taken into custody
+",https://www.dailymail.co.uk/tvshowbiz/article-12209349/Bebe-Rexha-gets-hit-FACE-cell-phone-stage-falls-knees-agony.html,1,0.082,0.057,0.861,0.9809,Daily Mail,2023-06-20,8
+3,"Last ping from Titanic: Tourist submarine with five aboard including British billionaire was just above wreck when comms suddenly died at 12,500ft down - amid fears it is stuck too deep for manned rescue sub and with air to last until 12pm Thursday 
+",https://www.dailymail.co.uk/news/article-12212545/Titanic-tourist-sub-five-aboard-just-wreck-communications-went-dead.html,2,0.082,0.079,0.839,-0.169,Daily Mail,2023-06-20,8
+4,"Robert Irwin welcomes a new addition to the conservationist family - after revealing 'engagement plans with girlfriend Rorie Buckey'
+",https://www.dailymail.co.uk/tvshowbiz/article-12208727/Robert-Irwin-welcomes-new-addition-family.html,3,0.114,0.019,0.867,0.9888,Daily Mail,2023-06-20,8
+5,"John Travolta the devoted single dad spends Father's Day with his daughter Ella and son Ben... three years after the death of his wife Kelly Preston
+",https://www.dailymail.co.uk/tvshowbiz/article-12209237/John-Travolta-gets-cozy-daughter-Ella-son-Ben-shares-Happy-Fathers-Day.html,4,0.206,0.033,0.761,0.9982,Daily Mail,2023-06-20,8
+6,"John Goodman, 70, displays his incredible 200lbs weight loss on the red carpet at Monte Carlo TV Festival
+",https://www.dailymail.co.uk/tvshowbiz/article-12210055/John-Goodman-70-displays-incredible-200lbs-weight-loss.html,5,0.087,0.056,0.857,0.9442,Daily Mail,2023-06-20,8
+7,"Meghan Markle is accused of FAKING interviews for axed Spotify podcast: Industry sources claim the Duchess got staff to do chats with Archetypes guests then had audio of her voice edited in to the final episodes
+",https://www.dailymail.co.uk/femail/article-12211809/Meghan-Markle-accused-FAKING-interviews-axed-Spotify-podcast.html,6,0.102,0.049,0.849,0.9954,Daily Mail,2023-06-20,8
+8,"The deepest undersea rescue mission ever: Race to get drone to Titanic wreck and search for missing tourist sub in operation that would be 11,000 feet deeper than the deepest successful undersea rescue so far 
+",https://www.dailymail.co.uk/news/article-12212237/Race-missing-Titanic-tourist-sub-deepest-undersea-rescue-mission-ever.html,7,0.092,0.06,0.848,0.9937,Daily Mail,2023-06-20,8
+9,"PICTURE EXCLUSIVE: Luxury dog kennel worker, 27, arrested after hurling phone into face of Bebe Rexha at NYC concert, forcing star to have three stitches in her face
+",https://www.dailymail.co.uk/news/article-12211121/PICTURE-EXCLUSIVE-Luxury-dog-kennel-worker-arrested-hurling-phone-face-Bebe-Rexha.html,8,0.078,0.082,0.841,-0.8164,Daily Mail,2023-06-20,8
+10,"Can you guess who this Nineties star is? Singer looks unrecognisable in shock arrest and mugshot photo
+",https://www.dailymail.co.uk/tvshowbiz/article-12209445/Singer-looks-unrecognisable-shock-arrest-mugshot-photo.html,9,0.055,0.057,0.888,0.8316,Daily Mail,2023-06-20,8
+1,How did your MP vote on the Boris Johnson privileges committee report?,https://www.theguardian.com/politics/ng-interactive/2023/jun/19/how-did-your-mp-vote-on-the-boris-johnson-privileges-committee-report,0,0.14,0.0,0.86,0.3818,Guardian,2023-06-20,8
+2,Tories round on Boris Johnson as MPs vote to approve Partygate report ,https://www.theguardian.com/politics/2023/jun/19/boris-johnson-faces-loss-of-westminster-pass-as-mps-back-partygate-report,1,0.107,0.09,0.803,0.9501,Guardian,2023-06-20,8
+3,UK economy in growth ‘doom loop’ after decades of underinvestment,https://www.theguardian.com/business/2023/jun/20/uk-economy-in-growth-doom-loop-after-decades-of-underinvestment,2,0.106,0.06,0.834,0.973,Guardian,2023-06-20,8
+4,"My father beat, starved and belittled me. Love and therapy saved my life",https://www.theguardian.com/lifeandstyle/2023/jun/20/how-we-survive-my-father-beat-starved-and-belittled-me,3,0.113,0.15,0.737,-0.999,Guardian,2023-06-20,8
+5,Mysterious pile of ‘dumped’ PPE angers people in New Forest,https://www.theguardian.com/environment/2023/jun/19/mysterious-pile-of-dumped-ppe-angers-people-in-calmore-new-forest-hampshire,4,0.06,0.096,0.845,-0.9815,Guardian,2023-06-20,8
+6,"Russia-Ukraine war live: attacks reported across Ukraine; Putin nuclear weapons threat is ‘real’, says Biden",https://www.theguardian.com/world/live/2023/jun/20/russia-ukraine-war-live-attacks-reported-across-ukraine-putin-nuclear-weapons-threat-is-real-says-biden,5,0.07,0.124,0.806,-0.9996,Guardian,2023-06-20,8
+7,Missing Titanic submarine: US and Canadian teams search for tourist vessel,https://www.theguardian.com/uk-news/2023/jun/20/missing-titanic-submersible-titan-sub-oxygen-supply-search-difficult-rescue,6,0.074,0.035,0.89,0.9798,Guardian,2023-06-20,8
+8,"Celebrities are smoking again: ‘Things are grungier, edgier, sleazier’",https://www.theguardian.com/society/2023/jun/20/celebrities-smoking-lily-rose-depp-anya-taylor-joy,7,0.095,0.077,0.827,0.9818,Guardian,2023-06-20,8
+9,"Short daytime naps may keep brain healthy as it ages, study says",https://www.theguardian.com/science/2023/jun/20/short-daytime-naps-may-keep-brain-healthy-as-it-ages-study-says,8,0.07,0.027,0.903,0.9761,Guardian,2023-06-20,8
+10,Missing Titanic submersible: what is the Titan tourist sub and what might have happened to it?,https://www.theguardian.com/uk-news/2023/jun/20/missing-titanic-sub-titan-submersible-tourist-oceangate-what-is-it-and-what-might-have-happened,9,0.066,0.067,0.867,-0.6414,Guardian,2023-06-20,8
