@@ -8439,3 +8439,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Johnson inquiry report on attack by MPs could prompt fresh Tory infighting,https://www.theguardian.com/politics/2023/jun/20/johnson-inquiry-report-on-attack-by-mps-could-prompt-fresh-tory-infighting,7,0.102,0.084,0.814,0.9091,Guardian,2023-06-20,20
 9,Scotland v Georgia: Euro 2024 qualifier suspended after torrential rain – live,https://www.theguardian.com/football/live/2023/jun/20/scotland-v-georgia-euro-2024-qualifier-live-score-updates,8,0.132,0.061,0.807,0.9995,Guardian,2023-06-20,20
 10,George Osborne sings praises of true pandemic hero – himself,https://www.theguardian.com/politics/2023/jun/20/george-osborne-sings-praises-of-true-pandemic-hero-himself,9,0.124,0.126,0.75,0.229,Guardian,2023-06-20,20
+1,Search for sub relocated after noises heard,https://www.bbc.co.uk/news/world-us-canada-65969476,0,0.065,0.06,0.875,0.7832,BBC,2023-06-21,8
+2,Biden calls Xi a dictator a day after Beijing talks,https://www.bbc.co.uk/news/world-us-canada-65969802,1,0.039,0.075,0.887,-0.8805,BBC,2023-06-21,8
+3,"Titan sub: Narrow, dimly lit tube with curtained-off toilet",https://www.bbc.co.uk/news/world-us-canada-65960217,2,0.064,0.049,0.888,0.9317,BBC,2023-06-21,8
+4,'Monstrous murder of women' in Honduran prison fire,https://www.bbc.co.uk/news/world-latin-america-65969092,3,0.043,0.285,0.672,-0.9987,BBC,2023-06-21,8
+5,"If US firms 'go woke', do they really go broke?",https://www.bbc.co.uk/news/world-us-canada-65918155,4,0.055,0.075,0.87,-0.9549,BBC,2023-06-21,8
+6,What we know so far about the missing Titanic sub,https://www.bbc.co.uk/news/world-us-canada-65934887,5,0.052,0.075,0.872,-0.9891,BBC,2023-06-21,8
+7,Andrew Tate charged with rape and human trafficking,https://www.bbc.co.uk/news/world-europe-65959097,6,0.097,0.137,0.765,-0.9301,BBC,2023-06-21,8
+8,The fisherman who found a dead baby in his net,https://www.bbc.co.uk/news/world-africa-65952520,7,0.057,0.162,0.782,-0.9995,BBC,2023-06-21,8
+9,"British father, his son and explorer among missing",https://www.bbc.co.uk/news/uk-65955554,8,0.091,0.045,0.864,0.9945,BBC,2023-06-21,8
+10,St John's ready to help in search for missing sub,https://www.bbc.co.uk/news/world-us-canada-65969686,9,0.089,0.078,0.833,0.8104,BBC,2023-06-21,8
+1,"'Likely signs of life have been detected': Rescue plane hunting Titanic sub with five on board 'hears banging' every 30 minutes near wreck site, giving 'hope' the men are ALIVE - but redirected drones fail to find missing vessel 
+",https://www.dailymail.co.uk/news/article-12216977/Searchers-Titanic-Tourist-Sub-Heard-Banging-Area-Internal-Comms-Reveal.html,0,0.079,0.089,0.831,-0.9616,Daily Mail,2023-06-21,8
+2,"EXCLUSIVE: Turn that frown upside down! Forlorn Heather Locklear looks lost in thought as she sits on a curb waiting for fiancé Chris Heisser - but she lights up when he shows up30 minutes later
+",https://www.dailymail.co.uk/tvshowbiz/article-12211313/Heather-Locklear-looks-lost-thought-sits-curb-waiting-fianc-Chris-Heisser.html,1,0.084,0.069,0.848,0.6115,Daily Mail,2023-06-21,8
+3,"'It's not looking good': Titanic diver who's been to wreck fears missing OceanGate sub IMPLODED 10,000 feet underwater and that its five occupants are already long dead 
+",https://www.dailymail.co.uk/news/article-12214387/Titanic-diver-whos-wreck-fears-missing-OceanGate-sub-imploded-10-000-feet-underwater.html,2,0.085,0.059,0.855,0.9818,Daily Mail,2023-06-21,8
+4,"Cut off from the world in a freezing 22ft tube, no seats, one toilet and a single window to look out into blackness: The claustrophobic conditions inside missing Titanic vessel
+",https://www.dailymail.co.uk/news/article-12213437/The-claustrophobic-conditions-inside-missing-Titanic-vessel.html,3,0.072,0.084,0.844,-0.9887,Daily Mail,2023-06-21,8
+5,"'I asked for a refund - they were cutting too many corners': Friend of Hamish Harding says he pulled out of joining the billionaire on missing OceanGate sub Titan due to 'safety concerns' 
+",https://www.dailymail.co.uk/news/article-12216367/Friend-Hamish-Harding-says-pulled-OceanGate-sub-voyage-safety-concerns.html,4,0.083,0.058,0.859,0.9529,Daily Mail,2023-06-21,8
+6,"Tributes pour in for Friends star Paxton Whitehead after his death aged 85: Theatre veteran is remembered for his 'extraordinary' acting and 'bringing a smile to the face of everyone he met'
+",https://www.dailymail.co.uk/tvshowbiz/article-12213569/Friends-star-theatre-veteran-Paxton-Whitehead-dies-aged-85.html,5,0.143,0.041,0.817,0.9954,Daily Mail,2023-06-21,8
+7,"The shocking side-effects of Ozempic causing a wave of ER visits in America
+",https://www.dailymail.co.uk/health/article-12214861/The-shocking-effects-Ozempic-causing-wave-ER-visits-America.html,6,0.047,0.115,0.838,-0.994,Daily Mail,2023-06-21,8
+8,"Pictured: UK-based father and son trapped on lost Titanic submarine alongside billionaire Brit as former navy commander warns 'there's no way of rescuing them' if they are stuck deep below the waves
+",https://www.dailymail.co.uk/news/article-12214091/Shahzada-Dawood-Sulaiman-pictured-Father-son-trapped-OceanGate-Titanic-submarine.html,7,0.11,0.087,0.803,0.998,Daily Mail,2023-06-21,8
+9,"Carrie Underwood looks fabulous at 40 in teeny bikini while on poolside break from rehearsing for her Vegas residency
+",https://www.dailymail.co.uk/tvshowbiz/article-12212871/Carrie-Underwood-looks-fabulous-40-teeny-bikini-poolside-break.html,8,0.135,0.02,0.846,0.9858,Daily Mail,2023-06-21,8
+10,"Final text of British billionaire trapped inside missing Titanic sub sent to friend is revealed... as urgent hunt is on to find vessel which vanished on journey to the shipwreck
+",https://www.dailymail.co.uk/news/article-12213297/Friend-British-billionaire-trapped-inside-Titanic-sub-reveals-tycoons-final-text.html,9,0.074,0.065,0.861,0.8408,Daily Mail,2023-06-21,8
+1,"Titanic sub search: underwater noises picked up by Canadian plane, US Coast Guard says",https://www.theguardian.com/world/2023/jun/21/titanic-sub-search-underwater-noises-picked-up-by-canadian-plane-us-coast-guard-says,0,0.062,0.027,0.911,0.9843,Guardian,2023-06-21,8
+2,Explorers Club speaks of ‘cause for hope’ in Titanic sub search – as it happened,https://www.theguardian.com/uk-news/live/2023/jun/20/titanic-submarine-rescuers-missing-titan-submersible-search-latest-news,1,0.072,0.065,0.863,0.9497,Guardian,2023-06-21,8
+3,UK’s best known retailers top list of firms fined £7m over pay breaches,https://www.theguardian.com/society/2023/jun/21/uks-best-known-retailers-top-list-of-firms-fined-7m-over-pay-breaches,2,0.032,0.046,0.922,-0.714,Guardian,2023-06-21,8
+4,"‘We all had to take our tops off’: Joanna Lumley on acting, travel – and her hatred of sex scenes",https://www.theguardian.com/culture/2023/jun/21/joanna-lumley-acting-travel-hatred-sex-scenes-we-had-take-our-tops-off,3,0.114,0.059,0.826,0.9992,Guardian,2023-06-21,8
+5,‘Monstrous murder’: 41 women killed in Honduras prison riot,https://www.theguardian.com/world/2023/jun/20/honduras-prison-riot-women-killed,4,0.014,0.281,0.705,-0.9991,Guardian,2023-06-21,8
+6,Bank poised to hike interest rates as inflation remains unchanged at 8.7%,https://www.theguardian.com/business/2023/jun/21/bank-of-england-interest-rates-inflation-unchanged,5,0.093,0.086,0.821,-0.162,Guardian,2023-06-21,8
+7,"Russia-Ukraine war live: drones intercepted en route to Moscow, Russia says; UK sets out new aid package for Ukraine",https://www.theguardian.com/world/live/2023/jun/21/russia-ukraine-war-live-ukrainian-forces-destroying-the-enemy-zelenskiy-says-major-aid-packages-to-be-unveiled-in-london,6,0.087,0.121,0.791,-0.9993,Guardian,2023-06-21,8
+8,Sunak had a chance to rise above Johnson’s toxic legacy – and he blew it,https://www.theguardian.com/commentisfree/2023/jun/21/rishi-sunak-boris-johnson-toxic-legacy-partygate-cowardice,7,0.115,0.12,0.764,-0.9401,Guardian,2023-06-21,8
+9,Keir Starmer ‘eyes dozens of new peers to aid Labour government’,https://www.theguardian.com/politics/2023/jun/20/starmer-eyes-dozens-of-new-peers-to-secure-labour-agenda-in-house-of-lords,8,0.087,0.013,0.9,0.975,Guardian,2023-06-21,8
+10,Titanic submersible: documents reveal multiple concerns raised over safety of vessel,https://www.theguardian.com/world/2023/jun/21/titanic-submersible-documents-reveal-multiple-concerns-raised-over-safety-of-vessel,9,0.088,0.075,0.837,0.9464,Guardian,2023-06-21,8
