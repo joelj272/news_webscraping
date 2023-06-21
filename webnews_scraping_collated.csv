@@ -8479,3 +8479,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Sunak had a chance to rise above Johnson’s toxic legacy – and he blew it,https://www.theguardian.com/commentisfree/2023/jun/21/rishi-sunak-boris-johnson-toxic-legacy-partygate-cowardice,7,0.115,0.12,0.764,-0.9401,Guardian,2023-06-21,8
 9,Keir Starmer ‘eyes dozens of new peers to aid Labour government’,https://www.theguardian.com/politics/2023/jun/20/starmer-eyes-dozens-of-new-peers-to-secure-labour-agenda-in-house-of-lords,8,0.087,0.013,0.9,0.975,Guardian,2023-06-21,8
 10,Titanic submersible: documents reveal multiple concerns raised over safety of vessel,https://www.theguardian.com/world/2023/jun/21/titanic-submersible-documents-reveal-multiple-concerns-raised-over-safety-of-vessel,9,0.088,0.075,0.837,0.9464,Guardian,2023-06-21,8
+1,More than 20 injured after Paris explosion,https://www.bbc.co.uk/news/uk-65979245,0,0.06,0.068,0.872,0.5144,BBC,2023-06-21,20
+2,Amazon accused of tricking Prime customers,https://www.bbc.co.uk/news/business-65978053,1,0.097,0.116,0.787,-0.8678,BBC,2023-06-21,20
+3,Experts had warned about safety of missing sub,https://www.bbc.co.uk/news/science-environment-65977432,2,0.063,0.067,0.87,0.2248,BBC,2023-06-21,20
+4,Could Russia really play nuclear roulette in Ukraine?,https://www.bbc.co.uk/news/world-europe-65976256,3,0.089,0.171,0.74,-0.9973,BBC,2023-06-21,20
+5,Search for sub relocated after noises heard,https://www.bbc.co.uk/news/world-us-canada-65969476,4,0.047,0.059,0.893,-0.8312,BBC,2023-06-21,20
+6,Sounds a glimmer of hope in sub search - but what next?,https://www.bbc.co.uk/news/world-65972610,5,0.063,0.045,0.891,0.9745,BBC,2023-06-21,20
+7,What we know so far about the search for the missing Titanic sub,https://www.bbc.co.uk/news/world-us-canada-65934887,6,0.026,0.085,0.889,-0.997,BBC,2023-06-21,20
+8,Expedition finds Mayan city deep in Mexican jungle,https://www.bbc.co.uk/news/world-latin-america-65974439,7,0.043,0.029,0.928,0.7501,BBC,2023-06-21,20
+9,Scientist recalls near-fatal dive to Titanic wreck,https://www.bbc.co.uk/news/world-us-canada-65972686,8,0.068,0.097,0.835,-0.9869,BBC,2023-06-21,20
+10,Zelensky admits slow progress in Ukraine offensive,https://www.bbc.co.uk/news/world-europe-65971790,9,0.091,0.108,0.801,-0.9678,BBC,2023-06-21,20
+1,"'Likely signs of life have been detected': Rescue plane hunting Titanic sub with five on board 'hears banging' every 30 minutes near wreck site, giving 'hope' the men are ALIVE - but redirected drones fail to find missing vessel 
+",https://www.dailymail.co.uk/news/article-12216977/Searchers-Titanic-Tourist-Sub-Heard-Banging-Area-Internal-Comms-Reveal.html,0,0.079,0.089,0.831,-0.9616,Daily Mail,2023-06-21,20
+2,"EXCLUSIVE: Turn that frown upside down! Forlorn Heather Locklear looks lost in thought as she sits on a curb waiting for fiancé Chris Heisser - but she lights up when he shows up30 minutes later
+",https://www.dailymail.co.uk/tvshowbiz/article-12211313/Heather-Locklear-looks-lost-thought-sits-curb-waiting-fianc-Chris-Heisser.html,1,0.084,0.069,0.848,0.6115,Daily Mail,2023-06-21,20
+3,"'I asked for a refund - they were cutting too many corners': Friend of Hamish Harding says he pulled out of joining the billionaire on missing OceanGate sub Titan due to 'safety concerns' 
+",https://www.dailymail.co.uk/news/article-12216367/Friend-Hamish-Harding-says-pulled-OceanGate-sub-voyage-safety-concerns.html,2,0.083,0.058,0.859,0.9529,Daily Mail,2023-06-21,20
+4,"Coast Guard says MORE underwater 'banging' noises were heard this morning in search for missing Titanic sub - but Navy doesn't know what they are - as search area expands to twice the size of Connecticut
+",https://www.dailymail.co.uk/news/article-12218631/First-picture-missing-Titanic-sub-search-site-oxygen-dwindles-24-hours.html,3,0.103,0.061,0.836,0.9981,Daily Mail,2023-06-21,20
+5,"'It's not looking good': Titanic diver who's been to wreck fears missing OceanGate sub IMPLODED 10,000 feet underwater and that its five occupants are already long dead 
+",https://www.dailymail.co.uk/news/article-12214387/Titanic-diver-whos-wreck-fears-missing-OceanGate-sub-imploded-10-000-feet-underwater.html,4,0.085,0.059,0.855,0.9818,Daily Mail,2023-06-21,20
+6,"'Every single second feels like hours': Fears grow for five stuck onboard Titanic sub as family 'pray' for passengers and experts warn 'opportunity to find them alive' is fading after sound of BANGING is heard during massive search 
+",https://www.dailymail.co.uk/news/article-12217575/Sound-BANGING-heard-search-missing-submarine-friends-say-losing-time.html,5,0.093,0.105,0.801,-0.9885,Daily Mail,2023-06-21,20
+7,"The shocking side-effects of Ozempic causing a wave of ER visits in America
+",https://www.dailymail.co.uk/health/article-12214861/The-shocking-effects-Ozempic-causing-wave-ER-visits-America.html,6,0.047,0.115,0.838,-0.994,Daily Mail,2023-06-21,20
+8,"EXCLUSIVE: OceanGate took EIGHT HOURS to report missing sub to Coast Guard after it lost contact - as Navy commander says crew has a 'one percent chance of survival'
+",https://www.dailymail.co.uk/news/article-12214357/OceanGate-took-EIGHT-HOURS-report-missing-submersible-lost-contact.html,7,0.077,0.089,0.834,-0.9211,Daily Mail,2023-06-21,20
+9,"Father who executed his three young sons, aged seven, four and three, confessed to planning the murders for MONTHS - and hunted down one of the boys when he tried to escape, cops say
+",https://www.dailymail.co.uk/news/article-12215839/Chad-Doerman-planned-murders-three-sons-months-police-say.html,8,0.087,0.17,0.742,-0.999,Daily Mail,2023-06-21,20
+10,"MAUREEN CALLAHAN: The Idol is a sickening rape fantasy as poisonous as cancer - and its creators MUST be exposed for the misogynist monsters they are... So why is woke Hollywood still silent?
+",https://www.dailymail.co.uk/news/article-12214511/CALLAHAN-Idol-creators-Weeknd-Sam-Levinson-exposed-misogynist-monsters.html,9,0.094,0.126,0.78,-0.9948,Daily Mail,2023-06-21,20
+1,"Titanic sub: more noises heard in search area, says US Coast Guard, amid huge effort to bring crew home – live",https://www.theguardian.com/world/live/2023/jun/21/titanic-sub-live-updates-search-us-coast-guard-submarine-submersible,0,0.107,0.051,0.842,0.9991,Guardian,2023-06-21,20
+2,"Amazon duped millions into enrolling in Prime, US regulator says in lawsuit",https://www.theguardian.com/technology/2023/jun/21/amazon-sued-prime-cancel-ftc,1,0.094,0.106,0.799,-0.805,Guardian,2023-06-21,20
+3,Titanic submersible: documents reveal multiple concerns raised over safety of vessel,https://www.theguardian.com/world/2023/jun/21/titanic-submersible-documents-reveal-multiple-concerns-raised-over-safety-of-vessel,2,0.071,0.069,0.86,0.6752,Guardian,2023-06-21,20
+4,Don’t let Big Air Fryer fool you: six everyday oven cooking hacks,https://www.theguardian.com/food/2023/jun/22/dont-let-big-air-fryer-fool-you-six-everyday-oven-cooking-hacks,3,0.086,0.028,0.886,0.9931,Guardian,2023-06-21,20
+5,Has Rishi Sunak been taking honesty lessons from Boris Johnson?,https://www.theguardian.com/politics/2023/jun/21/has-rishi-sunak-been-taking-honesty-lessons-from-boris-johnson,4,0.079,0.083,0.838,-0.7042,Guardian,2023-06-21,20
+6,"Man arrested after stabbings and axe attack at London hospital, say police",https://www.theguardian.com/uk-news/2023/jun/21/man-arrested-after-reports-of-stabbing-at-london-central-middlesex-hospital,5,0.033,0.086,0.881,-0.9331,Guardian,2023-06-21,20
+7,Aristocrat forced to open part of estate to public after council ruling,https://www.theguardian.com/uk-news/2023/jun/21/aristocrat-forced-to-open-part-of-estate-to-public-after-council-ruling,6,0.079,0.057,0.865,0.8591,Guardian,2023-06-21,20
+8,1.4m UK mortgage holders face 20% hit to disposable income from rate hikes,https://www.theguardian.com/money/2023/jun/21/1-point-4m-uk-households-huge-hit-to-finances-mortgage-timebomb-payments-fifth-disposale-income,7,0.056,0.056,0.888,0.2837,Guardian,2023-06-21,20
+9,Guards at Del Monte pineapple farm in Kenya accused of killings,https://www.theguardian.com/world/2023/jun/21/guards-at-del-monte-pineapple-farm-accused-of-killings-in-kenya,8,0.081,0.169,0.75,-0.9996,Guardian,2023-06-21,20
+10,Author convicted over Sheffield tree-felling protest says council’s apology not enough,https://www.theguardian.com/uk-news/2023/jun/21/simon-crump-author-sheffield-tree-felling-protest-council,9,0.102,0.098,0.8,-0.8053,Guardian,2023-06-21,20
