@@ -8559,3 +8559,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Search called off for swimmer who went missing attempting Channel crossing ,https://www.theguardian.com/uk-news/2023/jun/21/search-called-off-for-swimmer-who-went-missing-attempting-channel-crossing,7,0.095,0.095,0.809,0.452,Guardian,2023-06-22,8
 9,"Tory MPs contributing to growing hostility to drag events, report says",https://www.theguardian.com/politics/2023/jun/22/tory-mps-contributing-to-growing-hostility-to-drag-events-report-says,8,0.041,0.119,0.84,-0.9926,Guardian,2023-06-22,8
 10,‘This is ruining people’s lives’: homeowners hit by UK mortgage crisis speak out,https://www.theguardian.com/business/2023/jun/22/this-is-ruining-peoples-lives-homeowners-hit-by-uk-mortgage-crisis-speak-out,9,0.09,0.066,0.844,0.9839,Guardian,2023-06-22,8
+1,"Parts of missing sub's cover found, expert says",https://www.bbc.co.uk/news/world-us-canada-65991651,0,0.025,0.071,0.904,-0.9762,BBC,2023-06-22,20
+2,Five dead on Titan sub were 'true explorers',https://www.bbc.co.uk/news/world-us-canada-65993579,1,0.051,0.064,0.885,-0.7096,BBC,2023-06-22,20
+3,Sub firm co-founder fears 'instantaneous implosion',https://www.bbc.co.uk/news/world-us-canada-65992567,2,0.04,0.06,0.9,-0.8711,BBC,2023-06-22,20
+4,Spate of mass brawls at German outdoor pools,https://www.bbc.co.uk/news/world-europe-65985004,3,0.095,0.136,0.769,-0.9819,BBC,2023-06-22,20
+5,The woman who wants to end abortion in America,https://www.bbc.co.uk/news/world-us-canada-65923956,4,0.093,0.094,0.812,-0.9834,BBC,2023-06-22,20
+6,"British father, son and explorer among sub victims",https://www.bbc.co.uk/news/uk-65955554,5,0.087,0.044,0.87,0.9949,BBC,2023-06-22,20
+7,Musk and Zuckerberg agree to hold cage fight,https://www.bbc.co.uk/news/business-65981876,6,0.067,0.043,0.89,0.8999,BBC,2023-06-22,20
+8,"Ukraine strikes bridge to Crimea, says Russia",https://www.bbc.co.uk/news/world-europe-65982817,7,0.04,0.157,0.803,-0.9976,BBC,2023-06-22,20
+9,House Republicans punish Trump critic Adam Schiff,https://www.bbc.co.uk/news/world-us-canada-65989761,8,0.056,0.045,0.899,0.6533,BBC,2023-06-22,20
+10,Key questions about the Titan's implosion,https://www.bbc.co.uk/news/world-us-canada-65934887,9,0.019,0.088,0.893,-0.9962,BBC,2023-06-22,20
+1,"Bodies of five Titanic sub crew may never be found due to 'unforgiving' ocean: Coast Guard says men died instantly in 'catastrophic implosion' that shattered pressure hull BEFORE 'banging' sounds were detected by rescue planes
+",https://www.dailymail.co.uk/news/article-12223805/Debris-field-discovered-search-area-near-Titanic.html,0,0.094,0.091,0.815,0.6819,Daily Mail,2023-06-22,20
+2,"Deepwater water robot officially reaches the sea floor - with another moments away - and begin searching for missing Titanic sub, just ten minutes before oxygen supply runs out at 12.08pm 
+",https://www.dailymail.co.uk/news/article-12221737/D-Day-missing-Titanic-sub-clock-ticks-12-08pm-vessel-run-oxygen.html,1,0.121,0.062,0.817,0.9993,Daily Mail,2023-06-22,20
+3,"EXCLUSIVE: Sonar expert says underwater 'banging' heard by Coast Guard at sub search site is 'debris falling from the decaying wreck' - and proof of life of Titanic Five is 'wishful thinking' 
+",https://www.dailymail.co.uk/news/article-12220611/Sonar-expert-says-banging-heard-sub-search-site-debris-falling-decaying-wreck.html,2,0.085,0.073,0.843,0.9513,Daily Mail,2023-06-22,20
+4,"EXCLUSIVE - 'They are in emotional turmoil. Part of them will believe they're being rescued...then reality will seep in': Forensic psychiatrist describes the hell passengers inside Titan submarine are going through
+",https://www.dailymail.co.uk/news/article-12219483/Forensic-psychiatrist-describes-hell-passengers-inside-Titan-submarine-going-through.html,3,0.066,0.073,0.861,-0.9279,Daily Mail,2023-06-22,20
+5,"'It turned out to be a big mistake.' Gen Z's trans poster-child Milo from 2016 MTV show re-emerges and tearfully regrets hormone jabs, hairy belly and 'dead ovary'
+",https://www.dailymail.co.uk/news/article-12219343/Gen-Zs-trans-poster-child-Milo-2016-MTV-reemerges-tearfully-regretting-hormone-jabs.html,4,0.048,0.105,0.846,-0.9956,Daily Mail,2023-06-22,20
+6,"Titanic tourist submarine missing LIVE: Coast Guard offers 'heartfelt condolences' to families as it confirms death of Titanic Five after three days of searching
+",https://www.dailymail.co.uk/news/live/article-12213417/Missing-Titanic-submarine-LIVE-OceanGate-Expedition-vessel-50-hours-air-left.html,5,0.104,0.079,0.817,0.9998,Daily Mail,2023-06-22,20
+7,"REVEALED: Wife of Titan pilot and OceanGate CEO is great-great-granddaughter of Macy's founder and his spouse made famous in James Cameron's smash movie as the elderly couple embracing on bed as Titanic went down
+",https://www.dailymail.co.uk/news/article-12220775/Submersible-pilots-wife-descendant-famous-Titanic-couple-died-arm-arm.html,6,0.08,0.078,0.841,0.7181,Daily Mail,2023-06-22,20
+8,"EXCLUSIVE: Turn that frown upside down! Forlorn Heather Locklear looks lost in thought as she sits on a curb waiting for fiancé Chris Heisser - but she lights up when he shows up30 minutes later
+",https://www.dailymail.co.uk/tvshowbiz/article-12211313/Heather-Locklear-looks-lost-thought-sits-curb-waiting-fianc-Chris-Heisser.html,7,0.084,0.069,0.848,0.6115,Daily Mail,2023-06-22,20
+9,"Christopher Nolan claims people are walking out of Oppenheimer screenings 'devastated' and 'unable to speak'
+",https://www.dailymail.co.uk/tvshowbiz/article-12222399/Christopher-Nolan-claims-people-walking-Oppenheimer-screenings-devastated.html,8,0.128,0.09,0.782,0.9788,Daily Mail,2023-06-22,20
+10,"Stricken Titan submarine will run out of oxygen at 12:08pm UK time: Coastguard makes stark prediction as officials insist hunt for five-man crew is '100% a search and RESCUE' mission but craft has NOT been found leaving situation increasingly desperate
+",https://www.dailymail.co.uk/news/article-12221111/Stricken-Titan-submarine-run-oxygen-12-08pm-UK-time-Coastguard-makes-prediction.html,9,0.113,0.061,0.826,0.9973,Daily Mail,2023-06-22,20
+1,"Titan crew have died after ‘catastrophic implosion’ of submersible, US Coast Guard says – latest updates",https://www.theguardian.com/world/live/2023/jun/22/titanic-sub-live-updates-search-titan-missing-submarine-submersible-rescue-us-coast-guard-latest-news,0,0.074,0.082,0.844,-0.9292,Guardian,2023-06-22,20
+2,Nadine Dorries ‘completely given up’ on job as MP long before announcing exit,https://www.theguardian.com/politics/2023/jun/22/nadine-dorries-completely-gave-up-on-job-as-mp-long-before-announcing-exit,1,0.047,0.066,0.887,-0.9186,Guardian,2023-06-22,20
+3,Titanic sub crew believed to have died instantly in ‘catastrophic implosion’,https://www.theguardian.com/world/2023/jun/22/titanic-sub-titan-debris-field-search-area-latest,2,0.097,0.085,0.818,0.8535,Guardian,2023-06-22,20
+4,"Ecological tipping points could occur much sooner than expected, study finds",https://www.theguardian.com/environment/2023/jun/22/ecological-tipping-points-could-occur-much-sooner-than-expected-study-finds,3,0.071,0.115,0.814,-0.9849,Guardian,2023-06-22,20
+5,Titan submersible: 19-year-old was a student at university in Glasgow,https://www.theguardian.com/world/2023/jun/22/titan-submersible-suleman-dawood-19-student-at-university-in-glasgow,4,0.09,0.05,0.86,0.9343,Guardian,2023-06-22,20
+6,Glastonbury headline sets – ranked!,https://www.theguardian.com/music/2023/jun/22/glastonbury-headline-sets-ranked,5,0.138,0.095,0.767,0.996,Guardian,2023-06-22,20
+7,Happy endings: the Dining Across the Divide pair who became ‘soul sisters’,https://www.theguardian.com/lifeandstyle/2023/jun/22/happy-endings-the-dining-across-the-divide-pair-who-became-soul-sisters,6,0.186,0.036,0.778,0.9973,Guardian,2023-06-22,20
+8,‘Shock and awe’ interest rate rise leaves Sunak’s cost of living pledge in tatters,https://www.theguardian.com/politics/2023/jun/22/shock-and-awe-interest-rate-rise-rishi-sunak-cost-of-living-pledge-in-tatters,7,0.069,0.13,0.8,-0.9966,Guardian,2023-06-22,20
+9,"Etihad Airways worker used airline data to WhatsApp me, says British woman",https://www.theguardian.com/uk-news/2023/jun/22/etihad-airways-contractor-sent-me-unsolicited-messages-says-british-woman,8,0.074,0.057,0.868,0.8405,Guardian,2023-06-22,20
+10,"Labour would not back subsidising mortgage holders, Starmer says",https://www.theguardian.com/politics/2023/jun/22/labour-would-not-back-subsidising-mortgage-holders-starmer-says,9,0.13,0.058,0.812,0.9929,Guardian,2023-06-22,20
