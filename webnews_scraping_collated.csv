@@ -8639,3 +8639,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Britain is the Dorian Gray economy, hiding its ugly truths from the world. Now they are exposed",https://www.theguardian.com/commentisfree/2023/jun/23/britain-dorian-gray-economy-tony-blair-george-osborne,7,0.105,0.096,0.799,0.9299,Guardian,2023-06-23,8
 9,‘True explorers’: tributes paid to men killed in ‘catastrophic implosion’ of Titan sub,https://www.theguardian.com/world/2023/jun/23/titan-sub-tributes-pour-in-victims-killed-catastrophic-implosion-submarine-titanic-submersible,8,0.122,0.055,0.823,0.997,Guardian,2023-06-23,8
 10,"More than 1.3bn adults will have diabetes by 2050, study predicts",https://www.theguardian.com/society/2023/jun/22/more-than-13bn-adults-will-have-diabetes-by-2050-study-predicts,9,0.053,0.095,0.852,-0.9884,Guardian,2023-06-23,8
+1,Titan sub CEO dismissed safety warnings as 'baseless cries',https://www.bbc.co.uk/news/world-us-canada-65998914,0,0.064,0.083,0.853,-0.6516,BBC,2023-06-23,20
+2,Russia mercenary boss blames war on defence minister,https://www.bbc.co.uk/news/world-65996531,1,0.078,0.18,0.742,-0.9985,BBC,2023-06-23,20
+3,Musk and Zuckerberg agree to hold cage fight,https://www.bbc.co.uk/news/business-65981876,2,0.067,0.043,0.89,0.8999,BBC,2023-06-23,20
+4,Titan sub implosion: How did it happen?,https://www.bbc.co.uk/news/world-us-canada-65934887,3,0.075,0.121,0.804,-0.9697,BBC,2023-06-23,20
+5,James Cameron: Titan sub company cut corners,https://www.bbc.co.uk/news/world-us-canada-65994707,4,0.034,0.087,0.879,-0.9874,BBC,2023-06-23,20
+6,Facebook and Instagram to block news in Canada,https://www.bbc.co.uk/news/world-us-canada-65969970,5,0.046,0.029,0.925,0.775,BBC,2023-06-23,20
+7,Russian diplomat squatting is no threat - Australia,https://www.bbc.co.uk/news/world-australia-65996530,6,0.075,0.097,0.828,-0.8928,BBC,2023-06-23,20
+8,"British father, son and explorer among sub victims",https://www.bbc.co.uk/news/uk-65955554,7,0.096,0.057,0.847,0.9969,BBC,2023-06-23,20
+9,Greece ignored offer to watch migrant boat - EU agency,https://www.bbc.co.uk/news/world-europe-66003244,8,0.042,0.16,0.798,-0.9955,BBC,2023-06-23,20
+10,What will Titan investigators be looking for?,https://www.bbc.co.uk/news/science-environment-65994181,9,0.041,0.099,0.86,-0.9923,BBC,2023-06-23,20
+1,"Titanic Five died instantly when craft suffered 'catastrophic implosion' 1,600ft from the bow of the wrecked liner: Coastguard has found multiple parts of the destroyed sub but CANNOT say if bodies can be recovered
+",https://www.dailymail.co.uk/news/article-12223805/Debris-field-discovered-search-area-near-Titanic.html,0,0.104,0.107,0.79,-0.7932,Daily Mail,2023-06-23,20
+2,"Tragic university student, 19, who was killed in Titanic submarine 'implosion' was 'terrified' about the trip and only joined the crew to please his dad for Father's Day, heartbroken aunt reveals 
+",https://www.dailymail.co.uk/news/article-12224919/Student-19-killed-Titanic-submarine-implosion-terrified-trip.html,1,0.147,0.105,0.748,0.9985,Daily Mail,2023-06-23,20
+3,"'Alive one millisecond, dead the next': Former Navy doctor reveals exactly what would've happened during Titanic Five's tragic final moment - saying 'they would've been crushed instantly'
+",https://www.dailymail.co.uk/health/article-12224667/Exactly-happened-Titanic-fives-final-moments-revealed-former-Navy-doctor.html,2,0.093,0.105,0.802,-0.8435,Daily Mail,2023-06-23,20
+4,"Top secret US Navy sonar detected Titan sub implosion HOURS after submersible lost contact with mothership - sparking questions as to why a multi-million dollar international rescue effort was launched 
+",https://www.dailymail.co.uk/news/article-12224913/Top-secret-Navy-sonar-detected-Titan-sub-implosion-HOURS-submersible-lost-contact.html,3,0.092,0.095,0.813,-0.8112,Daily Mail,2023-06-23,20
+5,"The lead singer of one of the biggest alternative rock bands of the late 90s is unrecognizable with long hair. Who is he? Hint: their hit song has a link to Superman
+",https://www.dailymail.co.uk/tvshowbiz/article-12223901/The-lead-singer-one-biggest-bands-late-90s-unrecognizable-long-hair.html,4,0.078,0.038,0.884,0.9628,Daily Mail,2023-06-23,20
+6,"How intense is the water pressure at the Titanic wreck? And will they ever be able to recover the bodies of the five dead crew
+",https://www.dailymail.co.uk/news/article-12224417/What-water-pressure-Titanic-wreck-PSI.html,5,0.013,0.084,0.904,-0.984,Daily Mail,2023-06-23,20
+7,"EXCLUSIVE: Bikini-clad Kari Lake swaps Mar-a-Lago for the Bahamas and a family vacation before her book tour next week and a likely Senate run in the fall
+",https://www.dailymail.co.uk/news/article-12223671/Bikini-clad-Kari-Lake-swaps-Mar-Lago-Bahamas-family-vacation-ahead-Senate-run.html,6,0.094,0.082,0.824,0.9093,Daily Mail,2023-06-23,20
+8,"Black college grad and OnlyFans star snatches mic from white administrator who wouldn't let her say her full name as racism accusations fly in viral video aftermath
+",https://www.dailymail.co.uk/news/article-12224867/Black-college-grad-snatches-mic-white-administrator-wouldnt-let-say-name.html,7,0.141,0.05,0.81,0.9922,Daily Mail,2023-06-23,20
+9,"EXCLUSIVE: Tycoon who turned down tickets for him and HIS son on doomed Titanic sub reveals texts from company boss trying to flog him last-minute cut-price seats for $100,000 off and telling him 'it was safer than crossing the street' 
+",https://www.dailymail.co.uk/news/article-12225963/Tycoon-gave-seats-doomed-Titanic-sub-Pakistani-businessman-teenage-son.html,8,0.067,0.136,0.796,-0.9983,Daily Mail,2023-06-23,20
+10,"'I'm sorry...some WHAT has been found?' The moment OceanGate co-founder discovers Titan submarine debris has been discovered during TV interview
+",https://www.dailymail.co.uk/news/article-12226463/The-moment-OceanGate-founder-discovers-Titan-submarine-debris-discovered.html,9,0.098,0.113,0.789,-0.9945,Daily Mail,2023-06-23,20
+1,Titan tragedy: Canada launches investigation; CEO of sub company ‘dismissed safety fears’ – latest news,https://www.theguardian.com/world/live/2023/jun/23/titanic-sub-live-updates-us-navy-catastrophic-implosion-submarine-victims-titan-missing-submersible-latest-news,0,0.076,0.085,0.839,-0.9896,Guardian,2023-06-23,20
+2,Titan submersible: why was its implosion not announced sooner?,https://www.theguardian.com/world/2023/jun/23/titan-submersible-why-implosion-not-announced-sooner,1,0.067,0.039,0.893,0.9608,Guardian,2023-06-23,20
+3,Glastonbury 2023: Foo Fighters play ‘secret’ show ahead of Arctic Monkeys – follow Friday’s action live!,https://www.theguardian.com/music/live/2023/jun/23/glastonbury-festival-live-arctic-monkeys-kelis,2,0.187,0.061,0.752,0.9992,Guardian,2023-06-23,20
+4,The magician who catches card cheats in casinos: ‘It’s incredibly common for people to try’,https://www.theguardian.com/stage/2023/jun/24/harry-milas-the-magician-who-catches-card-cheats-in-casinos-its-incredibly-common-for-people-to-try,3,0.117,0.077,0.805,0.9965,Guardian,2023-06-23,20
+5,"With even leavers regretting Brexit, there’s one path back to rejoining the EU",https://www.theguardian.com/commentisfree/2023/jun/23/leavers-regret-brexit-rejoining-eu-nigel-farage,4,0.082,0.046,0.873,0.992,Guardian,2023-06-23,20
+6,Foo Fighters perform ‘surprise’ set at Glastonbury to huge Pyramid stage crowd,https://www.theguardian.com/music/2023/jun/23/foo-fighters-perform-surprise-set-at-glastonbury-to-huge-pyramid-stage-crowd,5,0.121,0.029,0.85,0.9907,Guardian,2023-06-23,20
+7,Wagner chief accuses Russia’s military of attack and says ‘evil’ leadership must be stopped,https://www.theguardian.com/world/2023/jun/23/wagner-chief-accuses-russias-military-of-attack-and-says-evil-leadership-must-be-stopped,6,0.054,0.153,0.794,-0.9936,Guardian,2023-06-23,20
+8,The Brexit Question Time’s audience backs up what our survey found: no regrets,https://www.theguardian.com/commentisfree/2023/jun/23/brexit-question-time-audience-backs-up-survey-no-regrets,7,0.099,0.069,0.832,0.9795,Guardian,2023-06-23,20
+9,‘Child identifying as cat’ controversy: from TikTok video to media frenzy,https://www.theguardian.com/education/2023/jun/23/child-identifying-as-cat-controversy-from-a-tiktok-video-to-media-frenzy,8,0.094,0.041,0.865,0.9937,Guardian,2023-06-23,20
+10,Actors prepare to go to court in charity boardroom feud,https://www.theguardian.com/society/2023/jun/23/actors-charity-feud-at-risk-of-becoming-legal-battle-amid-law-breaking-allegations,9,0.191,0.104,0.705,0.9972,Guardian,2023-06-23,20
