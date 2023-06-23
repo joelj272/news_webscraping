@@ -8599,3 +8599,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘Shock and awe’ interest rate rise leaves Sunak’s cost of living pledge in tatters,https://www.theguardian.com/politics/2023/jun/22/shock-and-awe-interest-rate-rise-rishi-sunak-cost-of-living-pledge-in-tatters,7,0.069,0.13,0.8,-0.9966,Guardian,2023-06-22,20
 9,"Etihad Airways worker used airline data to WhatsApp me, says British woman",https://www.theguardian.com/uk-news/2023/jun/22/etihad-airways-contractor-sent-me-unsolicited-messages-says-british-woman,8,0.074,0.057,0.868,0.8405,Guardian,2023-06-22,20
 10,"Labour would not back subsidising mortgage holders, Starmer says",https://www.theguardian.com/politics/2023/jun/22/labour-would-not-back-subsidising-mortgage-holders-starmer-says,9,0.13,0.058,0.812,0.9929,Guardian,2023-06-22,20
+1,Titanic director: 'OceanGate were warned',https://www.bbc.co.uk/news/world-us-canada-65994707,0,0.028,0.077,0.895,-0.9634,BBC,2023-06-23,8
+2,'Implosion sounds' heard by US Navy,https://www.bbc.co.uk/news/world-us-canada-65994405,1,0.038,0.091,0.871,-0.9775,BBC,2023-06-23,8
+3,Facebook and Instagram to block news in Canada,https://www.bbc.co.uk/news/world-us-canada-65969970,2,0.046,0.029,0.925,0.775,BBC,2023-06-23,8
+4,'It's a catastrophe. Everything was washed away',https://www.bbc.co.uk/news/world-europe-65973624,3,0.045,0.085,0.87,-0.9898,BBC,2023-06-23,8
+5,The woman who wants to end abortion in America,https://www.bbc.co.uk/news/world-us-canada-65923956,4,0.093,0.094,0.812,-0.9834,BBC,2023-06-23,8
+6,"Parts of missing sub's cover found, expert says",https://www.bbc.co.uk/news/world-us-canada-65991651,5,0.025,0.07,0.904,-0.9762,BBC,2023-06-23,8
+7,Kesha and producer Dr Luke settle lawsuit,https://www.bbc.co.uk/news/world-us-canada-65994917,6,0.117,0.067,0.816,0.9351,BBC,2023-06-23,8
+8,"British father, son and explorer among sub victims",https://www.bbc.co.uk/news/uk-65955554,7,0.08,0.04,0.88,0.9953,BBC,2023-06-23,8
+9,Rust movie armourer charged with evidence tampering,https://www.bbc.co.uk/news/uk-65993965,8,0.028,0.115,0.857,-0.9879,BBC,2023-06-23,8
+10,Musk and Zuckerberg agree to hold cage fight,https://www.bbc.co.uk/news/business-65981876,9,0.067,0.043,0.89,0.8999,BBC,2023-06-23,8
+1,"Titanic Five died instantly when craft suffered 'catastrophic implosion' 1,600ft from the bow of the wrecked liner: Coastguard has found multiple parts of the destroyed sub but CANNOT say if bodies can be recovered
+",https://www.dailymail.co.uk/news/article-12223805/Debris-field-discovered-search-area-near-Titanic.html,0,0.104,0.107,0.79,-0.7932,Daily Mail,2023-06-23,8
+2,"Deepwater water robot officially reaches the sea floor - with another moments away - and begin searching for missing Titanic sub, just ten minutes before oxygen supply runs out at 12.08pm 
+",https://www.dailymail.co.uk/news/article-12221737/D-Day-missing-Titanic-sub-clock-ticks-12-08pm-vessel-run-oxygen.html,1,0.121,0.062,0.817,0.9993,Daily Mail,2023-06-23,8
+3,"Tragic university student, 19, who was killed in Titanic submarine 'implosion' was 'terrified' about the trip and only joined the crew to please his dad for Father's Day, heartbroken aunt reveals 
+",https://www.dailymail.co.uk/news/article-12224919/Student-19-killed-Titanic-submarine-implosion-terrified-trip.html,2,0.147,0.105,0.748,0.9985,Daily Mail,2023-06-23,8
+4,"'Alive one millisecond, dead the next': Former Navy doctor reveals exactly what would've happened during Titanic Five's tragic final moment - saying 'they would've been crushed instantly'
+",https://www.dailymail.co.uk/health/article-12224667/Exactly-happened-Titanic-fives-final-moments-revealed-former-Navy-doctor.html,3,0.093,0.105,0.802,-0.8435,Daily Mail,2023-06-23,8
+5,"Top secret US Navy sonar detected Titan sub implosion HOURS after submersible lost contact with mothership - sparking questions as to why a multi-million dollar international rescue effort was launched 
+",https://www.dailymail.co.uk/news/article-12224913/Top-secret-Navy-sonar-detected-Titan-sub-implosion-HOURS-submersible-lost-contact.html,4,0.092,0.095,0.813,-0.8112,Daily Mail,2023-06-23,8
+6,"Christopher Nolan claims people are walking out of Oppenheimer screenings 'devastated' and 'unable to speak'
+",https://www.dailymail.co.uk/tvshowbiz/article-12222399/Christopher-Nolan-claims-people-walking-Oppenheimer-screenings-devastated.html,5,0.128,0.09,0.782,0.9788,Daily Mail,2023-06-23,8
+7,"Titanic submarine LIVE: Student killed on OceanGate's Titan was 'terrified' to join expedition
+",https://www.dailymail.co.uk/news/live/article-12213417/Missing-Titanic-submarine-LIVE-OceanGate-Expedition-vessel-50-hours-air-left.html,6,0.099,0.089,0.813,0.9992,Daily Mail,2023-06-23,8
+8,"The lead singer of one of the biggest alternative rock bands of the late 90s is unrecognizable with long hair. Who is he? Hint: their hit song has a link to Superman
+",https://www.dailymail.co.uk/tvshowbiz/article-12223901/The-lead-singer-one-biggest-bands-late-90s-unrecognizable-long-hair.html,7,0.078,0.038,0.884,0.9628,Daily Mail,2023-06-23,8
+9,"Wife whose husband 'let 83 men rape her while drugged and urged them not to use condoms, causing her to catch STDs' collapsed in horror when shown images and told cops she had assumed rapes were 'a dream' 
+",https://www.dailymail.co.uk/news/article-12223273/Wife-husband-let-83-men-rape-drugged-collapsed-horror-shown-images.html,8,0.043,0.222,0.735,-0.9998,Daily Mail,2023-06-23,8
+10,"'I've broken some rules to make this': How OceanGate boss revealed the 7ins acrylic window on lost Titan sub would get 'squeezed in' under water pressure and admitted he ignored guidance to create deep sea vessel
+",https://www.dailymail.co.uk/news/article-12222279/OceanGate-boss-Stockton-Rush-revealed-hes-broken-rules-make-lost-Titan-sub.html,9,0.076,0.094,0.829,-0.9939,Daily Mail,2023-06-23,8
+1,"Titanic sub: US Navy detected Titan’s likely implosion, as James Cameron says sources heard ‘loud bang’",https://www.theguardian.com/world/2023/jun/23/titanic-sub-us-navy-james-cameron-detected-likely-implosion-titan-submersible,0,0.036,0.099,0.865,-0.9931,Guardian,2023-06-23,8
+2,London mayor’s office ‘banned’ from flying EU flag on referendum anniversary,https://www.theguardian.com/uk-news/2023/jun/23/london-mayors-office-banned-from-flying-eu-flag-on-referendum-anniversary,1,0.106,0.074,0.821,0.9764,Guardian,2023-06-23,8
+3,US navy says it picked up ‘anomaly’ hours after sub began mission – as it happened,https://www.theguardian.com/world/live/2023/jun/22/titanic-sub-live-updates-search-titan-missing-submarine-submersible-rescue-us-coast-guard-latest-news,2,0.088,0.111,0.801,-0.9938,Guardian,2023-06-23,8
+4,‘Highly unusual’: lost 17th-century portrait of black and white women as equals saved for UK,https://www.theguardian.com/artanddesign/2023/jun/23/lost-portrait-allegorical-painting-of-two-ladies-compton-verney,3,0.073,0.03,0.897,0.9775,Guardian,2023-06-23,8
+5,‘People complained that I had my ass out’: all-star Glastonbury veterans advise festival first-timers,https://www.theguardian.com/music/2023/jun/23/glastonbury-all-star-veterans-advise-festival-first-timers,4,0.169,0.038,0.793,0.9999,Guardian,2023-06-23,8
+6,‘Shock and awe’ interest rate rise leaves Sunak’s cost of living pledge in tatters,https://www.theguardian.com/politics/2023/jun/22/shock-and-awe-interest-rate-rise-rishi-sunak-cost-of-living-pledge-in-tatters,5,0.069,0.13,0.8,-0.9966,Guardian,2023-06-23,8
+7,Titanic sub live updates: US Navy detected Titan’s likely implosion hours into dive; tributes paid to victims – latest news,https://www.theguardian.com/world/live/2023/jun/23/titanic-sub-live-updates-us-navy-catastrophic-implosion-submarine-victims-titan-missing-submersible-latest-news,6,0.074,0.105,0.821,-0.9969,Guardian,2023-06-23,8
+8,"Britain is the Dorian Gray economy, hiding its ugly truths from the world. Now they are exposed",https://www.theguardian.com/commentisfree/2023/jun/23/britain-dorian-gray-economy-tony-blair-george-osborne,7,0.105,0.096,0.799,0.9299,Guardian,2023-06-23,8
+9,‘True explorers’: tributes paid to men killed in ‘catastrophic implosion’ of Titan sub,https://www.theguardian.com/world/2023/jun/23/titan-sub-tributes-pour-in-victims-killed-catastrophic-implosion-submarine-titanic-submersible,8,0.122,0.055,0.823,0.997,Guardian,2023-06-23,8
+10,"More than 1.3bn adults will have diabetes by 2050, study predicts",https://www.theguardian.com/society/2023/jun/22/more-than-13bn-adults-will-have-diabetes-by-2050-study-predicts,9,0.053,0.095,0.852,-0.9884,Guardian,2023-06-23,8
