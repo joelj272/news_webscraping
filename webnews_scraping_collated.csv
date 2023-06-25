@@ -8799,3 +8799,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,‘Putin humiliated’: what the papers said about the Wagner rebellion in Russia,https://www.theguardian.com/world/2023/jun/25/putin-humiliated-what-the-papers-said-about-the-wagner-rebellion-in-russia,7,0.034,0.107,0.86,-0.9936,Guardian,2023-06-25,8
 9,The love of my life has died. How can I ever be free to live again?,https://www.theguardian.com/lifeandstyle/2023/jun/25/the-love-of-my-life-has-died-how-can-i-ever-be-free-to-live-again,8,0.166,0.122,0.712,0.9954,Guardian,2023-06-25,8
 10,Guns N’ Roses at Glastonbury review – a riotous trip into rock paradise,https://www.theguardian.com/music/2023/jun/25/guns-n-roses-at-glastonbury-review-pyramid-stage,9,0.147,0.053,0.799,0.9957,Guardian,2023-06-25,8
+1,Wagner mutiny shows real cracks in Putin rule - US,https://www.bbc.co.uk/news/world-europe-66014141,0,0.054,0.054,0.892,0.6167,BBC,2023-06-25,20
+2,The bitter personal rivalries that led to a day of rebellion,https://www.bbc.co.uk/news/world-europe-66013532,1,0.09,0.14,0.77,-0.9992,BBC,2023-06-25,20
+3,Duchess of York recovering after breast cancer operation,https://www.bbc.co.uk/news/uk-66014781,2,0.097,0.033,0.871,0.9759,BBC,2023-06-25,20
+4,Body found in area actor Julian Sands disappeared,https://www.bbc.co.uk/news/world-us-canada-66012686,3,0.118,0.053,0.829,0.9413,BBC,2023-06-25,20
+5,What will Putin do next? And other key questions,https://www.bbc.co.uk/news/world-europe-66012906,4,0.084,0.132,0.783,-0.9967,BBC,2023-06-25,20
+6,"OceanGate: A maverick, rule-breaking founder and a tragic end",https://www.bbc.co.uk/news/world-us-canada-66014565,5,0.105,0.074,0.821,0.9958,BBC,2023-06-25,20
+7,Greek conservatives hail win as mandate for change,https://www.bbc.co.uk/news/world-europe-65997486,6,0.18,0.148,0.672,0.9461,BBC,2023-06-25,20
+8,Lewis Capaldi struggles to finish Glastonbury set,https://www.bbc.co.uk/news/entertainment-arts-66010662,7,0.132,0.082,0.787,0.9944,BBC,2023-06-25,20
+9,Why 101 people and a dog want to be Toronto's mayor,https://www.bbc.co.uk/news/world-us-canada-65935829,8,0.09,0.092,0.817,-0.5023,BBC,2023-06-25,20
+10,Rollercoaster accident in Sweden leaves one dead,https://www.bbc.co.uk/news/world-europe-66014566,9,0.027,0.127,0.846,-0.9819,BBC,2023-06-25,20
+1,"Humiliated Prigozhin is sent into exile in Belarus after aborting his Wagner mercenaries' march to Moscow at 11th hour - but his men are treated like heroes as they withdraw
+",https://www.dailymail.co.uk/news/article-12230141/Wagner-chief-agrees-escalate-END-mercenary-groups-march-Moscow.html,0,0.052,0.113,0.836,-0.9997,Daily Mail,2023-06-25,20
+2,"How Taylor Swift 'snubbed handwritten invite from Meghan to appear on her Spotify podcast (letting her rep say no!) while execs rejected idea after idea from the subpar Sussexes'... though a Great Expectations-inspired Netflix show IS on the way 
+",https://www.dailymail.co.uk/news/article-12230261/Taylor-Swift-snubbed-personal-invite-Meghan-appear-Spotify-podcast.html,1,0.1,0.049,0.852,0.9952,Daily Mail,2023-06-25,20
+3,"Drum roll, please! Kourtney Kardashian reveals baby's sex while sitting on husband Travis Barker's lap and sharing a passionate kiss as he cues up the confetti from his drum set
+",https://www.dailymail.co.uk/tvshowbiz/article-12230981/Kourtney-Kardashian-reveals-sex-baby-Travis-Barker-does-drum-roll.html,2,0.131,0.041,0.827,0.9973,Daily Mail,2023-06-25,20
+4,"Business as usual, Mr President? Vladimir Putin breaks his silence in 'pre-recorded' interview about 'stepping up efforts' in Ukraine after Prigozhin's failed coup 'inflicted worst daily air force losses of the war with 39 pilots and crew killed by Wagner'
+",https://www.dailymail.co.uk/news/article-12231577/Putin-suffers-worst-daily-air-force-losses-war-Wagner-kills-39-pilots-crew.html,3,0.062,0.138,0.8,-0.9985,Daily Mail,2023-06-25,20
+5,"Ohio mom, 31, is charged with murder after she 'left her 16-month-old daughter home alone for ten days to go on VACATION and found her dead in her playpen when she returned'
+",https://www.dailymail.co.uk/news/article-12229951/Mother-31-charged-murder-left-16-month-old-daughter-home-TEN-days.html,4,0.091,0.094,0.814,0.6645,Daily Mail,2023-06-25,20
+6,"EXCLUSIVE: Girl, 12, who shot her father before killing herself in botched murder pact with friend after they 'plotted to kill their families and pets then run away together' is pictured for the first time posing with guns alongside her armed dad 
+",https://www.dailymail.co.uk/news/article-12227155/Girl-12-shot-dad-murder-pact-pictured-time.html,5,0.048,0.119,0.833,-0.9959,Daily Mail,2023-06-25,20
+7,"Pregnant Kourtney Kardashian, 44, proudly shows off her growing baby bump in a skimpy green bikini for a pool day... one week after announcing surprise pregnancy
+",https://www.dailymail.co.uk/tvshowbiz/article-12229127/Pregnant-Kourtney-Kardashian-proudly-shows-growing-baby-bump-green-bikini-pool-day.html,6,0.175,0.01,0.814,0.9993,Daily Mail,2023-06-25,20
+8,"Oh I say... It's the Princess versus King of Wimbledon! Roger Federer proves no match for Kate when they met on the iconic tennis courts
+",https://www.dailymail.co.uk/news/article-12230353/Roger-Federer-proves-no-match-Princess-Kate-met-Wimbledon-court.html,7,0.12,0.022,0.858,0.9961,Daily Mail,2023-06-25,20
+9,"'Most frightening thing I have seen in my life:' Worshippers outraged as Neo-Nazis wave swastika flags outside Georgia synagogue - and police refuse to intervene because it is 'free speech'
+",https://www.dailymail.co.uk/news/article-12231125/Most-frightening-thing-seen-life-Neo-Nazis-wave-swastikas-Georgia-synagogue.html,8,0.037,0.116,0.847,-0.9965,Daily Mail,2023-06-25,20
+10,"EXCLUSIVE: Former Baywatch bombshell Nicole Eggert, 51, shows off slimmed-down figure while cleaning out her garage in LA - in her first public appearance in 18 months 
+",https://www.dailymail.co.uk/tvshowbiz/article-12227249/Former-Baywatch-bombshell-Nicole-Eggert-51-shows-slimmed-figure-LA.html,9,0.061,0.044,0.895,0.7345,Daily Mail,2023-06-25,20
+1,Elton John at Glastonbury: sun to go down on one of pop’s great performers,https://www.theguardian.com/music/2023/jun/23/elton-john-at-glastonbury-sun-set-to-go-down-pop-great-careers,0,0.125,0.063,0.812,0.9975,Guardian,2023-06-25,20
+2,Sunday at Glastonbury 2023: Elton John performs his headline set – follow it live!,https://www.theguardian.com/music/live/2023/jun/25/sunday-at-glastonbury-2023-elton-john-follow-it-live,1,0.172,0.051,0.777,0.9998,Guardian,2023-06-25,20
+3,UK drivers complain as car insurance renewal costs rise up to 70%,https://www.theguardian.com/money/2023/jun/25/uk-drivers-complain-as-car-insurance-renewal-costs-rise-up-to-70,2,0.03,0.036,0.933,0.0516,Guardian,2023-06-25,20
+4,Yusuf/Cat Stevens at Glastonbury review – singer-songwriter’s ‘legends’ set is a lowkey triumph ,https://www.theguardian.com/music/2023/jun/25/yusuf-cat-stevens-at-glastonbury-review-legend,3,0.169,0.052,0.779,0.9969,Guardian,2023-06-25,20
+5,"Uprising exposes weakness of Putin’s rule, says Zelenskiy – Russia-Ukraine war live",https://www.theguardian.com/world/live/2023/jun/25/russia-ukraine-war-live-prigozhin-to-go-to-belarus-as-rebellion-ends-and-wagner-troops-withdraw-from-rostov,4,0.08,0.079,0.841,-0.238,Guardian,2023-06-25,20
+6,‘I’m embarrassed about how horribly overpaid I was’: tax campaigner Dan Neidle ,https://www.theguardian.com/business/2023/jun/25/im-embarrassed-about-how-horribly-overpaid-i-was-tax-campaigner-dan-neidle,5,0.102,0.096,0.802,0.9375,Guardian,2023-06-25,20
+7,"Queen was asked to block Evgeny Lebedev’s peerage, claims documentary",https://www.theguardian.com/media/2023/jun/25/queen-was-asked-to-block-evgeny-lebedevs-peerage-claims-documentary,6,0.078,0.06,0.862,0.9736,Guardian,2023-06-25,20
+8,Britain is used to crises now. But this widespread hopelessness is new – and frightening ,https://www.theguardian.com/commentisfree/2023/jun/25/britain-crises-hopelessness-market-towns-suburbs,7,0.072,0.147,0.781,-0.9987,Guardian,2023-06-25,20
+9,UK’s joint hottest day of the year at 32.2C recorded on Sunday,https://www.theguardian.com/uk-news/2023/jun/25/uks-joint-hottest-day-of-the-year-at-322c-recorded-on-sunday,8,0.067,0.051,0.882,0.6478,Guardian,2023-06-25,20
+10,Blondie at Glastonbury review – Debbie Harry is an atomic charisma bomb,https://www.theguardian.com/music/2023/jun/25/blondie-at-glastonbury-review-debbie-harry,9,0.141,0.045,0.813,0.9973,Guardian,2023-06-25,20
