@@ -8759,3 +8759,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Wagner mutiny: how the world reacted,https://www.theguardian.com/world/2023/jun/24/wagner-mutiny-how-the-world-reacted,7,0.094,0.045,0.861,0.9843,Guardian,2023-06-24,20
 9,‘I haven’t had a single normal year at university’: the UK students graduating without a graded degree,https://www.theguardian.com/education/2023/jun/24/uk-students-without-graded-degree-graduating-covid-strikes-boycott,8,0.061,0.1,0.839,-0.9959,Guardian,2023-06-24,20
 10,"Head chef at Britain’s best restaurant verbally abused me, diner claims",https://www.theguardian.com/uk-news/2023/jun/24/ynyshir-wales-head-chef-gareth-ward-verbal-abuse-diner-claims,9,0.066,0.11,0.824,-0.9934,Guardian,2023-06-24,20
+1,Lewis Capaldi struggles to finish Glastonbury set,https://www.bbc.co.uk/news/entertainment-arts-66010662,0,0.12,0.09,0.79,0.9854,BBC,2023-06-25,8
+2,A rare glimpse inside a barbaric prison,https://www.bbc.co.uk/news/world-asia-65959508,1,0.083,0.095,0.822,-0.9426,BBC,2023-06-25,8
+3,24 hours of mayhem in Russia,https://www.bbc.co.uk/news/world-europe-66006880,2,0.073,0.137,0.79,-0.9976,BBC,2023-06-25,8
+4,Why 101 people and a dog want to be Toronto's mayor,https://www.bbc.co.uk/news/world-us-canada-65935829,3,0.09,0.092,0.817,-0.5023,BBC,2023-06-25,8
+5,Briton jailed in US for celebrity Twitter hack,https://www.bbc.co.uk/news/uk-england-merseyside-66007724,4,0.082,0.142,0.776,-0.974,BBC,2023-06-25,8
+6,Readjusting to life in UK has been hard - Nazanin,https://www.bbc.co.uk/news/uk-england-london-66007539,5,0.086,0.062,0.852,0.9288,BBC,2023-06-25,8
+7,Investigators board Titan support ship,https://www.bbc.co.uk/news/world-us-canada-66008843,6,0.047,0.085,0.868,-0.9361,BBC,2023-06-25,8
+8,Guns N' Roses wow Glastonbury but Lana is cut short,https://www.bbc.co.uk/news/entertainment-arts-66011512,7,0.149,0.073,0.778,0.9992,BBC,2023-06-25,8
+9,Putin under pressure as ally turns rebel,https://www.bbc.co.uk/news/world-europe-66007017,8,0.097,0.126,0.777,-0.9415,BBC,2023-06-25,8
+10,Wagner chief calls halt to Moscow advance,https://www.bbc.co.uk/news/world-europe-66006860,9,0.043,0.123,0.834,-0.9887,BBC,2023-06-25,8
+1,"'Stay at home!' Moscow mayor issues warning as Putin's soldiers batten down the hatches and build defences around the capital with 5,000 Wagner mercenaries on the way led by sinister Neo-Nazi commander - hours after chilling threats 
+",https://www.dailymail.co.uk/news/article-12229575/Wagner-forces-head-Moscow-Prigozhin-mocks-Putin-call-traitors-up.html,0,0.062,0.142,0.796,-1.0,Daily Mail,2023-06-25,8
+2,"Pregnant Kourtney Kardashian, 44, proudly shows off her growing baby bump in a skimpy green bikini for a pool day... one week after announcing surprise pregnancy
+",https://www.dailymail.co.uk/tvshowbiz/article-12229127/Pregnant-Kourtney-Kardashian-proudly-shows-growing-baby-bump-green-bikini-pool-day.html,1,0.175,0.01,0.814,0.9993,Daily Mail,2023-06-25,8
+3,"Humiliated Prigozhin is sent into exile in Belarus after aborting his Wagner mercenaries' march to Moscow at 11th hour - but his men are treated like heroes as they withdraw: All eyes are on wounded Putin's next move after Russia came to brink of civil war
+",https://www.dailymail.co.uk/news/article-12230141/Wagner-chief-agrees-escalate-END-mercenary-groups-march-Moscow.html,2,0.052,0.113,0.836,-0.9997,Daily Mail,2023-06-25,8
+4,"Ohio mom, 31, is charged with murder after she 'left her 16-month-old daughter home alone for ten days to go on VACATION and found her dead in her playpen when she returned'
+",https://www.dailymail.co.uk/news/article-12229951/Mother-31-charged-murder-left-16-month-old-daughter-home-TEN-days.html,3,0.091,0.094,0.814,0.6645,Daily Mail,2023-06-25,8
+5,"Underwater survival expert reveals OceanGate's biggest 'red flags' and says the unconventional combination of materials used to build its doomed Titan sub was NOT innovative because 'it's been tried and simply didn't work' 
+",https://www.dailymail.co.uk/news/article-12228753/Underwater-survival-expert-says-materials-used-Titan-sub-tried-simply-didnt-work.html,4,0.058,0.113,0.829,-0.9971,Daily Mail,2023-06-25,8
+6,"Brave 23-year-old with terminal illness has 'passed away peacefully', her family confirm, after she used new assisted dying laws to end her life 
+",https://www.dailymail.co.uk/news/article-12229003/Lily-Thai-passed-away-peacefully-terminally-ill-Adelaide-woman-used-assisted-dying-laws.html,5,0.174,0.086,0.74,0.9961,Daily Mail,2023-06-25,8
+7,"EXCLUSIVE: Ex-Hollywood madam Heidi Fleiss offers an intimate glimpse inside her remote $1 MILLION 'bird house' in the Nevada desert - where she lives with DOZENS of feathered pets who fly freely around her home and crawl on her while she sleeps 
+",https://www.dailymail.co.uk/tvshowbiz/article-12195143/Inside-Hollywood-madam-Heidi-Fleiss-secluded-1million-desert-bird-house.html,6,0.096,0.093,0.811,0.0821,Daily Mail,2023-06-25,8
+8,"REVEALED: Submersible expert who took 2019 trip on Titan heard cracking noise which signaled 'an area of the hull was breaking down' and raised safety concerns in chilling email to OceanGate CEO Stockton Rush 
+",https://www.dailymail.co.uk/news/article-12229171/Submersible-expert-took-2019-trip-Titan-heard-cracking-noise-hull-breaking-down.html,7,0.07,0.092,0.838,-0.9767,Daily Mail,2023-06-25,8
+9,"How Taylor Swift 'snubbed handwritten invite from Meghan to appear on her Spotify podcast (letting her rep say no!) while execs rejected idea after idea from the subpar Sussexes'... though a Great Expectations-inspired Netflix show IS on the way 
+",https://www.dailymail.co.uk/news/article-12230261/Taylor-Swift-snubbed-personal-invite-Meghan-appear-Spotify-podcast.html,8,0.1,0.049,0.852,0.9952,Daily Mail,2023-06-25,8
+10,"Oh I say... It's the Princess versus King of Wimbledon! Roger Federer proves no match for Kate when they met on the iconic tennis courts
+",https://www.dailymail.co.uk/news/article-12230353/Roger-Federer-proves-no-match-Princess-Kate-met-Wimbledon-court.html,9,0.12,0.022,0.858,0.9961,Daily Mail,2023-06-25,8
+1,"Russia-Ukraine war live: Prigozhin to go to Belarus as rebellion ends; US intelligence suspected Wagner plot, US media report",https://www.theguardian.com/world/live/2023/jun/25/russia-ukraine-war-live-prigozhin-to-go-to-belarus-as-rebellion-ends-and-wagner-troops-withdraw-from-rostov,0,0.071,0.11,0.819,-0.9994,Guardian,2023-06-25,8
+2,Ukrainians dared to dream that Wagner action could be the fatal blow in war,https://www.theguardian.com/world/2023/jun/24/ukrainians-dream-wagner-action-fatal-blow-war-kyiv-mutiny,1,0.062,0.184,0.754,-0.999,Guardian,2023-06-25,8
+3,Julian Sands search: Body found in California mountains where actor disappeared ,https://www.theguardian.com/film/2023/jun/25/julian-sands-search-body-found-in-california-mountains-where-actor-disappeared,2,0.104,0.044,0.852,0.9246,Guardian,2023-06-25,8
+4,Lana Del Rey at Glastonbury review – modern pop’s greatest auteur gets cut off in her prime,https://www.theguardian.com/music/2023/jun/25/lana-del-rey-at-glastonbury-review-other-stage,3,0.089,0.033,0.878,0.9824,Guardian,2023-06-25,8
+5,"Streakers, heat seekers and all-star surprises: Saturday at Glastonbury 2023 – photo essay",https://www.theguardian.com/music/2023/jun/25/saturday-at-glastonbury-photo-essay,4,0.109,0.014,0.877,0.9859,Guardian,2023-06-25,8
+6,Why did Wagner turn on Putin and what does it mean for Ukraine?,https://www.theguardian.com/world/2023/jun/24/yevgeny-prigozhin-wagner-uprising-likely-to-help-ukraine-by-draining-russian-resources,5,0.095,0.154,0.751,-0.9932,Guardian,2023-06-25,8
+7,Lewis Capaldi announces he needs a mental health break after Glastonbury,https://www.theguardian.com/music/2023/jun/24/lewis-capaldi-announces-mental-health-break-after-glastonbury,6,0.097,0.08,0.823,0.2235,Guardian,2023-06-25,8
+8,‘Putin humiliated’: what the papers said about the Wagner rebellion in Russia,https://www.theguardian.com/world/2023/jun/25/putin-humiliated-what-the-papers-said-about-the-wagner-rebellion-in-russia,7,0.034,0.107,0.86,-0.9936,Guardian,2023-06-25,8
+9,The love of my life has died. How can I ever be free to live again?,https://www.theguardian.com/lifeandstyle/2023/jun/25/the-love-of-my-life-has-died-how-can-i-ever-be-free-to-live-again,8,0.166,0.122,0.712,0.9954,Guardian,2023-06-25,8
+10,Guns N’ Roses at Glastonbury review – a riotous trip into rock paradise,https://www.theguardian.com/music/2023/jun/25/guns-n-roses-at-glastonbury-review-pyramid-stage,9,0.147,0.053,0.799,0.9957,Guardian,2023-06-25,8
