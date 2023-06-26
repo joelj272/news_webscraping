@@ -8839,3 +8839,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Britain is used to crises now. But this widespread hopelessness is new – and frightening ,https://www.theguardian.com/commentisfree/2023/jun/25/britain-crises-hopelessness-market-towns-suburbs,7,0.072,0.147,0.781,-0.9987,Guardian,2023-06-25,20
 9,UK’s joint hottest day of the year at 32.2C recorded on Sunday,https://www.theguardian.com/uk-news/2023/jun/25/uks-joint-hottest-day-of-the-year-at-322c-recorded-on-sunday,8,0.067,0.051,0.882,0.6478,Guardian,2023-06-25,20
 10,Blondie at Glastonbury review – Debbie Harry is an atomic charisma bomb,https://www.theguardian.com/music/2023/jun/25/blondie-at-glastonbury-review-debbie-harry,9,0.141,0.045,0.813,0.9973,Guardian,2023-06-25,20
+1,US worker dies after being sucked into plane engine,https://www.bbc.co.uk/news/world-us-canada-66016948,0,0.108,0.079,0.813,0.8523,BBC,2023-06-26,8
+2,Teen on sub took Rubik's Cube to break record - mother,https://www.bbc.co.uk/news/world-us-canada-66015851,1,0.102,0.065,0.833,0.9798,BBC,2023-06-26,8
+3,Row in India over Obama's remarks on Muslim rights,https://www.bbc.co.uk/news/world-asia-india-66016432,2,0.072,0.066,0.862,0.4988,BBC,2023-06-26,8
+4,Instability ratchets up pressure on Russian president,https://www.bbc.co.uk/news/world-europe-66015624,3,0.048,0.091,0.862,-0.9696,BBC,2023-06-26,8
+5,BBC names new suspect in Stephen Lawrence murder,https://www.bbc.co.uk/news/uk-65989993,4,0.043,0.174,0.783,-0.9996,BBC,2023-06-26,8
+6,Lewis Capaldi struggles to finish Glastonbury set,https://www.bbc.co.uk/news/entertainment-arts-66010662,5,0.132,0.082,0.787,0.9944,BBC,2023-06-26,8
+7,Body found in area actor Julian Sands disappeared,https://www.bbc.co.uk/news/world-us-canada-66012686,6,0.118,0.053,0.829,0.9413,BBC,2023-06-26,8
+8,The new evidence in the UK's most notorious racist murder,https://www.bbc.co.uk/news/uk-65997090,7,0.053,0.165,0.782,-1.0,BBC,2023-06-26,8
+9,PwC Australia sells business for 50p after scandal,https://www.bbc.co.uk/news/business-66016270,8,0.08,0.069,0.852,0.3204,BBC,2023-06-26,8
+10,Russia loses bid to keep new embassy site in Australia,https://www.bbc.co.uk/news/world-australia-66016518,9,0.092,0.065,0.843,0.7969,BBC,2023-06-26,8
+1,"Business as usual, Mr President? Vladimir Putin breaks his silence in 'pre-recorded' interview about 'stepping up efforts' in Ukraine after Prigozhin's failed coup 'inflicted worst daily air force losses of the war with 39 pilots and crew killed by Wagner'
+",https://www.dailymail.co.uk/news/article-12231577/Putin-suffers-worst-daily-air-force-losses-war-Wagner-kills-39-pilots-crew.html,0,0.062,0.138,0.8,-0.9985,Daily Mail,2023-06-26,8
+2,"Don Draper settles down: Jon Hamm, 52, marries Anna Osceola, 35, at the Big Sur site of the  Mad Men finale she also appeared in: Guests included Larry David and Brooke Shields
+",https://www.dailymail.co.uk/news/article-12232147/Jon-Hamm-52-marries-Anna-Osceola-35-Big-Sur-site-Mad-Men-episode.html,1,0.121,0.06,0.818,0.9966,Daily Mail,2023-06-26,8
+3,"EXCLUSIVE: Girl, 12, who shot her father before killing herself in botched murder pact with friend after they 'plotted to kill their families and pets then run away together' is pictured for the first time posing with guns alongside her armed dad 
+",https://www.dailymail.co.uk/news/article-12227155/Girl-12-shot-dad-murder-pact-pictured-time.html,2,0.048,0.119,0.833,-0.9959,Daily Mail,2023-06-26,8
+4,"EXCLUSIVE: Former Baywatch bombshell Nicole Eggert, 51, shows off slimmed-down figure while cleaning out her garage in LA - in her first public appearance in 18 months 
+",https://www.dailymail.co.uk/tvshowbiz/article-12227249/Former-Baywatch-bombshell-Nicole-Eggert-51-shows-slimmed-figure-LA.html,3,0.061,0.044,0.895,0.7345,Daily Mail,2023-06-26,8
+5,"The WORST charities in America? These are the organizations giving over 90 PERCENT of donations to their fatcat executives - while ignoring their causes
+",https://www.dailymail.co.uk/news/article-12219603/The-WORST-charities-America-organizations-giving-CEOs-millions-ignoring-causes.html,4,0.132,0.11,0.758,0.9839,Daily Mail,2023-06-26,8
+6,"'Most frightening thing I have seen in my life:' Worshippers outraged as Neo-Nazis wave swastika flags outside Georgia synagogue - and police refuse to intervene because it is 'free speech'
+",https://www.dailymail.co.uk/news/article-12231125/Most-frightening-thing-seen-life-Neo-Nazis-wave-swastikas-Georgia-synagogue.html,5,0.037,0.116,0.847,-0.9965,Daily Mail,2023-06-26,8
+7,"Drum roll, please! Kourtney Kardashian reveals baby's sex while sitting on husband Travis Barker's lap and sharing a passionate kiss as he cues up the confetti from his drum set
+",https://www.dailymail.co.uk/tvshowbiz/article-12230981/Kourtney-Kardashian-reveals-sex-baby-Travis-Barker-does-drum-roll.html,6,0.131,0.041,0.827,0.9973,Daily Mail,2023-06-26,8
+8,"Prepare for 'deeply dangerous and unpredictable' Russia if Vladimir Putin is replaced, says security expert who wonders whether the country will 'go full on fascist'
+",https://www.dailymail.co.uk/news/article-12231813/Prepare-deeply-dangerous-unpredictable-Russia-Putin-replaced-says-security-expert.html,7,0.054,0.172,0.775,-0.9997,Daily Mail,2023-06-26,8
+9,"EXCLUSIVE: Proof your iPhone IS tracking you: Secret map on your cell that shows you everywhere you've been - and how to disable it
+",https://www.dailymail.co.uk/sciencetech/article-12216045/Secret-map-phone-shows-youve-gone-disable-it.html,8,0.117,0.034,0.849,0.9943,Daily Mail,2023-06-26,8
+10,"How Taylor Swift 'snubbed handwritten invite from Meghan to appear on her Spotify podcast (letting her rep say no!) while execs rejected idea after idea from the subpar Sussexes'... though a Great Expectations-inspired Netflix show IS on the way 
+",https://www.dailymail.co.uk/news/article-12230261/Taylor-Swift-snubbed-personal-invite-Meghan-appear-Spotify-podcast.html,9,0.1,0.049,0.852,0.9952,Daily Mail,2023-06-26,8
+1,Elton John at Glastonbury review – bittersweet joy at the end of the yellow brick road,https://www.theguardian.com/music/2023/jun/26/elton-john-at-glastonbury-review-headline-pyramid-stage,0,0.165,0.065,0.77,0.9989,Guardian,2023-06-26,8
+2,Perv-O-Shine and sleep vaping: 23 things I learned about the world – and myself – at Glastonbury 2023,https://www.theguardian.com/music/2023/jun/26/perv-o-shine-and-sleep-vaping-23-things-i-learned-about-the-world-and-myself-at-glastonbury-2023,1,0.145,0.067,0.788,0.9995,Guardian,2023-06-26,8
+3,"HMRC fined 184,000 low earners for not filing return despite no tax owing",https://www.theguardian.com/money/2023/jun/26/hmrc-fined-184000-low-earners-for-not-filing-return-despite-no-tax-owing,2,0.055,0.089,0.856,-0.9396,Guardian,2023-06-26,8
+4,‘This is what British youth look like’: Martin Parr’s Glastonbury 2023 ,https://www.theguardian.com/music/2023/jun/26/this-is-what-british-youth-look-like-martin-parrs-glastonbury-2023,3,0.096,0.047,0.856,0.9759,Guardian,2023-06-26,8
+5,NHS’s mounting failures and political neglect laid bare in sobering report,https://www.theguardian.com/uk-news/2023/jun/26/nhss-mounting-failures-and-political-neglect-laid-bare-in-sobering-report,4,0.096,0.127,0.778,-0.9846,Guardian,2023-06-26,8
+6,Russia-Ukraine war live: Russia releases video of defence minister in Ukraine in aftermath of Wagner rebellion,https://www.theguardian.com/world/live/2023/jun/26/russia-ukraine-war-live-kyiv-claims-advances-near-bakhmut-rouble-falls-to-15-month-low-after-wagner-rebellion,5,0.079,0.096,0.824,-0.9981,Guardian,2023-06-26,8
+7,New Jersey man flies 23m miles with lifetime United pass ‘like a sultan’,https://www.theguardian.com/travel/2023/jun/25/new-jersey-man-lifetime-united-airlines-pass,6,0.076,0.018,0.906,0.9798,Guardian,2023-06-26,8
+8,Britons’ earlier deaths linked to NHS underinvestment – study,https://www.theguardian.com/society/2023/jun/26/britons-earlier-deaths-linked-to-nhs-underinvestment-study,7,0.076,0.091,0.833,-0.9685,Guardian,2023-06-26,8
+9,Blondie at Glastonbury review – Debbie Harry is an atomic charisma bomb,https://www.theguardian.com/music/2023/jun/25/blondie-at-glastonbury-review-debbie-harry,8,0.141,0.045,0.813,0.9973,Guardian,2023-06-26,8
+10,Met police name new suspect in Stephen Lawrence murder,https://www.theguardian.com/uk-news/2023/jun/26/met-police-name-new-suspect-in-stephen-lawrence-murder,9,0.018,0.209,0.772,-0.9987,Guardian,2023-06-26,8
