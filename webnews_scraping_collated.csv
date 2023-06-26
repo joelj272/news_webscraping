@@ -8879,3 +8879,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Britons’ earlier deaths linked to NHS underinvestment – study,https://www.theguardian.com/society/2023/jun/26/britons-earlier-deaths-linked-to-nhs-underinvestment-study,7,0.076,0.091,0.833,-0.9685,Guardian,2023-06-26,8
 9,Blondie at Glastonbury review – Debbie Harry is an atomic charisma bomb,https://www.theguardian.com/music/2023/jun/25/blondie-at-glastonbury-review-debbie-harry,8,0.141,0.045,0.813,0.9973,Guardian,2023-06-26,8
 10,Met police name new suspect in Stephen Lawrence murder,https://www.theguardian.com/uk-news/2023/jun/26/met-police-name-new-suspect-in-stephen-lawrence-murder,9,0.018,0.209,0.772,-0.9987,Guardian,2023-06-26,8
+1,'A bald waste of space': Fighters rage at Prigozhin,https://www.bbc.co.uk/news/world-europe-66023631,0,0.11,0.126,0.764,-0.9484,BBC,2023-06-26,20
+2,US worker dies after being sucked into plane engine,https://www.bbc.co.uk/news/world-us-canada-66016948,1,0.108,0.079,0.813,0.8523,BBC,2023-06-26,20
+3,New images show Chinese spy balloons over Asia,https://www.bbc.co.uk/news/world-65972168,2,0.071,0.043,0.887,0.97,BBC,2023-06-26,20
+4,Mutiny aimed to stop destruction of Wagner - Prigozhin,https://www.bbc.co.uk/news/world-europe-66024526,3,0.049,0.14,0.811,-0.9955,BBC,2023-06-26,20
+5,Teen on sub took Rubik's Cube to break record - mother,https://www.bbc.co.uk/news/world-us-canada-66015851,4,0.098,0.07,0.832,0.9638,BBC,2023-06-26,20
+6,Fox picks Jesse Watters to replace Tucker Carlson,https://www.bbc.co.uk/news/world-us-canada-66024729,5,0.036,0.036,0.928,0.2415,BBC,2023-06-26,20
+7,Woman shoots Uber driver she believed was kidnapping her,https://www.bbc.co.uk/news/world-us-canada-66018656,6,0.036,0.07,0.894,-0.6597,BBC,2023-06-26,20
+8,Colorado LGBT club attacker jailed for life,https://www.bbc.co.uk/news/world-us-canada-66023940,7,0.038,0.176,0.786,-0.9984,BBC,2023-06-26,20
+9,Row in India over Obama's remarks on Muslim rights,https://www.bbc.co.uk/news/world-asia-india-66016432,8,0.076,0.06,0.864,0.8917,BBC,2023-06-26,20
+10,Nobel-winning lithium-ion battery pioneer dies,https://www.bbc.co.uk/news/world-us-canada-65993968,9,0.124,0.024,0.852,0.992,BBC,2023-06-26,20
+1,"Prepare for 'deeply dangerous and unpredictable' Russia if Vladimir Putin is replaced, says security expert who wonders whether the country will 'go full on fascist'
+",https://www.dailymail.co.uk/news/article-12231813/Prepare-deeply-dangerous-unpredictable-Russia-Putin-replaced-says-security-expert.html,0,0.054,0.172,0.775,-0.9997,Daily Mail,2023-06-26,20
+2,"Don Draper settles down: Jon Hamm, 52, marries Anna Osceola, 35, at the Big Sur site of the  Mad Men finale she also appeared in: Guests included Larry David and Brooke Shields
+",https://www.dailymail.co.uk/news/article-12232147/Jon-Hamm-52-marries-Anna-Osceola-35-Big-Sur-site-Mad-Men-episode.html,1,0.121,0.06,0.818,0.9966,Daily Mail,2023-06-26,20
+3,"Business as usual, Mr President? Vladimir Putin breaks his silence in 'pre-recorded' interview about 'stepping up efforts' in Ukraine after Prigozhin's failed coup 'inflicted worst daily air force losses of the war with 39 pilots and crew killed by Wagner'
+",https://www.dailymail.co.uk/news/article-12231577/Putin-suffers-worst-daily-air-force-losses-war-Wagner-kills-39-pilots-crew.html,2,0.062,0.138,0.8,-0.9985,Daily Mail,2023-06-26,20
+4,"The WORST charities in America? These are the organizations giving over 90 PERCENT of donations to their fatcat executives - while ignoring their causes
+",https://www.dailymail.co.uk/news/article-12219603/The-WORST-charities-America-organizations-giving-CEOs-millions-ignoring-causes.html,3,0.132,0.11,0.758,0.9839,Daily Mail,2023-06-26,20
+5,"'Getting in shape for my debates with President Biden!' Pumped up RFK Jnr, 69, posts clip of him doing NINE bench presses at 'mecca of bodybuilding' Gold's Gym - after CNN's Jake Tapper blasted him for 'wild and false' story about him
+",https://www.dailymail.co.uk/news/article-12232011/Jake-Tapper-slams-RFK-Jr-wild-false-story-working-together.html,4,0.029,0.077,0.894,-0.9894,Daily Mail,2023-06-26,20
+6,"EXCLUSIVE: Former Baywatch bombshell Nicole Eggert, 51, shows off slimmed-down figure while cleaning out her garage in LA - in her first public appearance in 18 months 
+",https://www.dailymail.co.uk/tvshowbiz/article-12227249/Former-Baywatch-bombshell-Nicole-Eggert-51-shows-slimmed-figure-LA.html,5,0.061,0.044,0.895,0.7345,Daily Mail,2023-06-26,20
+7,"The spiritual father of trans movement Dr John Money, his twisted experiment in the 1960s - and the tragic deaths of the twin boys whose lives were ruined: How his harrowing true story is a cautionary tale for our times, writes TOM LEONARD
+",https://www.dailymail.co.uk/news/article-12232885/The-spiritual-father-trans-movement-Dr-John-Money-twisted-experiment.html,6,0.098,0.126,0.776,-0.9974,Daily Mail,2023-06-26,20
+8,"'Predatory' Titanic sub CEO Stockton Rush was scouting around for rich clients to endorse his doomed expedition because he was struggling to make money on his 'monstrosity' vessel, says expert
+",https://www.dailymail.co.uk/news/article-12232597/Predatory-Titan-sub-boss-Stockton-Rush-hunting-rich-clients-endorse-doomed-expedition.html,7,0.1,0.076,0.824,0.965,Daily Mail,2023-06-26,20
+9,"'We were constantly looking at the water': Emotional wife and mother of Titanic sub disaster victims describes the agonising wait as she hoped stricken craft would come back to the surface before losing hope only after knowing their oxygen had run out 
+",https://www.dailymail.co.uk/news/article-12232539/Titan-sub-disaster-Wife-victim-reveals-husbands-lifelong-dream-Titanic.html,8,0.132,0.081,0.786,0.9963,Daily Mail,2023-06-26,20
+10,"Revealed: Kevin Costner was 'blindsided' when his estranged wife Christine handed him divorce papers - because HE planned to serve them to her first
+",https://www.dailymail.co.uk/tvshowbiz/article-12232911/Kevin-Costner-blindsided-wife-handed-divorce-papers-wanted-serve-first.html,9,0.073,0.051,0.876,0.9657,Daily Mail,2023-06-26,20
+1,Yevgeny Prigozhin says he did not want to overthrow Putin,https://www.theguardian.com/world/2023/jun/26/yevgeny-prigozhin-breaks-silence-after-armed-mutiny-russia,0,0.059,0.091,0.85,-0.9924,Guardian,2023-06-26,20
+2,Plans to close most UK railway ticket offices to kick off ‘in weeks’,https://www.theguardian.com/politics/2023/jun/26/closure-most-uk-railway-station-ticket-offices-start-weeks,1,0.046,0.062,0.891,-0.5023,Guardian,2023-06-26,20
+3,Russia-Ukraine war live: Putin says Wagner uprising was ‘doomed to fail’,https://www.theguardian.com/world/live/2023/jun/26/russia-ukraine-war-live-kyiv-claims-advances-near-bakhmut-rouble-falls-to-15-month-low-after-wagner-rebellion,2,0.07,0.086,0.844,-0.9912,Guardian,2023-06-26,20
+4,Italy ‘was monitoring Lebedev villa at time of Boris Johnson visit’,https://www.theguardian.com/politics/2023/jun/26/italy-was-monitoring-lebedev-villa-at-time-of-boris-johnson-visit-documentary-claims,3,0.077,0.03,0.893,0.9861,Guardian,2023-06-26,20
+5,Did you solve it? The simple question almost everyone gets wrong,https://www.theguardian.com/science/2023/jun/26/did-you-solve-it-the-simple-question-almost-everyone-gets-wrong,4,0.203,0.022,0.775,0.9966,Guardian,2023-06-26,20
+6,‘Shock to the system’: Asics halts supplies to UK independent sports shops,https://www.theguardian.com/business/2023/jun/26/shock-to-the-system-asics-halts-supplies-to-uk-independent-sports-shops,5,0.047,0.071,0.882,-0.9408,Guardian,2023-06-26,20
+7,Can you solve it? The simple question almost everyone gets wrong,https://www.theguardian.com/science/2023/jun/26/can-you-solve-it-the-simple-question-almost-everyone-gets-wrong,6,0.145,0.028,0.827,0.9965,Guardian,2023-06-26,20
+8,Teenager Paris Mayo sentenced to at least 12 years for murder of newborn son,https://www.theguardian.com/uk-news/2023/jun/26/teenager-murdered-newborn-son-herefordshire-jailed-paris-mayo,7,0.066,0.18,0.754,-0.9986,Guardian,2023-06-26,20
+9,"Short scream heard on morning Nicola Bulley disappeared, inquest told",https://www.theguardian.com/uk-news/2023/jun/26/nicola-bulley-died-drowning-no-evidence-assault-inquest,8,0.035,0.101,0.865,-0.9948,Guardian,2023-06-26,20
+10,"Government scheme to send asylum seekers to Rwanda will cost £169,000 per person, Home Office says – as it happened",https://www.theguardian.com/politics/live/2023/jun/26/rishi-sunak-nhs-health-keir-starmer-covid-inquiry-uk-politics-live,9,0.09,0.075,0.835,0.9914,Guardian,2023-06-26,20
