@@ -8919,3 +8919,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Teenager Paris Mayo sentenced to at least 12 years for murder of newborn son,https://www.theguardian.com/uk-news/2023/jun/26/teenager-murdered-newborn-son-herefordshire-jailed-paris-mayo,7,0.066,0.18,0.754,-0.9986,Guardian,2023-06-26,20
 9,"Short scream heard on morning Nicola Bulley disappeared, inquest told",https://www.theguardian.com/uk-news/2023/jun/26/nicola-bulley-died-drowning-no-evidence-assault-inquest,8,0.035,0.101,0.865,-0.9948,Guardian,2023-06-26,20
 10,"Government scheme to send asylum seekers to Rwanda will cost £169,000 per person, Home Office says – as it happened",https://www.theguardian.com/politics/live/2023/jun/26/rishi-sunak-nhs-health-keir-starmer-covid-inquiry-uk-politics-live,9,0.09,0.075,0.835,0.9914,Guardian,2023-06-26,20
+1,Toronto elects progressive Olivia Chow as mayor,https://www.bbc.co.uk/news/world-us-canada-66026811,0,0.127,0.055,0.818,0.9873,BBC,2023-06-27,8
+2,Trump heard on tape discussing secret documents,https://www.bbc.co.uk/news/world-us-canada-66027036,1,0.005,0.046,0.949,-0.9012,BBC,2023-06-27,8
+3,Prigozhin's soldiers rage while others cry conspiracy,https://www.bbc.co.uk/news/world-europe-66023631,2,0.11,0.126,0.764,-0.9484,BBC,2023-06-27,8
+4,Kill all the rats - exterminating predators to save birds,https://www.bbc.co.uk/news/world-asia-65039451,3,0.106,0.094,0.8,0.9588,BBC,2023-06-27,8
+5,BBC uncovers drugs trade link to top Syrian officials,https://www.bbc.co.uk/news/world-middle-east-66002450,4,0.059,0.09,0.851,-0.9949,BBC,2023-06-27,8
+6,Trafficked for his kidney and now forced into hiding,https://www.bbc.co.uk/news/65960515,5,0.09,0.098,0.811,-0.8993,BBC,2023-06-27,8
+7,Crime figure shot dead in Sydney shopping area,https://www.bbc.co.uk/news/world-australia-66027190,6,0.042,0.145,0.813,-0.9775,BBC,2023-06-27,8
+8,US 'troubled' by Israeli settlement expansion plans,https://www.bbc.co.uk/news/world-middle-east-66027025,7,0.07,0.152,0.778,-0.9849,BBC,2023-06-27,8
+9,Prosecutors seek death penalty in Idaho murder case,https://www.bbc.co.uk/news/world-us-canada-66026967,8,0.038,0.173,0.788,-0.9968,BBC,2023-06-27,8
+10,Pakistan army sacks officers over Imran Khan protests,https://www.bbc.co.uk/news/world-south-asia-66016331,9,0.06,0.142,0.798,-0.9871,BBC,2023-06-27,8
+1,"Prepare for 'deeply dangerous and unpredictable' Russia if Vladimir Putin is replaced, says security expert who wonders whether the country will 'go full on fascist'
+",https://www.dailymail.co.uk/news/article-12231813/Prepare-deeply-dangerous-unpredictable-Russia-Putin-replaced-says-security-expert.html,0,0.054,0.172,0.775,-0.9997,Daily Mail,2023-06-27,8
+2,"'Turns out Meghan Markle was not a great audio talent, or necessarily any kind of talent': Hollywood talent agency supremo Jeremy Zimmer dismisses Duchess as a talentless broadcaster after Spotify axed its £18m deal with the Sussexes
+",https://www.dailymail.co.uk/news/article-12235127/Hollywood-talent-agency-supremo-Jeremy-Zimmer-dismisses-Meghan-talentless-broadcaster.html,1,0.083,0.054,0.863,0.9233,Daily Mail,2023-06-27,8
+3,"Murderer who raped and killed girl, 11 and her babysitter in 1990 elbows his lawyer in court and then flashes the word 'killer' etched on his teeth - before being sentenced to death by judge 
+",https://www.dailymail.co.uk/news/article-12235673/Convicted-murderer-punches-attorney-court-hours-judge-slated-announce-sentence.html,2,0.08,0.131,0.789,-0.9941,Daily Mail,2023-06-27,8
+4,"'Getting in shape for my debates with President Biden!' Pumped up RFK Jnr, 69, posts clip of him doing NINE bench presses at 'mecca of bodybuilding' Gold's Gym - after CNN's Jake Tapper blasted him for 'wild and false' story about him
+",https://www.dailymail.co.uk/news/article-12232011/Jake-Tapper-slams-RFK-Jr-wild-false-story-working-together.html,3,0.029,0.077,0.894,-0.9894,Daily Mail,2023-06-27,8
+5,"Teen Alexee Trevizo, 19, cheerleads with huge baby bump in videos filmed just three weeks before she dumped her infant son in hospital trash can and told cops - along with her mom - that they didn't know she was pregnant
+",https://www.dailymail.co.uk/news/article-12234519/Alexee-Treviso-baby-bump-cheerlead-three-weeks-trash-can.html,4,0.033,0.105,0.862,-0.9883,Daily Mail,2023-06-27,8
+6,"EXCLUSIVE: Girl, 12, who shot her father before killing herself in botched murder pact with friend after they 'plotted to kill their families and pets then run away together' is pictured for the first time posing with guns alongside her armed dad 
+",https://www.dailymail.co.uk/news/article-12227155/Girl-12-shot-dad-murder-pact-pictured-time.html,5,0.048,0.119,0.833,-0.9959,Daily Mail,2023-06-27,8
+7,"I'm a relationship expert and these are the seven things men 'don't care' about
+",https://www.dailymail.co.uk/femail/relationships/article-12233085/Louanne-Ward-Perth-matchmakers-controversial-list-seven-things-men-dont-care-about.html,6,0.174,0.063,0.764,0.9981,Daily Mail,2023-06-27,8
+8,"Her raunchiest photoshoot yet? Kim Kardashian oils up her bikini body as goes skin-on-skin with buff male models to promote new SKIMS range
+",https://www.dailymail.co.uk/tvshowbiz/article-12235375/Kim-Kardashian-proudly-flaunts-famous-curves-skimpy-faux-leather-bikini-plug-new-SKIMS-range.html,7,0.108,0.018,0.875,0.9955,Daily Mail,2023-06-27,8
+9,"EXCLUSIVE: Former Baywatch bombshell Nicole Eggert, 51, shows off slimmed-down figure while cleaning out her garage in LA - in her first public appearance in 18 months 
+",https://www.dailymail.co.uk/tvshowbiz/article-12227249/Former-Baywatch-bombshell-Nicole-Eggert-51-shows-slimmed-figure-LA.html,8,0.061,0.044,0.895,0.7345,Daily Mail,2023-06-27,8
+10,"Selena Gomez puts on a VERY busty display wearing a low-cut top in new TikTok... after posing up in a sexy swimsuit aboard a boat
+",https://www.dailymail.co.uk/tvshowbiz/article-12231095/Selena-Gomez-puts-busty-display-wearing-low-cut-new-TikTok.html,9,0.12,0.043,0.836,0.9959,Daily Mail,2023-06-27,8
+1,"English cricket is ‘racist, sexist and elitist’, says landmark report",https://www.theguardian.com/sport/2023/jun/27/english-cricket-is-racist-sexist-and-elitist-says-landmark-report,0,0.057,0.093,0.85,-0.993,Guardian,2023-06-27,8
+2,Meghan labeled untalented as fallout from collapse of Spotify deal rumbles on,https://www.theguardian.com/uk-news/2023/jun/26/meghan-markle-untalented-zimmer-spotify-podcast-deal,1,0.055,0.064,0.881,-0.4314,Guardian,2023-06-27,8
+3,Tory hopeful for London mayor accused of groping TV producer Daisy Goodwin,https://www.theguardian.com/politics/2023/jun/27/tory-hopeful-for-london-mayor-accused-of-groping-tv-producer,2,0.071,0.023,0.906,0.9238,Guardian,2023-06-27,8
+4,Trump heard on CNN tape discussing military secrets at golf club,https://www.theguardian.com/us-news/2023/jun/26/donald-trump-classified-documents-recording-pentagon-iran,3,0.05,0.037,0.914,0.7767,Guardian,2023-06-27,8
+5,Dutch widower told to leave UK after Home Office visa mix-up,https://www.theguardian.com/politics/2023/jun/27/dutch-widower-told-to-leave-uk-after-home-office-visa-mix-up,4,0.026,0.139,0.835,-0.9971,Guardian,2023-06-27,8
+6,Russia-Ukraine war live: Jet linked to Prigozhin reportedly lands in Belarus; Zelenskiy claims advances ‘in all directions’,https://www.theguardian.com/world/live/2023/jun/27/russia-ukraine-war-live-putin-confirms-russian-pilots-killed-during-wagner-mutiny-zelenskiy-visits-front,5,0.072,0.127,0.801,-0.9995,Guardian,2023-06-27,8
+7,"The truth about inflammation: all you need to know about 2023’s hottest health topic, from causes to cures",https://www.theguardian.com/lifeandstyle/2023/jun/27/the-truth-about-inflammation-all-you-need-to-know-about-2023s-hottest-health-topic-from-causes-to-cures,6,0.091,0.107,0.802,-0.9933,Guardian,2023-06-27,8
+8,"Facing extinction, Tuvalu considers the digital clone of a country",https://www.theguardian.com/world/2023/jun/27/tuvalu-climate-crisis-rising-sea-levels-pacific-island-nation-country-digital-clone,7,0.105,0.069,0.826,0.9979,Guardian,2023-06-27,8
+9,"Shaken by inflation? Be a Brit and show some grit, says Rishi",https://www.theguardian.com/politics/2023/jun/26/shaken-by-inflation-be-a-brit-and-show-some-grit-says-rishi,8,0.101,0.091,0.808,0.9596,Guardian,2023-06-27,8
+10,Ukraine’s Zelenskiy praises frontline advances ‘in all sectors’ as Putin rails against Kyiv and west,https://www.theguardian.com/world/2023/jun/27/ukraine-president-volodymyr-zelenskiy-praises-frontline-advances-russian-vladimir-putin-rails-against-kyiv-west,9,0.086,0.108,0.806,-0.9808,Guardian,2023-06-27,8
