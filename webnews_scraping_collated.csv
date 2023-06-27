@@ -8959,3 +8959,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Facing extinction, Tuvalu considers the digital clone of a country",https://www.theguardian.com/world/2023/jun/27/tuvalu-climate-crisis-rising-sea-levels-pacific-island-nation-country-digital-clone,7,0.105,0.069,0.826,0.9979,Guardian,2023-06-27,8
 9,"Shaken by inflation? Be a Brit and show some grit, says Rishi",https://www.theguardian.com/politics/2023/jun/26/shaken-by-inflation-be-a-brit-and-show-some-grit-says-rishi,8,0.101,0.091,0.808,0.9596,Guardian,2023-06-27,8
 10,Ukraine’s Zelenskiy praises frontline advances ‘in all sectors’ as Putin rails against Kyiv and west,https://www.theguardian.com/world/2023/jun/27/ukraine-president-volodymyr-zelenskiy-praises-frontline-advances-russian-vladimir-putin-rails-against-kyiv-west,9,0.086,0.108,0.806,-0.9808,Guardian,2023-06-27,8
+1,Russian missiles hit 'crowded' centre of Ukraine city,https://www.bbc.co.uk/news/world-europe-66031342,0,0.063,0.197,0.741,-0.9959,BBC,2023-06-27,20
+2,Sacked teacher vows to defend 20 years of absence,https://www.bbc.co.uk/news/world-europe-66028403,1,0.082,0.096,0.822,-0.7914,BBC,2023-06-27,20
+3,Pompeii archaeologists discover 'pizza' painting,https://www.bbc.co.uk/news/world-europe-66031341,2,0.015,0.019,0.966,-0.1154,BBC,2023-06-27,20
+4,Trump heard on tape discussing secret documents,https://www.bbc.co.uk/news/world-us-canada-66027036,3,0.012,0.086,0.902,-0.9867,BBC,2023-06-27,20
+5,What losses did Russia suffer in the Wagner revolt?,https://www.bbc.co.uk/news/world-europe-66031403,4,0.027,0.118,0.855,-0.9887,BBC,2023-06-27,20
+6,Kyiv likely to have retaken land held since 2014 - UK,https://www.bbc.co.uk/news/world-europe-66029380,5,0.047,0.047,0.905,-0.4318,BBC,2023-06-27,20
+7,Health alert issued over malaria spread in the US,https://www.bbc.co.uk/news/health-66018630,6,0.043,0.146,0.811,-0.9863,BBC,2023-06-27,20
+8,Canada wildfires spark air quality alerts in Chicago,https://www.bbc.co.uk/news/world-us-canada-66036541,7,0.008,0.09,0.902,-0.9655,BBC,2023-06-27,20
+9,Drinks giant ends 'broken' Diddy partnership,https://www.bbc.co.uk/news/business-66036749,8,0.088,0.161,0.752,-0.9911,BBC,2023-06-27,20
+10,"Women have right to go topless, Catalan pools told",https://www.bbc.co.uk/news/world-europe-66029635,9,0.041,0.03,0.929,0.3919,BBC,2023-06-27,20
+1,"Jennifer Lawrence addresses rumors she had AFFAIR with Liam Hemsworth while he was with Miley Cyrus after singer's Flowers video clip sparked fan speculation
+",https://www.dailymail.co.uk/tvshowbiz/article-12237277/Jennifer-Lawrence-addresses-rumors-AFFAIR-Liam-Hemsworth-Miley-Cyrus.html,0,0.095,0.082,0.823,0.956,Daily Mail,2023-06-27,20
+2,"Murderer who raped and killed girl, 11 and her babysitter in 1990 elbows his lawyer in court and then flashes the word 'killer' etched on his teeth - before being sentenced to death by judge 
+",https://www.dailymail.co.uk/news/article-12235673/Convicted-murderer-punches-attorney-court-hours-judge-slated-announce-sentence.html,1,0.08,0.131,0.789,-0.9941,Daily Mail,2023-06-27,20
+3,"My mini-me is now so big! Jennifer Garner's look-alike daughter Violet, 17, towers over her as they lark around on shopping trip in LA
+",https://www.dailymail.co.uk/tvshowbiz/article-12236671/Jennifer-Garner-jokingly-hides-17-year-old-daughter-Violet-head-shopping.html,2,0.085,0.046,0.869,0.9099,Daily Mail,2023-06-27,20
+4,"Cops 'heard NASCAR star Jimmie Johnson's mother-in-law shoot herself dead after she killed her husband and grandson, 11, then dialed 911 to report what she'd done'
+",https://www.dailymail.co.uk/news/article-12239457/NASCAR-star-Jimmy-Johnsons-laws-nephew-11-killed-murder-suicide.html,3,0.1,0.1,0.8,0.6782,Daily Mail,2023-06-27,20
+5,"Justin Bieber goes casual while Hailey Bieber and Kris Jenner look glamorous as they join stars at wedding of Kim Kardashian's ex-assistant Stephanie Shepherd and Larry Jackson
+",https://www.dailymail.co.uk/tvshowbiz/article-12236255/Justin-Bieber-Kris-Jenner-attend-wedding-Kim-Kardashians-ex-assistant-Stephanie-Shepherd.html,4,0.105,0.02,0.875,0.9911,Daily Mail,2023-06-27,20
+6,"Jennifer Lawrence 'didn't have a second thought' about performing nude scene in No Hard Feelings: 'It was hilarious to me'
+",https://www.dailymail.co.uk/tvshowbiz/article-12233405/Jennifer-Lawrence-didnt-second-thought-performing-nude-scene-No-Hard-Feelings.html,5,0.104,0.064,0.832,0.9449,Daily Mail,2023-06-27,20
+7,"AFL champion and Fitzroy legend Matthew Rendell is fighting for life after suffering a heart attack 
+",https://www.dailymail.co.uk/sport/afl/article-12234699/AFL-champion-Matt-Rendell-fighting-life-suffering-heart-attack.html,6,0.054,0.081,0.866,-0.6369,Daily Mail,2023-06-27,20
+8,"EXCLUSIVE: Girl, 12, who shot her father before killing herself in botched murder pact with friend after they 'plotted to kill their families and pets then run away together' is pictured for the first time posing with guns alongside her armed dad 
+",https://www.dailymail.co.uk/news/article-12227155/Girl-12-shot-dad-murder-pact-pictured-time.html,7,0.048,0.119,0.833,-0.9959,Daily Mail,2023-06-27,20
+9,"George Soros-backed prosecutor drops murder charges against mom and son, 14, who she 'ordered' to kill man beating her in Chicago hot dog stand - after video emerged of victim's attack
+",https://www.dailymail.co.uk/news/article-12237045/Murder-charges-against-Chicago-mother-son-14-dropped-video-shows-victim-punching-mom.html,8,0.048,0.174,0.778,-0.9985,Daily Mail,2023-06-27,20
+10,"Her raunchiest photoshoot yet? Kim Kardashian oils up her bikini body as goes skin-on-skin with buff male models to promote new SKIMS range
+",https://www.dailymail.co.uk/tvshowbiz/article-12235375/Kim-Kardashian-proudly-flaunts-famous-curves-skimpy-faux-leather-bikini-plug-new-SKIMS-range.html,9,0.108,0.018,0.875,0.9955,Daily Mail,2023-06-27,20
+1,Rishi Sunak seen using erasable-ink pens on official documents and in meetings,https://www.theguardian.com/politics/2023/jun/27/rishi-sunak-seen-using-erasable-ink-pens-on-official-documents-and-in-meetings,0,0.046,0.088,0.866,-0.9747,Guardian,2023-06-27,20
+2,"Pompeii fresco find possibly depicts 2,000-year-old form of pizza ",https://www.theguardian.com/world/2023/jun/27/pompeii-fresco-find-possibly-depicts-2000-year-old-form-of-pizza,1,0.032,0.05,0.917,-0.9354,Guardian,2023-06-27,20
+3,Morrisons’ boss admits supermarket chains have hiked profits on petrol,https://www.theguardian.com/business/2023/jun/27/morrisons-boss-admits-supermarket-chains-have-hiked-profits-on-petrol,2,0.092,0.05,0.858,0.9856,Guardian,2023-06-27,20
+4,"The Covid tragedy? It was Matt Hancock’s tragedy too, you know",https://www.theguardian.com/politics/2023/jun/27/the-covid-tragedy-it-was-matt-hancocks-tragedy-too-you-know,3,0.119,0.125,0.756,-0.8052,Guardian,2023-06-27,20
+5,"Nicola Bulley died accidentally from drowning, coroner rules",https://www.theguardian.com/uk-news/2023/jun/27/nicola-bulley-died-accidentally-from-drowning-coroner-rules,4,0.066,0.114,0.819,-0.9928,Guardian,2023-06-27,20
+6,Crumb of comfort? Dorset baker wins £15k after being sacked for holey bread,https://www.theguardian.com/uk-news/2023/jun/27/crumb-of-comfort-dorset-baker-wins-15k-after-being-sacked-for-holey-bread,5,0.076,0.104,0.82,-0.9278,Guardian,2023-06-27,20
+7,Harry Kane keen to join Bayern Munich after opening offer of £60m,https://www.theguardian.com/football/2023/jun/27/tottenham-to-reject-bayern-munich-initial-60m-offer-harry-kane,6,0.112,0.094,0.793,0.9466,Guardian,2023-06-27,20
+8,"Links to the KGB? Come on, guys. Lord Lebedev just wants to be a public servant",https://www.theguardian.com/commentisfree/2023/jun/27/kgb-lord-evgeny-lebedev-boris-johnson-politicians,7,0.08,0.046,0.874,0.9838,Guardian,2023-06-27,20
+9,Senior NHS doctors in England vote for two-day strike over pay,https://www.theguardian.com/society/2023/jun/27/senior-doctors-in-england-vote-to-strike-over-pay,8,0.079,0.108,0.813,-0.7351,Guardian,2023-06-27,20
+10,Mobile and broadband firms accused of fuelling UK ‘greedflation’ with major price hikes,https://www.theguardian.com/business/2023/jun/27/mobile-and-broadband-firms-accused-of-fuelling-uk-greedflation-with-major-price-hikes,9,0.053,0.065,0.882,-0.9634,Guardian,2023-06-27,20
