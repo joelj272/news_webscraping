@@ -9119,3 +9119,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,"Russia-Ukraine war live: Ukraine makes advances in south and east, top general says; Putin greets crowds in rare walkabout",https://www.theguardian.com/world/live/2023/jun/29/russia-ukraine-war-live-ukraine-makes-advances-in-south-and-east-top-general-says-putin-greets-crowds-in-rare-walkabout,7,0.084,0.112,0.804,-0.9986,Guardian,2023-06-29,8
 9,France police shooting: 150 arrests as protests widen over teenager’s death,https://www.theguardian.com/world/2023/jun/29/france-police-shooting-second-night-of-unrest-as-protests-over-teenagers-death-spread,8,0.032,0.171,0.797,-0.9993,Guardian,2023-06-29,8
 10,Partygate: Rees-Mogg and Dorries likely to be named in ‘contempts of parliament’ report ,https://www.theguardian.com/politics/2023/jun/28/partygate-rees-mogg-dorries-contempts-parliament-report-boris-johnson,9,0.081,0.057,0.862,0.5725,Guardian,2023-06-29,8
+1,US officer not guilty over Parkland response,https://www.bbc.co.uk/news/world-us-canada-66061166,0,0.114,0.197,0.69,-0.9431,BBC,2023-06-29,20
+2,Supreme Court overturns race-based college admissions,https://www.bbc.co.uk/news/world-us-canada-65886212,1,0.126,0.068,0.806,0.9963,BBC,2023-06-29,20
+3,"Wagner still recruiting despite mutiny, BBC finds",https://www.bbc.co.uk/news/world-europe-66060392,2,0.044,0.084,0.872,-0.9713,BBC,2023-06-29,20
+4,Google to scrap local news in Canada over law,https://www.bbc.co.uk/news/world-us-canada-66049640,3,0.084,0.047,0.869,0.9688,BBC,2023-06-29,20
+5,"Handbag smaller than grain of salt sells for $63,750",https://www.bbc.co.uk/news/world-us-canada-66052679,4,0.043,0.059,0.898,-0.6845,BBC,2023-06-29,20
+6,Aspartame - is it a possible cause of cancer?,https://www.bbc.co.uk/news/health-66057216,5,0.057,0.106,0.837,-0.9922,BBC,2023-06-29,20
+7,Protesters storm Sweden embassy after Quran burning,https://www.bbc.co.uk/news/world-europe-66052670,6,0.091,0.131,0.778,-0.9739,BBC,2023-06-29,20
+8,Satellite images show activity at Belarus base,https://www.bbc.co.uk/news/world-europe-66052061,7,0.047,0.083,0.87,-0.9164,BBC,2023-06-29,20
+9,Madonna discharged from hospital after infection,https://www.bbc.co.uk/news/world-us-canada-66058349,8,0.13,0.064,0.806,0.995,BBC,2023-06-29,20
+10,What Titan sub wreckage can tell us about the tragedy,https://www.bbc.co.uk/news/science-environment-66056706,9,0.041,0.046,0.913,-0.3818,BBC,2023-06-29,20
+1,"Madonna, 64, had to be 'rushed to the ICU and INTUBATED after being found unresponsive': 'Serious bacterial infection' forces star to postpone 40th anniversary tour as her manager reveals she is 'still under medical care'
+",https://www.dailymail.co.uk/tvshowbiz/article-12244287/Madonna-64-POSTPONES-Celebration-tour-developing-bacterial-infection.html,0,0.069,0.099,0.831,-0.9922,Daily Mail,2023-06-29,20
+2," US Coast Guard says 'presumed human remains' have been found in wreckage of Titan sub recovered from 12,500ft  below the Atlantic surface after 'catastrophic implosion' killed Titanic Five
+",https://www.dailymail.co.uk/news/article-12244711/Presumed-human-remains-discovered-wreckage-Titan-sub-officials-say.html,1,0.065,0.087,0.848,-0.9835,Daily Mail,2023-06-29,20
+3,"'We all believed we may lose her': Madonna's family have 'come together' after 64-year-old was rushed to intensive care with bacterial infection and say they worry she 'will put her career and her fame before her health until the day she is dead'
+",https://www.dailymail.co.uk/news/article-12244753/We-believed-lose-Madonnas-familys-fears-rushed-ICU.html,2,0.064,0.092,0.844,-0.992,Daily Mail,2023-06-29,20
+4,"Kourtney Kardashian and Travis Barker's baby name has already been decided... and fans are convinced they know what it is after rocker dropped a huge clue two years ago 
+",https://www.dailymail.co.uk/tvshowbiz/article-12245795/Kourtney-Kardashian-showcases-baby-bump-Travis-Barker-teases-fans-know-name.html,3,0.101,0.011,0.888,0.9914,Daily Mail,2023-06-29,20
+5,"Surprise! Chrissy Teigen and John Legend welcome baby number FOUR: Model, 37, shares snap of son born via surrogate just five months after arrival of daughter Esti and two years after losing baby Jack: 'So happy to tell the world he is here'
+",https://www.dailymail.co.uk/tvshowbiz/article-12243929/Chrissy-Teigen-John-Legend-welcome-baby-number-FOUR.html,4,0.174,0.066,0.76,0.9995,Daily Mail,2023-06-29,20
+6,"EXCLUSIVE: Girl, 12, who shot her father before killing herself in botched murder pact with friend after they 'plotted to kill their families and pets then run away together' is pictured for the first time posing with guns alongside her armed dad 
+",https://www.dailymail.co.uk/news/article-12227155/Girl-12-shot-dad-murder-pact-pictured-time.html,5,0.048,0.119,0.833,-0.9959,Daily Mail,2023-06-29,20
+7,"What happens to human remains at sea? How the decomposition of bodies in water changes
+",https://www.dailymail.co.uk/sciencetech/article-12245923/what-happens-human-remains-sea-long-body-decomposes-water.html,6,0.07,0.087,0.843,-0.9311,Daily Mail,2023-06-29,20
+8,"Nineties sex symbol looks completely unrecognisable today after ditching her Baywatch blonde look for an edgy aesthetic and sleeve tattoos
+",https://www.dailymail.co.uk/tvshowbiz/article-12245165/Can-guess-90s-sex-symbol-Iconic-actress-looks-completely-unrecognisable-selfie.html,7,0.167,0.006,0.826,0.9916,Daily Mail,2023-06-29,20
+9,"EXCLUSIVE - Revealed: Madonna's management held crisis meeting over Zoom amid fears she might not survive bacterial infection - as singer's children Lourdes and Rocco rushed to her bedside in intensive care 
+",https://www.dailymail.co.uk/tvshowbiz/article-12246515/Madonnas-management-held-crisis-meeting-Zoom-fearing-not-survive-bacterial-infection.html,8,0.074,0.09,0.836,-0.9509,Daily Mail,2023-06-29,20
+10,"Munitions company CEO faces $32k fine for cutting down THIRTY-TWO of his New Jersey neighbor's trees 'to improve view of NYC skyline' from his $1.75M mansion
+",https://www.dailymail.co.uk/news/article-12243697/CEO-faces-fine-cutting-THIRTY-TWO-neighbors-trees-improve-view-NYC.html,9,0.06,0.048,0.893,0.8337,Daily Mail,2023-06-29,20
+1,"The Ashes 2023: England v Australia, second Test, day two – as it happened",https://www.theguardian.com/sport/live/2023/jun/29/the-ashes-2023-england-vs-australia-live-updates-second-test-cricket-eng-v-aus-latest-score-day-two-lords,0,0.131,0.068,0.801,0.9998,Guardian,2023-06-29,20
+2,"Boy died in bus collision after friend unlocked e-scooter, inquest told",https://www.theguardian.com/uk-news/2023/jun/29/boy-died-in-birmingham-bus-collision-after-friend-unlocked-e-scooter,1,0.051,0.079,0.869,-0.953,Guardian,2023-06-29,20
+3,"Microscopic ‘Louis Vuitton’ bag sells for more than $60,000",https://www.theguardian.com/fashion/2023/jun/29/microscopic-louis-vuitton-bag-sells-for-more-than-60000,2,0.101,0.008,0.891,0.9937,Guardian,2023-06-29,20
+4,Blonde v bombshell: get set for the Barbie-Oppenheimer smackdown,https://www.theguardian.com/film/2023/jun/29/blonde-v-bombshell-get-set-for-the-barbie-oppenheimer-smackdown,3,0.128,0.04,0.831,0.9993,Guardian,2023-06-29,20
+5,Key Madeleine McCann witness says Met police ignored tipoff for nine years,https://www.theguardian.com/uk-news/2023/jun/29/key-madeleine-mccann-witness-says-met-police-ignored-tipoff-for-nine-years,4,0.04,0.144,0.815,-0.9986,Guardian,2023-06-29,20
+6,Tourist from England suspected to have carved name on Colosseum wall,https://www.theguardian.com/world/2023/jun/29/colosseum-wall-carving-suspect-england-bristol,5,0.072,0.083,0.845,-0.7269,Guardian,2023-06-29,20
+7,Where to start with: Iain Banks,https://www.theguardian.com/books/2023/jun/29/where-to-start-with-iain-banks,6,0.135,0.082,0.783,0.996,Guardian,2023-06-29,20
+8,"Benjamin Mendy claimed he’d had sex with 10,000 women, court hears",https://www.theguardian.com/uk-news/2023/jun/29/benjamin-mendy-claimed-hed-had-sex-with-10000-women-court-hears,7,0.038,0.115,0.847,-0.9936,Guardian,2023-06-29,20
+9,Met police officer guilty of sexually assaulting woman after his stag do,https://www.theguardian.com/uk-news/2023/jun/29/met-police-officer-guilty-of-sexually-assaulting-woman-after-his-stag-do,8,0.065,0.092,0.843,-0.6835,Guardian,2023-06-29,20
+10,Swan on the tracks halts trains on London’s Elizabeth line,https://www.theguardian.com/uk-news/2023/jun/29/swan-on-the-tracks-halts-trains-on-london-elizabeth-line,9,0.0,0.076,0.924,-0.9575,Guardian,2023-06-29,20
