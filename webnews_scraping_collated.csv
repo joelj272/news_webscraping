@@ -9079,3 +9079,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Tory hopeful for London mayor drops out amid groping claims,https://www.theguardian.com/politics/2023/jun/28/tory-hopeful-for-london-mayor-daniel-korski-drops-out-amid-groping-claims,7,0.101,0.077,0.822,0.9785,Guardian,2023-06-28,20
 9,"Terrible ideas, tedious shows, zero talent: Meghan and Harry’s trainwreck podcast career",https://www.theguardian.com/tv-and-radio/2023/jun/28/terrible-ideas-tedious-shows-zero-talent-meghan-and-harrys-trainwreck-podcast-career,8,0.134,0.139,0.727,0.4558,Guardian,2023-06-28,20
 10,"I moved to a well-off area to give my kids a better chance, but now we’re deep in debt",https://www.theguardian.com/commentisfree/2023/jun/28/heat-or-eat-diaries-cost-of-living-children,9,0.168,0.124,0.707,0.9938,Guardian,2023-06-28,20
+1,Presumed human remains found in Titan sub debris,https://www.bbc.co.uk/news/world-us-canada-66049789,0,0.053,0.085,0.862,-0.9597,BBC,2023-06-29,8
+2,Row over Trump's strength exposes Republican dilemma,https://www.bbc.co.uk/news/world-us-canada-65994767,1,0.131,0.101,0.768,0.983,BBC,2023-06-29,8
+3,'Russian spy' to be charged over Kramatorsk strike,https://www.bbc.co.uk/news/world-europe-66045197,2,0.061,0.17,0.769,-0.9965,BBC,2023-06-29,8
+4,He didn't confront a school shooter. Should he be jailed?,https://www.bbc.co.uk/news/world-us-canada-65994768,3,0.069,0.134,0.797,-0.9976,BBC,2023-06-29,8
+5,Madonna postpones tour after intensive care stay,https://www.bbc.co.uk/news/world-us-canada-66049222,4,0.125,0.037,0.838,0.9938,BBC,2023-06-29,8
+6,The tortured Indian labourers who were kept as slaves,https://www.bbc.co.uk/news/world-asia-india-66038795,5,0.069,0.124,0.807,-0.9975,BBC,2023-06-29,8
+7,Canada wildfire season is now the worst on record,https://www.bbc.co.uk/news/world-us-canada-65816466,6,0.045,0.056,0.898,-0.8555,BBC,2023-06-29,8
+8,Biden using sleep apnoea treatment device,https://www.bbc.co.uk/news/world-us-canada-66049570,7,0.038,0.083,0.879,-0.9107,BBC,2023-06-29,8
+9,Fresh unrest in France over police killing of teen,https://www.bbc.co.uk/news/world-europe-66040464,8,0.061,0.181,0.759,-0.9991,BBC,2023-06-29,8
+10,Amtrak passenger train derails after hitting truck,https://www.bbc.co.uk/news/world-us-canada-66050052,9,0.015,0.157,0.827,-0.9815,BBC,2023-06-29,8
+1,"Madonna, 64, had to be 'rushed to the ICU and INTUBATED after being found unresponsive': 'Serious bacterial infection' forces star to postpone 40th anniversary tour as her manager reveals she is 'still under medical care'
+",https://www.dailymail.co.uk/tvshowbiz/article-12244287/Madonna-64-POSTPONES-Celebration-tour-developing-bacterial-infection.html,0,0.069,0.099,0.831,-0.9922,Daily Mail,2023-06-29,8
+2,"Surprise! Chrissy Teigen and John Legend welcome baby number FOUR: Model, 37, shares snap of son born via surrogate just five months after arrival of daughter Esti and two years after losing baby Jack: 'So happy to tell the world he is here'
+",https://www.dailymail.co.uk/tvshowbiz/article-12243929/Chrissy-Teigen-John-Legend-welcome-baby-number-FOUR.html,1,0.174,0.066,0.76,0.9995,Daily Mail,2023-06-29,8
+3," US Coast Guard says 'presumed human remains' have been found in wreckage of Titan sub recovered from 12,500ft  below the Atlantic surface after 'catastrophic implosion' killed Titanic Five
+",https://www.dailymail.co.uk/news/article-12244711/Presumed-human-remains-discovered-wreckage-Titan-sub-officials-say.html,2,0.065,0.087,0.848,-0.9835,Daily Mail,2023-06-29,8
+4,"Debris from doomed Titan sub - including nose with porthole for Titanic Five to view wreck - is brought ashore to Canada 10 days after 'catastrophic implosion' 12,500ft below Atlantic killed them all
+",https://www.dailymail.co.uk/news/article-12243189/Mangled-debris-Titan-sub-hauled-ashore-Canada.html,3,0.045,0.074,0.881,-0.9674,Daily Mail,2023-06-29,8
+5,"EXCLUSIVE: Girl, 12, who shot her father before killing herself in botched murder pact with friend after they 'plotted to kill their families and pets then run away together' is pictured for the first time posing with guns alongside her armed dad 
+",https://www.dailymail.co.uk/news/article-12227155/Girl-12-shot-dad-murder-pact-pictured-time.html,4,0.048,0.119,0.833,-0.9959,Daily Mail,2023-06-29,8
+6,"Children's maths question that seems simple is leaving people stumped - so, can YOU tell the right answer?
+",https://www.dailymail.co.uk/femail/article-12238089/Childrens-maths-question-simple-leaving-people-stumped.html,5,0.032,0.041,0.927,-0.4073,Daily Mail,2023-06-29,8
+7,"Shocking moment 'child rapist' is found with six children in his car and his pants unbuttoned after being pulled over while drunk driving - before saying the kids are 'just my friends'
+",https://www.dailymail.co.uk/news/article-12242713/Moment-child-rapist-six-children-car-pulled-over.html,6,0.022,0.154,0.824,-0.998,Daily Mail,2023-06-29,8
+8,"My mini-me is now so big! Jennifer Garner's look-alike daughter Violet, 17, towers over her as they lark around on shopping trip in LA
+",https://www.dailymail.co.uk/tvshowbiz/article-12236671/Jennifer-Garner-jokingly-hides-17-year-old-daughter-Violet-head-shopping.html,7,0.085,0.046,0.869,0.9099,Daily Mail,2023-06-29,8
+9,"'Unfiltered summer': Lauren Sanchez shows off her figure in a VERY skimpy bikini while offering a glimpse inside Jeff Bezos' $500 MILLION super yacht - as couple continues their weeks-long tour of Europe
+",https://www.dailymail.co.uk/femail/article-12243409/Lauren-Sanchez-shows-figure-offers-glimpse-inside-Jeff-Bezos-500M-super-yacht.html,8,0.083,0.011,0.906,0.9737,Daily Mail,2023-06-29,8
+10,"'We all believed we may lose her': Madonna's family have 'come together' after 64-year-old was rushed to intensive care with bacterial infection and say they worry she 'will put her career and her fame before her health until the day she is dead'
+",https://www.dailymail.co.uk/news/article-12244753/We-believed-lose-Madonnas-familys-fears-rushed-ICU.html,9,0.064,0.091,0.845,-0.9917,Daily Mail,2023-06-29,8
+1,‘Most of our children live in flats’: London park boarded up by developers,https://www.theguardian.com/environment/2023/jun/29/most-children-live-flats-park-boarded-up-developers,0,0.159,0.054,0.786,0.999,Guardian,2023-06-29,8
+2,Rish! drowns in despair as water minister finds herself way out her depth,https://www.theguardian.com/politics/2023/jun/28/rish-drowns-in-despair-as-water-minister-finds-herself-way-out-her-depth,1,0.071,0.122,0.807,-0.9965,Guardian,2023-06-29,8
+3,Digital NHS health check to be launched across England in spring,https://www.theguardian.com/society/2023/jun/28/digital-nhs-health-check-launched-across-england-spring,2,0.088,0.066,0.846,0.7322,Guardian,2023-06-29,8
+4,Rightwingers say ‘pink-haired liberals’ are killing New York pizza. Here’s what’s really happening,https://www.theguardian.com/food/2023/jun/28/rightwingers-say-pink-haired-liberals-are-killing-new-york-pizza-heres-whats-really-happening,3,0.063,0.074,0.863,-0.958,Guardian,2023-06-29,8
+5,"‘I’m not friends with politicians’: Krishnan Guru-Murthy on success, swearing and barefaced lies",https://www.theguardian.com/media/2023/jun/29/im-not-friends-with-politicians-krishnan-guru-murthy-on-success-swearing-and-barefaced-lies,4,0.089,0.087,0.824,-0.7352,Guardian,2023-06-29,8
+6,"Presumed human remains recovered from within Titan wreckage, US Coast Guard says",https://www.theguardian.com/world/2023/jun/28/titan-sub-debris-implosion-wreckage-oceangate,5,0.034,0.056,0.909,-0.9458,Guardian,2023-06-29,8
+7,Russian general who may have known about Wagner mutiny goes missing,https://www.theguardian.com/world/2023/jun/28/russian-general-wagner-mutiny-goes-missing,6,0.09,0.078,0.832,0.9283,Guardian,2023-06-29,8
+8,"Russia-Ukraine war live: Ukraine makes advances in south and east, top general says; Putin greets crowds in rare walkabout",https://www.theguardian.com/world/live/2023/jun/29/russia-ukraine-war-live-ukraine-makes-advances-in-south-and-east-top-general-says-putin-greets-crowds-in-rare-walkabout,7,0.084,0.112,0.804,-0.9986,Guardian,2023-06-29,8
+9,France police shooting: 150 arrests as protests widen over teenager’s death,https://www.theguardian.com/world/2023/jun/29/france-police-shooting-second-night-of-unrest-as-protests-over-teenagers-death-spread,8,0.032,0.171,0.797,-0.9993,Guardian,2023-06-29,8
+10,Partygate: Rees-Mogg and Dorries likely to be named in ‘contempts of parliament’ report ,https://www.theguardian.com/politics/2023/jun/28/partygate-rees-mogg-dorries-contempts-parliament-report-boris-johnson,9,0.081,0.057,0.862,0.5725,Guardian,2023-06-29,8
