@@ -9199,3 +9199,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Key Madeleine McCann witness says Met police ignored tipoff for nine years,https://www.theguardian.com/uk-news/2023/jun/29/key-madeleine-mccann-witness-says-met-police-ignored-tipoff-for-nine-years,7,0.04,0.144,0.815,-0.9986,Guardian,2023-06-30,8
 9,Russia-Ukraine war live: Orbán opposes more EU funds for Ukraine; Wagner still reportedly recruiting inside Russia,https://www.theguardian.com/world/live/2023/jun/30/russia-ukraine-war-live-us-considering-sending-cluster-munitions-to-ukraine-reports,8,0.074,0.096,0.83,-0.9976,Guardian,2023-06-30,8
 10,Government aims to boost NHS with thousands more doctors and nurses,https://www.theguardian.com/society/2023/jun/29/government-aims-to-boost-nhs-with-thousands-more-doctors-and-nurses,9,0.119,0.056,0.826,0.9945,Guardian,2023-06-30,8
+1,"Designer can refuse gay couples, top US court says",https://www.bbc.co.uk/news/world-us-canada-66070534,0,0.15,0.109,0.741,0.9872,BBC,2023-06-30,20
+2,Biden's $430bn student loan plan axed by top court,https://www.bbc.co.uk/news/world-us-canada-65931653,1,0.138,0.086,0.776,0.9955,BBC,2023-06-30,20
+3,Mossad says it abducted hitman from inside Iran,https://www.bbc.co.uk/news/world-middle-east-66022087,2,0.074,0.129,0.797,-0.9936,BBC,2023-06-30,20
+4,Rescuers amputate leg of woman stuck in travelator,https://www.bbc.co.uk/news/world-asia-66062753,3,0.026,0.056,0.918,-0.6959,BBC,2023-06-30,20
+5,Boost for Wagner as Mali shuns UN troops,https://www.bbc.co.uk/news/world-africa-66051450,4,0.103,0.145,0.752,-0.9976,BBC,2023-06-30,20
+6,China's new law tightens Xi's powers against the West,https://www.bbc.co.uk/news/world-asia-china-66050926,5,0.122,0.047,0.83,0.994,BBC,2023-06-30,20
+7,Unusual rise in child type 1 diabetes after Covid,https://www.bbc.co.uk/news/health-66054946,6,0.083,0.042,0.875,0.9647,BBC,2023-06-30,20
+8,Two dead as man opens fire at Moldova airport,https://www.bbc.co.uk/news/world-europe-66070461,7,0.045,0.141,0.814,-0.9883,BBC,2023-06-30,20
+9,Why are French police using guns during traffic stops?,https://www.bbc.co.uk/news/world-europe-66066438,8,0.025,0.125,0.851,-0.9963,BBC,2023-06-30,20
+10,Little Miss Sunshine actor Alan Arkin dies aged 89,https://www.bbc.co.uk/news/entertainment-arts-66063382,9,0.219,0.068,0.713,0.9994,BBC,2023-06-30,20
+1,"Check your iPhone NOW: Apple will permanently delete some people's photos next month - how to check if you're affected
+",https://www.dailymail.co.uk/sciencetech/article-12250069/Check-iPhone-Apple-permanently-delete-photos-month.html,0,0.114,0.04,0.846,0.9976,Daily Mail,2023-06-30,20
+2,"Geraldo Rivera officially QUITS Fox News after 23 years at the network - a week after being booted from The Five due to dust-ups with co-hosts Jesse Watters and Greg Gutfeld 
+",https://www.dailymail.co.uk/news/article-12248635/Geraldo-Rivera-officially-QUITS-Fox-News-23-years-network.html,1,0.085,0.106,0.809,-0.9759,Daily Mail,2023-06-30,20
+3,"Supreme Court STRIKES DOWN Biden's $400 billion student loan forgiveness: Justices rule president does not have authority to cancel debt of millions in another landmark ruling
+",https://www.dailymail.co.uk/news/article-12251033/Supreme-Court-strikes-Bidens-student-loan-forgiveness.html,2,0.121,0.104,0.775,0.9866,Daily Mail,2023-06-30,20
+4,"Kevin Costner's estranged wife Christine Baumgartner flees LA with two of their kids after he accused her of spending $100K in alimony on plastic surgery
+",https://www.dailymail.co.uk/tvshowbiz/article-12249279/Kevin-Costners-ex-Christine-Baumgartner-departs-Southern-California-kids-amid-divorce-battle.html,3,0.093,0.042,0.865,0.9977,Daily Mail,2023-06-30,20
+5,"Bud Light breaks silence in wake of Dylan Mulvaney accusing the company of not supporting her amid 'bullying and transphobia' 
+",https://www.dailymail.co.uk/news/article-12249747/Bud-Light-breaks-silence-wake-Dylan-Mulvaney-accusing-company-not-supporting-her.html,4,0.054,0.134,0.812,-0.9987,Daily Mail,2023-06-30,20
+6,"Kourtney Kardashian and Travis Barker's baby name has already been decided... and fans are convinced they know what it is after rocker dropped a huge clue two years ago 
+",https://www.dailymail.co.uk/tvshowbiz/article-12245795/Kourtney-Kardashian-showcases-baby-bump-Travis-Barker-teases-fans-know-name.html,5,0.101,0.011,0.888,0.9914,Daily Mail,2023-06-30,20
+7,"Bizarre moment Biden, 80, walks off at end of live MSNBC interview where he was asked about the Supreme Court, January 6, Trump and John McCain - but wasn't questioned about son Hunter, bribery claims or his health 
+",https://www.dailymail.co.uk/news/article-12248819/Bizarre-moment-Biden-80-walks-end-live-MSNBC-interview.html,6,0.084,0.045,0.871,0.9901,Daily Mail,2023-06-30,20
+8,"Mom begs for advice on how to tell her 30-year-old daughter that her brother is actually her FATHER 
+",https://www.dailymail.co.uk/femail/article-12248269/Mom-begs-advice-tell-30-year-old-daughter-brother-actually-FATHER.html,7,0.112,0.06,0.828,0.9762,Daily Mail,2023-06-30,20
+9,"'We all believed we may lose her': Madonna's family have 'come together' after 64-year-old was rushed to intensive care with bacterial infection and say they worry she 'will put her career and her fame before her health until the day she is dead'
+",https://www.dailymail.co.uk/news/article-12244753/We-believed-lose-Madonnas-familys-fears-rushed-ICU.html,8,0.064,0.092,0.844,-0.992,Daily Mail,2023-06-30,20
+10,"Alexee Trevizo is all smiles at prom with her teenage boyfriend just three months after dumping their newborn baby son to die in hospital trash can
+",https://www.dailymail.co.uk/news/article-12248363/Alexee-Trevizo-smiles-prom-three-months-dumping-baby-trash.html,9,0.034,0.107,0.859,-0.9946,Daily Mail,2023-06-30,20
+1,Super-rich warned of ‘pitchforks and torches’ unless they tackle inequality,https://www.theguardian.com/news/2023/jun/30/uk-super-rich-beware-pitchforks-torches-unless-they-do-more,0,0.114,0.033,0.853,0.9915,Guardian,2023-06-30,20
+2,The event that will decide the next election has already happened – even if Rishi Sunak doesn’t know it yet,https://www.theguardian.com/commentisfree/2023/jun/30/next-general-election-rishi-sunak-inflation-mortgage-rates-blue-wall,1,0.092,0.11,0.797,-0.9725,Guardian,2023-06-30,20
+3,Sue Gray given six-month waiting period for Keir Starmer job,https://www.theguardian.com/politics/2023/jun/30/sue-gray-given-six-month-waiting-period-for-keir-starmer-job,2,0.092,0.054,0.854,0.9902,Guardian,2023-06-30,20
+4,Biden gives speech addressing US supreme court ruling against student debt relief program – live,https://www.theguardian.com/us-news/live/2023/jun/30/supreme-court-rulings-latest-student-debt-relief-lgbtq-rights-news-biden-trump,3,0.122,0.118,0.76,0.9171,Guardian,2023-06-30,20
+5,The tide is coming in fast on Rishi Sunak – and it’s full of sewage,https://www.theguardian.com/commentisfree/2023/jun/30/rishi-sunak-sewage-prime-minister-thames-water,4,0.078,0.098,0.824,-0.9856,Guardian,2023-06-30,20
+6,"After 44 years, Labour moves to expel me. And my MP and activist friends are asking: who will be next?",https://www.theguardian.com/commentisfree/2023/jun/30/labour-expelling-mp-activist-neal-lawson,5,0.17,0.09,0.74,0.9989,Guardian,2023-06-30,20
+7,"Plans to shorten medical training put quality of NHS care at risk, doctors say",https://www.theguardian.com/politics/2023/jun/30/plans-to-shorten-medical-training-put-quality-of-nhs-care-at-risk-doctors-say,6,0.085,0.122,0.793,-0.9931,Guardian,2023-06-30,20
+8,France riots: Macron tells parents to keep teenagers at home; policing unions criticised over inflammatory language – latest updates,https://www.theguardian.com/world/live/2023/jun/30/france-riots-violence-looting-emmanuel-macron-paris-marseill-nanterre-nahele-lille-latest-updates,7,0.03,0.088,0.881,-0.9956,Guardian,2023-06-30,20
+9,"Alan Arkin, Oscar winning actor in Little Miss Sunshine, dies aged 89",https://www.theguardian.com/film/2023/jun/30/alan-arkin-oscar-winning-actor-little-miss-sunshine-dies-aged-89,8,0.19,0.044,0.766,0.998,Guardian,2023-06-30,20
+10,‘You can only play romantic leads for so long’: Aidan Turner on his deeply troubling tennis drama,https://www.theguardian.com/tv-and-radio/2023/jun/30/you-can-only-play-romantic-leads-for-so-long-aidan-turner-on-his-deeply-troubling-tennis-drama,9,0.165,0.044,0.79,0.9997,Guardian,2023-06-30,20
