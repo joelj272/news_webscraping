@@ -9319,3 +9319,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,World’s oldest national newspaper prints final edition after 320 years,https://www.theguardian.com/media/2023/jul/01/worlds-oldest-newspaper-prints-final-edition-after-320-years,7,0.045,0.07,0.885,-0.918,Guardian,2023-07-01,20
 9,Twitter applies reading limit after users report issues with platform,https://www.theguardian.com/technology/2023/jul/01/twitter-applies-reading-limit-after-users-report-issues-with-platform,8,0.051,0.074,0.875,-0.5106,Guardian,2023-07-01,20
 10,Putin claim that Russia funds Wagner group may make it easier to try him for war crimes ,https://www.theguardian.com/world/2023/jul/01/putin-claim-that-russia-funds-wagner-group-may-make-it-easier-to-try-him-for-war-crimes,9,0.062,0.118,0.82,-0.994,Guardian,2023-07-01,20
+1,Ukraine finds British WW2 planes outside Kyiv,https://www.bbc.co.uk/news/world-europe-65955365,0,0.074,0.101,0.825,-0.9763,BBC,2023-07-02,8
+2,Ukraine war corrosive for Vladimir Putin - CIA boss,https://www.bbc.co.uk/news/world-europe-66076564,1,0.083,0.09,0.827,-0.8804,BBC,2023-07-02,8
+3,Canada Day fireworks cancelled over air quality,https://www.bbc.co.uk/news/world-us-canada-66061193,2,0.084,0.102,0.814,-0.884,BBC,2023-07-02,8
+4,Twitter temporarily restricts tweets users can see,https://www.bbc.co.uk/news/technology-66077195,3,0.061,0.066,0.873,-0.4337,BBC,2023-07-02,8
+5,Shell trading Russian gas despite pledge to stop,https://www.bbc.co.uk/news/business-66021325,4,0.078,0.056,0.865,0.826,BBC,2023-07-02,8
+6,The world's most loyal dog turns 100,https://www.bbc.co.uk/news/world-asia-65259426,5,0.105,0.049,0.846,0.995,BBC,2023-07-02,8
+7,Missing teen emerges after 54 hours in wilderness,https://www.bbc.co.uk/news/world-us-canada-66076558,6,0.154,0.048,0.798,0.9923,BBC,2023-07-02,8
+8,French teen shooting: Piecing together what happened,https://www.bbc.co.uk/news/world-europe-66075798,7,0.024,0.103,0.873,-0.9922,BBC,2023-07-02,8
+9,Dutch King apologises for country's role in slavery,https://www.bbc.co.uk/news/world-europe-66076562,8,0.065,0.092,0.843,-0.967,BBC,2023-07-02,8
+10,"Who was Nahel M, shot by police in Nanterre?",https://www.bbc.co.uk/news/world-europe-66052104,9,0.092,0.129,0.779,-0.9894,BBC,2023-07-02,8
+1,"NYC lawyer shares anguish after financier husband of 20 years left her 'for another woman a week into lockdown at their $4.7m Martha's Vineyard bolt hole and told her he didn't want ANY custody of their kids'
+",https://www.dailymail.co.uk/news/article-12252243/NYC-lawyer-shares-anguish-husband-20-years-left-woman-pandemic.html,0,0.087,0.122,0.791,-0.9897,Daily Mail,2023-07-02,8
+2,"Meghan and Harry 'believe they have been ""repeatedly unlucky"" and blame Covid, economic woes, the death of the Queen and the failing of Prince Philip's health for their faltering attempts to launch post-royal careers'
+",https://www.dailymail.co.uk/news/royals/article-12253755/Meghan-Harry-believe-repeatedly-unlucky-amid-flagging-fortunes.html,1,0.043,0.047,0.91,0.3159,Daily Mail,2023-07-02,8
+3,"Flight attendant reveals the question passengers should ask if they want a free upgrade to first class - and claims it has a 99% success rate  
+",https://www.dailymail.co.uk/travel/article-12234037/Air-hostess-reveals-question-ask-free-class-upgrade-99-success-rate.html,2,0.146,0.021,0.833,0.9973,Daily Mail,2023-07-02,8
+4,"YouTube bodybuilding star Joesthetics dies aged 30 of aneurysm after saying he feared over-training would give him a heart attack due to his rare muscular condition - as heartbroken partner pays tribute 
+",https://www.dailymail.co.uk/news/article-12254227/YouTube-bodybuilding-star-Joesthetics-dies-aged-30-aneurysm.html,3,0.111,0.094,0.795,0.9081,Daily Mail,2023-07-02,8
+5,"Surrogate claims gay dads told her to terminate pregnancy at 24 weeks on finding out she had aggressive cancer and barred her from having baby prematurely or putting it up for adoption because 'they didn't want their DNA out there'
+",https://www.dailymail.co.uk/news/article-12254637/Surrogate-claims-gay-dads-told-terminate-pregnancy-24-weeks-cancer-diagnosis.html,4,0.087,0.117,0.795,-0.9827,Daily Mail,2023-07-02,8
+6,"1000-LB Sisters star Tammy Slaton's estranged husband Caleb Willingham dead at 40, after tying knot with star he met in obesity rehab, then splitting five months later 
+",https://www.dailymail.co.uk/news/article-12254179/1000-LB-Sisters-star-Tammy-Slatons-husband-Caleb-Willingham-dead-40.html,5,0.094,0.096,0.81,0.1035,Daily Mail,2023-07-02,8
+7,"Inside American Airlines' $250,000 lifetime pass: How ticket that granted unlimited first class flights became a DISASTER for airline, after customers including Mark Cuban took thousands of trips and cost company millions
+",https://www.dailymail.co.uk/news/article-12240265/Inside-American-Airlines-250k-lifetime-pass-grants-unlimited-class-travel.html,6,0.075,0.064,0.861,0.9076,Daily Mail,2023-07-02,8
+8,"New Hampshire woman, 68, plans to sue her town after she was arrested when cops smelt alcohol on her breath while she was at HOME watching baseball and claimed her filthy house was hazardous
+",https://www.dailymail.co.uk/news/article-12253103/Woman-plans-sue-town-arrested-home-cops-smelled-alcohol-her.html,7,0.036,0.065,0.9,-0.9001,Daily Mail,2023-07-02,8
+9,"No tan lines for her! Bronzed and beaming Gwyneth Paltrow takes chopper to Hamptons heliport with husband Brad Falchuk after sunbathing topless during Italian vacation
+",https://www.dailymail.co.uk/tvshowbiz/article-12254197/Gwyneth-Paltrow-takes-chopper-Hamptons-husband-Brad-sunbathing-topless-Italy.html,8,0.114,0.047,0.84,0.9815,Daily Mail,2023-07-02,8
+10,"More gloomy news from Biden! White House says it's open to plan that would BLOCK sunlight from hitting surface of the Earth in bid to limit global warming 
+",https://www.dailymail.co.uk/news/article-12254167/More-gloomy-news-Biden-backs-plan-BLOCK-sunlight-Earth-bid-limit-global-warming.html,9,0.08,0.047,0.873,0.9037,Daily Mail,2023-07-02,8
+1,I’ve fallen in love with my best friend. Do I dare tell her?,https://www.theguardian.com/lifeandstyle/2023/jul/02/i-have-fallen-in-love-with-my-best-friend-do-i-dare-tell-her-philippa-perry,0,0.172,0.066,0.762,0.999,Guardian,2023-07-02,8
+2,Sunak U-turn on wind farms in England draws wrath of green Tories,https://www.theguardian.com/environment/2023/jul/02/sunak-u-turn-on-wind-farms-in-england-draws-wrath-of-green-tories,1,0.089,0.11,0.802,-0.981,Guardian,2023-07-02,8
+3,Stanley Tucci says straight actors should be free to play gay roles,https://www.theguardian.com/film/2023/jul/02/stanley-tucci-says-straight-actors-should-be-free-to-play-gay-roles,2,0.11,0.081,0.809,0.9233,Guardian,2023-07-02,8
+4,"Burnt Smokehouse and Rack City Ribs, London: ‘What a burger!’ - restaurant reviews",https://www.theguardian.com/food/2023/jul/02/burnt-smokehouse-and-rack-city-ribs-restaurant-reviews,3,0.102,0.032,0.866,0.9987,Guardian,2023-07-02,8
+5, US ‘mom influencer’ guilty of falsely accusing Latino couple of trying to kidnap her children,https://www.theguardian.com/us-news/2023/jul/02/mom-influencer-false-accusation-latino-couple-kidnap,4,0.053,0.074,0.873,-0.9169,Guardian,2023-07-02,8
+6,France riots: quieter night reported across the country despite close to 500 arrests,https://www.theguardian.com/world/2023/jul/02/france-riots-quieter-night-reported-across-the-country-despite-close-to-500-arrests,5,0.056,0.178,0.765,-0.9985,Guardian,2023-07-02,8
+7,Senior Tories fear mass exodus from parliament as dozens of MPs set to quit,https://www.theguardian.com/politics/2023/jul/01/tories-mass-exodus-parliament-mps-quit-commons,6,0.122,0.05,0.828,0.9955,Guardian,2023-07-02,8
+8,Rip-off Britain: why everything we buy now costs a fortune,https://www.theguardian.com/business/2023/jul/01/rip-off-britain-cost-of-living-crisis-uk-retail-profits,7,0.097,0.067,0.836,0.9963,Guardian,2023-07-02,8
+9,Sunday with Kelly Brook: ‘I sleep like a baby after a serial killer documentary’,https://www.theguardian.com/lifeandstyle/2023/jul/02/sunday-with-model-kelly-brook-i-sleep-like-a-baby-after-a-serial-killer-documentary,8,0.101,0.049,0.85,0.9615,Guardian,2023-07-02,8
+10,‘Desperate and angry’ UK headteachers ready to join strikes in autumn,https://www.theguardian.com/education/2023/jul/02/desperate-and-angry-uk-headteachers-ready-to-join-strikes-in-autumn,9,0.101,0.102,0.797,0.287,Guardian,2023-07-02,8
