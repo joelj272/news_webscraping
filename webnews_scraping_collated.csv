@@ -9359,3 +9359,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Rip-off Britain: why everything we buy now costs a fortune,https://www.theguardian.com/business/2023/jul/01/rip-off-britain-cost-of-living-crisis-uk-retail-profits,7,0.097,0.067,0.836,0.9963,Guardian,2023-07-02,8
 9,Sunday with Kelly Brook: ‘I sleep like a baby after a serial killer documentary’,https://www.theguardian.com/lifeandstyle/2023/jul/02/sunday-with-model-kelly-brook-i-sleep-like-a-baby-after-a-serial-killer-documentary,8,0.101,0.049,0.85,0.9615,Guardian,2023-07-02,8
 10,‘Desperate and angry’ UK headteachers ready to join strikes in autumn,https://www.theguardian.com/education/2023/jul/02/desperate-and-angry-uk-headteachers-ready-to-join-strikes-in-autumn,9,0.101,0.102,0.797,0.287,Guardian,2023-07-02,8
+1,"'We never called for hate,' French teen's family tell BBC",https://www.bbc.co.uk/news/world-europe-66080505,0,0.072,0.221,0.708,-0.9985,BBC,2023-07-02,20
+2,Orkney proposals to become territory of Norway,https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-66066448,1,0.089,0.027,0.883,0.9918,BBC,2023-07-02,20
+3,Shock at violent attack on French mayor's family home,https://www.bbc.co.uk/news/world-europe-66079408,2,0.043,0.248,0.709,-0.9986,BBC,2023-07-02,20
+4,"A week on, Russia reflects on Wagner's sudden mutiny",https://www.bbc.co.uk/news/world-europe-66080682,3,0.054,0.082,0.863,-0.9662,BBC,2023-07-02,20
+5,The world's most loyal dog turns 100,https://www.bbc.co.uk/news/world-asia-65259426,4,0.105,0.049,0.846,0.995,BBC,2023-07-02,20
+6,"Two dead, 28 injured in Baltimore shooting",https://www.bbc.co.uk/news/world-us-canada-66079407,5,0.0,0.184,0.816,-0.936,BBC,2023-07-02,20
+7,Apology after Philippine tourism video uses foreign footage,https://www.bbc.co.uk/news/world-asia-66080502,6,0.071,0.028,0.901,0.7273,BBC,2023-07-02,20
+8,Ukraine finds British WW2 planes outside Kyiv,https://www.bbc.co.uk/news/world-europe-65955365,7,0.074,0.101,0.825,-0.9763,BBC,2023-07-02,20
+9,Canada Day fireworks cancelled over air quality,https://www.bbc.co.uk/news/world-us-canada-66061193,8,0.084,0.102,0.814,-0.884,BBC,2023-07-02,20
+10,"Who was Nahel M, shot by police in Nanterre?",https://www.bbc.co.uk/news/world-europe-66052104,9,0.092,0.129,0.779,-0.9894,BBC,2023-07-02,20
+1,"Surrogate claims gay dads told her to terminate pregnancy at 24 weeks on finding out she had aggressive cancer and barred her from having baby prematurely or putting it up for adoption because 'they didn't want their DNA out there'
+",https://www.dailymail.co.uk/news/article-12254637/Surrogate-claims-gay-dads-told-terminate-pregnancy-24-weeks-cancer-diagnosis.html,0,0.087,0.117,0.795,-0.9827,Daily Mail,2023-07-02,20
+2,"More gloomy news from Biden! White House says it's open to plan that would BLOCK sunlight from hitting surface of the Earth in bid to limit global warming 
+",https://www.dailymail.co.uk/news/article-12254167/More-gloomy-news-Biden-backs-plan-BLOCK-sunlight-Earth-bid-limit-global-warming.html,1,0.08,0.047,0.873,0.9037,Daily Mail,2023-07-02,20
+3,"EXCLUSIVE: Life in the fast lane! How reckless Hunter Biden photographed himself driving at 172mph while behind the wheel of his Porsche en route to a days-long Vegas bender with prostitutes and pictured himself smoking CRACK while behind the wheel
+",https://www.dailymail.co.uk/news/article-12185871/Hunter-Biden-photographed-smoking-crack-DRIVING-speeding-172mph.html,2,0.044,0.068,0.888,-0.9766,Daily Mail,2023-07-02,20
+4,"NYC lawyer shares anguish after financier husband of 20 years left her 'for another woman a week into lockdown at their $4.7m Martha's Vineyard bolt hole and told her he didn't want ANY custody of their kids'
+",https://www.dailymail.co.uk/news/article-12252243/NYC-lawyer-shares-anguish-husband-20-years-left-woman-pandemic.html,3,0.087,0.122,0.791,-0.9897,Daily Mail,2023-07-02,20
+5,"France burns for a fifth night: Special forces deployed as rioters rampage through Paris and Marseille, torching cars hours after hundreds of family and friends attended funeral of boy, 17, 'executed' by police
+",https://www.dailymail.co.uk/news/article-12254627/Clashes-erupt-France-tear-gas-fired-hours-Nahels-family-friends-attended-funeral.html,4,0.056,0.171,0.773,-1.0,Daily Mail,2023-07-02,20
+6,"Eaten by bears, ripped apart by lions, killed by tribesmen and falling foul to a CANNIBAL: The adventure trips that ended in death
+",https://www.dailymail.co.uk/news/article-12243693/Ripped-apart-lions-falling-foul-CANNIBAL-adventure-trips-ended-death.html,5,0.056,0.133,0.811,-0.9998,Daily Mail,2023-07-02,20
+7,"No tan lines for her! Bronzed and beaming Gwyneth Paltrow takes chopper to Hamptons heliport with husband Brad Falchuk after sunbathing topless during Italian vacation
+",https://www.dailymail.co.uk/tvshowbiz/article-12254197/Gwyneth-Paltrow-takes-chopper-Hamptons-husband-Brad-sunbathing-topless-Italy.html,6,0.114,0.047,0.84,0.9815,Daily Mail,2023-07-02,20
+8,"'We will not stop till we find you': Baltimore Mayor vows to catch shooters after woman, 18, and man, 20 were killed and 30 others injured when gunfire broke out at holiday block party 
+",https://www.dailymail.co.uk/news/article-12255785/Mass-shooting-Baltimore-leaves-dozens-wounded-multiple-dead.html,7,0.066,0.117,0.817,-0.9917,Daily Mail,2023-07-02,20
+9,"Beaming Goldie Hawn, 77, and her long-term love Kurt Russell, 72, enjoy a London night out at Chiltern Firehouse
+",https://www.dailymail.co.uk/tvshowbiz/goldie-hawn/article-12255793/Goldie-Hawn-77-long-term-love-Kurt-Russell-72-bump-pal-Chiltern-Firehouse.html,8,0.153,0.009,0.838,0.9978,Daily Mail,2023-07-02,20
+10,"Rolling Stones rocker Mick Jagger, 79, is 'engaged for the THIRD time' to ballet dancer Melanie Hamrick, 36
+",https://www.dailymail.co.uk/tvshowbiz/article-12255139/Rolling-Stones-Mick-Jagger-79-engaged-time-Melanie-Hamrick-36.html,9,0.146,0.003,0.851,0.9959,Daily Mail,2023-07-02,20
+1,‘Boil in the bag’ environmentally friendly funerals arrive in the UK,https://www.theguardian.com/society/2023/jul/02/boil-in-the-bag-environmentally-friendly-funerals-arrive-in-uk-resomation-acquamation,0,0.107,0.053,0.84,0.9906,Guardian,2023-07-02,20
+2,"Steve Baker withdraws support for Braverman over grooming gangs rhetoric, says ally",https://www.theguardian.com/politics/2023/jul/02/steve-baker-withdraws-support-for-suella-braverman-over-grooming-gangs-rhetoric-says-ally,1,0.092,0.124,0.784,-0.9837,Guardian,2023-07-02,20
+3,British peers attended Russian ambassador’s party in London,https://www.theguardian.com/world/2023/jul/02/british-peers-attended-russian-ambassador-party-in-london-balfe-skidelsky,2,0.069,0.071,0.859,-0.4629,Guardian,2023-07-02,20
+4,Ben Stokes and Jonny Bairstow burn with fury and fire to set Lord’s alight ,https://www.theguardian.com/sport/blog/2023/jul/02/ben-stokes-jonny-bairstow-lords-ashes-cricket-england-australia,3,0.06,0.109,0.831,-0.9948,Guardian,2023-07-02,20
+5,Alison Bechdel: ‘The Bechdel test was a joke... I didn’t intend for it to become a real gauge’,https://www.theguardian.com/books/2023/jul/02/alison-bechdel-test-dykes-to-watch-out-for-cartoonist-interview,4,0.115,0.098,0.786,0.934,Guardian,2023-07-02,20
+6,‘It was an accident’: the scientists who have turned humid air into renewable power,https://www.theguardian.com/science/2023/jul/02/it-was-an-accident-the-scientists-who-have-turned-humid-air-into-renewable-power,5,0.135,0.032,0.833,0.9992,Guardian,2023-07-02,20
+7,"Iggy Pop review – age-defying force of nature still spitting, shirtless and sounding fantastic",https://www.theguardian.com/music/2023/jul/02/iggy-pop-review-age-defying-force-of-nature-still-spitting-shirtless-and-sounding-fantastic,6,0.116,0.064,0.82,0.9833,Guardian,2023-07-02,20
+8,Australia beat England in second Test and take 2-0 lead despite Stokes heroics ,https://www.theguardian.com/sport/2023/jul/02/england-australia-cricket-ashes-second-test-day-five-report-ben-stokes,7,0.072,0.059,0.869,0.8921,Guardian,2023-07-02,20
+9,Should I worry about running damaging my knees? ,https://www.theguardian.com/lifeandstyle/2023/jul/02/should-i-worry-about-running-knees-arthritis,8,0.102,0.081,0.817,0.9571,Guardian,2023-07-02,20
+10,"Labour could investigate any claim of Jess Phillips ‘racism’, suggests shadow minister",https://www.theguardian.com/politics/2023/jul/02/labour-jess-phillips-katharine-birbalsingh-complaint-allegation,9,0.073,0.128,0.798,-0.9933,Guardian,2023-07-02,20
