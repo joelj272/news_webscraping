@@ -9399,3 +9399,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Australia beat England in second Test and take 2-0 lead despite Stokes heroics ,https://www.theguardian.com/sport/2023/jul/02/england-australia-cricket-ashes-second-test-day-five-report-ben-stokes,7,0.072,0.059,0.869,0.8921,Guardian,2023-07-02,20
 9,Should I worry about running damaging my knees? ,https://www.theguardian.com/lifeandstyle/2023/jul/02/should-i-worry-about-running-knees-arthritis,8,0.102,0.081,0.817,0.9571,Guardian,2023-07-02,20
 10,"Labour could investigate any claim of Jess Phillips ‘racism’, suggests shadow minister",https://www.theguardian.com/politics/2023/jul/02/labour-jess-phillips-katharine-birbalsingh-complaint-allegation,9,0.073,0.128,0.798,-0.9933,Guardian,2023-07-02,20
+1,Mystery of Holocaust escape girls finally solved,https://www.bbc.co.uk/news/uk-england-tyne-66040197,0,0.093,0.048,0.859,0.9956,BBC,2023-07-03,8
+2,Israeli strikes on Palestinian West Bank camp,https://www.bbc.co.uk/news/world-middle-east-66083295,1,0.017,0.164,0.818,-0.9939,BBC,2023-07-03,8
+3,The lethal minefields holding up Ukraine’s counter-offensive,https://www.bbc.co.uk/news/world-europe-66080652,2,0.072,0.14,0.787,-0.9975,BBC,2023-07-03,8
+4,"Go home, France tells rioters",https://www.bbc.co.uk/news/world-europe-66083281,3,0.079,0.164,0.758,-0.9984,BBC,2023-07-03,8
+5,Ukrainian writer dies after Kramatorsk strike,https://www.bbc.co.uk/news/world-europe-66083275,4,0.081,0.223,0.696,-0.9969,BBC,2023-07-03,8
+6,"Two dead, 28 injured in Baltimore shooting",https://www.bbc.co.uk/news/world-us-canada-66079407,5,0.027,0.148,0.825,-0.9907,BBC,2023-07-03,8
+7,'Abused' Thai elephant flown home from Sri Lanka,https://www.bbc.co.uk/news/world-asia-66083487,6,0.028,0.11,0.863,-0.9886,BBC,2023-07-03,8
+8,New Zealand bans plastic bags for fresh produce,https://www.bbc.co.uk/news/business-66083337,7,0.077,0.047,0.876,0.8952,BBC,2023-07-03,8
+9,Blind painter's forgotten scroll found after 100 years,https://www.bbc.co.uk/news/world-asia-india-65982052,8,0.046,0.031,0.923,0.9191,BBC,2023-07-03,8
+10,Blackpink make history with K-pop festival set,https://www.bbc.co.uk/news/entertainment-arts-66083253,9,0.151,0.032,0.817,0.9994,BBC,2023-07-03,8
+1,"EXCLUSIVE: Life in the fast lane! How reckless Hunter Biden photographed himself driving at 172mph while behind the wheel of his Porsche en route to a days-long Vegas bender with prostitutes and pictured himself smoking CRACK while behind the wheel
+",https://www.dailymail.co.uk/news/article-12185871/Hunter-Biden-photographed-smoking-crack-DRIVING-speeding-172mph.html,0,0.044,0.068,0.888,-0.9766,Daily Mail,2023-07-03,8
+2,"Prince Harry and Meghan Markle hold hands and share a laugh and joke together in Santa Barbara as they are spotted for first time since it emerged they have handed over keys to Frogmore Cottage
+",https://www.dailymail.co.uk/news/article-12256397/Prince-Harry-Meghan-Markle-hold-hands-share-laugh-joke-Santa-Barbara.html,1,0.091,0.056,0.853,0.9601,Daily Mail,2023-07-03,8
+3,"Inside the final hours of the Titan Five: Crew made descent on sub shrouded in total darkness to save battery - as victims' wife and mother reveals OceanGate boss flew to London to reassure them trip WAS safe
+",https://www.dailymail.co.uk/news/article-12256961/Passengers-Titan-sub-likely-spent-final-moments-darkness-looking-bioluminescent-creatures.html,2,0.076,0.054,0.87,0.9843,Daily Mail,2023-07-03,8
+4,"Eaten by bears, ripped apart by lions, killed by tribesmen and falling foul to a CANNIBAL: The adventure trips that ended in death
+",https://www.dailymail.co.uk/news/article-12243693/Ripped-apart-lions-falling-foul-CANNIBAL-adventure-trips-ended-death.html,3,0.057,0.133,0.81,-0.9998,Daily Mail,2023-07-03,8
+5,"Beaming Goldie Hawn, 77, and her long-term love Kurt Russell, 72, enjoy a London night out at Chiltern Firehouse
+",https://www.dailymail.co.uk/tvshowbiz/goldie-hawn/article-12255793/Goldie-Hawn-77-long-term-love-Kurt-Russell-72-bump-pal-Chiltern-Firehouse.html,4,0.153,0.009,0.838,0.9978,Daily Mail,2023-07-03,8
+6,"Bride is ridiculed after making own wedding cake 12 hours before the big day: 'It looks like it's for a children's birthday'
+",https://www.dailymail.co.uk/femail/real-life/article-11000555/Bride-makes-wedding-cake-12-hours-big-day.html,5,0.153,0.032,0.815,0.9955,Daily Mail,2023-07-03,8
+7,"More gloomy news from Biden! White House says it's open to plan that would BLOCK sunlight from hitting surface of the Earth in bid to limit global warming 
+",https://www.dailymail.co.uk/news/article-12254167/More-gloomy-news-Biden-backs-plan-BLOCK-sunlight-Earth-bid-limit-global-warming.html,6,0.08,0.047,0.873,0.9037,Daily Mail,2023-07-03,8
+8,"Two dead and 28 hurt - including 14 minors - after gunfire erupts from at least two shooters at Baltimore block party as Mayor vows 'not to stop until we find you' 
+",https://www.dailymail.co.uk/news/article-12255785/Mass-shooting-Baltimore-leaves-dozens-wounded-multiple-dead.html,7,0.075,0.141,0.783,-0.9964,Daily Mail,2023-07-03,8
+9,"Your iPhone has a 'secret menu' that unlocks hidden features - here's how to access it
+",https://www.dailymail.co.uk/sciencetech/article-12247269/Your-iPhone-secret-menu-unlocks-hidden-features-heres-access-it.html,8,0.086,0.053,0.861,0.908,Daily Mail,2023-07-03,8
+10,"EXCLUSIVE: He was America's favorite trouble-making child star in the 1950s who mourned the loss of his TV 'big brother' last year. Now 75, the reclusive actor steps out to run errands in LA. Can you guess who he is?
+",https://www.dailymail.co.uk/news/article-12251999/He-Americas-favorite-child-star-1950s-guess-actor-is.html,9,0.154,0.045,0.801,0.9959,Daily Mail,2023-07-03,8
+1,Seven in 10 people believe charges for NHS care are on the way,https://www.theguardian.com/society/2023/jul/02/seven-in-10-people-believe-charges-for-nhs-care-are-on-the-way,0,0.132,0.097,0.771,0.9961,Guardian,2023-07-03,8
+2,Ellie Simmonds on finding her birth mother: ‘During this journey I cried so much’,https://www.theguardian.com/lifeandstyle/2023/jul/03/ellie-simmonds-paralympic-swimmer-adopted-finding-birth-mother,1,0.136,0.065,0.799,0.9995,Guardian,2023-07-03,8
+3,Orkney could leave UK for Norway as it explores ‘alternative governance’,https://www.theguardian.com/uk-news/2023/jul/02/orkney-could-leave-uk-for-norway-as-it-explores-alternative-governance,2,0.067,0.017,0.916,0.9518,Guardian,2023-07-03,8
+4,Tory donor accused of using bullying legal threats to suppress a report,https://www.theguardian.com/politics/2023/jul/03/tory-donor-accused-of-using-bullying-legal-threats-to-suppress-a-report,3,0.056,0.096,0.848,-0.9792,Guardian,2023-07-03,8
+5,‘Poms’ great Ashes hypocrisy’: Australia reacts to second Test controversy,https://www.theguardian.com/sport/2023/jul/03/poms-great-ashes-hypocrisy-australia-reacts-to-second-test-controversy,4,0.084,0.064,0.852,0.9525,Guardian,2023-07-03,8
+6,Celebrities call on Wimbledon to drop Barclays sponsorship,https://www.theguardian.com/sport/2023/jul/03/celebrities-call-on-wimbledon-drop-barclays-sponsorship-richard-curtis-emma-thompson,5,0.153,0.071,0.777,0.9952,Guardian,2023-07-03,8
+7,"Mother of Cheshire boy, 7, kidnapped by father says Saudi lawyers ‘too scared’ to help",https://www.theguardian.com/uk-news/2023/jul/03/mother-of-cheshire-boy-7-kidnapped-by-father-says-saudi-lawyers-too-scared-to-help,6,0.069,0.062,0.869,0.9363,Guardian,2023-07-03,8
+8,MCC suspends three members after clash with Australian cricket team,https://www.theguardian.com/sport/2023/jul/02/mcc-unreservedly-apologised-to-australia-after-long-room-incident-england-ashes,7,0.083,0.06,0.858,0.9492,Guardian,2023-07-03,8
+9,‘It was an accident’: the scientists who have turned humid air into renewable power,https://www.theguardian.com/science/2023/jul/02/it-was-an-accident-the-scientists-who-have-turned-humid-air-into-renewable-power,8,0.135,0.032,0.833,0.9992,Guardian,2023-07-03,8
+10,"Russia-Ukraine war live: Moscow has removed 700,000 children from Ukraine, says Russian MP",https://www.theguardian.com/world/live/2023/jul/03/russia-ukraine-war-live-moscow-has-removed-700000-children-from-ukraine-says-russian-mp,9,0.056,0.107,0.836,-0.9994,Guardian,2023-07-03,8
