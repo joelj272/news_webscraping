@@ -9439,3 +9439,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,MCC suspends three members after clash with Australian cricket team,https://www.theguardian.com/sport/2023/jul/02/mcc-unreservedly-apologised-to-australia-after-long-room-incident-england-ashes,7,0.083,0.06,0.858,0.9492,Guardian,2023-07-03,8
 9,‘It was an accident’: the scientists who have turned humid air into renewable power,https://www.theguardian.com/science/2023/jul/02/it-was-an-accident-the-scientists-who-have-turned-humid-air-into-renewable-power,8,0.135,0.032,0.833,0.9992,Guardian,2023-07-03,8
 10,"Russia-Ukraine war live: Moscow has removed 700,000 children from Ukraine, says Russian MP",https://www.theguardian.com/world/live/2023/jul/03/russia-ukraine-war-live-moscow-has-removed-700000-children-from-ukraine-says-russian-mp,9,0.056,0.107,0.836,-0.9994,Guardian,2023-07-03,8
+1,Harvard policy 'favouring white students' challenged,https://www.bbc.co.uk/news/world-us-canada-66089626,0,0.137,0.083,0.78,0.9858,BBC,2023-07-03,20
+2,Israeli military launches major operation in Jenin,https://www.bbc.co.uk/news/world-middle-east-66083295,1,0.048,0.189,0.763,-0.9996,BBC,2023-07-03,20
+3,US sees air travel chaos on eve of Independence Day,https://www.bbc.co.uk/news/world-us-canada-66089624,2,0.039,0.094,0.867,-0.9585,BBC,2023-07-03,20
+4,Vietnam bans Barbie movie over South China Sea map,https://www.bbc.co.uk/news/world-asia-66083761,3,0.004,0.047,0.949,-0.8793,BBC,2023-07-03,20
+5,Mystery of Holocaust escape girls finally solved,https://www.bbc.co.uk/news/uk-england-tyne-66040197,4,0.093,0.048,0.859,0.9956,BBC,2023-07-03,20
+6,Last French D-Day fighter dies aged 100,https://www.bbc.co.uk/news/world-europe-66091649,5,0.06,0.111,0.829,-0.96,BBC,2023-07-03,20
+7,Police hunt for suspects after Baltimore shooting,https://www.bbc.co.uk/news/world-us-canada-66079407,6,0.038,0.193,0.769,-0.9988,BBC,2023-07-03,20
+8,France riots ease as mayors hold anti-violence rally,https://www.bbc.co.uk/news/world-europe-66084677,7,0.063,0.178,0.759,-0.9988,BBC,2023-07-03,20
+9,Tesla sees record deliveries after price cuts,https://www.bbc.co.uk/news/business-66083329,8,0.082,0.044,0.874,0.9524,BBC,2023-07-03,20
+10,"Kevin Spacey acted like a 'predator', accuser says",https://www.bbc.co.uk/news/uk-66084545,9,0.07,0.114,0.817,-0.9875,BBC,2023-07-03,20
+1,"Final pic of son and dad moments before they boarded doomed Titan sub on Father's Day emerges as crew's last moments are revealed: They descended in darkness wearing extra socks and beanies, listening to their favorite music before fatal implosion 
+",https://www.dailymail.co.uk/news/article-12256961/Passengers-Titan-sub-likely-spent-final-moments-darkness-looking-bioluminescent-creatures.html,0,0.08,0.051,0.869,0.9894,Daily Mail,2023-07-03,20
+2,"EXCLUSIVE: Life in the fast lane! How reckless Hunter Biden photographed himself driving at 172mph while behind the wheel of his Porsche en route to a days-long Vegas bender with prostitutes and pictured himself smoking CRACK while behind the wheel
+",https://www.dailymail.co.uk/news/article-12185871/Hunter-Biden-photographed-smoking-crack-DRIVING-speeding-172mph.html,1,0.044,0.068,0.888,-0.9766,Daily Mail,2023-07-03,20
+3,"Prince Harry and Meghan Markle hold hands and share a laugh and joke together in Santa Barbara as they are spotted for first time since it emerged they have handed over keys to Frogmore Cottage
+",https://www.dailymail.co.uk/news/article-12256397/Prince-Harry-Meghan-Markle-hold-hands-share-laugh-joke-Santa-Barbara.html,2,0.091,0.056,0.853,0.9601,Daily Mail,2023-07-03,20
+4,"'He is god's child now': Robert De Niro's actor grandson is found dead in NYC apartment aged 18 - as father and mother post heartbreaking tributes to troubled son
+",https://www.dailymail.co.uk/tvshowbiz/article-12258183/Robert-Niros-grandson-Leandro-dies-aged-20.html,3,0.199,0.039,0.762,0.9997,Daily Mail,2023-07-03,20
+5,"EXCLUSIVE: Sydney Sweeney's wet and wild summer! Euphoria star slips into skimpy black bikini while living it up with pals on luxury cruise in Ibiza
+",https://www.dailymail.co.uk/tvshowbiz/article-12257137/Sydney-Sweeney-slips-skimpy-black-bikini-living-pals-luxury-cruise-Ibiza.html,4,0.139,0.007,0.854,0.9995,Daily Mail,2023-07-03,20
+6,"Brad Pitt the real life Benjamin Button! Hollywood star, 59, looks like he's aging in reverse while filming new campaign in France 
+",https://www.dailymail.co.uk/tvshowbiz/article-12257121/Brad-Pitt-real-life-Benjamin-Button-Hollywood-star-59-films-new-campaign-France.html,5,0.148,0.022,0.83,0.9975,Daily Mail,2023-07-03,20
+7,"EXCLUSIVE: Italian researcher shares extraordinary evidence files of world's 'first' UFO crash - 14 years before Roswell - and the secret department set up by Mussolini's government to study the craft that was later captured by US forces
+",https://www.dailymail.co.uk/news/article-12252381/Italian-researcher-shares-evidence-files-secret-UFO-crash-Italy.html,6,0.037,0.066,0.897,-0.9937,Daily Mail,2023-07-03,20
+8,"'Deeply distressed' Robert De Niro breaks silence over death of his actor grandson, 18, who was found dead in chair in his million-dollar NYC apartment next to a plate of 'white powdery substance'
+",https://www.dailymail.co.uk/tvshowbiz/article-12259071/Robert-Niros-grandson-Leandro-dead-white-powdery-substance-near-body.html,7,0.159,0.046,0.796,0.9996,Daily Mail,2023-07-03,20
+9,"Washington DC on edge as 'explosive devices' and Molotov cocktail explode outside Nike store, Truist ATM and Safeway grocery with suspect on the loose
+",https://www.dailymail.co.uk/news/article-12256669/Bombs-molotov-cocktail-explode-outside-Nike-store-Truist-ATM-Safeway-Washington-DC.html,8,0.063,0.108,0.828,-0.9169,Daily Mail,2023-07-03,20
+10,"Pregnant Rihanna displays her baby bump as she cools down with delicious snow cone delivered straight to her lush villa in Barbados
+",https://www.dailymail.co.uk/tvshowbiz/article-12256429/Pregnant-Rihanna-displays-baby-bump-cools-delicious-snow-cone.html,9,0.165,0.046,0.79,0.9907,Daily Mail,2023-07-03,20
+1,‘My body wasn’t up for the task’: the TV stars who film their scenes alone,https://www.theguardian.com/tv-and-radio/2023/jul/03/the-mandalorian-and-just-like-that-tv-stars-scenes-alone,0,0.105,0.062,0.833,0.9918,Guardian,2023-07-03,20
+2,Tory group warns Sunak he risks losing election if he doesn’t cut net migration,https://www.theguardian.com/uk-news/2023/jul/03/tory-group-warns-sunak-he-risks-losing-election-if-he-doesnt-cut-net-migration,1,0.112,0.101,0.787,0.9333,Guardian,2023-07-03,20
+3,Two Irish teenagers die hours apart on Greek island of Ios,https://www.theguardian.com/world/2023/jul/03/two-irish-teenagers-die-hours-apart-on-greek-island-of-ios,2,0.082,0.094,0.824,-0.8312,Guardian,2023-07-03,20
+4,"After 13 years in power, who exactly do Tory MPs think ‘the establishment’ is?",https://www.theguardian.com/politics/2023/jul/03/after-13-years-in-power-who-exactly-do-tory-mps-think-the-establishment-is,3,0.126,0.112,0.762,0.9554,Guardian,2023-07-03,20
+5,Sunak faces transparency questions over jet travel and Tory donations ,https://www.theguardian.com/politics/2023/jul/03/rishi-sunak-faces-transparency-questions-over-jet-travel-and-tory-donations,4,0.066,0.014,0.919,0.9882,Guardian,2023-07-03,20
+6,‘Stay out of the water’: what lurks below California’s zombie lake?,https://www.theguardian.com/us-news/2023/jul/03/california-lake-tulare-storms-flooding,5,0.041,0.066,0.892,-0.9729,Guardian,2023-07-03,20
+7,My wife and I have stopped having sex. Are my fetishes to blame?,https://www.theguardian.com/lifeandstyle/2023/jul/03/my-wife-and-i-have-stopped-having-sex-are-my-fetishes-to-blame,6,0.092,0.106,0.801,-0.7225,Guardian,2023-07-03,20
+8,Unilever named ‘international sponsor of war’ by Ukraine,https://www.theguardian.com/business/2023/jul/03/unilever-named-international-sponsor-of-war-by-ukraine,7,0.062,0.059,0.879,0.5892,Guardian,2023-07-03,20
+9,Astronomers observe time dilation in early universe,https://www.theguardian.com/science/2023/jul/03/astronomers-observe-time-dilation-in-early-universe,8,0.068,0.023,0.91,0.977,Guardian,2023-07-03,20
+10,Ellie Simmonds on finding her birth mother: ‘During this journey I cried so much’,https://www.theguardian.com/lifeandstyle/2023/jul/03/ellie-simmonds-paralympic-swimmer-adopted-finding-birth-mother,9,0.136,0.065,0.799,0.9995,Guardian,2023-07-03,20
