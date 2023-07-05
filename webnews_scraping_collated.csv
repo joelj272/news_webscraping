@@ -9559,3 +9559,43 @@ rank,story,url,index,pos,neg,neu,comp,source,date,hour
 8,Nigel Farage’s Coutts bank account closed due to lack of funds,https://www.theguardian.com/politics/2023/jul/04/nigel-farage-coutts-bank-account-closed-lack-of-funds,7,0.05,0.041,0.909,0.7839,Guardian,2023-07-04,20
 9,"Wimbledon 2023: Evans in action as Murray, Norrie and Sabalenka progress – live",https://www.theguardian.com/sport/live/2023/jul/04/wimbledon-2023-murray-sabalenka-and-alcaraz-in-action-on-day-two-live,8,0.151,0.04,0.809,0.9997,Guardian,2023-07-04,20
 10,Partygate: Met investigating Tory gatherings in December 2020,https://www.theguardian.com/politics/2023/jul/04/partygate-met-police-investigating-allegations-from-2020,9,0.067,0.06,0.873,0.7937,Guardian,2023-07-04,20
+1,World sees hottest day since records began,https://www.bbc.co.uk/news/science-environment-66104822,0,0.075,0.016,0.909,0.9726,BBC,2023-07-05,8
+2,"Westminster culture still 'predatory', say staff",https://www.bbc.co.uk/news/uk-politics-66097839,1,0.044,0.113,0.844,-0.9969,BBC,2023-07-05,8
+3,Anxiety and anger over Fukushima nuclear waste plan,https://www.bbc.co.uk/news/world-asia-66106162,2,0.057,0.131,0.812,-0.9987,BBC,2023-07-05,8
+4,"'For the politicians of France, we are nothing'",https://www.bbc.co.uk/news/world-europe-66104632,3,0.036,0.199,0.765,-0.999,BBC,2023-07-05,8
+5,Cocaine found in White House sparks evacuation,https://www.bbc.co.uk/news/world-us-canada-66104993,4,0.05,0.036,0.913,0.6597,BBC,2023-07-05,8
+6,Indian man arrested for urinating on tribal worker,https://www.bbc.co.uk/news/world-asia-india-66106342,5,0.044,0.127,0.829,-0.9869,BBC,2023-07-05,8
+7,US officials' contact with social media firms limited,https://www.bbc.co.uk/news/technology-66106067,6,0.068,0.083,0.849,-0.4767,BBC,2023-07-05,8
+8,Fiona Phillips reveals she has Alzheimer's at 62,https://www.bbc.co.uk/news/entertainment-arts-66105586,7,0.115,0.048,0.836,0.991,BBC,2023-07-05,8
+9,Armed thugs beat up Russian journalist and lawyer,https://www.bbc.co.uk/news/world-europe-66096607,8,0.045,0.235,0.72,-0.9997,BBC,2023-07-05,8
+10,Taliban order hair and beauty salons to shut,https://www.bbc.co.uk/news/world-asia-66094490,9,0.06,0.073,0.867,-0.7949,BBC,2023-07-05,8
+1,"The highest office! White House guessing game begins after cocaine found in library forced Hazmat evacuation - two days after recovering drug addict Hunter Biden was on the property 
+",https://www.dailymail.co.uk/news/article-12262549/Secret-Service-preliminary-tests-reveal-COCAINE-White-House-Sunday.html,0,0.055,0.075,0.871,-0.9789,Daily Mail,2023-07-05,8
+2,"EXCLUSIVE: Just like mom! Beyonce's daughter Blue Ivy, 11, is the spitting image of her superstar mother, 41, in stylish green dress while singer wows in busty peach number for Jay-Z's mom's wedding
+",https://www.dailymail.co.uk/tvshowbiz/article-12259995/Beyonce-daughter-Blue-Ivy-Carter-don-glamorous-dresses-NYC-wedding-Jay-Zs-mother.html,1,0.187,0.069,0.744,0.9981,Daily Mail,2023-07-05,8
+3,"Hamptons has it large! Sports mogul Michael Rubin hosts INSANE 4th July bash for stars
+",https://www.dailymail.co.uk/tvshowbiz/article-12261145/Jennifer-Lopez-joined-Ben-Affleck-stepdaughter-Violet-star-studded-4th-July-bash.html,2,0.116,0.004,0.88,0.999,Daily Mail,2023-07-05,8
+4,"Alligator kills 69-year-old S. Carolina woman as she walked her dog by Hilton Head Island lagoon: 10ft beast is found guarding her mutilated body near to where fisherman cheated death last week
+",https://www.dailymail.co.uk/news/article-12263911/Alligator-kills-woman-69-South-Carolina-beast-guarding-mutilated-body.html,3,0.079,0.121,0.8,-0.9958,Daily Mail,2023-07-05,8
+5,"EXCLUSIVE: Cross-dressing gunman behind July 4 Philly bloodbath that left five dead is BLM supporter who made chilling Facebook posts about 'black massacres' and 'evil spirits'
+",https://www.dailymail.co.uk/news/article-12264195/PICTURED-Cross-dressing-gunman-July-4-Philly-bloodbath-left-five-dead-BLM-supporter.html,4,0.069,0.147,0.784,-0.9987,Daily Mail,2023-07-05,8
+6,"The morning after the night before! Michael Rubin needs 'a year to recover' from epic Hamptons July 4th white party
+",https://www.dailymail.co.uk/tvshowbiz/article-12263313/Billionaire-Michael-Rubin-shares-new-pics-recovers-epic-Hamptons-July-4th-party.html,5,0.11,0.004,0.886,0.999,Daily Mail,2023-07-05,8
+7,"'This is desperate': Bud Light is mocked over new ad featuring Kansas City Chiefs star Travis Kelce and men GRUNTING in bid to reverse $20b Dylan Mulvaney disaster and appeal to male drinkers
+",https://www.dailymail.co.uk/news/article-12259719/Bud-Light-releases-new-ad-Kansas-City-Chiefs-star-Travis-Kelce-bid-win-male-drinkers.html,6,0.046,0.138,0.817,-0.9968,Daily Mail,2023-07-05,8
+8,"White House cocaine mystery deepens as Secret Service says it was found in the West Wing and NOT the library: Joe and Hunter's July 4 celebrations clouded in controversy as agents try and track down who was responsible for dropping drugs
+",https://www.dailymail.co.uk/news/article-12263959/White-House-cocaine-mystery-deepens-Secret-Service-says-West-Wing-NOT-library.html,7,0.045,0.054,0.901,-0.9477,Daily Mail,2023-07-05,8
+9,"Homeowner posts video of pizza delivery guy complaining about a 25% tip on a $20 order.... so how much would YOU tip? 
+",https://www.dailymail.co.uk/news/article-12263765/Homeowner-posts-video-pizza-delivery-guy-complaining-25-tip-20.html,8,0.032,0.042,0.926,-0.6564,Daily Mail,2023-07-05,8
+10,"'That guy is not real': Astonishing moment distressed woman has meltdown on plane over 'imaginary' passenger and demands to be let off
+",https://www.dailymail.co.uk/news/article-12259629/Astonishing-moment-distressed-woman-meltdown-plane-imaginary-passenger.html,9,0.076,0.082,0.842,-0.2952,Daily Mail,2023-07-05,8
+1,Revealed: UK plans to drop flagship £11.6bn climate pledge,https://www.theguardian.com/environment/2023/jul/04/revealed-uk-plans-to-drop-flagship-climate-pledge-rishi-sunak,0,0.062,0.077,0.862,-0.9523,Guardian,2023-07-05,8
+2,TV presenter Fiona Phillips reveals she has Alzheimer’s at age of 62,https://www.theguardian.com/media/2023/jul/04/tv-presenter-fiona-phillips-reveals-she-has-alzheimers-at-age-of-62,1,0.085,0.036,0.879,0.975,Guardian,2023-07-05,8
+3,The trauma of Cary Grant: how he thrived after a terrible childhood - as told by his daughter,https://www.theguardian.com/film/2023/jul/05/jennifer-grant-on-her-dad-cary-grant,2,0.11,0.062,0.828,0.9987,Guardian,2023-07-05,8
+4,Capt Tom Foundation closes to donations as council orders building demolition,https://www.theguardian.com/uk-news/2023/jul/04/capt-tom-foundation-closes-to-donations-as-council-orders-building-demolition,3,0.065,0.028,0.908,0.9321,Guardian,2023-07-05,8
+5,MPs criticise ‘staggering’ failures at UK Health Security Agency,https://www.theguardian.com/politics/2023/jul/05/mps-criticise-staggering-failures-uk-health-security-agency,4,0.065,0.066,0.87,0.9561,Guardian,2023-07-05,8
+6,‘I dare you’: Adele speaks out against fans throwing objects at musicians,https://www.theguardian.com/music/2023/jul/05/adele-warns-fans-throwing-objects-at-musicians,5,0.045,0.076,0.878,-0.9204,Guardian,2023-07-05,8
+7,Russia-Ukraine war live: Russian governors claim Kursk and Belgorod under cross-border fire,https://www.theguardian.com/world/live/2023/jul/05/russia-ukraine-war-live-counteroffensive-particularly-fruitful-in-recent-days-senior-ukraine-official-says,6,0.06,0.11,0.83,-0.9986,Guardian,2023-07-05,8
+8,‘United front’ of teachers could launch biggest strikes in a decade in England,https://www.theguardian.com/education/2023/jul/05/united-front-teachers-could-biggest-strikes-decade-england,7,0.044,0.132,0.824,-0.9956,Guardian,2023-07-05,8
+9,Tony Blair urges expanded role for private sector as NHS turns 75,https://www.theguardian.com/society/2023/jul/05/tony-blair-urges-expanded-role-for-private-sector-as-nhs-turns-75,8,0.102,0.033,0.866,0.9921,Guardian,2023-07-05,8
+10,"Pathologist finds €500,000 ‘floating gold’ in dead whale in Canary Islands",https://www.theguardian.com/environment/2023/jul/04/las-palmas-pathologist-ambergris-block-dead-sperm-whale,9,0.084,0.118,0.798,-0.9769,Guardian,2023-07-05,8
