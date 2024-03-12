@@ -115,7 +115,7 @@ def joinSentiment(story_data, sentiment_scores, source):
 
 soup = getSoup('https://www.bbc.co.uk/news')
 
-most_read = soup.find('div', {'class', 'nw-c-most-read__items'})\
+most_read = soup.find('div', attrs={'data-component': 'mostRead'})\
     .find_all('li')
 
 top_stories = []
@@ -205,7 +205,8 @@ dailym_data = joinSentiment(top_stories, sent_df, 'Daily Mail')
 
 soup = getSoup('https://www.theguardian.com/uk')
 
-most_read = soup.find_all('div', {'class', 'most-popular__link'})
+most_read = soup.find('div', attrs = {'data-component': 'most-popular'})\
+    .find_all('li')
 
 top_stories = []
 
@@ -216,8 +217,8 @@ for i, story in enumerate(most_read):
     
     top_stories.append([
         i + 1,
-        story.find('span', {'class', 'js-headline-text'}).text, 
-        story.find('a', {'class', 'fc-item__link'})['href']
+        story.find('h4').text, 
+        'https://www.theguardian.com/' + story.find('a')['href']
         ])
 
 
@@ -232,17 +233,21 @@ for link in top_stories['url']:
     
     soup = getSoup(link)
 
-    text_list = soup.find('div', id = 'maincontent').\
-        find_all('p')
-        
-    ## Accomodate for different class in other article types
-    #if text_list == []:
-    #    text_list = soup.find('div', id = 'maincontent').\
-    #        find_all('p', {'class', 'dcr-1bfjmfh'})
+    try:
+        text_list = soup.find('div', id = 'maincontent').\
+            find_all('p')
+            
+        ## Accomodate for different class in other article types
+        #if text_list == []:
+        #    text_list = soup.find('div', id = 'maincontent').\
+        #        find_all('p', {'class', 'dcr-1bfjmfh'})
 
-    # Create list of all paragraph texts from the text_list and then append
-    # this list to list of all texts
-    every_text.append([para.text for para in text_list])
+        # Create list of all paragraph texts from the text_list and then append
+        # this list to list of all texts
+        every_text.append([para.text for para in text_list])
+    
+    except:
+        print('No text present')
 
 
 ## Now run sentiment analysis and join to original dataset
